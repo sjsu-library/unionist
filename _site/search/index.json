@@ -1,0 +1,54 @@
+[
+  {
+    "pid": "obj1",
+    "artist": "Bob Fitch",
+    "location": "Stanford University. Libraries. Department of Special Collections and University Archives",
+    "label": "Elizabeth \"Betita\" Martínez",
+    "_date": "[ca. 1960-1980]",
+    "object_type": "image",
+    "current_location": "Bob Fitch photography archive -- Fitch Comrades, 1966-2013",
+    "collection": "martinez",
+    "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
+    "permalink": "/martinez/obj1",
+    "lunr_id": 0
+  },
+  {
+    "pid": "obj2",
+    "artist": "Bob Fitch",
+    "location": "Stanford University. Libraries. Department of Special Collections and University Archives",
+    "label": "Elizabeth \"Betita\" Martínez",
+    "_date": "[ca. 1960-1980]",
+    "object_type": "image",
+    "current_location": "Bob Fitch photography archive -- Fitch Comrades, 1966-2013",
+    "collection": "martinez",
+    "thumbnail": "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",
+    "permalink": "/martinez/obj2",
+    "lunr_id": 1
+  },
+  {
+    "pid": "obj3",
+    "artist": "Bob Fitch",
+    "location": "Stanford University. Libraries. Department of Special Collections and University Archives",
+    "label": "Elizabeth \"Betita\" Martínez",
+    "_date": "[ca. 1960-1980]",
+    "object_type": "image",
+    "current_location": "Bob Fitch photography archive -- Fitch Comrades, 1966-2013",
+    "collection": "martinez",
+    "thumbnail": "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",
+    "permalink": "/martinez/obj3",
+    "lunr_id": 2
+  },
+  {
+    "pid": "obj4",
+    "artist": "Bob Fitch",
+    "location": "Stanford University. Libraries. Department of Special Collections and University Archives",
+    "label": "Elizabeth \"Betita\" Martínez",
+    "_date": "[ca. 1960-1980]",
+    "object_type": "image",
+    "current_location": "Bob Fitch photography archive -- Fitch Comrades, 1966-2013",
+    "collection": "martinez",
+    "thumbnail": "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
+    "permalink": "/martinez/obj4",
+    "lunr_id": 3
+  }
+]
