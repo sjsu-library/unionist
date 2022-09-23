@@ -4,7 +4,7 @@
 <script>
   $(document).ready(function () {
     var manifestUrl = "{{ include.manifest | absolute_url }}";
-    if (manifestUrl == 'http://0.0.0.0:4000/wax') {
+    if (manifestUrl == "{{ site.url}}"+"{{ site.baseurl }}") {
       {% if page.excerpt.size > 1 %}
         var excerpt = "{{ page.excerpt }}"
         var excerptDiv= $('<div>');
