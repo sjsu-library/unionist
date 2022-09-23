@@ -27,10 +27,24 @@
       {% endfor %}
     {% else %}
       {% for item in collection %}
+      var thumbnailUrl = "{{ item.thumbnail | absolute_url }}";
+      if (thumbnailUrl == 'http://0.0.0.0:4000/wax') {
+        console.log("no thumb");
+
+        {%- capture item_html_no_thumb -%}
+          "<div class='gallery-item {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>{{item.excerpt}}</p></div><div class='overlay'><p class='info'>{{ item.label | escape }} - {{item.location}}</p></div></div></a></div>"
+        {%- endcapture -%}
+        gallery.append({{ item_html_no_thumb | strip_newlines }});
+      }
+      else {
+        console.log("thumb");
+
         {%- capture item_html -%}
           "<div class='gallery-item {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='{{ item.thumbnail | absolute_url }}' alt='{{ item.label | escape }}'/><div class='overlay'><p class='info'>{{ item.label | escape }}</p></div></div></a></div>"
         {%- endcapture -%}
         gallery.append({{ item_html | strip_newlines }});
+      }
+
       {% endfor %}
     {% endif %}
 

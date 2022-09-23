@@ -11,8 +11,13 @@ function excerptedString(str) {
 
 function getThumbnail(item, url) {
   if ('thumbnail' in item) {
+    if (item.thumbnail == '') {
+      return `<div class ='search_excerpt'><p class='excerpt_text'>${item.location}</p></div>&nbsp;&nbsp;&nbsp;`;
+  }
+  else {
     return `<img class='sq-thumb-sm' src='${url}${item.thumbnail}'/>&nbsp;&nbsp;&nbsp;`
   }
+}
   else {
     return '';
   }

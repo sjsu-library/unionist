@@ -50,5 +50,31 @@
     "thumbnail": "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
     "permalink": "/martinez/obj4",
     "lunr_id": 3
+  },
+  {
+    "pid": "obj5",
+    "artist": "Katharine Q. Seelye",
+    "location": "New York Times",
+    "label": "Elizabeth Martínez, Voice of the Chicana Movement, Dies at 95",
+    "_date": "6/29/2021",
+    "object_type": "text",
+    "current_location": "New York Times",
+    "collection": "martinez",
+    "thumbnail": "",
+    "permalink": "/martinez/obj5",
+    "lunr_id": 4
+  },
+  {
+    "pid": "obj6",
+    "artist": "Priscella Vega",
+    "location": "Los Angeles Times",
+    "label": "Elizabeth ‘Betita’ Martínez, prolific author and pioneering Chicana, dies",
+    "_date": "6/29/2021",
+    "object_type": "text",
+    "current_location": "Los Angeles Times",
+    "collection": "martinez",
+    "thumbnail": "",
+    "permalink": "/martinez/obj6",
+    "lunr_id": 5
   }
 ]

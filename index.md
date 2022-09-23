@@ -10,6 +10,7 @@ banner:
 
 This is a site dedicated to the memory of Elizabeth "Betita" Martínez.
 
-### Browse the Collection
+{% include timeline.html %}
 
+### Browse the Collection
 {% include collection_gallery.html collection='martinez' %}

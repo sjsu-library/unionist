@@ -8,6 +8,7 @@ _date: "[ca. 1960-1980]"
 object_type: image
 current_location: Bob Fitch photography archive -- Fitch Comrades, 1966-2013
 source: http://purl.stanford.edu/jw758nr8182
+excerpt: 
 order: '1'
 layout: martinez_item
 collection: martinez

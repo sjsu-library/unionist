@@ -4,6 +4,18 @@
 <script>
   $(document).ready(function () {
     var manifestUrl = "{{ include.manifest | absolute_url }}";
+    if (manifestUrl == 'http://0.0.0.0:4000/wax') {
+      {% if page.excerpt.size > 1 %}
+        var excerpt = "{{ page.excerpt }}"
+        var excerptDiv= $('<div>');
+        $(excerptDiv)
+            .addClass('excerpt')
+            .append(excerpt);
+        $('#osd').append(excerptDiv);
+      {% endif %}
+    }
+    else {
+
     $.getJSON(manifestUrl, function(data) {
       var tileSources = [];
       $.each(data.sequences[0].canvases, function(_k, val) {
@@ -21,5 +33,6 @@
         showReferenceStrip: true,
       });
     });
+  }//end else
   });
 </script>

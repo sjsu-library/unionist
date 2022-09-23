@@ -550,3 +550,13 @@ search box
   width: 80px;
   height: 80px;
 }
+//after here are NS additions
+.excerpt {
+  font-size:1.25rem;
+  margin: 10px;
+}
+
+.gallery_excerpt {
+  width:$thumbnail-width;
+  height: $thumbnail-height;
+}
