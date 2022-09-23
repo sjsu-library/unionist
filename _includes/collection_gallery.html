@@ -28,7 +28,7 @@
     {% else %}
       {% for item in collection %}
       var thumbnailUrl = "{{ item.thumbnail | absolute_url }}";
-      if (thumbnailUrl == 'http://0.0.0.0:4000/wax') {
+      if (thumbnailUrl == "{{ site.url}}"+"{{ site.baseurl }}") {
         console.log("no thumb");
 
         {%- capture item_html_no_thumb -%}
