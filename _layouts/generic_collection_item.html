@@ -7,6 +7,8 @@ layout: default
 {% endcomment %}
 
 <h3 alt="{{ page.label | escape }}" class='item-label'>{{ page.label }}</h3>
+<p class='item-creator'> {{ page.artist }} </p>
+<p class='item-location'> {{ page.location }}, {{ page._date | strip }}</p>
 
 {% if page.image_viewer %}
   {% assign viewer = page.image_viewer %}

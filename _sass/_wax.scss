@@ -48,7 +48,7 @@ header & nav bar
 
 #wax-header {
   background-color: $bg-color;
-  border-bottom: 1px solid $text-color;
+  border-bottom: 1px solid $accent-dark;
   font-family: $heading-font;
   color: $text-color;
   z-index: 100000;
@@ -58,8 +58,9 @@ header & nav bar
   .navbar-brand {
     font-weight: 700;
     color: $accent-light;
-    font-size: 2rem;
+    font-size: 2.5rem;
     white-space: normal;
+    line-height: 2.5rem;
   }
 
   .navbar-brand:hover {
@@ -76,19 +77,22 @@ header & nav bar
       background-color: $bg-color;
     }
     .nav-link {
-      color: $text-color;
+      color: $accent-dark;
     }
     .nav-link:hover {
-      color: $accent-dark;
+      color: $accent-light;
     }
     .nav-link:active {
       background-color: $bg-color;
     }
     .dropdown-menu {
-      background-color: $bg-color;
-      border-color: $neutral;
+      background-color: $neutral;
+      border-color: $accent-dark;
       .dropdown-item:focus {
-        background-color: transparent;
+        color: $accent-light;
+      }
+      .dropdown-item:hover {
+        background-color:$bg-color;
       }
     }
   }
@@ -213,14 +217,19 @@ content section
   .footer-title {
     font-weight: bold;
     font-family: $heading-font;
-    padding-bottom: 1em;
+    padding-bottom: 0;
     margin: 0;
+    font-size: 1rem
+  }
+  .title-big {
+    font-size:1.5rem;
+    line-height: 1.5rem;
   }
   .footer-description {
     font-family: $heading-font;
     margin: 0;
     font-size: .9em;
-    line-height: 1.2;
+    line-height: .9rem;
   }
   .footer-copyright {
     margin: $margin 0 $margin 0;
@@ -229,10 +238,15 @@ content section
   }
   .footer-links {
     font-family: $heading-font;
-    margin: 0;
+    margin: 0 0 $margin 0;
     font-size: .9em;
     line-height: 1.2;
   }
+  .footer-aaacna {
+    line-height: 1rem;
+    margin: $margin 0 $margin 0;
+  }
+
   .footer-logos {
     margin: $margin 0 $margin 0;
     a {
@@ -319,10 +333,11 @@ item pages (iiif + metadata)
     text-align: center;
     height:   $viewer-height;
     max-height: 80vh;
-    background-color: $neutral;
+    background-color: $bg-color;
     width:    100%;
     border:   1px solid $neutral;
     margin:   $more-margin 0 $more-margin 0;
+
 
     a {
       color: inherit !important;
@@ -445,13 +460,16 @@ search box
     flex-wrap: wrap;
     justify-content: flex-start;
 
+
     .gallery-item {
       padding: 0;
       margin: .25rem;
       background-color: #ffffff;
       max-height: $thumbnail-height;
       max-width: $thumbnail-width;
-      border: 1px grey solid;
+      border: 0px grey solid;
+      border-radius: 20px;
+      overflow:hidden;
 
       .gallery-thumb {
         object-position: 50% 20%;
@@ -471,7 +489,7 @@ search box
 
         &:hover {
           .overlay {
-            opacity: .7;
+            opacity: .9;
             cursor: pointer;
             .info {
               opacity: 1;
@@ -482,6 +500,39 @@ search box
               // display: none;
             }
           }
+        }
+        .gallery_excerpt {
+          font-size:1rem;
+          width: 100%;
+          height: auto;
+          padding:10px 20px;
+          border: 2px  $accent-dark solid;
+          border-radius: 20px;
+          background-color: $neutral;
+          text-align: justify;
+          word-spacing: -3px;
+          height: 100%;
+          overflow: hidden;
+
+
+          &::first-letter {
+            color: $neutral;
+            padding: 0 .5rem;
+            margin: 0 .25rem 0 0;
+            border: 0px solid $accent-light;
+            border-radius: 40px;
+            font-family: "Georgia", serif;
+            background-color: $text-color;
+
+            font-size: 5rem;
+            float: left;
+            line-height: 4rem;
+          }
+          p.excerpt_text {
+              line-height: 1.5rem;
+              overflow: hidden;
+              height: 100%;
+            }
         }
 
         .info {
@@ -495,8 +546,155 @@ search box
           -ms-transform: scale(0);
           transform: scale(0);
           font-weight: normal;
-          font-size: .9rem;
-          line-height: 1rem;
+          font-size: 1.25rem;
+          line-height: 1.25rem;
+          overflow: hidden;
+          display: table-cell;
+          padding: .4rem;
+          vertical-align: center;
+
+        }
+
+        // .info {
+        //   text-decoration: none;
+        //   font-family: $heading-font !important;
+        //   color: $bg-color !important;
+        //   background-color: transparent;
+        //   opacity: 0;
+        //   filter: alpha(opacity=0);
+        //   -webkit-transform: scale(0);
+        //   -ms-transform: scale(0);
+        //   transform: scale(0);
+        //   font-weight: normal;
+        //   overflow: hidden;
+        //   display: table-cell;
+        //   vertical-align: middle;
+        //   padding: 0 $margin 0 $margin;
+        // }
+
+        .overlay {
+          width: 100%;
+          position: absolute;
+          overflow: hidden;
+          top: 0;
+          left: 0;
+          background-color: $accent-light;
+          opacity: 0;
+          -webkit-transition:opacity 0.5s ease-in-out;
+          transition: opacity 0.5s ease-in-out;
+          display: table;
+          height: 100%;
+          border-radius: 20px;
+          padding: 10px;
+        }
+      }
+    }
+  }
+}
+
+.grid {
+    margin: $margin auto;
+    min-height: 30vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+
+    .meatball {
+      position: absolute;
+      overflow: hidden;
+      top: 0;
+      right: 20px;
+      font-size: 2rem;
+      line-height: 1.5rem;
+      font-weight: bold;
+
+    }
+    .grid-item {
+
+      &:has(.short) {
+        width: 300px;
+        border: 2px  $accent-dark solid;
+        border-radius: 30px;
+        margin: .25rem;
+        padding: 0;
+        background-color: $neutral;
+
+      }
+
+      &:has(.long) {
+        width: 600px;
+        border: 2px  $accent-dark solid;
+        border-radius: 30px;
+        margin: .25rem;
+        padding: 0;
+        background-color: $neutral;
+
+      }
+
+
+    .gallery-item {
+
+
+
+      .hovereffect {
+        width: 100%;
+        height: 100%;
+        float: left;
+        overflow: hidden;
+        position: relative;
+        text-align: justify;
+        word-spacing: -3px;
+        cursor: default;
+
+        &:hover {
+          .overlay {
+            opacity: .9;
+            cursor: pointer;
+            .info {
+              opacity: 1;
+              filter: alpha(opacity=100);
+              -webkit-transform: scale(1);
+              -ms-transform: scale(1);
+              transform: scale(1);
+              // display: none;
+            }
+          }
+        }
+        .gallery_excerpt {
+          width: 100%;
+          height: auto;
+          padding:10px 20px;
+          margin-top: 20px;
+
+          &::first-letter {
+            color: $neutral;
+            padding: 0 .5rem;
+            margin: 0 .25rem 0 0;
+            border: 0px solid $accent-light;
+            border-radius: 40px;
+            font-family: "Georgia", serif;
+            background-color: $text-color;
+
+            font-size: 4rem;
+            float: left;
+            line-height: 3.5rem;
+          }
+        }
+
+
+        .info {
+          text-decoration: none;
+          font-family: $heading-font !important;
+          color: $bg-color !important;
+          background-color: transparent;
+          opacity: 0;
+          filter: alpha(opacity=0);
+          -webkit-transform: scale(0);
+          -ms-transform: scale(0);
+          transform: scale(0);
+          font-weight: normal;
+          font-size: 1.5rem;
+          line-height: 1.5rem;
           overflow: hidden;
           display: table-cell;
           padding: .4rem;
@@ -531,13 +729,16 @@ search box
           -webkit-transition:opacity 0.5s ease-in-out;
           transition: opacity 0.5s ease-in-out;
           display: table;
-          height: 200px;
+          height: 100%;
+          border-radius: 25px;
+          padding: 20px;
+          text-align: center;
+
         }
       }
-    }
-  }
 }
-
+}
+}
 
 .dataTables_wrapper {
   width: 100% !important;
@@ -551,12 +752,127 @@ search box
   height: 80px;
 }
 //after here are NS additions
+.header-title {
+
+}
+.header-description{
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1rem;
+}
+
+
+#wax-main h3.item-label {
+  margin-bottom: 0px;
+}
+.item-creator {
+  font-size: 1.25rem;
+  margin:0px;
+}
+.item-location {
+  font-size: 1.25rem;
+  margin:0px;
+}
+
+
 .excerpt {
-  font-size:1.25rem;
-  margin: 10px;
+  font-size:2rem;
+  width: 100%;
+  height: 100%;
+  padding:40px 60px;
+  text-align: justify;
+  border: 5px  $accent-dark solid;
+  border-radius: 30px;
+  background-color: $neutral;
+  word-spacing: -3px;
+
+  &::first-letter {
+    color: $neutral;
+    padding: 0 1rem;
+    margin: 0 .5rem 0 0;
+    border: 0px solid $accent-light;
+    border-radius: 80px;
+    font-family: "Georgia", serif;
+    background-color: $text-color;
+
+    font-size: 12rem;
+    float: left;
+    line-height: 9rem;
+  }
 }
 
 .gallery_excerpt {
   width:$thumbnail-width;
   height: $thumbnail-height;
+}
+
+
+
+#wax-main  .feature-cards-container {
+  width: 100%;
+  display: flex;
+
+  .card-link {
+
+    &:hover {
+     .feature-card .card-header{
+
+            border-bottom: 1px solid rgba($accent-light, 1);
+            background-color: rgba($accent-dark, .3);
+          }
+        }
+
+  .feature-card {
+    width: 100%;
+    height: 250px;
+    border: 2px solid rgba($accent-dark,0.5);
+    border-radius:20px;
+    background-color: $neutral;
+    flex: auto;
+    margin: 10px;
+
+    .card-header {
+      transition: 1s;
+      color: $text-color;
+      border-bottom: 1px solid rgba($accent-dark, 0.35);
+      background-color: rgba($accent-dark, 0.1);
+      margin-bottom: .5rem;
+      margin-top:1.25rem;
+
+    }
+
+    .card-text {
+      padding:10px;
+      position: relative;
+
+
+      &::first-letter {
+        color: $neutral;
+        padding: 0 1rem;
+        margin: 0 .5rem 10px 0;
+        border: 0px solid $accent-light;
+        border-radius: 80px;
+        font-family: "Georgia", serif;
+        background-color: $text-color;
+        font-size: 8rem;
+        float: left;
+        line-height: 7rem;
+        position: relative;
+
+      }
+
+    }
+  }
+
+  }
+}
+
+.timeline-embed {
+  background-color: $neutral;
+  padding: 1rem;
+
+  .timeline-inner {
+    width: 90%;
+    margin: auto;
+  }
 }

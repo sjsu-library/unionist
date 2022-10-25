@@ -1,0 +1,128 @@
+<script type="text/javascript" src="{{ 'assets/masonry.pkgd.min.js' | absolute_url }}"></script>
+{% assign collection = site[include.collection] %}
+
+{% if include.only and include.facet_by %}
+  {% assign subset = collection | where: include.facet_by, include.only | sort: 'order' %}
+{% endif %}
+
+<div id='masonry' class='grid'>
+</div>
+
+
+<div id='wax-gallery-{{ include.collection }}-container' class='wax-gallery-container full-width' style='display:none;'>
+  <div class='wax-inline-container'>
+    <div id="{{ include.collection }}-facet-buttons" class="facet-buttons"></div>
+    <div id="wax-gallery-{{ include.collection }}" class="wax-gallery"></div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+  $.fn.shuffleChildren = function() {
+  $.each(this.get(), function(index, el) {
+    var $el = $(el);
+    var $find = $el.children();
+
+    $find.sort(function() {
+      return 0.5 - Math.random();
+    });
+
+    $el.empty();
+    $find.appendTo($el);
+  });
+};
+
+
+  $( document ).ready(function() {
+
+  //build a gallery, which we will hide, to collect items for masonry
+
+    var container = $('#wax-gallery-{{ include.collection }}-container');
+    var gallery = $('#wax-gallery-{{ include.collection }}');
+    var buttonDiv = $('#{{ include.collection }}-facet-buttons');
+    var galleryCount = 0
+
+    {% if subset %}
+      {% for item in subset %}
+        //Not implemented for subsets at this time
+      {% endfor %}
+    {% else %}
+      {% for item in collection %}
+      var thumbnailUrl = "{{ item.thumbnail | absolute_url }}";
+      if (thumbnailUrl == "{{ site.url}}"+"{{ site.baseurl }}") {
+        console.log("no thumb");
+
+        {% assign excerptLength = item.excerpt | size %}
+        console.log({{ excerptLength }})
+        {% assign class = "short" %}
+        {% if excerptLength > 300 %}
+          {% assign class = "long" %}
+        {% endif %}
+        console.log("{{ class }}");
+        galleryCount++;
+        {%- capture item_html_no_thumb -%}
+          "<div class='gallery-item {{ item[include.facet_by] | slugify }}{{ class }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>{{item.excerpt}}</p></div><div class='overlay'><p class='info'><strong>{{ item.label | escape }}</strong> <br/> {{item.artist}} <br/> <em>{{item.location}}</em></p></div></div></a></div>"
+        {%- endcapture -%}
+        gallery.append({{ item_html_no_thumb | strip_newlines }});
+      }
+      else {
+        console.log("thumb");
+        //if there is a thumbnail, the items is not part of this exhibit
+      };
+      {% endfor %}
+    {% endif %}
+    {% if include.facet_by %}
+      {% unless subset %}
+        //facets are also not implemented
+      {% endunless %}
+    {% endif %}
+
+  //$('.meatball').click(function() {
+    //$(this).next().find('.overlay').css('opacity', '.9');
+  //})
+
+
+    //start masonry routine
+    $('#wax-gallery-{{ include.collection }}').shuffleChildren();
+
+
+    for (let i=0; i<galleryCount; i++) {
+      var divHTML='<div id="grid-item-'+i+'" class="grid-item"></div>'
+      $('#masonry').prepend(divHTML);
+    }
+
+    $('#masonry').shuffleChildren();
+
+    var $grid = $('.grid').masonry({
+          // options
+            itemSelector: '.grid-item',
+            columnWidth: 310,
+            transitionDuration: '0.8s',
+            stagger: '0.1s'
+      })
+      ;
+
+
+
+    var i = 0;                          //  set your counter to 0
+
+    function myLoop() {               //  create a loop function
+    setTimeout(function() {          //  call a setTimeout when the loop is called
+      $('#wax-gallery-{{ include.collection }}>div').first().detach().css('opacity','0').prependTo('#grid-item-'+i).animate({opacity:'1'}, 2000);
+      $grid.masonry('layout');
+                                        //  the above is the code that runs in the loop
+      i++;                              //  increment the counter
+      if (i < galleryCount) {           //  if the counter < 10, call the loop function
+        myLoop();                   //  ..  again which will trigger another
+      }                             //  ..  setTimeout()
+    }, 3000 * (.5 + Math.random()/2))
+}
+  myLoop();                       //  start the loop
+
+
+  });
+
+
+
+
+</script>

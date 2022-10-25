@@ -6,18 +6,18 @@ variable declaration
 */
 
 /* branding */
-$logo: url("{{ '/assets/logo.png' | absolute_url }}");
+$logo: url("{{ '/assets/logo-sjsu.png' | absolute_url }}");
 
 /* text */
 
-$body-font:       'Open Sans', 'sans-serif';
-$heading-font:    'Open Sans', 'sans-serif';
+$body-font:       'Verdana', 'Open Sans', 'sans-serif';
+$heading-font:    'Verdana', 'Open Sans', 'sans-serif';
 
 
 /* Image Size */
 
-$thumbnail-height: 140px;
-$thumbnail-width: 140px;
+$thumbnail-height: 220px;
+$thumbnail-width: 220px;
 
 /* colors */
 

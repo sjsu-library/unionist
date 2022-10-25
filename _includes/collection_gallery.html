@@ -32,7 +32,7 @@
         console.log("no thumb");
 
         {%- capture item_html_no_thumb -%}
-          "<div class='gallery-item {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>{{item.excerpt}}</p></div><div class='overlay'><p class='info'>{{ item.label | escape }} - {{item.location}}</p></div></div></a></div>"
+          "<div class='gallery-item {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>{{item.excerpt}}</p></div><div class='overlay'><p class='info'>{{ item.label | escape }} - {{item.artist}}, <em>{{item.location}}</em></p></div></div></a></div>"
         {%- endcapture -%}
         gallery.append({{ item_html_no_thumb | strip_newlines }});
       }

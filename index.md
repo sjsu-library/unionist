@@ -8,9 +8,28 @@ banner:
   height: '500px'
 ---
 
-This is a site dedicated to the memory of Elizabeth "Betita" Martínez.
+<div class="feature-cards-container">
+<a class='card-link' href="http://0.0.0.0:4000/wax/exhibits/c/">
+  <div class="feature-card">
+    <h3 class="card-header">Memorials</h3>
+      <p class="card-text">
+      A collection of tributes, obituaries, and memorials
+      </p>
+    </div>
+    </a>
 
+
+    <a class='card-link' href="http://0.0.0.0:4000/wax/exhibits/c/">
+    <div class="feature-card">
+      <h3 class="card-header">Bibliography</h3>
+        <p class="card-text">
+        Books and articles selected from Betita's prolific writings
+        </p>
+    </div>
+      </a>
+</div>
+<div class='timeline-embed full-width'>
+  <div class='timeline-inner'>
 {% include timeline.html %}
-
-### Browse the Collection
-{% include collection_gallery.html collection='martinez' %}
+  </div>
+</div>

@@ -76,5 +76,31 @@
     "thumbnail": "",
     "permalink": "/martinez/obj6",
     "lunr_id": 5
+  },
+  {
+    "pid": "obj7",
+    "artist": "Angela Davis",
+    "location": "Social Justice",
+    "label": "Before I Knew Elizabeth Martínez",
+    "_date": "2013",
+    "object_type": "text",
+    "current_location": "Social Justice",
+    "collection": "martinez",
+    "thumbnail": "",
+    "permalink": "/martinez/obj7",
+    "lunr_id": 6
+  },
+  {
+    "pid": "obj8",
+    "artist": "Alejandro Alvarez",
+    "location": "Social Justice",
+    "label": "Bridging Borders`",
+    "_date": "2013",
+    "object_type": "text",
+    "current_location": "Social Justice",
+    "collection": "martinez",
+    "thumbnail": "",
+    "permalink": "/martinez/obj8",
+    "lunr_id": 7
   }
 ]

@@ -2,11 +2,16 @@
   <div class='wax-inline-container'>
     <div class='row'>
       <div class='col'>
-        <p class='footer-title'>{{ site.title }}</p>
+        <p class='footer-title title-big'>{{ site.title }}</p>
         <p class='footer-description'>{{ site.description }}</p>
         <p class='footer-copyright'>
-          &copy; {{ site.copyright }}<br>
           Built with <a href='https://github.com/minicomp/wax/'>Minicomp/Wax</a>
+          <br/><br/><br/>
+          <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+            <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+            <br />
+            This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
         </p>
       </div>
       <div class='col'>
@@ -19,6 +24,10 @@
           {% unless forloop.last %} / {% endunless %}
           {% endfor %}
         </p>
+        <hr/>
+        <p class='footer-aaacna'>
+          <a href='https://library.sjsu.edu/africana-asian-american-chicano-native-american-studies-center/africana-asian-american-chicano'>SJSU Africana, Asian American, Chicano, & Native American Studies Center</a>
+          </p>
         <p class='footer-logos'>
           {% for item in site.footer.logos %}
           {% assign link = item.link | default: '#' %}

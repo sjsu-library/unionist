@@ -4,10 +4,10 @@
   <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>
-    Betita Martínez  | Featured Exhibits
+    Betita Martínez  | Bridging Borders`
   </title>
 
-  <link rel='canonical' href='http://0.0.0.0:4000/wax/exhibits/'/>
+  <link rel='canonical' href='http://0.0.0.0:4000/wax/martinez/obj8/'/>
   <link rel='icon' type='image/png' href="http://0.0.0.0:4000/wax/img/logo.png">
   <link rel='stylesheet' href="http://0.0.0.0:4000/wax/assets/styles.css"/>
 
@@ -84,31 +84,153 @@
     <div id='wax-main'>
       <div id='wax-content' class='wax-inline-container'>
         
-  <h2 class='page-title'>Featured Exhibits</h2>
+
+<h3 alt="Bridging Borders`" class='item-label'>Bridging Borders`</h3>
+<p class='item-creator'> Alejandro Alvarez </p>
+<p class='item-location'> Social Justice, 2013</p>
 
 
 
-<ul>
+
+  <div class='item-view'>
+    <span class='pagination-link' id='prevlink'></span>
+    
+      <div id="osd" class="image-viewer"></div>
+<script defer src="http://0.0.0.0:4000/wax/assets/openseadragon/openseadragon.min.js"></script>
+
+<script>
+  $(document).ready(function () {
+    var manifestUrl = "http://0.0.0.0:4000/wax";
+    if (manifestUrl == "http://0.0.0.0:4000"+"/wax") {
+      
+        var excerpt = "From the beginning, I recognized her energy, intelligence, commitemnt, militancy, and feminism, and her workaholic attitude toward everytrhing , for the written word to politcal argument."
+        var excerptDiv= $('<div>');
+        $(excerptDiv)
+            .addClass('excerpt')
+            .append(excerpt);
+        $('#osd').append(excerptDiv);
+      
+    }
+    else {
+
+    $.getJSON(manifestUrl, function(data) {
+      var tileSources = [];
+      $.each(data.sequences[0].canvases, function(_k, val) {
+        tileSources.push({
+          tileSource: val.images[0].resource.service['@id'] + '/info.json',
+          referenceStripThumbnailUrl: val.thumbnail
+        });
+      });
+      OpenSeadragon({
+        id: "osd",
+        preload: true,
+        sequenceMode: true,
+        prefixUrl: "http://0.0.0.0:4000/wax/assets/openseadragon/images/",
+        tileSources: tileSources,
+        showReferenceStrip: true,
+      });
+    });
+  }//end else
+  });
+</script>
+
+    
+    <span class='pagination-link' id='nextlink'></span>
+  </div>
   
-    <li>
-      <a href="http://0.0.0.0:4000/wax/exhibits/a/">
-        Exhibit A: Inline Parallax Image
-      </a>
-    </li>
+
+
+
+  <script type='text/javascript'>
+    $('#prevlink').append(`<a href='http://0.0.0.0:4000/wax/martinez/obj7/' display='none'>&#8249;</a>`);
+    $('#nextlink').append(`<a href='http://0.0.0.0:4000/wax/martinez/obj1/' display='none'>&#8250;</a>`);
+  </script>
+
+
+
+
+
+
+
+
+  <dl class='metadata-block'>
   
-    <li>
-      <a href="http://0.0.0.0:4000/wax/exhibits/b/">
-        Exhibit B: Inline Image References
-      </a>
-    </li>
+    
+
+    
+    
+      
+        <dt>Label</dt>
+        <dd>Bridging Borders`</dd>
+    
   
-    <li>
-      <a href="http://0.0.0.0:4000/wax/exhibits/c/">
-        Exhibit C: Memorials
-      </a>
-    </li>
+    
+
+    
+    
+      
+        <dt>Creator</dt>
+        <dd>Alejandro Alvarez</dd>
+    
   
-</ul>
+    
+
+    
+    
+      
+        <dt>Type</dt>
+        <dd>text</dd>
+    
+  
+    
+
+    
+    
+      
+        <dt>Location</dt>
+        <dd>Social Justice</dd>
+    
+  
+    
+
+    
+    
+      
+        <dt>Current Location</dt>
+        <dd>Social Justice</dd>
+    
+  
+    
+
+    
+    
+      
+        <dt>Date</dt>
+        <dd>2013</dd>
+    
+  
+    
+
+    
+    
+      
+        <dt>Source</dt>
+        <dd><a href="https://www.jstor.org/stable/24361578" target="_blank" rel="noreferrer">
+              www.jstor.org
+            </a></dd>
+    
+  
+    
+
+    
+    
+      
+        <dt>IIIF Manifest</dt>
+        <dd><a href="http://0.0.0.0:4000/wax" target="_blank" rel="noreferrer">http://0.0.0.0:4000/wax</a></dd>
+    
+  
+</dl>
+
 
 
       </div>
