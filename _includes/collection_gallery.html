@@ -21,7 +21,7 @@
     {% if subset %}
       {% for item in subset %}
         {%- capture item_html -%}
-          "<div class='gallery-item {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='{{ item.thumbnail | absolute_url }}'/><div class='overlay'><p class='info'>{{ item.label | escape }}</p></div></div></a></div>"
+          "<div class='gallery-item thumb {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='{{ item.thumbnail | absolute_url }}'/><div class='overlay'><p class='info'>{{ item.label | escape }}</p></div></div></a></div>"
         {%- endcapture -%}
         gallery.append({{ item_html | strip_newlines }});
       {% endfor %}
@@ -32,7 +32,7 @@
         console.log("no thumb");
 
         {%- capture item_html_no_thumb -%}
-          "<div class='gallery-item {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>{{item.excerpt}}</p></div><div class='overlay'><p class='info'>{{ item.label | escape }} - {{item.artist}}, <em>{{item.location}}</em></p></div></div></a></div>"
+          "<div class='gallery-item no-thumb {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>{{item.excerpt}}</p></div><div class='overlay'><p class='info'>{{ item.label | escape }} - {{item.artist}}, <em>{{item.location}}</em></p></div></div></a></div>"
         {%- endcapture -%}
         gallery.append({{ item_html_no_thumb | strip_newlines }});
       }
@@ -40,7 +40,7 @@
         console.log("thumb");
 
         {%- capture item_html -%}
-          "<div class='gallery-item {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='{{ item.thumbnail | absolute_url }}' alt='{{ item.label | escape }}'/><div class='overlay'><p class='info'>{{ item.label | escape }}</p></div></div></a></div>"
+          "<div class='gallery-item thumb {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='{{ item.thumbnail | absolute_url }}' alt='{{ item.label | escape }}'/><div class='overlay'><p class='info'>{{ item.label | escape }}</p></div></div></a></div>"
         {%- endcapture -%}
         gallery.append({{ item_html | strip_newlines }});
       }

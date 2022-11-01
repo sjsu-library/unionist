@@ -94,6 +94,7 @@ search:
           - _date
           - object_type
           - current_location
+          - excerpt
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -105,14 +106,12 @@ search:
 menu:
   - label: 'About'
     link: '/about/'
-  - label: 'Exhibits'
+  - label: 'Explore'
     sub:
-      - label: 'Inline Parallax Image'
-        link: '/exhibits/a/'
-      - label: 'Inline Image References'
-        link: '/exhibits/b/'
       - label: 'Memorials'
-        link: '/exhibits/c/'
+        link: '/explore/memorials/'
+      - label: 'Bibliography'
+        link: '/explore/bibliography/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'

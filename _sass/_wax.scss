@@ -107,7 +107,7 @@ content section
   background-color: $bg-color;
   width: 100vw;
   max-width: 100%;
-  padding-top: $margin;
+  padding-top: 0;
   padding-bottom: 5rem;
 
   h1, h2, h3, h4, h5, h5 {
@@ -134,8 +134,9 @@ content section
   }
 
   h4 {
-    font-size: 1.25rem;
-    text-transform: uppercase;
+    font-size: 1.1rem;
+    margin-top: 0px;
+    letter-spacing: 0.04rem;
   }
 
   h5 {
@@ -164,6 +165,12 @@ content section
 
     .exhibit-meta {
       margin-bottom: $super-margin;
+      background-color:$accent-dark;
+      color: $neutral;
+      padding: 20px 0 10px 0;
+
+      .exhibit-meta-inner {
+
 
       .exhibit-author {
         margin-top: $more-margin;
@@ -180,6 +187,7 @@ content section
         padding: 0;
         font-weight: 400;
       }
+    }
     }
 
     .inline-image-reference {
@@ -460,13 +468,22 @@ search box
     flex-wrap: wrap;
     justify-content: flex-start;
 
+    .thumb {
+      max-width: $thumbnail-width;
+      margin: .25rem;
+    }
+
+    .no-thumb {
+      max-width: $excerpt-width;
+      margin: .5rem;
+    }
 
     .gallery-item {
       padding: 0;
-      margin: .25rem;
+
       background-color: #ffffff;
       max-height: $thumbnail-height;
-      max-width: $thumbnail-width;
+
       border: 0px grey solid;
       border-radius: 20px;
       overflow:hidden;
@@ -642,8 +659,7 @@ search box
         float: left;
         overflow: hidden;
         position: relative;
-        text-align: justify;
-        word-spacing: -3px;
+        text-align: left;
         cursor: default;
 
         &:hover {
@@ -663,8 +679,15 @@ search box
         .gallery_excerpt {
           width: 100%;
           height: auto;
-          padding:10px 20px;
-          margin-top: 20px;
+          padding:20px 20px 10px 20px;
+
+
+          p.excerpt_text {
+            letter-spacing: .05rem;
+            font-size: 1.1rem;
+            line-height: 1.5rem;
+
+
 
           &::first-letter {
             color: $neutral;
@@ -675,9 +698,11 @@ search box
             font-family: "Georgia", serif;
             background-color: $text-color;
 
-            font-size: 4rem;
+            font-size: 5rem;
             float: left;
-            line-height: 3.5rem;
+            line-height: 4.5rem;
+
+          }
           }
         }
 
@@ -811,8 +836,14 @@ search box
 #wax-main  .feature-cards-container {
   width: 100%;
   display: flex;
+  flex-wrap: wrap;
+
 
   .card-link {
+    width: 300px;
+    flex: auto;
+    margin:0 20px;
+
 
     &:hover {
      .feature-card .card-header{
@@ -828,7 +859,6 @@ search box
     border: 2px solid rgba($accent-dark,0.5);
     border-radius:20px;
     background-color: $neutral;
-    flex: auto;
     margin: 10px;
 
     .card-header {
@@ -875,4 +905,8 @@ search box
     width: 90%;
     margin: auto;
   }
+}
+
+.exhibit-after {
+  margin-top: 60px;
 }

@@ -4,10 +4,10 @@
   <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>
-    Betita Martínez  | Elizabeth "Betita" Martínez
+    Betita Martínez  | Featured Exhibits
   </title>
 
-  <link rel='canonical' href='http://0.0.0.0:4000/wax/martinez/obj4/'/>
+  <link rel='canonical' href='http://0.0.0.0:4000/wax/explore/'/>
   <link rel='icon' type='image/png' href="http://0.0.0.0:4000/wax/img/logo.png">
   <link rel='stylesheet' href="http://0.0.0.0:4000/wax/assets/styles.css"/>
 
@@ -17,7 +17,7 @@
 
 
   <body>
-    <time datetime='2022-10-30 05:22'></time>
+    <time datetime='2022-10-30 06:06'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
     <a class='navbar-brand' href="http://0.0.0.0:4000/wax/" title='Home'>
@@ -82,146 +82,25 @@
     <div id='wax-main'>
       <div id='wax-content' class='wax-inline-container'>
         
-
-<h3 alt="Elizabeth &quot;Betita&quot; Martínez" class='item-label'>Elizabeth "Betita" Martínez</h3>
-<p class='item-creator'> Bob Fitch </p>
-<p class='item-location'> Stanford University. Libraries. Department of Special Collections and University Archives, [ca. 1960-1980]</p>
+  <h2 class='page-title'>Featured Exhibits</h2>
 
 
 
-
-  <div class='item-view'>
-    <span class='pagination-link' id='prevlink'></span>
-    
-      <div id="osd" class="image-viewer"></div>
-<script defer src="http://0.0.0.0:4000/wax/assets/openseadragon/openseadragon.min.js"></script>
-
-<script>
-  $(document).ready(function () {
-    var manifestUrl = "http://0.0.0.0:4000/wax/img/derivatives/iiif/obj4/manifest.json";
-    if (manifestUrl == "http://0.0.0.0:4000"+"/wax") {
-      
-    }
-    else {
-
-    $.getJSON(manifestUrl, function(data) {
-      var tileSources = [];
-      $.each(data.sequences[0].canvases, function(_k, val) {
-        tileSources.push({
-          tileSource: val.images[0].resource.service['@id'] + '/info.json',
-          referenceStripThumbnailUrl: val.thumbnail
-        });
-      });
-      OpenSeadragon({
-        id: "osd",
-        preload: true,
-        sequenceMode: true,
-        prefixUrl: "http://0.0.0.0:4000/wax/assets/openseadragon/images/",
-        tileSources: tileSources,
-        showReferenceStrip: true,
-      });
-    });
-  }//end else
-  });
-</script>
-
-    
-    <span class='pagination-link' id='nextlink'></span>
-  </div>
+<ul>
   
-
-
-
-  <script type='text/javascript'>
-    $('#prevlink').append(`<a href='http://0.0.0.0:4000/wax/martinez/obj3/' display='none'>&#8249;</a>`);
-    $('#nextlink').append(`<a href='http://0.0.0.0:4000/wax/martinez/obj5/' display='none'>&#8250;</a>`);
-  </script>
-
-
-
-
-
-
-
-
-  <dl class='metadata-block'>
+    <li>
+      <a href="http://0.0.0.0:4000/wax/explore/bibliography/">
+        Bibliography
+      </a>
+    </li>
   
-    
-
-    
-    
-      
-        <dt>Label</dt>
-        <dd>Elizabeth "Betita" Martínez</dd>
-    
+    <li>
+      <a href="http://0.0.0.0:4000/wax/explore/memorials/">
+        Memorials
+      </a>
+    </li>
   
-    
-
-    
-    
-      
-        <dt>Creator</dt>
-        <dd>Bob Fitch</dd>
-    
-  
-    
-
-    
-    
-      
-        <dt>Type</dt>
-        <dd>image</dd>
-    
-  
-    
-
-    
-    
-      
-        <dt>Location</dt>
-        <dd>Stanford University. Libraries. Department of Special Collections and University Archives</dd>
-    
-  
-    
-
-    
-    
-      
-        <dt>Current Location</dt>
-        <dd>Bob Fitch photography archive -- Fitch Comrades, 1966-2013</dd>
-    
-  
-    
-
-    
-    
-      
-        <dt>Date</dt>
-        <dd>[ca. 1960-1980]</dd>
-    
-  
-    
-
-    
-    
-      
-        <dt>Source</dt>
-        <dd><a href="http://purl.stanford.edu/sq293tr8738" target="_blank" rel="noreferrer">
-              purl.stanford.edu
-            </a></dd>
-    
-  
-    
-
-    
-    
-      
-        <dt>IIIF Manifest</dt>
-        <dd><a href="http://0.0.0.0:4000/wax/img/derivatives/iiif/obj4/manifest.json" target="_blank" rel="noreferrer">http://0.0.0.0:4000/wax/img/derivatives/iiif/obj4/manifest.json</a></dd>
-    
-  
-</dl>
-
+</ul>
 
 
       </div>

@@ -6,6 +6,7 @@ banner:
   pid: obj1
   y: 25%
   height: '500px'
+  label: false
 ---
 
 <div class="feature-cards-container">
