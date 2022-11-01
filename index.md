@@ -10,7 +10,7 @@ banner:
 ---
 
 <div class="feature-cards-container">
-<a class='card-link' href="http://0.0.0.0:4000/wax/exhibits/memorials/">
+<a class='card-link' href="http://0.0.0.0:4000/wax/explore/memorials/">
   <div class="feature-card">
     <h3 class="card-header">Memorials</h3>
       <p class="card-text">
@@ -20,7 +20,7 @@ banner:
     </a>
 
 
-    <a class='card-link' href="http://0.0.0.0:4000/wax/exhibits/bibliography/">
+    <a class='card-link' href="http://0.0.0.0:4000/wax/explore/bibliography/">
     <div class="feature-card">
       <h3 class="card-header">Bibliography</h3>
         <p class="card-text">
