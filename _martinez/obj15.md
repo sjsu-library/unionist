@@ -1,6 +1,6 @@
 ---
 pid: obj15
-artist: Matt Schudel
+creator: Matt Schudel
 location: The Washington Post
 label: Elizabeth Martinez, writer and activist for Chicano and feminist causes, dies
   at 95

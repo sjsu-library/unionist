@@ -240,7 +240,7 @@ content section
     line-height: .9rem;
   }
   .footer-copyright {
-    margin: $margin 0 $margin 0;
+    margin: 1rem 0 $margin 0;
     font-size: .9em;
     line-height: 1.2;
   }
@@ -851,6 +851,7 @@ search box
   width: 100%;
   display: flex;
   flex-wrap: wrap;
+  margin-bottom: $super-margin;
 
 
   .card-link {
@@ -869,7 +870,7 @@ search box
 
   .feature-card {
     width: 100%;
-    height: 250px;
+    height: 200px;
     border: 2px solid rgba($accent-dark,0.5);
     border-radius:20px;
     background-color: $neutral;
@@ -892,15 +893,15 @@ search box
 
       &::first-letter {
         color: $neutral;
-        padding: 0 1rem;
+        padding: 0 .75rem;
         margin: 0 .5rem 10px 0;
         border: 0px solid $accent-light;
         border-radius: 80px;
         font-family: "Georgia", serif;
         background-color: $text-color;
-        font-size: 8rem;
+        font-size: 6rem;
         float: left;
-        line-height: 7rem;
+        line-height: 5rem;
         position: relative;
 
       }

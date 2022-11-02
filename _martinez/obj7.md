@@ -1,6 +1,6 @@
 ---
 pid: obj7
-artist: Angela Davis
+creator: Angela Davis
 location: Social Justice
 label: Before I Knew Elizabeth Martínez
 _date: '2013'

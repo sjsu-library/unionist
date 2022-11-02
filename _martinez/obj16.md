@@ -1,6 +1,6 @@
 ---
 pid: obj16
-artist: Chris Crass
+creator: Chris Crass
 location: Colours of Resistance
 label: 'Towards Social Justice: Elizabeth ‘Betita’ Martinez and the Institute for
   MultiRacial Justice'

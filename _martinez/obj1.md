@@ -1,6 +1,6 @@
 ---
 pid: obj1
-artist: Bob Fitch
+creator: Bob Fitch
 location: Stanford University. Libraries. Department of Special Collections and University
   Archives
 label: Elizabeth "Betita" Martínez

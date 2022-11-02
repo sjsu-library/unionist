@@ -1,6 +1,6 @@
 ---
 pid: obj12
-artist: Tony Platt
+creator: Tony Platt
 location: San Francisco Chronicle
 label: Quoted in "Elizabeth ‘Betita’ Martínez, Chicana historian, activist and trailblazer,
   dies in S.F. at 95"`

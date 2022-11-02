@@ -1,6 +1,6 @@
 ---
 pid: obj10
-artist: Clarissa Rojas
+creator: Clarissa Rojas
 location: UC Davis Library
 label: 'Reading Betita Martínez: a Bibliographic Commemoration of Her Life and Work'
 _date: 5/5/22

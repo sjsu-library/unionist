@@ -1,7 +1,7 @@
 [
   {
     "pid": "obj1",
-    "artist": "Bob Fitch",
+    "creator": "Bob Fitch",
     "location": "Stanford University. Libraries. Department of Special Collections and University Archives",
     "label": "Elizabeth \"Betita\" Martínez",
     "_date": "[ca. 1960-1980]",
@@ -15,7 +15,7 @@
   },
   {
     "pid": "obj10",
-    "artist": "Clarissa Rojas",
+    "creator": "Clarissa Rojas",
     "location": "UC Davis Library",
     "label": "Reading Betita Martínez: a Bibliographic Commemoration of Her Life and Work",
     "_date": "5/5/22",
@@ -29,7 +29,7 @@
   },
   {
     "pid": "obj11",
-    "artist": "Clarissa Rojas",
+    "creator": "Clarissa Rojas",
     "location": "Politico",
     "label": "Elizabeth ‘Betita’ Martínez: A Chicana Icon Who Brought Joy to Protest",
     "_date": "12/27/21",
@@ -43,7 +43,7 @@
   },
   {
     "pid": "obj12",
-    "artist": "Tony Platt",
+    "creator": "Tony Platt",
     "location": "San Francisco Chronicle",
     "label": "Quoted in \"Elizabeth ‘Betita’ Martínez, Chicana historian, activist and trailblazer, dies in S.F. at 95\"`",
     "_date": "7/22/21",
@@ -57,13 +57,13 @@
   },
   {
     "pid": "obj13",
-    "artist": "Favianna Rodriguez",
+    "creator": "Favianna Rodriguez",
     "location": "San Francisco Chronicle",
     "label": "Quoted in \"Elizabeth ‘Betita’ Martínez, Chicana historian, activist and trailblazer, dies in S.F. at 95\"`",
     "_date": "7/22/21",
     "object_type": "text",
     "current_location": "San Francisco Chronicle",
-    "excerpt": "Betita taught my generation to be truth tellers, to really speak about the painful history of what has happened in this country to Latinx people. She was doing multiracial organizing way ahead of her time",
+    "excerpt": "Betita taught my generation to be truth tellers, to really speak about the painful history of what has happened in this country to Latinx people. She was doing multiracial organizing way ahead of her time.",
     "collection": "martinez",
     "thumbnail": "",
     "permalink": "/martinez/obj13",
@@ -71,7 +71,7 @@
   },
   {
     "pid": "obj14",
-    "artist": "Sam Whiting",
+    "creator": "Sam Whiting",
     "location": "San Francisco Chronicle",
     "label": "Elizabeth ‘Betita’ Martínez, Chicana historian, activist and trailblazer, dies in S.F. at 95",
     "_date": "7/22/21",
@@ -85,7 +85,7 @@
   },
   {
     "pid": "obj15",
-    "artist": "Matt Schudel",
+    "creator": "Matt Schudel",
     "location": "The Washington Post",
     "label": "Elizabeth Martinez, writer and activist for Chicano and feminist causes, dies at 95",
     "_date": "7/2/21",
@@ -99,7 +99,7 @@
   },
   {
     "pid": "obj16",
-    "artist": "Chris Crass",
+    "creator": "Chris Crass",
     "location": "Colours of Resistance",
     "label": "Towards Social Justice: Elizabeth ‘Betita’ Martinez and the Institute for MultiRacial Justice",
     "_date": "[ca. 2000-2006]",
@@ -113,7 +113,7 @@
   },
   {
     "pid": "obj17",
-    "artist": "Catalyst Project",
+    "creator": "Catalyst Project",
     "location": "Catalyst Project",
     "label": "Farewell Betita, great builder of bridges",
     "_date": "2021",
@@ -127,7 +127,7 @@
   },
   {
     "pid": "obj18",
-    "artist": "Cindy Wiesner",
+    "creator": "Cindy Wiesner",
     "location": "Convergence",
     "label": "Gracias, Betita, por todo",
     "_date": "7/2/21",
@@ -141,7 +141,7 @@
   },
   {
     "pid": "obj19",
-    "artist": "Amy Sonnie",
+    "creator": "Amy Sonnie",
     "location": "Convergence",
     "label": "#BetitaTaughtMe: Building and Bridging",
     "_date": "7/2/21",
@@ -155,7 +155,7 @@
   },
   {
     "pid": "obj2",
-    "artist": "Bob Fitch",
+    "creator": "Bob Fitch",
     "location": "Stanford University. Libraries. Department of Special Collections and University Archives",
     "label": "Elizabeth \"Betita\" Martínez",
     "_date": "[ca. 1960-1980]",
@@ -169,7 +169,7 @@
   },
   {
     "pid": "obj20",
-    "artist": "Nancy Hernandez",
+    "creator": "Nancy Hernandez",
     "location": "NPR",
     "label": "Quoted in \"Remembering Elizabeth Martinez, Chicano Social Justice Activist\"",
     "_date": "7/2/21",
@@ -183,7 +183,7 @@
   },
   {
     "pid": "obj21",
-    "artist": "Sofía Martinez and Divana Olivas",
+    "creator": "Sofía Martinez and Divana Olivas",
     "location": "Santa Fe New Mexican",
     "label": "Celebrating an activist Betita Martinez",
     "_date": "6/23/21",
@@ -197,7 +197,7 @@
   },
   {
     "pid": "obj22",
-    "artist": "Margo Okazawa-Rey",
+    "creator": "Margo Okazawa-Rey",
     "location": "Convergence",
     "label": "Betita: Embracing Complexity and Contradiction",
     "_date": "7/12/21",
@@ -211,7 +211,7 @@
   },
   {
     "pid": "obj23",
-    "artist": "Adelita Michelle Medina",
+    "creator": "Adelita Michelle Medina",
     "location": "Convergence",
     "label": "Betita Carved Out a Special Place in Northern New Mexico",
     "_date": "7/12/21",
@@ -225,7 +225,7 @@
   },
   {
     "pid": "obj24",
-    "artist": "Tony Platt",
+    "creator": "Tony Platt",
     "location": "La Voz de Esperanza",
     "label": "The Work Said Who I Was”: Elizabeth “Betita” Sutherland Martínez (1925-2021)",
     "_date": "2021",
@@ -239,7 +239,7 @@
   },
   {
     "pid": "obj25",
-    "artist": "Chris Crass",
+    "creator": "Chris Crass",
     "location": "Anarres Project for Alternative Futures",
     "label": "Honoring the Passing of Elizabeth Betita Martinez (2021)",
     "_date": "7/2/21",
@@ -253,7 +253,7 @@
   },
   {
     "pid": "obj26",
-    "artist": "Annika Hom",
+    "creator": "Annika Hom",
     "location": "Mission Local",
     "label": "“The heart insists on it.” Odes to Betita Martínez, the Chicana pioneer dedicated to political activism",
     "_date": "7/13/21",
@@ -266,8 +266,50 @@
     "lunr_id": 18
   },
   {
+    "pid": "obj27",
+    "creator": null,
+    "location": null,
+    "label": null,
+    "_date": null,
+    "object_type": null,
+    "current_location": null,
+    "excerpt": null,
+    "collection": "martinez",
+    "thumbnail": "",
+    "permalink": "/martinez/obj27",
+    "lunr_id": 19
+  },
+  {
+    "pid": "obj28",
+    "creator": null,
+    "location": null,
+    "label": null,
+    "_date": null,
+    "object_type": null,
+    "current_location": null,
+    "excerpt": null,
+    "collection": "martinez",
+    "thumbnail": "",
+    "permalink": "/martinez/obj28",
+    "lunr_id": 20
+  },
+  {
+    "pid": "obj29",
+    "creator": null,
+    "location": null,
+    "label": null,
+    "_date": null,
+    "object_type": null,
+    "current_location": null,
+    "excerpt": null,
+    "collection": "martinez",
+    "thumbnail": "",
+    "permalink": "/martinez/obj29",
+    "lunr_id": 21
+  },
+  {
     "pid": "obj3",
-    "artist": "Bob Fitch",
+    "creator": "Bob Fitch",
     "location": "Stanford University. Libraries. Department of Special Collections and University Archives",
     "label": "Elizabeth \"Betita\" Martínez",
     "_date": "[ca. 1960-1980]",
@@ -277,11 +319,39 @@
     "collection": "martinez",
     "thumbnail": "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",
     "permalink": "/martinez/obj3",
-    "lunr_id": 19
+    "lunr_id": 22
+  },
+  {
+    "pid": "obj30",
+    "creator": null,
+    "location": null,
+    "label": null,
+    "_date": null,
+    "object_type": null,
+    "current_location": null,
+    "excerpt": null,
+    "collection": "martinez",
+    "thumbnail": "",
+    "permalink": "/martinez/obj30",
+    "lunr_id": 23
+  },
+  {
+    "pid": "obj31",
+    "creator": null,
+    "location": null,
+    "label": null,
+    "_date": null,
+    "object_type": null,
+    "current_location": null,
+    "excerpt": null,
+    "collection": "martinez",
+    "thumbnail": "",
+    "permalink": "/martinez/obj31",
+    "lunr_id": 24
   },
   {
     "pid": "obj4",
-    "artist": "Bob Fitch",
+    "creator": "Bob Fitch",
     "location": "Stanford University. Libraries. Department of Special Collections and University Archives",
     "label": "Elizabeth \"Betita\" Martínez",
     "_date": "[ca. 1960-1980]",
@@ -291,11 +361,11 @@
     "collection": "martinez",
     "thumbnail": "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
     "permalink": "/martinez/obj4",
-    "lunr_id": 20
+    "lunr_id": 25
   },
   {
     "pid": "obj5",
-    "artist": "Katharine Q. Seelye",
+    "creator": "Katharine Q. Seelye",
     "location": "New York Times",
     "label": "Elizabeth Martínez, Voice of the Chicana Movement, Dies at 95",
     "_date": "6/29/2021",
@@ -305,11 +375,11 @@
     "collection": "martinez",
     "thumbnail": "",
     "permalink": "/martinez/obj5",
-    "lunr_id": 21
+    "lunr_id": 26
   },
   {
     "pid": "obj6",
-    "artist": "Priscella Vega",
+    "creator": "Priscella Vega",
     "location": "Los Angeles Times",
     "label": "Elizabeth ‘Betita’ Martínez, prolific author and pioneering Chicana, dies",
     "_date": "6/29/2021",
@@ -319,11 +389,11 @@
     "collection": "martinez",
     "thumbnail": "",
     "permalink": "/martinez/obj6",
-    "lunr_id": 22
+    "lunr_id": 27
   },
   {
     "pid": "obj7",
-    "artist": "Angela Davis",
+    "creator": "Angela Davis",
     "location": "Social Justice",
     "label": "Before I Knew Elizabeth Martínez",
     "_date": "2013",
@@ -333,11 +403,11 @@
     "collection": "martinez",
     "thumbnail": "",
     "permalink": "/martinez/obj7",
-    "lunr_id": 23
+    "lunr_id": 28
   },
   {
     "pid": "obj8",
-    "artist": "Alejandro Alvarez",
+    "creator": "Alejandro Alvarez",
     "location": "Social Justice",
     "label": "Bridging Borders",
     "_date": "2013",
@@ -347,11 +417,11 @@
     "collection": "martinez",
     "thumbnail": "",
     "permalink": "/martinez/obj8",
-    "lunr_id": 24
+    "lunr_id": 29
   },
   {
     "pid": "obj9",
-    "artist": "Erik Wallenberg",
+    "creator": "Erik Wallenberg",
     "location": "Monthly Review",
     "label": "Standing Against Racism and Empire: Remembering Elizabeth \"Betita\" Sutherland Martinez",
     "_date": "4/5/2002",
@@ -361,6 +431,6 @@
     "collection": "martinez",
     "thumbnail": "",
     "permalink": "/martinez/obj9",
-    "lunr_id": 25
+    "lunr_id": 30
   }
 ]

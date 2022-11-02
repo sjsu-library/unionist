@@ -1,6 +1,6 @@
 ---
 pid: obj26
-artist: Annika Hom
+creator: Annika Hom
 location: Mission Local
 label: "“The heart insists on it.” Odes to Betita Martínez, the Chicana pioneer dedicated
   to political activism"

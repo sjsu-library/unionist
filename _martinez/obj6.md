@@ -1,6 +1,6 @@
 ---
 pid: obj6
-artist: Priscella Vega
+creator: Priscella Vega
 location: Los Angeles Times
 label: Elizabeth ‘Betita’ Martínez, prolific author and pioneering Chicana, dies
 _date: 6/29/2021

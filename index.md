@@ -24,7 +24,7 @@ banner:
     <div class="feature-card">
       <h3 class="card-header">Bibliography</h3>
         <p class="card-text">
-        Books and articles selected from Betita's prolific writings
+        Selection's from Betita Martínez's prolific writings
         </p>
     </div>
       </a>

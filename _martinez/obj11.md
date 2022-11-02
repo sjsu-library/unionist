@@ -1,6 +1,6 @@
 ---
 pid: obj11
-artist: Clarissa Rojas
+creator: Clarissa Rojas
 location: Politico
 label: 'Elizabeth ‘Betita’ Martínez: A Chicana Icon Who Brought Joy to Protest'
 _date: 12/27/21

@@ -1,6 +1,6 @@
 ---
 pid: obj17
-artist: Catalyst Project
+creator: Catalyst Project
 location: Catalyst Project
 label: Farewell Betita, great builder of bridges
 _date: '2021'

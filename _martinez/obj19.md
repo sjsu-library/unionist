@@ -1,6 +1,6 @@
 ---
 pid: obj19
-artist: Amy Sonnie
+creator: Amy Sonnie
 location: Convergence
 label: "#BetitaTaughtMe: Building and Bridging"
 _date: 7/2/21

@@ -1,6 +1,6 @@
 ---
 pid: obj14
-artist: Sam Whiting
+creator: Sam Whiting
 location: San Francisco Chronicle
 label: Elizabeth ‘Betita’ Martínez, Chicana historian, activist and trailblazer, dies
   in S.F. at 95

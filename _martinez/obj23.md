@@ -1,6 +1,6 @@
 ---
 pid: obj23
-artist: Adelita Michelle Medina
+creator: Adelita Michelle Medina
 location: Convergence
 label: Betita Carved Out a Special Place in Northern New Mexico
 _date: 7/12/21

@@ -1,6 +1,6 @@
 ---
 pid: obj8
-artist: Alejandro Alvarez
+creator: Alejandro Alvarez
 location: Social Justice
 label: Bridging Borders
 _date: '2013'

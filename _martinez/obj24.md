@@ -1,6 +1,6 @@
 ---
 pid: obj24
-artist: Tony Platt
+creator: Tony Platt
 location: La Voz de Esperanza
 label: 'The Work Said Who I Was”: Elizabeth “Betita” Sutherland Martínez (1925-2021)'
 _date: '2021'

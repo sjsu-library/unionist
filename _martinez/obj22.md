@@ -1,6 +1,6 @@
 ---
 pid: obj22
-artist: Margo Okazawa-Rey
+creator: Margo Okazawa-Rey
 location: Convergence
 label: 'Betita: Embracing Complexity and Contradiction'
 _date: 7/12/21

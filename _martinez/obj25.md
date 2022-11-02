@@ -1,6 +1,6 @@
 ---
 pid: obj25
-artist: Chris Crass
+creator: Chris Crass
 location: Anarres Project for Alternative Futures
 label: Honoring the Passing of Elizabeth Betita Martinez (2021)
 _date: 7/2/21

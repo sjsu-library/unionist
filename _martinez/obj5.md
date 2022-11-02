@@ -1,6 +1,6 @@
 ---
 pid: obj5
-artist: Katharine Q. Seelye
+creator: Katharine Q. Seelye
 location: New York Times
 label: Elizabeth Martínez, Voice of the Chicana Movement, Dies at 95
 _date: 6/29/2021

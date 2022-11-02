@@ -1,6 +1,6 @@
 ---
 pid: obj21
-artist: Sofía Martinez and Divana Olivas
+creator: Sofía Martinez and Divana Olivas
 location: Santa Fe New Mexican
 label: Celebrating an activist Betita Martinez
 _date: 6/23/21

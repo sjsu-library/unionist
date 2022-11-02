@@ -1,6 +1,6 @@
 ---
 pid: obj18
-artist: Cindy Wiesner
+creator: Cindy Wiesner
 location: Convergence
 label: Gracias, Betita, por todo
 _date: 7/2/21

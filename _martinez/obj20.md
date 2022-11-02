@@ -1,6 +1,6 @@
 ---
 pid: obj20
-artist: Nancy Hernandez
+creator: Nancy Hernandez
 location: NPR
 label: Quoted in "Remembering Elizabeth Martinez, Chicano Social Justice Activist"
 _date: 7/2/21

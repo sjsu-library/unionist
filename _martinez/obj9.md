@@ -1,6 +1,6 @@
 ---
 pid: obj9
-artist: Erik Wallenberg
+creator: Erik Wallenberg
 location: Monthly Review
 label: 'Standing Against Racism and Empire: Remembering Elizabeth "Betita" Sutherland
   Martinez'
