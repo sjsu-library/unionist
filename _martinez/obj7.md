@@ -10,7 +10,7 @@ source: https://www.jstor.org/stable/24361571
 excerpt: Because Elizabeth Martínez's life and work span so many generations, communities,
   and causes, she has enabled conjunctions and convergences that would have been inconceivable
   if not for her innovative ideas and bold undertakings.
-order: '6'
+order: '06'
 layout: martinez_item
 collection: martinez
 thumbnail: ''

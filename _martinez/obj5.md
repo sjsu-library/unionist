@@ -11,7 +11,7 @@ excerpt: She was among the first to explore how issues of race, class, poverty, 
   and sexuality could be connected under overlapping systems of oppression, making
   her a foundational voice for the concept of intersectionality long before that term
   came into vogue.
-order: '4'
+order: '04'
 layout: martinez_item
 collection: martinez
 thumbnail: ''

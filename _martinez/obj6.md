@@ -12,7 +12,7 @@ excerpt: She became the founding editor of El Grito del Norte, a pioneering comm
   grants from the U.S. government. She taught women how to write stories, encouraged
   travel to educational conferences and instilled unity among them. Their work gained
   national recognition from luminaries such as Talamante.
-order: '5'
+order: '05'
 layout: martinez_item
 collection: martinez
 thumbnail: ''

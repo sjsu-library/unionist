@@ -9,7 +9,7 @@ object_type: image
 current_location: Bob Fitch photography archive -- Fitch Comrades, 1966-2013
 source: http://purl.stanford.edu/jw758nr8182
 excerpt: 
-order: '1'
+order: '01'
 layout: martinez_item
 collection: martinez
 thumbnail: "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg"
