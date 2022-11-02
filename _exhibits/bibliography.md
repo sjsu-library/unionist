@@ -8,7 +8,7 @@ permalink: /explore/bibliography/
 ---
 **This bibliography represents only a small selection of Betita Martínez' complete works.** For a complete bibliography see:
 - Kathryn Blackmer Reyes. ["Elizabeth 'Betita' Sutherland Martínez: Bibliography, 1960–2013."](http://www.socialjusticejournal.org/product/betita-martinez/) *Social Justice*, Volume 39, Number 2-3, 2013.
-- Clarissa Rojas and Roberto Delgadillo. ["Reading Betita Martínez:a Commemoration of Her Life and Work with a Selected Bibliography of Scholarship and Associated Research Resources."](https://escholarship.org/uc/item/4pq6w8wn) University of California, Davis Library, 2022.
+- Clarissa Rojas and Roberto Delgadillo. ["Reading Betita Martínez: A Commemoration of Her Life and Work with a Selected Bibliography of Scholarship and Associated Research Resources."](https://escholarship.org/uc/item/4pq6w8wn) University of California, Davis Library, 2022.
 
 ***
 
