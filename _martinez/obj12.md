@@ -9,7 +9,7 @@ object_type: text
 current_location: San Francisco Chronicle
 source: https://www.sfchronicle.com/bayarea/article/Betita-Mart-nez-Chicano-historian-activist-16333568.php
 excerpt: Betita brought race and gender together in a way that had never been done
-  before as regards the Latinx experience
+  before as regards the Latinx experience.
 order: '11'
 layout: martinez_item
 collection: martinez
