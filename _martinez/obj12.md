@@ -3,7 +3,7 @@ pid: obj12
 creator: Tony Platt
 location: San Francisco Chronicle
 label: Quoted in "Elizabeth ‘Betita’ Martínez, Chicana historian, activist and trailblazer,
-  dies in S.F. at 95"`
+  dies in S.F. at 95"
 _date: 7/22/21
 object_type: text
 current_location: San Francisco Chronicle
