@@ -304,6 +304,11 @@ content section
     margin: 0;
     background-attachment: fixed;
     background-size: cover;
+
+    @media (max-width: 600px) {
+        background-attachment: initial;
+    }
+
   }
   .parallax-caption {
     margin: 0 auto;
@@ -870,7 +875,7 @@ search box
 
   .feature-card {
     width: 100%;
-    height: 200px;
+    height: 250px;
     border: 2px solid rgba($accent-dark,0.5);
     border-radius:20px;
     background-color: $neutral;
