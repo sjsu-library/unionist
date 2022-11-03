@@ -2,7 +2,7 @@
 pid: obj20
 creator: Nancy Hernandez
 location: NPR
-label: Quoted in "Remembering Elizabeth Martinez, Chicano Social Justice Activist"
+label: Quoted in "Remembering Elizabeth Martínez, Chicano Social Justice Activist"
 _date: 7/2/21
 object_type: text
 current_location: NPR

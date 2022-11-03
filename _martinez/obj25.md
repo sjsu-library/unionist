@@ -2,7 +2,7 @@
 pid: obj25
 creator: Chris Crass
 location: Anarres Project for Alternative Futures
-label: Honoring the Passing of Elizabeth Betita Martinez (2021)
+label: Honoring the Passing of Elizabeth Betita Martínez (2021)
 _date: 7/2/21
 object_type: text
 current_location: Anarres Project for Alternative Futures

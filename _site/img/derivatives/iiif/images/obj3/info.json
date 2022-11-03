@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "http://0.0.0.0:4000/wax/img/derivatives/iiif/images/obj3",
+  "@id": "http://0.0.0.0:4000/betita/img/derivatives/iiif/images/obj3",
   "protocol": "http://iiif.io/api/image",
   "width": 3390,
   "height": 3663,

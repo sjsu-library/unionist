@@ -1,16 +1,15 @@
 ---
 pid: obj26
-creator: Annika Hom
-location: Mission Local
-label: "“The heart insists on it.” Odes to Betita Martínez, the Chicana pioneer dedicated
-  to political activism"
-_date: 7/13/21
+creator: Maria Varela
+location: Veterans of the Civil Rights Movement
+label: Neither Black Nor White In The Black-White World Of The 1960's Civil Rights
+  Movement
+_date: '2021'
 object_type: text
-current_location: Mission Local
-source: https://missionlocal.org/2021/07/the-heart-insists-on-it-odes-to-betita-martinez-the-chicana-pioneer-dedicated-to-political-activism/
-excerpt: 'Martínez made a splash wherever she landed, whether at the helm of <em>El
-  Grito del Norte</em> in Española, New Mexico, or during creative stints in New York
-  and San Francisco, or in her political work that sent her far and wide. '
+current_location: Veterans of the Civil Rights Movement
+source: https://www.crmvet.org/mem/betitam.htm
+excerpt: Betita Martínez and I were like combatants in a fox hole. We were two Mexicana's
+  who worked for the Student Non-Violent Coordinating Committee in the early to mid-60's.
 order: '25'
 layout: martinez_item
 collection: martinez

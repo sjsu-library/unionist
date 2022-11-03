@@ -2,7 +2,7 @@
 pid: obj15
 creator: Matt Schudel
 location: The Washington Post
-label: Elizabeth Martinez, writer and activist for Chicano and feminist causes, dies
+label: Elizabeth Martínez, writer and activist for Chicano and feminist causes, dies
   at 95
 _date: 7/2/21
 object_type: text

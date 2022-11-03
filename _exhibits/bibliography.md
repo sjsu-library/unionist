@@ -18,7 +18,7 @@ Many of Betita Martínez books are available to the SJSU and San José communiti
 - ***Letters from Mississippi***. McGraw-Hill, 1965.
   - [Read at the King Library](https://csu-sjsu.primo.exlibrisgroup.com/permalink/01CALS_SJO/tu4ck5/alma991007709689702919)
 - ***The Youngest Revolution: A Personal Report on Cuba***. The Dial Press, 1969.
-- ***Viva La Raza! The Struggle of the Mexican-American People***. Doubleday, 1974
+- ***Viva La Raza! The Struggle of the Mexican-American People***. Doubleday, 1974.
   - [Read at the King Library](https://csu-sjsu.primo.exlibrisgroup.com/permalink/01CALS_SJO/tu4ck5/alma991000685849702919)
 - ***450 Años del Pueblo Chicano = 450 Years of Chicano History in Pictures***. Chicano Communications Center, 1976.
   - [Read at the King Library](https://csu-sjsu.primo.exlibrisgroup.com/permalink/01CALS_SJO/tu4ck5/alma991013664315402919)
@@ -36,7 +36,7 @@ Martínez’ influence in activist circles was so strong that the impact of her 
 
 - **"La Chicana"**
   - *Ideal* Volume 5, Number 20, 1972
-  - In *Feminist Theory Reader: Local and Global Perspectives*, edited by Carole R. McCann and Seung-kyung Kim. Routledge, 2010. [Read at King Lbrary](https://csu-sjsu.primo.exlibrisgroup.com/permalink/01CALS_SJO/tu4ck5/alma991000709079702919)
+  - In *Feminist Theory Reader: Local and Global Perspectives*, edited by Carole R. McCann and Seung-kyung Kim. Routledge, 2010. [Read at King Library](https://csu-sjsu.primo.exlibrisgroup.com/permalink/01CALS_SJO/tu4ck5/alma991000709079702919)
 - **"Beyond Black/White: The Racisms of Our Time."** *Social Justice*, Volume 20, Number 1/2, 1993.
   - [SJSU community access](https://csu-sjsu.primo.exlibrisgroup.com/permalink/01CALS_SJO/1nj5q0c/cdi_proquest_miscellaneous_61387159)
 - **"Coalition Building among People of Color: A Discussion with Angela Y. Davis and Elizabeth Martínez."**
@@ -52,28 +52,28 @@ Martínez’ influence in activist circles was so strong that the impact of her 
 ***
 
 ### Relevant Journals and Magazines
-In addition to her role as the founder and editor *El Grito del Norte*, Martínez published prolifically in a number of journals and magazines that were closely associated with social movements or political organizations. Some of these publications are now hard to find, but the information below may help you get access through a local library.
+In addition to her role as the founder and editor of *El Grito del Norte*, Martínez published prolifically in a number of journals and magazines that were closely associated with social movements or political organizations. Some of these publications are now hard to find, but the information below may help you get access through a local library.
 
 #### Available electronically
 ***
-- **El Grito del Norte**
+- ***El Grito del Norte***
   - [Open access via JSTOR](https://www.jstor.org/site/reveal-digital/independent-voices/elgritodelnorte-28455641/)
-- **Social Justice: A Journal of Crime, Conflict & World Order**
+- ***Social Justice: A Journal of Crime, Conflict & World Order***
   - [Journal homepage](http://www.socialjusticejournal.org/)
   - If you have access to an academic library, you may be able to read [Social Justice on JSTOR](https://www.jstor.org/journal/socijust)
   - [Find in a library](https://worldcat.org/title/675860698)
-- **Z Magazine**
+- ***Z Magazine***
     - [Magazine homepage, with free access from 1997 to present](https://znetwork.org/zmag-archive/)
     - [Find in a library](https://worldcat.org/title/20864508)
 
 #### Available in print only
 ***
-- **Rebel Worker**
+- ***Rebel Worker***
   - [Find in a library](https://worldcat.org/title/5356647)
-- **Plain Speaking: A News Journal of the Democratic Workers Party**
+- ***Plain Speaking: A News Journal of the Democratic Workers Party***
   - [Find in a library](https://worldcat.org/title/6841077)
-- **CrossRoads: Contemporary Political Analysis & Left Dialogue**
+- ***CrossRoads: Contemporary Political Analysis & Left Dialogue***
   - [Find in a library](https://worldcat.org/title/21815449)
   - [Search in Hathi Trust](https://catalog.hathitrust.org/api/volumes/oclc/21815449.html) (Search-only due to copyright restrictions)
-- **War Times/Tiempo de Guerras**
+- ***War Times/Tiempo de Guerras***
   - [Find in a library](https://worldcat.org/title/49236449)

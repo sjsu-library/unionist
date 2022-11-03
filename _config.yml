@@ -20,9 +20,9 @@
 
 title:            'Betita Martínez'
 description:      'A Memorial Exhibit'
-url:              'https://nickszydlowski.github.io'
-baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
+url:              'https://sjsu-library.github.io'
+baseurl:          '/betita'
+copyright:        'CC-BY 4.0'
 logo:             '/assets/logo-sjsu.png'
 
 # ---------------------------------------------------------------
