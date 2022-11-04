@@ -12,6 +12,10 @@ permalink: /explore/bibliography/
 
 ***
 
+[Books](#books) \| [Articles and Book Chapters](#selected-journal-articles-and-book-chapters) \| [Relevant Journals](#relevant-journals-and-magazines) \| [Exhibits](#exhibits-and-tributes)
+
+***
+
 ### Books
 Many of Betita Martínez books are available to the SJSU and San José communities in the [SJSU Africana, Asian American, Chicano, & Native American Studies Center](https://library.sjsu.edu/africana-asian-american-chicano-native-american-studies-center/africana-asian-american-chicano). The list below contains some of Martinez' best known books.
 
@@ -36,7 +40,7 @@ Martínez’ influence in activist circles was so strong that the impact of her 
 
 - **"La Chicana"**
   - *Ideal* Volume 5, Number 20, 1972
-  - In *Feminist Theory Reader: Local and Global Perspectives*, edited by Carole R. McCann and Seung-kyung Kim. Routledge, 2010. [Read at King Library](https://csu-sjsu.primo.exlibrisgroup.com/permalink/01CALS_SJO/tu4ck5/alma991000709079702919)
+  - In *Feminist Theory Reader: Local and Global Perspectives*, edited by Carole R. McCann and Seung-kyung Kim. Routledge, 2010. [Read at the King Library](https://csu-sjsu.primo.exlibrisgroup.com/permalink/01CALS_SJO/tu4ck5/alma991000709079702919)
 - **"Beyond Black/White: The Racisms of Our Time."** *Social Justice*, Volume 20, Number 1/2, 1993.
   - [SJSU community access](https://csu-sjsu.primo.exlibrisgroup.com/permalink/01CALS_SJO/1nj5q0c/cdi_proquest_miscellaneous_61387159)
 - **"Coalition Building among People of Color: A Discussion with Angela Y. Davis and Elizabeth Martínez."**
@@ -77,3 +81,13 @@ In addition to her role as the founder and editor of *El Grito del Norte*, Mart�
   - [Search in Hathi Trust](https://catalog.hathitrust.org/api/volumes/oclc/21815449.html) (Search-only due to copyright restrictions)
 - ***War Times/Tiempo de Guerras***
   - [Find in a library](https://worldcat.org/title/49236449)
+
+***
+
+### Exhibits and Tributes
+
+- [**Betita Taught Us We Are the Revolution: The Life and Legacies of Elizabeth “Betita” Martínez.**](https://library.ucdavis.edu/exhibit/betita-taught-us-we-are-the-revolution/) Clarissa Rojas and University of California, Davis Library.
+
+- [**Betita Martínez \(Elizabeth Sutherland Martínez\) \(1925–2021\).**](https://www.crmvet.org/mem/betitam.htm) Civil Rights Movement Archive.
+
+- [**Elizabeth “Betita” Martinez: A Life in Struggle.**](http://www.socialjusticejournal.org/product/betita-martinez/) Special issue of *Social Justice: A Journal of Crime, Conflict & World Order*.
