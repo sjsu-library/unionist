@@ -2,7 +2,7 @@
 layout: page
 title: Reuse the Collection
 permalink: /reuse/
-collection: martinez
+collection: template
 ---
 
 Download the data that powers this exhibit as a CSV file, or preview the data on the table below.

@@ -10,8 +10,8 @@ $logo: url("{{ '/assets/logo-sjsu.png' | absolute_url }}");
 
 /* text */
 
-$body-font:       'Verdana', 'Open Sans', 'sans-serif';
-$heading-font:    'Verdana', 'Open Sans', 'sans-serif';
+$body-font:       'Helvetica Neue', Helvetica, Arial, sans-serif;
+$heading-font:    'Nunito Sans',Verdana,sans-serif;
 
 
 /* Image Size */
@@ -22,11 +22,11 @@ $excerpt-width: 440px;
 
 /* colors */
 
-$text-color:      #140012;
+$text-color:      #333333;
 $bg-color:        #ffffff;
-$neutral:         #FFFBEB;
-$accent-light:    #CC0003;
-$accent-dark:     #46290B;
+$neutral:         #EEEEEE;
+$accent-light:    #E5A823;
+$accent-dark:     #0055A2;
 
 /* viewport sizes */
 

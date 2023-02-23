@@ -18,10 +18,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Betita Martínez'
-description:      'A Memorial Exhibit'
+title:            'Exhibit Template'
+description:      'A Template for Wax Exhibits at the SJSU Library'
 url:              'https://sjsu-library.github.io'
-baseurl:          '/betita'
+baseurl:          '/sjsu-wax-template'
 copyright:        'CC-BY 4.0'
 logo:             '/assets/logo-sjsu.png'
 
@@ -65,13 +65,13 @@ kramdown:
 collections:
   exhibits:
     output: true
-  martinez: # name of collection
+  template: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'martinez_item' # the layout for the pages to use
+    layout: 'template_item' # the layout for the pages to use
     metadata:
-      source: 'martinez.csv' # path to the metadata file within `_data`
+      source: 'template.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/martinez' # path to the directory of images within `_data`
+      source: 'raw_images/template' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -85,16 +85,13 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      martinez:
+      template:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - creator
-          - location
-          - label
+          - source
+          - description
           - _date
-          - object_type
-          - current_location
-          - excerpt
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -108,10 +105,8 @@ menu:
     link: '/about/'
   - label: 'Explore'
     sub:
-      - label: 'Memorials'
-        link: '/explore/memorials/'
-      - label: 'Bibliography'
-        link: '/explore/bibliography/'
+      - label: 'Example'
+        link: '/explore/example-exhibit/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'

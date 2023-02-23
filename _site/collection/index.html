@@ -14,26 +14,26 @@
   <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>
-    Betita Martínez  | Browse the Collection
+    Exhibit Template  | Browse the Collection
   </title>
 
-  <link rel='canonical' href='http://0.0.0.0:4000/betita/collection/'/>
-  <link rel='icon' type='image/png' href="http://0.0.0.0:4000/betita/img/logo.png">
-  <link rel='stylesheet' href="http://0.0.0.0:4000/betita/assets/styles.css"/>
-  <link rel="shortcut icon" type="image/png" href="http://0.0.0.0:4000/betita/img/favicon_0_0.ico">
+  <link rel='canonical' href='http://0.0.0.0:4000/sjsu-wax-template/collection/'/>
+  <link rel='icon' type='image/png' href="http://0.0.0.0:4000/sjsu-wax-template/img/logo.png">
+  <link rel='stylesheet' href="http://0.0.0.0:4000/sjsu-wax-template/assets/styles.css"/>
+  <link rel="shortcut icon" type="image/png" href="http://0.0.0.0:4000/sjsu-wax-template/img/favicon_0_0.ico">
 
-  <script type='text/javascript' src="http://0.0.0.0:4000/betita/assets/jquery-3.2.1.min.js"></script>
+  <script type='text/javascript' src="http://0.0.0.0:4000/sjsu-wax-template/assets/jquery-3.2.1.min.js"></script>
   <noscript><p>Please enable JavaScript in your browser.</p></noscript>
 </head>
 
 
   <body>
-    <time datetime='2022-11-03 06:14'></time>
+    <time datetime='2023-02-23 01:04'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
-    <a class='navbar-brand' href="http://0.0.0.0:4000/betita/" title='Home'>
-      <div class='header-title'>Betita Martínez</div>
-      <div class='header-description'>A Memorial Exhibit</div>
+    <a class='navbar-brand' href="http://0.0.0.0:4000/sjsu-wax-template/" title='Home'>
+      <div class='header-title'>Exhibit Template</div>
+      <div class='header-description'>A Template for Wax Exhibits at the SJSU Library</div>
     </a>
 
     <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#wax-header-navbar' aria-controls='wax-header-navbar' aria-expanded='false' aria-label='navigation'>
@@ -45,7 +45,7 @@
         
           
             <li class='nav-item'>
-              <a class='nav-link' href='http://0.0.0.0:4000/betita/about/'>About</a>
+              <a class='nav-link' href='http://0.0.0.0:4000/sjsu-wax-template/about/'>About</a>
             </li>
           
         
@@ -56,9 +56,7 @@
               </a>
               <div class='dropdown-menu' aria-labelledby='wax-explore-dropdown'>
                 
-                  <a class='dropdown-item' href='http://0.0.0.0:4000/betita/explore/memorials/'>Memorials</a>
-                
-                  <a class='dropdown-item' href='http://0.0.0.0:4000/betita/explore/bibliography/'>Bibliography</a>
+                  <a class='dropdown-item' href='http://0.0.0.0:4000/sjsu-wax-template/explore/example-exhibit/'>Example</a>
                 
               </div>
             </li>
@@ -66,19 +64,19 @@
         
           
             <li class='nav-item'>
-              <a class='nav-link' href='http://0.0.0.0:4000/betita/collection/'>Browse</a>
+              <a class='nav-link' href='http://0.0.0.0:4000/sjsu-wax-template/collection/'>Browse</a>
             </li>
           
         
           
             <li class='nav-item'>
-              <a class='nav-link' href='http://0.0.0.0:4000/betita/search/'>Search</a>
+              <a class='nav-link' href='http://0.0.0.0:4000/sjsu-wax-template/search/'>Search</a>
             </li>
           
         
           
             <li class='nav-item'>
-              <a class='nav-link' href='http://0.0.0.0:4000/betita/reuse/'>Reuse</a>
+              <a class='nav-link' href='http://0.0.0.0:4000/sjsu-wax-template/reuse/'>Reuse</a>
             </li>
           
         
@@ -97,270 +95,154 @@
 
 
 
-<div id="wax-gallery-martinez-container" class="wax-gallery-container full-width">
+<div id="wax-gallery-template-container" class="wax-gallery-container full-width">
   <div class="wax-inline-container">
-    <div id="martinez-facet-buttons" class="facet-buttons"></div>
-    <div id="wax-gallery-martinez" class="wax-gallery"></div>
+    <div id="template-facet-buttons" class="facet-buttons"></div>
+    <div id="wax-gallery-template" class="wax-gallery"></div>
   </div>
 </div>
 
 <script type="text/javascript">
   $( document ).ready(function() {
-    var container = $('#wax-gallery-martinez-container');
-    var gallery = $('#wax-gallery-martinez');
-    var buttonDiv = $('#martinez-facet-buttons');
+    var container = $('#wax-gallery-template-container');
+    var gallery = $('#wax-gallery-template');
+    var buttonDiv = $('#template-facet-buttons');
 
     
       
-      var thumbnailUrl = "http://0.0.0.0:4000/betita/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj1/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'></p></div><div class='overlay'><p class='info'>Elizabeth &quot;Betita&quot; Martínez - Bob Fitch, <em>Stanford University. Libraries. Department of Special Collections and University Archives</em></p></div></div></a></div>");
+      var thumbnailUrl = "http://0.0.0.0:4000/sjsu-wax-template/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg";
+      if (thumbnailUrl == "http://0.0.0.0:4000"+"/sjsu-wax-template") {gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj1/'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>Flashlight Night Photograph of Deer</h3> <p>Photograph shows Flashlight, taken at night by the Deer. This was reputedly the first picture taken of an animal at night in which the animal itself triggered the camera. It was written up in several…</p></div></div><div class='overlay'><p class='info'>Flashlight Night Photograph of Deer</p></div></div></a></div>");
       }
       else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj1/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg' alt='Elizabeth &quot;Betita&quot; Martínez'/><div class='overlay'><p class='info'>Elizabeth &quot;Betita&quot; Martínez</p></div></div></a></div>");
+        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj1/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/sjsu-wax-template/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg' alt=''/><div class='overlay'><p class='info'>Flashlight Night Photograph of Deer</p></div></div></a></div>");
       }
 
       
-      var thumbnailUrl = "http://0.0.0.0:4000/betita/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj2/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'></p></div><div class='overlay'><p class='info'>Elizabeth &quot;Betita&quot; Martínez - Bob Fitch, <em>Stanford University. Libraries. Department of Special Collections and University Archives</em></p></div></div></a></div>");
+      var thumbnailUrl = "http://0.0.0.0:4000/sjsu-wax-template/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg";
+      if (thumbnailUrl == "http://0.0.0.0:4000"+"/sjsu-wax-template") {gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj2/'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>Unidentified girl</h3> <p>Title supplied by cataloger. Date supplied by cataloger. C. Hawkins, Brighton School of Photography, 38 Preston Street and at 12 East Street</p></div></div><div class='overlay'><p class='info'>Unidentified girl</p></div></div></a></div>");
       }
       else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj2/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg' alt='Elizabeth &quot;Betita&quot; Martínez'/><div class='overlay'><p class='info'>Elizabeth &quot;Betita&quot; Martínez</p></div></div></a></div>");
+        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj2/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/sjsu-wax-template/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg' alt=''/><div class='overlay'><p class='info'>Unidentified girl</p></div></div></a></div>");
       }
 
       
-      var thumbnailUrl = "http://0.0.0.0:4000/betita/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj3/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'></p></div><div class='overlay'><p class='info'>Elizabeth &quot;Betita&quot; Martínez - Bob Fitch, <em>Stanford University. Libraries. Department of Special Collections and University Archives</em></p></div></div></a></div>");
+      var thumbnailUrl = "http://0.0.0.0:4000/sjsu-wax-template/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg";
+      if (thumbnailUrl == "http://0.0.0.0:4000"+"/sjsu-wax-template") {gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj3/'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>Appalachian Exposition, 1910</h3> <p>Hist. Photo Copy Project 2011-012-097 [Princess Bonita, Queen of the leopards. “Big Otto’s” Trained Wild Animals]. Appalachian Exposition, Sept. 12-Oct. 12, 1910. No. 254. Stereo by C.A. Wayland, So.…</p></div></div><div class='overlay'><p class='info'>Appalachian Exposition, 1910</p></div></div></a></div>");
       }
       else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj3/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg' alt='Elizabeth &quot;Betita&quot; Martínez'/><div class='overlay'><p class='info'>Elizabeth &quot;Betita&quot; Martínez</p></div></div></a></div>");
+        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj3/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/sjsu-wax-template/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg' alt=''/><div class='overlay'><p class='info'>Appalachian Exposition, 1910</p></div></div></a></div>");
       }
 
       
-      var thumbnailUrl = "http://0.0.0.0:4000/betita/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj4/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'></p></div><div class='overlay'><p class='info'>Elizabeth &quot;Betita&quot; Martínez - Bob Fitch, <em>Stanford University. Libraries. Department of Special Collections and University Archives</em></p></div></div></a></div>");
+      var thumbnailUrl = "http://0.0.0.0:4000/sjsu-wax-template/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg";
+      if (thumbnailUrl == "http://0.0.0.0:4000"+"/sjsu-wax-template") {gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj4/'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>[S.L. Tabernacle under construction]</h3> <p>Two men in front of the Salt Lake Tabernacle with the crossbeams exposed. Written on the back-8314 Tabernacle in Construction Salt Lake City Utah. Back label- C.R. Savage, Art Bazar...Medals...1893.</p></div></div><div class='overlay'><p class='info'>[S.L. Tabernacle under construction]</p></div></div></a></div>");
       }
       else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj4/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg' alt='Elizabeth &quot;Betita&quot; Martínez'/><div class='overlay'><p class='info'>Elizabeth &quot;Betita&quot; Martínez</p></div></div></a></div>");
+        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj4/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/sjsu-wax-template/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg' alt=''/><div class='overlay'><p class='info'>[S.L. Tabernacle under construction]</p></div></div></a></div>");
       }
 
       
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj5/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>She was among the first to explore how issues of race, class, poverty, gender and sexuality could be connected under overlapping systems of oppression, making her a foundational voice for the concept of intersectionality long before that term came into vogue.</p></div><div class='overlay'><p class='info'>Elizabeth Martínez, Voice of the Chicana Movement, Dies at 95 - Katharine Q. Seelye, <em>New York Times</em></p></div></div></a></div>");
+      var thumbnailUrl = "http://0.0.0.0:4000/sjsu-wax-template";
+      if (thumbnailUrl == "http://0.0.0.0:4000"+"/sjsu-wax-template") {gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj5/'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>Hand-tinted tintype of a Union cavalryman</h3> <p>This hand tinted tintype is of a Union cavalryman with either the last name of Vermillion or Bryant. Family story is that he was a teamster in an Iowa cavalry regiment from Greene County, Iowa. There…</p></div></div><div class='overlay'><p class='info'>Hand-tinted tintype of a Union cavalryman</p></div></div></a></div>");
       }
       else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj5/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Elizabeth Martínez, Voice of the Chicana Movement, Dies at 95'/><div class='overlay'><p class='info'>Elizabeth Martínez, Voice of the Chicana Movement, Dies at 95</p></div></div></a></div>");
+        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj5/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/sjsu-wax-template' alt=''/><div class='overlay'><p class='info'>Hand-tinted tintype of a Union cavalryman</p></div></div></a></div>");
       }
 
       
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj6/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>She became the founding editor of El Grito del Norte, a pioneering community newspaper that documented the struggles of Hispanos and Mexicans reclaiming land grants from the U.S. government. She taught women how to write stories, encouraged travel to educational conferences and instilled unity among them. Their work gained national recognition from luminaries such as Talamante.</p></div><div class='overlay'><p class='info'>Elizabeth ‘Betita’ Martínez, prolific author and pioneering Chicana, dies - Priscella Vega, <em>Los Angeles Times</em></p></div></div></a></div>");
+      var thumbnailUrl = "http://0.0.0.0:4000/sjsu-wax-template";
+      if (thumbnailUrl == "http://0.0.0.0:4000"+"/sjsu-wax-template") {gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj6/'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>Dr. Buist</h3> <p>Photograph</p></div></div><div class='overlay'><p class='info'>Dr. Buist</p></div></div></a></div>");
       }
       else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj6/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Elizabeth ‘Betita’ Martínez, prolific author and pioneering Chicana, dies'/><div class='overlay'><p class='info'>Elizabeth ‘Betita’ Martínez, prolific author and pioneering Chicana, dies</p></div></div></a></div>");
+        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj6/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/sjsu-wax-template' alt=''/><div class='overlay'><p class='info'>Dr. Buist</p></div></div></a></div>");
       }
 
       
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj7/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>Because Elizabeth Martínez's life and work span so many generations, communities, and causes, she has enabled conjunctions and convergences that would have been inconceivable if not for her innovative ideas and bold undertakings.</p></div><div class='overlay'><p class='info'>Before I Knew Elizabeth Martínez - Angela Davis, <em>Social Justice</em></p></div></div></a></div>");
+      var thumbnailUrl = "http://0.0.0.0:4000/sjsu-wax-template";
+      if (thumbnailUrl == "http://0.0.0.0:4000"+"/sjsu-wax-template") {gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj7/'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>The Fruit Sellers</h3> <p>Photograph</p></div></div><div class='overlay'><p class='info'>The Fruit Sellers</p></div></div></a></div>");
       }
       else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj7/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Before I Knew Elizabeth Martínez'/><div class='overlay'><p class='info'>Before I Knew Elizabeth Martínez</p></div></div></a></div>");
+        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj7/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/sjsu-wax-template' alt=''/><div class='overlay'><p class='info'>The Fruit Sellers</p></div></div></a></div>");
       }
 
       
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj8/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>From the beginning, I recognized her energy, intelligence, commitment, militancy, and feminism, and her workaholic attitude toward everything , for the written word to political argument.</p></div><div class='overlay'><p class='info'>Bridging Borders - Alejandro Alvarez, <em>Social Justice</em></p></div></div></a></div>");
+      var thumbnailUrl = "http://0.0.0.0:4000/sjsu-wax-template";
+      if (thumbnailUrl == "http://0.0.0.0:4000"+"/sjsu-wax-template") {gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj8/'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>One of the Towers of Orleans Cathedral, as Seen from the Opposite Tower</h3> <p>Photograph</p></div></div><div class='overlay'><p class='info'>One of the Towers of Orleans Cathedral, as Seen from the Opposite Tower</p></div></div></a></div>");
       }
       else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj8/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Bridging Borders'/><div class='overlay'><p class='info'>Bridging Borders</p></div></div></a></div>");
+        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj8/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/sjsu-wax-template' alt=''/><div class='overlay'><p class='info'>One of the Towers of Orleans Cathedral, as Seen from the Opposite Tower</p></div></div></a></div>");
       }
 
       
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj9/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>Elizabeth 'Betita' Sutherland Martínez spent her life fighting the death and destruction imposed by the White House and the Pentagon, from border jails to police barracks in every city and town across the United States. She used her powers as a gifted translator, editor, author, and organizer in opposition to racism and the brutality of empire building, and in agitation for an alternative society. </p></div><div class='overlay'><p class='info'>Standing Against Racism and Empire: Remembering Elizabeth &quot;Betita&quot; Sutherland Martínez - Erik Wallenberg, <em>Monthly Review</em></p></div></div></a></div>");
+      var thumbnailUrl = "http://0.0.0.0:4000/sjsu-wax-template";
+      if (thumbnailUrl == "http://0.0.0.0:4000"+"/sjsu-wax-template") {gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj9/'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>Camera Obscura Image of the Pantheon in the Hotel des Grandes Hommes</h3> <p>Photograph</p></div></div><div class='overlay'><p class='info'>Camera Obscura Image of the Pantheon in the Hotel des Grandes Hommes</p></div></div></a></div>");
       }
       else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj9/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Standing Against Racism and Empire: Remembering Elizabeth &quot;Betita&quot; Sutherland Martínez'/><div class='overlay'><p class='info'>Standing Against Racism and Empire: Remembering Elizabeth &quot;Betita&quot; Sutherland Martínez</p></div></div></a></div>");
+        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj9/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/sjsu-wax-template' alt=''/><div class='overlay'><p class='info'>Camera Obscura Image of the Pantheon in the Hotel des Grandes Hommes</p></div></div></a></div>");
       }
 
       
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj10/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>We stand on the shoulders of giants. Elizabeth “Betita” Martínez was a giant if ever there was one. In the Mexican tradition we say the name of the deceased and then proclaim Que Viva! This tradition heralds that the imprint of our ancestor lives on in our memories and in our deeds. In this way, the spirit of our ancestor lives—Que viva Betita!</p></div><div class='overlay'><p class='info'>Reading Betita Martínez: a Bibliographic Commemoration of Her Life and Work - Clarissa Rojas, <em>UC Davis Library</em></p></div></div></a></div>");
+      var thumbnailUrl = "http://0.0.0.0:4000/sjsu-wax-template";
+      if (thumbnailUrl == "http://0.0.0.0:4000"+"/sjsu-wax-template") {gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj10/'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>[Screened photolithographs in Color photography]</h3> <p>Forms part of the David A. Hanson Collection of the History of Photomechanical Reproduction In: Color photography / by Sir William J. Herschel. -- Washington : [s.n.], 1902. -- p. 313-316, 3 col. plat…</p></div></div><div class='overlay'><p class='info'>[Screened photolithographs in Color photography]</p></div></div></a></div>");
       }
       else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj10/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Reading Betita Martínez: a Bibliographic Commemoration of Her Life and Work'/><div class='overlay'><p class='info'>Reading Betita Martínez: a Bibliographic Commemoration of Her Life and Work</p></div></div></a></div>");
+        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj10/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/sjsu-wax-template' alt=''/><div class='overlay'><p class='info'>[Screened photolithographs in Color photography]</p></div></div></a></div>");
       }
 
       
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj11/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>What a joy it was to travel the road of <em>rebeldía</em> (rebellion) by your side. Betita, you leave a legacy so alive with the spirit of social transformation. </p></div><div class='overlay'><p class='info'>Elizabeth ‘Betita’ Martínez: A Chicana Icon Who Brought Joy to Protest - Clarissa Rojas, <em>Politico</em></p></div></div></a></div>");
+      var thumbnailUrl = "http://0.0.0.0:4000/sjsu-wax-template";
+      if (thumbnailUrl == "http://0.0.0.0:4000"+"/sjsu-wax-template") {gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj11/'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>Checkmated</h3> <p>Title from item. Part of series: Comic series. Groups from life. Date supplied by cataloger.</p></div></div><div class='overlay'><p class='info'>Checkmated</p></div></div></a></div>");
       }
       else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj11/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Elizabeth ‘Betita’ Martínez: A Chicana Icon Who Brought Joy to Protest'/><div class='overlay'><p class='info'>Elizabeth ‘Betita’ Martínez: A Chicana Icon Who Brought Joy to Protest</p></div></div></a></div>");
+        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj11/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/sjsu-wax-template' alt=''/><div class='overlay'><p class='info'>Checkmated</p></div></div></a></div>");
       }
 
       
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj12/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>Betita brought race and gender together in a way that had never been done before as regards the Latinx experience.</p></div><div class='overlay'><p class='info'>Quoted in &quot;Elizabeth ‘Betita’ Martínez, Chicana historian, activist and trailblazer, dies in S.F. at 95&quot; - Tony Platt, <em>San Francisco Chronicle</em></p></div></div></a></div>");
+      var thumbnailUrl = "http://0.0.0.0:4000/sjsu-wax-template";
+      if (thumbnailUrl == "http://0.0.0.0:4000"+"/sjsu-wax-template") {gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj12/'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>[Heliographie plates from art in Histoire du duc de Wellington]</h3> <p>Forms part of the David A. Hanson Collection of the History of Photomechanical Reproduction In: Histoire du duc de Wellington / par A. Brialmont. Paris : Tardieu & Tanera ; Bruxelles : E. Guyot et Sta…</p></div></div><div class='overlay'><p class='info'>[Heliographie plates from art in Histoire du duc de Wellington]</p></div></div></a></div>");
       }
       else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj12/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Quoted in &quot;Elizabeth ‘Betita’ Martínez, Chicana historian, activist and trailblazer, dies in S.F. at 95&quot;'/><div class='overlay'><p class='info'>Quoted in &quot;Elizabeth ‘Betita’ Martínez, Chicana historian, activist and trailblazer, dies in S.F. at 95&quot;</p></div></div></a></div>");
+        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj12/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/sjsu-wax-template' alt=''/><div class='overlay'><p class='info'>[Heliographie plates from art in Histoire du duc de Wellington]</p></div></div></a></div>");
       }
 
       
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj13/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>Betita taught my generation to be truth tellers, to really speak about the painful history of what has happened in this country to Latinx people. She was doing multiracial organizing way ahead of her time.</p></div><div class='overlay'><p class='info'>Quoted in &quot;Elizabeth ‘Betita’ Martínez, Chicana historian, activist and trailblazer, dies in S.F. at 95&quot; - Favianna Rodriguez, <em>San Francisco Chronicle</em></p></div></div></a></div>");
+      var thumbnailUrl = "http://0.0.0.0:4000/sjsu-wax-template";
+      if (thumbnailUrl == "http://0.0.0.0:4000"+"/sjsu-wax-template") {gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj13/'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>A new principle in heliochromy</h3> <p></p></div></div><div class='overlay'><p class='info'>A new principle in heliochromy</p></div></div></a></div>");
       }
       else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj13/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Quoted in &quot;Elizabeth ‘Betita’ Martínez, Chicana historian, activist and trailblazer, dies in S.F. at 95&quot;'/><div class='overlay'><p class='info'>Quoted in &quot;Elizabeth ‘Betita’ Martínez, Chicana historian, activist and trailblazer, dies in S.F. at 95&quot;</p></div></div></a></div>");
+        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj13/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/sjsu-wax-template' alt=''/><div class='overlay'><p class='info'>A new principle in heliochromy</p></div></div></a></div>");
       }
 
       
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj14/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>Martínez’s output was remarkable — seven nonfiction books and countless articles — all while working for any number of socialist, anti-war and anti-racism causes. She wrote film reviews, translated a novel from French to English, and even fit in a run for governor on the Peace and Freedom ticket in 1982. </p></div><div class='overlay'><p class='info'>Elizabeth ‘Betita’ Martínez, Chicana historian, activist and trailblazer, dies in S.F. at 95 - Sam Whiting, <em>San Francisco Chronicle</em></p></div></div></a></div>");
+      var thumbnailUrl = "http://0.0.0.0:4000/sjsu-wax-template";
+      if (thumbnailUrl == "http://0.0.0.0:4000"+"/sjsu-wax-template") {gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj14/'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>Catskill Mountain House Souvenir Paperweight Palenville NY</h3> <p>Photo of Catskill Mountain House Souvenir Paperweight. Paperweight dates from 1865-1870.</p></div></div><div class='overlay'><p class='info'>Catskill Mountain House Souvenir Paperweight Palenville NY</p></div></div></a></div>");
       }
       else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj14/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Elizabeth ‘Betita’ Martínez, Chicana historian, activist and trailblazer, dies in S.F. at 95'/><div class='overlay'><p class='info'>Elizabeth ‘Betita’ Martínez, Chicana historian, activist and trailblazer, dies in S.F. at 95</p></div></div></a></div>");
+        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj14/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/sjsu-wax-template' alt=''/><div class='overlay'><p class='info'>Catskill Mountain House Souvenir Paperweight Palenville NY</p></div></div></a></div>");
       }
 
       
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj15/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>A writer and editor who took part in the civil rights movement and was best known during a long life of activism as an outspoken advocate for Mexican American and feminist causes.</p></div><div class='overlay'><p class='info'>Elizabeth Martínez, writer and activist for Chicano and feminist causes, dies at 95 - Matt Schudel, <em>The Washington Post</em></p></div></div></a></div>");
+      var thumbnailUrl = "http://0.0.0.0:4000/sjsu-wax-template";
+      if (thumbnailUrl == "http://0.0.0.0:4000"+"/sjsu-wax-template") {gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj15/'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>Berber water seller, [187]</h3> <p>Slide has printed title: “The Western Orient:” Morocco. G. W. W. Source of the title: Title from caption on mount. Signature/Stamp: Photographer’s credit on slide. #28. Dimensions: Magic lantern slide…</p></div></div><div class='overlay'><p class='info'>Berber water seller, [187]</p></div></div></a></div>");
       }
       else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj15/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Elizabeth Martínez, writer and activist for Chicano and feminist causes, dies at 95'/><div class='overlay'><p class='info'>Elizabeth Martínez, writer and activist for Chicano and feminist causes, dies at 95</p></div></div></a></div>");
+        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj15/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/sjsu-wax-template' alt=''/><div class='overlay'><p class='info'>Berber water seller, [187]</p></div></div></a></div>");
       }
 
       
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj16/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>Elizabeth ‘Betita’ Martínez is a national and international treasure. Her life and work provide a model of internationalism and solidarity, as well as local organizing.</p></div><div class='overlay'><p class='info'>Towards Social Justice: Elizabeth ‘Betita’ Martínez and the Institute for MultiRacial Justice - Chris Crass, <em>Colours of Resistance</em></p></div></div></a></div>");
+      var thumbnailUrl = "http://0.0.0.0:4000/sjsu-wax-template";
+      if (thumbnailUrl == "http://0.0.0.0:4000"+"/sjsu-wax-template") {gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj16/'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>Dreifarbendruck : Aufnahme nach der Natur</h3> <p>von Prof. Dr. A. Miethe Forms part of the David A. Hanson Collection of the History of Photomechanical Reproduction In: Jahrbuch für photographie und reproductionstechnik für das jahr, 1903 / hrsg. vo…</p></div></div><div class='overlay'><p class='info'>Dreifarbendruck : Aufnahme nach der Natur</p></div></div></a></div>");
       }
       else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj16/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Towards Social Justice: Elizabeth ‘Betita’ Martínez and the Institute for MultiRacial Justice'/><div class='overlay'><p class='info'>Towards Social Justice: Elizabeth ‘Betita’ Martínez and the Institute for MultiRacial Justice</p></div></div></a></div>");
+        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj16/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/sjsu-wax-template' alt=''/><div class='overlay'><p class='info'>Dreifarbendruck : Aufnahme nach der Natur</p></div></div></a></div>");
       }
 
       
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj17/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>From writing a manifesto at 16 that included “My mission is to destroy hatred and prejudice” to remaining active into her 80s, Betita modeled lifelong commitment to peoples’ global movements for liberation. She showed us how to be a scholar-organizer; how to mentor with love and rigor, never ceasing to grow your own politics and understanding; and how to dedicate your life to struggle while also cultivating joy and hilarity.</p></div><div class='overlay'><p class='info'>Farewell Betita, great builder of bridges - Catalyst Project, <em>Catalyst Project</em></p></div></div></a></div>");
+      var thumbnailUrl = "http://0.0.0.0:4000/sjsu-wax-template";
+      if (thumbnailUrl == "http://0.0.0.0:4000"+"/sjsu-wax-template") {gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj17/'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>[Halftones from photographs by Alfred Stieglitz and F.P. Cembrano, Jr. in The American amateur photographer]</h3> <p>Forms part of the David A. Hanson Collection of the History of Photomechanical Reproduction In: The American amateur photographer, vol. 5, 1893 / editors : F.C. Beach and Catharine Weed Barnes. New Yo…</p></div></div><div class='overlay'><p class='info'>[Halftones from photographs by Alfred Stieglitz and F.P. Cembrano, Jr. in The American amateur photographer]</p></div></div></a></div>");
       }
       else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj17/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Farewell Betita, great builder of bridges'/><div class='overlay'><p class='info'>Farewell Betita, great builder of bridges</p></div></div></a></div>");
-      }
-
-      
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj18/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>We, I, honor her life, by saying “Gracias, Betita, por todo.” So many of us are forever shaped by her, and – I hope – many more are inspired by all her work and legacy!</p></div><div class='overlay'><p class='info'>Gracias, Betita, por todo - Cindy Wiesner, <em>Convergence</em></p></div></div></a></div>");
-      }
-      else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj18/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Gracias, Betita, por todo'/><div class='overlay'><p class='info'>Gracias, Betita, por todo</p></div></div></a></div>");
-      }
-
-      
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj19/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>Betita showed me how to move with purpose and humility, urgency and patience.</p></div><div class='overlay'><p class='info'>#BetitaTaughtMe: Building and Bridging - Amy Sonnie, <em>Convergence</em></p></div></div></a></div>");
-      }
-      else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj19/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='#BetitaTaughtMe: Building and Bridging'/><div class='overlay'><p class='info'>#BetitaTaughtMe: Building and Bridging</p></div></div></a></div>");
-      }
-
-      
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj20/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>Her lifelong legacy has been to build bridges of solidarity and, you know, have each other's backs.</p></div><div class='overlay'><p class='info'>Quoted in &quot;Remembering Elizabeth Martínez, Chicano Social Justice Activist&quot; - Nancy Hernandez, <em>NPR</em></p></div></div></a></div>");
-      }
-      else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj20/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Quoted in &quot;Remembering Elizabeth Martínez, Chicano Social Justice Activist&quot;'/><div class='overlay'><p class='info'>Quoted in &quot;Remembering Elizabeth Martínez, Chicano Social Justice Activist&quot;</p></div></div></a></div>");
-      }
-
-      
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj21/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>In New Mexico, Martínez shaped a generation of activists. As co-founder of El Grito del Norte, she brought her expertise in writing, editing and publishing to create a radical publication during the height of the Chicano Movement, from 1968-73. During those five years, Martínez worked closely with young activists who would later go on to become leaders and experts in their own right. </p></div><div class='overlay'><p class='info'>Celebrating an Activist Betita Martínez - Sofía Martinez and Divana Olivas, <em>Santa Fe New Mexican</em></p></div></div></a></div>");
-      }
-      else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj21/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Celebrating an Activist Betita Martínez'/><div class='overlay'><p class='info'>Celebrating an Activist Betita Martínez</p></div></div></a></div>");
-      }
-
-      
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj22/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>One of the most important lessons I learned from Betita is to name, understand, and embrace complexity and contradictions. </p></div><div class='overlay'><p class='info'>Betita: Embracing Complexity and Contradiction - Margo Okazawa-Rey, <em>Convergence</em></p></div></div></a></div>");
-      }
-      else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj22/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Betita: Embracing Complexity and Contradiction'/><div class='overlay'><p class='info'>Betita: Embracing Complexity and Contradiction</p></div></div></a></div>");
-      }
-
-      
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj23/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>No matter what city or town or part of the country Betita lived in, she made special contributions and created life-long memories. One of her greatest assets was her ability to inspire and mentor young people. Here in New Mexico she passed on her knowledge and skills to scores of <em>jovenes</em> in the Movimiento Chicano.</p></div><div class='overlay'><p class='info'>Betita Carved Out a Special Place in Northern New Mexico - Adelita Michelle Medina, <em>Convergence</em></p></div></div></a></div>");
-      }
-      else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj23/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Betita Carved Out a Special Place in Northern New Mexico'/><div class='overlay'><p class='info'>Betita Carved Out a Special Place in Northern New Mexico</p></div></div></a></div>");
-      }
-
-      
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj24/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>She was the toughest leftist I've ever known, never without a sheaf of leaflets, but she was also delighted by how the Beatles in A Hard Day’s Night celebrated the “sweet parade” of life – “parading the streets, trailing their coats, bowling along and living!”</p></div><div class='overlay'><p class='info'>The Work Said Who I Was”: Elizabeth “Betita” Sutherland Martínez (1925-2021) - Tony Platt, <em>La Voz de Esperanza</em></p></div></div></a></div>");
-      }
-      else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj24/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='The Work Said Who I Was”: Elizabeth “Betita” Sutherland Martínez (1925-2021)'/><div class='overlay'><p class='info'>The Work Said Who I Was”: Elizabeth “Betita” Sutherland Martínez (1925-2021)</p></div></div></a></div>");
-      }
-
-      
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj25/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>Her vast experience organizing, her movement journalism, her bringing people together to build movement together, all of this was so incredible. And it was also her deep belief in young people and encouragement to experiment and grow.</p></div><div class='overlay'><p class='info'>Honoring the Passing of Elizabeth Betita Martínez (2021) - Chris Crass, <em>Anarres Project for Alternative Futures</em></p></div></div></a></div>");
-      }
-      else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj25/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Honoring the Passing of Elizabeth Betita Martínez (2021)'/><div class='overlay'><p class='info'>Honoring the Passing of Elizabeth Betita Martínez (2021)</p></div></div></a></div>");
-      }
-
-      
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj26/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>Betita Martínez and I were like combatants in a fox hole. We were two Mexicana's who worked for the Student Non-Violent Coordinating Committee in the early to mid-60's.</p></div><div class='overlay'><p class='info'>Neither Black Nor White In The Black-White World Of The 1960&#39;s Civil Rights Movement - Maria Varela, <em>Veterans of the Civil Rights Movement</em></p></div></div></a></div>");
-      }
-      else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj26/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Neither Black Nor White In The Black-White World Of The 1960&#39;s Civil Rights Movement'/><div class='overlay'><p class='info'>Neither Black Nor White In The Black-White World Of The 1960&#39;s Civil Rights Movement</p></div></div></a></div>");
-      }
-
-      
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj27/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>I could never repay her for all that she has given me in terms of political insight, courage, <em>corazon</em>, and love for our <em>gente</em>. But I can pass these gifts on to others. That is exactly what Betita would want.</p></div><div class='overlay'><p class='info'>Betita Martínez as Remembered by Marta Lopez-Garza - Marta Lopez-Garza, <em>Veterans of the Civil Rights Movement</em></p></div></div></a></div>");
-      }
-      else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj27/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='Betita Martínez as Remembered by Marta Lopez-Garza'/><div class='overlay'><p class='info'>Betita Martínez as Remembered by Marta Lopez-Garza</p></div></div></a></div>");
-      }
-
-      
-      var thumbnailUrl = "http://0.0.0.0:4000/betita";
-      if (thumbnailUrl == "http://0.0.0.0:4000"+"/betita") {
-        console.log("no thumb");gallery.append("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj28/'><div class='hovereffect'><div class ='gallery_excerpt'><p class='excerpt_text'>Martínez made a splash wherever she landed, whether at the helm of <em>El Grito del Norte</em> in Española, New Mexico, or during creative stints in New York and San Francisco, or in her political work that sent her far and wide.</p></div><div class='overlay'><p class='info'>&quot;The heart insists on it.&quot; Odes to Betita Martínez, the Chicana pioneer dedicated to political activism - Annika Hom, <em>Mission Local</em></p></div></div></a></div>");
-      }
-      else {
-        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/betita/martinez/obj28/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/betita' alt='&quot;The heart insists on it.&quot; Odes to Betita Martínez, the Chicana pioneer dedicated to political activism'/><div class='overlay'><p class='info'>&quot;The heart insists on it.&quot; Odes to Betita Martínez, the Chicana pioneer dedicated to political activism</p></div></div></a></div>");
+        console.log("thumb");gallery.append("<div class='gallery-item thumb  all'><a href='http://0.0.0.0:4000/sjsu-wax-template/template/obj17/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://0.0.0.0:4000/sjsu-wax-template' alt=''/><div class='overlay'><p class='info'>[Halftones from photographs by Alfred Stieglitz and F.P. Cembrano, Jr. in The American amateur photographer]</p></div></div></a></div>");
       }
 
       
@@ -379,8 +261,8 @@
   <div class='wax-inline-container'>
     <div class='row'>
       <div class='col'>
-        <p class='footer-title title-big'>Betita Martínez</p>
-        <p class='footer-description'>A Memorial Exhibit</p>
+        <p class='footer-title title-big'>Exhibit Template</p>
+        <p class='footer-description'>A Template for Wax Exhibits at the SJSU Library</p>
         <p class='footer-copyright'>
           Built with <a href='https://github.com/minicomp/wax/'>Minicomp/Wax</a>
           <br/><br/>
@@ -389,7 +271,7 @@
             <br />
             This exhibit is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
             <br/>
-             For more information about included or referenced material see our <a href="http://0.0.0.0:4000/betita/reuse"> Reuse </a> page.
+             For more information about included or referenced material see our <a href="http://0.0.0.0:4000/sjsu-wax-template/reuse"> Reuse </a> page.
 
         </p>
       </div>
@@ -409,14 +291,11 @@
           
         </p>
         <hr/>
-        <p class='footer-aaacna'>
-          <a href='https://library.sjsu.edu/africana-asian-american-chicano-native-american-studies-center/africana-asian-american-chicano'>SJSU Africana, Asian American, Chicano, & Native American Studies Center</a>
-          </p>
         <p class='footer-logos'>
           
           
-          <a href="http://0.0.0.0:4000/betita/" aria-label="Logo link to resource">
-            <img src='http://0.0.0.0:4000/betita/img/logo-sjsu.png' alt="logo"/>
+          <a href="http://0.0.0.0:4000/sjsu-wax-template/" aria-label="Logo link to resource">
+            <img src='http://0.0.0.0:4000/sjsu-wax-template/img/logo-sjsu.png' alt="logo"/>
           </a>
           
         </p>
@@ -427,6 +306,6 @@
 
   </body>
 
-  <script type='text/javascript' async defer src='http://0.0.0.0:4000/betita/assets/bootstrap/bootstrap.min.js'></script>
-  <script type='text/javascript' async defer src='http://0.0.0.0:4000/betita/assets/popper.min.js'></script>
+  <script type='text/javascript' async defer src='http://0.0.0.0:4000/sjsu-wax-template/assets/bootstrap/bootstrap.min.js'></script>
+  <script type='text/javascript' async defer src='http://0.0.0.0:4000/sjsu-wax-template/assets/popper.min.js'></script>
 </html>

@@ -1,21 +1,21 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "http://0.0.0.0:4000/betita/img/derivatives/iiif/images/obj1",
+  "@id": "http://0.0.0.0:4000/sjsu-wax-template/img/derivatives/iiif/images/obj1",
   "protocol": "http://iiif.io/api/image",
-  "width": 3661,
-  "height": 5180,
+  "width": 2000,
+  "height": 1605,
   "sizes": [
     {
-      "width": 3661,
-      "height": 5180
+      "width": 2000,
+      "height": 1605
     },
     {
       "width": 250,
-      "height": 354
+      "height": 201
     },
     {
       "width": 1140,
-      "height": 1613
+      "height": 915
     }
   ],
   "profile": [

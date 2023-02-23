@@ -10,27 +10,22 @@ banner:
 ---
 
 <div class="feature-cards-container">
-<a class='card-link' href="explore/memorials/">
+<a class='card-link' href="explore/">
   <div class="feature-card">
-    <h3 class="card-header">Memorials</h3>
+    <h3 class="card-header">Featured Content</h3>
       <p class="card-text">
-      A collection of tributes, obituaries, and memorials
+      Featured content, edited in index.md
       </p>
     </div>
     </a>
 
 
-    <a class='card-link' href="explore/bibliography/">
-    <div class="feature-card">
-      <h3 class="card-header">Bibliography</h3>
-        <p class="card-text">
-        Selections from Betita Martínez's prolific writings
-        </p>
-    </div>
+    <a class='card-link' href="explore/">
+      <div class="feature-card">
+        <h3 class="card-header">Featured Content</h3>
+          <p class="card-text">
+          Featured content, edited in index.md
+          </p>
+        </div>
       </a>
-</div>
-<div class='timeline-embed full-width'>
-  <div class='timeline-inner'>
-{% include timeline.html %}
-  </div>
 </div>
