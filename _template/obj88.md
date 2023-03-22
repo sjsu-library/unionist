@@ -23,8 +23,9 @@ article.type:
 volume: '1'
 issue: '6'
 transcription: When the spirit of Christianity shall exert its proper influence over
-  the mindsof individuals, and especially over the minds of public men in their publiccapacities,<em>War</em>will
-  cease throughout the Christian World.—<em>Bishop Watson.</em>
+  the minds<br>of individuals, and especially over the minds of public men in their
+  public<br>capacities,<br><em>War</em>will cease throughout the Christian World.—<br><em>Bishop
+  Watson.</em>
 Scholarly Notes: 
 Commentary: '<p><br>  This quote (paraphrased here) made the rounds of the Peace Movement
   in the 19<br>  <sup>th</sup><br>  century. Bishop Richard Watson of Llandaff (1737-1816)

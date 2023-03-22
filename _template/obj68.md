@@ -19,10 +19,10 @@ category: Unionist full issue 1833-08-08
 article.type: 
 volume: '1'
 issue: '2'
-transcription: A BOARDING-HOUSE is established at the corner of<em>Cedar-street and
-  Broadway,</em>nearly opposite the City Hotel, conducted on the principles of Temperancerecommended
-  in the lectures of Mr. Graham, and extending to diet and regimen aswell as beverage.
-  Transient boarders from the country can beaccommodated.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New
+transcription: A BOARDING-HOUSE is established at the corner of<br><em>Cedar-street
+  and Broadway,</em>nearly opposite the City Hotel, conducted on the principles of
+  Temperance<br>recommended in the lectures of Mr. Graham, and extending to diet and
+  regimen as<br>well as beverage. Transient boarders from the country can be<br>accommodated.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>New
   York.
 Scholarly Notes: 
 Commentary: Boarding houses that did not serve alcohol became central to the travels

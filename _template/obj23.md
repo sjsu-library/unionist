@@ -19,17 +19,17 @@ category: Unionist full issue 1833-08-08
 article.type: 
 volume: '1'
 issue: '2'
-transcription: <p align="center">THE UNIONIST.</p> <p align="center">BROOKLYN, AUGUST
-  8, 1833.</p><p>(“Arched Dialogue with the <em>Advertiser” </em>part one), <em>The
-  Unionist </em>August 8, 1833, 1:2:2, column 1-2.</p><p>The Advertiser has taken
-  us to task quite severely, for what, with his moral accuracy, he calls our “false
-  pretences” or “gross inconsistency.” The irresistible reasoning, by which he arrives
-  at a conclusion so unfavorable to us, deserves a passing notice. After quoting from
-  our prospectus, a sentence showing our disapprobation of the dominant party in our
-  last Legislature, he goes on with the confident air of a man who thinks he cannot
-  be mistaken, “what is this but an acknowledged preference for, and a devotion to
-  a political party?” How conclusive! Because we disapprove one political party, we
-  must necessarily—not merely approve, but be <em>devoted</em> to another. Because
+transcription: <p align="center">THE UNIONIST.</p> <br><p align="center">BROOKLYN,
+  AUGUST 8, 1833.</p><p>(“Arched Dialogue with the <em>Advertiser” </em>part one),
+  <em>The Unionist </em>August 8, 1833, 1:2:2, column 1-2.</p><p>The Advertiser has
+  taken us to task quite severely, for what, with his moral accuracy, he calls our
+  “false pretences” or “gross inconsistency.” The irresistible reasoning, by which
+  he arrives at a conclusion so unfavorable to us, deserves a passing notice. After
+  quoting from our prospectus, a sentence showing our disapprobation of the dominant
+  party in our last Legislature, he goes on with the confident air of a man who thinks
+  he cannot be mistaken, “what is this but an acknowledged preference for, and a devotion
+  to a political party?” How conclusive! Because we disapprove one political party,
+  we must necessarily—not merely approve, but be <em>devoted</em> to another. Because
   we have expressed a hope that one party will not reign long, “it follows” that we
   shall endeavor to transfer the rule to another. Admirable logic!</p><p>To the Advertiser’s
   assertion that the paper originated in party feeling and from unworthy motives,

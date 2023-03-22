@@ -22,12 +22,13 @@ issue: '6'
 transcription: <p align="center"><strong>The Unionist.</strong></p><p align="center">Published
   Every Thursday Morning,</p><p align="center"><strong>Brooklyn, Conn. (sic)</strong></p><p
   align="center">Charles C. Burleigh,</p><p align="center">Editor and Publisher</p><p>  TERMS.—Mail
-  Subscribers Two Dollars, in advance.&nbsp; Delivered by Stage or  Post one dollar
-  and seventy-five cents.&nbsp; Those taken at the office, one  dollar and fifty cents.</p><p>  Any
-  person becoming responsible for eight copies shall receive one copy  gratis.</p><p>  No
-  paper will be discontinued till arrearages are paid, except at the  discretion of
-  the publisher.</p><p>Advertisements inserted at the usual prices.</p><p>All communications
-  must be addressed to the Editor, post paid.</p>
+  Subscribers Two Dollars, in advance.&nbsp; Delivered by Stage or<br>  Post one dollar
+  and seventy-five cents.&nbsp; Those taken at the office, one<br>  dollar and fifty
+  cents.<br></p><p>  Any person becoming responsible for eight copies shall receive
+  one copy<br>  gratis.<br></p><p>  No paper will be discontinued till arrearages
+  are paid, except at the<br>  discretion of the publisher.<br></p><p>Advertisements
+  inserted at the usual prices.</p><p>All communications must be addressed to the
+  Editor, post paid.</p>
 Scholarly Notes: this copy has name John McLellan at the top - possibly this John
   McLellan from Maine - https://www.findagrave.com/memorial/120495372/john-mclellan
 Commentary: This copy is held at the American Antiquarian Society. The motto remains

@@ -20,16 +20,16 @@ article.type:
 volume: '1'
 issue: '2'
 transcription: <p align="center"><strong>Prudence Crandall</strong></p><p align="center">  Principal
-  of the Canterbury, (Con.) Female Boarding School.</p><p>  RETURNS her most sincere
-  thanks for those who have patronized her School, and  would give information that
-  on the first Monday of April next, her School will  be opened for the reception
-  of young Ladies and little Misses of color.&nbsp;  The branches taught are as follows:—Reading,
-  Writing, Arithmetic, English  Grammar, Geography, History, Natural and Moral Philosophy,
-  Chemistry,  Astronomy, Drawing and Painting, Music on the Piano, together with the
-  French  language.</p><p>  ☞The terms, including  <em>board, washing</em>  , and
-  tuition, are $25 per quarter, one half paid in advance.</p><p>☞Books and Stationary
-  will be furnished on the most reasonable terms.</p><p>  For information respecting
-  the School, reference may be made to the following  gentlemen, viz.—</p><p>Arthur
+  of the Canterbury, (Con.) Female Boarding School.<br></p><p>  RETURNS her most sincere
+  thanks for those who have patronized her School, and<br>  would give information
+  that on the first Monday of April next, her School will<br>  be opened for the reception
+  of young Ladies and little Misses of color.&nbsp;<br>  The branches taught are as
+  follows:—Reading, Writing, Arithmetic, English<br>  Grammar, Geography, History,
+  Natural and Moral Philosophy, Chemistry,<br>  Astronomy, Drawing and Painting, Music
+  on the Piano, together with the French<br>  language.<br></p><p>  ☞The terms, including<br>  <em>board,
+  washing</em>  , and tuition, are $25 per quarter, one half paid in advance.<br></p><p>☞Books
+  and Stationary will be furnished on the most reasonable terms.</p><p>  For information
+  respecting the School, reference may be made to the following<br>  gentlemen, viz.—<br></p><p>Arthur
   Tappan, Esq. - N. York City</p><p>Rev. Peter Williams, ( - N. York City)</p><p>Rev.
   Theodore Raymond, ( - N. York City)</p><p>Rev. Theodore Wright, ( - N. York City)</p><p>Rev.
   Samuel C. Cornish, ( - N. York City)</p><p>Rev. George Bourne, ( - N. York City)</p><p>Rev.

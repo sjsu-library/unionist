@@ -19,13 +19,13 @@ category: Unionist content republished
 article.type: 
 volume: '1'
 issue: '7'
-transcription: "<p>“O! SHAME! SHAME!!”</p><p>  ☞“The following paragraph is  extracted
-  from the Unionist of last week:” </p><p>  “’The laudable efforts of the Canterbury
-  worthies to drive Miss Crandall from  her purpose, by withholding from her the necessaries
-  of life, will have the  effect to perpetuate their own well earned fame, if not
-  to attain its primary  object. The latest measure which we have heard of their adopting,
-  is the  FILLING MISS C’S WELL WITH MANURE FROM THE BARNYARD,  <em>and then refusing
-  to give her water from their own wells.’”</em></p>"
+transcription: "<p>“O! SHAME! SHAME!!”</p><p>  ☞“The following paragraph is<br>  extracted
+  from the Unionist of last week:” <br></p><p>  “’The laudable efforts of the Canterbury
+  worthies to drive Miss Crandall from<br>  her purpose, by withholding from her the
+  necessaries of life, will have the<br>  effect to perpetuate their own well earned
+  fame, if not to attain its primary<br>  object. The latest measure which we have
+  heard of their adopting, is the<br>  FILLING MISS C’S WELL WITH MANURE FROM THE
+  BARNYARD,<br>  <em>and then refusing to give her water from their own wells.’”</em></p>"
 Scholarly Notes: 
 Commentary: 
 order: '004'

@@ -20,7 +20,7 @@ article.type:
 volume: '1'
 issue: '6'
 transcription: The sense to conduct is worth every other part of it; for great abilities
-  aremore frequently possessed, than properly applied.
+  are<br>more frequently possessed, than properly applied.<br>
 Scholarly Notes: 
 Commentary: 
 order: '090'

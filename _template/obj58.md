@@ -20,11 +20,11 @@ article.type:
 volume: '1'
 issue: '2'
 transcription: <p align="center">ROBERTS &amp; WOODBERRY</p><p align="center">IMPORTERS
-  OF</p><p align="center">HARDWARE AND CUTLERY.</p><p align="center">  (  <em>No.</em>  5.  <em>Union-street,
-  Boston.</em>  )</p><p>  Have on hand a full assortment of Hardware and Cutlery,
-  of English manufacture  which they offer for sale on the most reasonable terms,
-  at wholesale and  retail.</p><p>Orders from the country will be executed with promptness
-  and fidelity.</p>
+  OF</p><p align="center">HARDWARE AND CUTLERY.</p><p align="center">  (<br>  <em>No.</em>  5.<br>  <em>Union-street,
+  Boston.</em>  )<br></p><p>  Have on hand a full assortment of Hardware and Cutlery,
+  of English manufacture<br>  which they offer for sale on the most reasonable terms,
+  at wholesale and<br>  retail.<br></p><p>Orders from the country will be executed
+  with promptness and fidelity.</p>
 Scholarly Notes: 
 Commentary: 
 order: '057'

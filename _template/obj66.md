@@ -20,7 +20,7 @@ article.type:
 volume: '1'
 issue: '2'
 transcription: "<p>WOOL, LEATHER and HIDES.</p><p>  For sale, by BENSON &amp; CHACE,
-  No. 12 Westminster-street, Providence, R.I.</p><p></p>"
+  No. 12 Westminster-street, Providence, R.I.<br></p><p></p>"
 Scholarly Notes: 
 Commentary: Benson and Chace were both Abolitionists.
 order: '065'

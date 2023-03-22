@@ -21,19 +21,19 @@ article.type:
 volume: '1'
 issue: '6'
 transcription: We are told in the last Advertiser, that the counsel for Miss Crandall
-  in therecent trial, “spoke like men who were paid for it,” but that Messrs. Judson
-  andWelch “spoke<em>“con amore.”</em>If Messrs. Ellsworth and Strong argue so powerfully
-  and conclusively merely forpay, what, we may well ask,<em>would they do</em>if they
-  should speak<em>“con amore.</em>” We have no wish to underrate the merits of the
-  counsel for the prosecution; wedoubt not they did their best. The gentleman who
-  closed we would allude to inparticular as having displayed ability and ingenuity
-  worthy of a better cause.True we could not but think he in some instances approached
-  nearer to coarsness[sic] and vulgarity than was altogether seemly under existing
-  circumstances, butconsidering he was “trammeled by a bad cause,” he certainly acquitted
-  himselfvery creditably. But were we desirous of eulogizing him and his colleague,
-  wewould not accuse them of arguing such a cause<em>“con amore”</em>or represent
-  them as having on that occasion exhibited “logical precision, andelegance of language
-  unusual even to themselves.”
+  in the<br>recent trial, “spoke like men who were paid for it,” but that Messrs.
+  Judson and<br>Welch “spoke<br><em>“con amore.”</em>If Messrs. Ellsworth and Strong
+  argue so powerfully and conclusively merely for<br>pay, what, we may well ask,<br><em>would
+  they do</em>if they should speak<br><em>“con amore.</em>” We have no wish to underrate
+  the merits of the counsel for the prosecution; we<br>doubt not they did their best.
+  The gentleman who closed we would allude to in<br>particular as having displayed
+  ability and ingenuity worthy of a better cause.<br>True we could not but think he
+  in some instances approached nearer to coarsness<br>[sic] and vulgarity than was
+  altogether seemly under existing circumstances, but<br>considering he was “trammeled
+  by a bad cause,” he certainly acquitted himself<br>very creditably. But were we
+  desirous of eulogizing him and his colleague, we<br>would not accuse them of arguing
+  such a cause<br><em>“con amore”</em>or represent them as having on that occasion
+  exhibited “logical precision, and<br>elegance of language unusual even to themselves.”<br>
 Scholarly Notes: 
 Commentary: 
 order: '095'

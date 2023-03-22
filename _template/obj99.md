@@ -20,10 +20,10 @@ article.type:
 volume: '1'
 issue: '6'
 transcription: A meeting of the “Anti-Slavery Society of Plainfield and its vicinity,”
-  will beholden at the Central Factory school house in Plainfield on WEDNESDAY the
-  11stinst., at half past six, P.M.&nbsp; An address is (is-sic error) expected fromRev.
-  S.J. MAY&nbsp; Ladies and gentlemen who feel an interest in the cause, arerespectfully
-  invited to attend.
+  will be<br>holden at the Central Factory school house in Plainfield on WEDNESDAY
+  the 11st<br>inst., at half past six, P.M.&nbsp; An address is (is-sic error) expected
+  from<br>Rev. S.J. MAY&nbsp; Ladies and gentlemen who feel an interest in the cause,
+  are<br>respectfully invited to attend.<br>
 Scholarly Notes: 
 Commentary: 
 order: '098'

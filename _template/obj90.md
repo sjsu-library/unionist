@@ -19,7 +19,7 @@ category: Unionist full issue 1833-08-08
 article.type: 
 volume: '1'
 issue: '6'
-transcription: The latter part of a wise man’s life is taken up in curing the follies,prejudices
+transcription: The latter part of a wise man’s life is taken up in curing the follies,<br>prejudices
   and false opinions he had contracted in the former.
 Scholarly Notes: 
 Commentary: 

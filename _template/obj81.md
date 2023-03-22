@@ -20,15 +20,15 @@ article.type:
 volume: '1'
 issue: '6'
 transcription: TATTLING. “He that keepeth his mouth, keepeth his life.” It is very
-  common foryoung persons to tell every thing they hear, whether they have any grounds
-  forthe belief of what they hear or not. To the injury of an individual somethingmay
-  be said and spread abroad, when there is not the least shadow of truth inthe story.
-  And it is against this species of tattling which I wish to guardmankind. The wise
-  man knew how prone the world was to this sin when he said,—“hethat keepeth his mouth
-  keepeth his life.” And truly that person who is carefulwhat he says—especially when
-  he knows it is in his power to injure the characterof a person, or thwart any of
-  his purposes—acts up to the proverb, and gains theesteem and friendship of his fellows.—<em>Juvenile
-  Watchman</em>
+  common for<br>young persons to tell every thing they hear, whether they have any
+  grounds for<br>the belief of what they hear or not. To the injury of an individual
+  something<br>may be said and spread abroad, when there is not the least shadow of
+  truth in<br>the story. And it is against this species of tattling which I wish to
+  guard<br>mankind. The wise man knew how prone the world was to this sin when he
+  said,—“he<br>that keepeth his mouth keepeth his life.” And truly that person who
+  is careful<br>what he says—especially when he knows it is in his power to injure
+  the character<br>of a person, or thwart any of his purposes—acts up to the proverb,
+  and gains the<br>esteem and friendship of his fellows.—<br><em>Juvenile Watchman</em>
 Scholarly Notes: 
 Commentary: 
 order: '080'

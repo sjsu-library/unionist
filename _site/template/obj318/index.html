@@ -28,7 +28,7 @@
 
 
   <body>
-    <time datetime='2023-03-22 04:33'></time>
+    <time datetime='2023-03-22 05:46'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
     <a class='navbar-brand' href="http://0.0.0.0:4000/unionist/" title='Home'>
@@ -103,37 +103,14 @@
     
       
 
-<div id="osd" class="image-viewer"></div>
-<script defer src="http://0.0.0.0:4000/unionist/assets/openseadragon/openseadragon.min.js"></script>
-<script>
-  $(document).ready(function () {
-    var manifestUrl = "";
-    if (manifestUrl == "http://0.0.0.0:4000"+"/unionist" || manifestUrl=="") {
+<div id="osd" class="image-viewer">
+  <div class="excerpt">
+    <div class="excerpt-inner">
+    <em>Temperance Document</em>—Rob’t K. Greenville Edinburgh, has prepared a document regarding the moral and<br>physical properties of ardent spirits, embodying a most unequivocal testimony<br>against them from upwards of four hundred and forty of the most eminent<br>physicians in Scotland, England and Ireland. This document without suggesting<br>any measures in regard to the pernicious liquids, has been submitted to the<br>consideration of the members of both houses of Parliament.<br>
+    </div>
+  </div>
+</div>
 
-
-    }
-    else {
-
-    $.getJSON(manifestUrl, function(data) {
-      var tileSources = [];
-      $.each(data.sequences[0].canvases, function(_k, val) {
-        tileSources.push({
-          tileSource: val.images[0].resource.service['@id'] + '/info.json',
-          referenceStripThumbnailUrl: val.thumbnail
-        });
-      });
-      OpenSeadragon({
-        id: "osd",
-        preload: true,
-        sequenceMode: true,
-        prefixUrl: "http://0.0.0.0:4000/unionist/assets/openseadragon/images/",
-        tileSources: tileSources,
-        showReferenceStrip: true,
-      });
-    });
-  }//end else
-  });
-</script>
 
 
     
@@ -311,6 +288,10 @@
     
 
     
+    
+      
+        <dt>Transcription</dt>
+        <dd><em>Temperance Document</em>—Rob’t K. Greenville Edinburgh, has prepared a document regarding the moral and<br>physical properties of ardent spirits, embodying a most unequivocal testimony<br>against them from upwards of four hundred and forty of the most eminent<br>physicians in Scotland, England and Ireland. This document without suggesting<br>any measures in regard to the pernicious liquids, has been submitted to the<br>consideration of the members of both houses of Parliament.<br></dd>
     
   
 </dl>

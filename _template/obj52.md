@@ -21,10 +21,10 @@ article.type:
 volume: '1'
 issue: '2'
 transcription: "<em>Black Laws.—</em>The Charleston Mercury says, that South Carolina
-  has a law identical with thatrecently passed in Connecticut, relating to instructing
-  colored children, andcensures the authorities for its non-execution. It seems, therefore,
-  that thelaw savors too much of barbarism, to be enforced, even in the slave holdingState
-  of South Carolina.”<em>N.E. Review</em>"
+  has a law identical with that<br>recently passed in Connecticut, relating to instructing
+  colored children, and<br>censures the authorities for its non-execution. It seems,
+  therefore, that the<br>law savors too much of barbarism, to be enforced, even in
+  the slave holding<br>State of South Carolina.”<br><em>N.E. Review</em>"
 Scholarly Notes: 
 Commentary: 
 order: '051'

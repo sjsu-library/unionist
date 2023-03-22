@@ -20,10 +20,10 @@ article.type:
 volume: '1'
 issue: '2'
 transcription: "“The Blue Laws of Connecticut have become Black. We learn from the
-  NorwichCourier, that Miss Prudence Crandall was arrested on Thursday for the heinousoffence,
-  in the eye of the Connecticut law-givers, of instructing a few coloredgirls not
-  belonging to the State. Not obtaining bonds, she was committed tojail.”—<em>Worcester
-  Yeoman.</em>"
+  Norwich<br>Courier, that Miss Prudence Crandall was arrested on Thursday for the
+  heinous<br>offence, in the eye of the Connecticut law-givers, of instructing a few
+  colored<br>girls not belonging to the State. Not obtaining bonds, she was committed
+  to<br>jail.”—<br><em>Worcester Yeoman.</em>"
 Scholarly Notes: 
 Commentary: 
 order: '044'

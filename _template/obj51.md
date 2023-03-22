@@ -20,14 +20,14 @@ article.type:
 volume: '1'
 issue: '2'
 transcription: "<em>The Land of the Free!”</em>—A Miss Crandall established, some
-  months since, at Canterbury, Conn., a schoolfor the instruction of colored children
-  and youth. Praiseworthy as the motivesof this benevolent female in undertaking to
-  improve the condition of thechildren of this unfortunate and degraded class of our
-  population, may beconsidered, she soon found herself seriously opposed by the good
-  people in thevicinity, who went so far as to memorialize the Legislature on the
-  subject. TheLegislature complied with the petition of the memorialists, and passed
-  an act,making it<em>  unlawful to instruct children of color from any other state!”
-  – Batavia,  (New-York) Advocate.”</em>"
+  months since, at Canterbury, Conn., a school<br>for the instruction of colored children
+  and youth. Praiseworthy as the motives<br>of this benevolent female in undertaking
+  to improve the condition of the<br>children of this unfortunate and degraded class
+  of our population, may be<br>considered, she soon found herself seriously opposed
+  by the good people in the<br>vicinity, who went so far as to memorialize the Legislature
+  on the subject. The<br>Legislature complied with the petition of the memorialists,
+  and passed an act,<br>making it<br><em>  unlawful to instruct children of color
+  from any other state!” – Batavia,<br>  (New-York) Advocate.”<br></em>"
 Scholarly Notes: 
 Commentary: 
 order: '050'

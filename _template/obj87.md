@@ -20,9 +20,10 @@ article.type:
 volume: '1'
 issue: '6'
 transcription: At an election for Senator, in Marion and Hamilton counties, Indiana,
-  Morris andMorrison were the opposing candidates—two thousand thirty-five votes werepolled.
-  In one county Morris had a majority of<em>nine</em>votes, in the other county Morrison
-  had a majority of<em>ten</em>votes, and of course was elected by a majority of<em>one.</em>
+  Morris and<br>Morrison were the opposing candidates—two thousand thirty-five votes
+  were<br>polled. In one county Morris had a majority of<br><em>nine</em>votes, in
+  the other county Morrison had a majority of<br><em>ten</em>votes, and of course
+  was elected by a majority of<br><em>one.</em>
 Scholarly Notes: 
 Commentary: 
 order: '086'

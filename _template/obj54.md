@@ -20,12 +20,12 @@ article.type:
 volume: '1'
 issue: '2'
 transcription: JUVENILE INTREPEDITY. On Monday afternoon last, a child of four years
-  of age,fell from the wharf at the foot of Northmore street into the water; ThomasBennet,
-  a lad fourteen years old, immediately jumped overboard with all hisclothes on to
-  rescue him. He succeeded in reaching the child, swam with him to asloop, and held
-  on until assistance arrived. It is seldom we record conductevincing so much courage
-  and coolness, and still more to find it in the case ofa mere lad. He deserves much
-  credit.—<em>N.Y. Standard</em>
+  of age,<br>fell from the wharf at the foot of Northmore street into the water; Thomas<br>Bennet,
+  a lad fourteen years old, immediately jumped overboard with all his<br>clothes on
+  to rescue him. He succeeded in reaching the child, swam with him to a<br>sloop,
+  and held on until assistance arrived. It is seldom we record conduct<br>evincing
+  so much courage and coolness, and still more to find it in the case of<br>a mere
+  lad. He deserves much credit.—<br><em>N.Y. Standard</em>
 Scholarly Notes: 
 Commentary: 
 order: '053'

@@ -21,12 +21,12 @@ article.type:
 volume: '1'
 issue: '6'
 transcription: 'There are those to whom a sense of religion has come in storm and
-  tempest: thereare those whom it has summoned amid scenes of revelry and idle vanity:
-  there arethose, too, who have heard its ‘still small voice’ amid rural leisure and
-  placidcontentment; but perhaps the knowledge which causeth not to err, is mostfrequently
-  impressed upon the mind during seasons of affliction; and tears arethe softened
-  showers which cause the seed of heaven to spring and take root inthe human breast.—<em>Walter
-  Scott</em>'
+  tempest: there<br>are those whom it has summoned amid scenes of revelry and idle
+  vanity: there are<br>those, too, who have heard its ‘still small voice’ amid rural
+  leisure and placid<br>contentment; but perhaps the knowledge which causeth not to
+  err, is most<br>frequently impressed upon the mind during seasons of affliction;
+  and tears are<br>the softened showers which cause the seed of heaven to spring and
+  take root in<br>the human breast.—<br><em>Walter Scott</em>'
 Scholarly Notes: 'Walter Scott, <em>The Monastery</em>, in Three Volumes, Vol. III
   (Edinburgh: Longman, Hurst, Rees, Orme, and Brown, 1820), p. 137'
 Commentary: This quote is still included in online quote data bases today

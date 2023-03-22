@@ -20,17 +20,17 @@ article.type:
 volume: '1'
 issue: '6'
 transcription: THE SENSES FALLIBLE WITNESSES.—When we bathe in the sea, or in a cold
-  bath, weare accustomed to consider the water as colder than the air, and the air
-  colderthan the clothes which surround us. Now all these objects are, in fact, the
-  sametemperature. A thermometer surrounded by the cloth of our coast or suspended
-  inthe atmosphere, or immersed in the sea, will stand at the same temperature. Alinen
-  shirt, when first put on, will feel colder than a cotton one, and aflannel shirt
-  will actually feel warm; yet all these have the same temperature.The sheets of the
-  bed feel cold, and the blankets warm; the blankets and sheets,however, are equally
-  warm. A still, calm atmosphere in summer, feels warm, butif a wind arises the same
-  atmosphere feels cool. Now, a thermometer suspendedunder shelter, and in a calm
-  place, will indicate exactly the same temperatureas a thermometer on which the wind
-  blows.
+  bath, we<br>are accustomed to consider the water as colder than the air, and the
+  air colder<br>than the clothes which surround us. Now all these objects are, in
+  fact, the same<br>temperature. A thermometer surrounded by the cloth of our coast
+  or suspended in<br>the atmosphere, or immersed in the sea, will stand at the same
+  temperature. A<br>linen shirt, when first put on, will feel colder than a cotton
+  one, and a<br>flannel shirt will actually feel warm; yet all these have the same
+  temperature.<br>The sheets of the bed feel cold, and the blankets warm; the blankets
+  and sheets,<br>however, are equally warm. A still, calm atmosphere in summer, feels
+  warm, but<br>if a wind arises the same atmosphere feels cool. Now, a thermometer
+  suspended<br>under shelter, and in a calm place, will indicate exactly the same
+  temperature<br>as a thermometer on which the wind blows.
 Scholarly Notes: 
 Commentary: 
 order: '078'

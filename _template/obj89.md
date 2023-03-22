@@ -23,8 +23,8 @@ article.type:
 volume: '1'
 issue: '6'
 transcription: Never did any soul do good, but it came readier to do the same again,
-  with moreenjoyment. Never was love or gratitude, or bounty practiced but with increasingjoy,
-  which made the practice still more in love with the fair act.—<em>Shaftsbury.</em>
+  with more<br>enjoyment. Never was love or gratitude, or bounty practiced but with
+  increasing<br>joy, which made the practice still more in love with the fair act.—<br><em>Shaftsbury.</em>
 Scholarly Notes: 
 Commentary: 'The Earl of Shaftesbury, Anthony Ashley-Cooper, Characteristicks of Men,<br>Manners,
   Opinions, Times. , Volume II. Containing An Inquiry concerning Virtue<br>and Merit.

@@ -20,14 +20,15 @@ article.type:
 volume: '1'
 issue: '2'
 transcription: "“She was in her own house, and as we suppose in her native State,
-  using her ownproperty, talents and time for the noblest purposes, according to the
-  sentimentsof President Dwight, which we lately published in this paper. For this
-  christianand noble employment, she is taken by the violent hand of persecution andconfined
-  in a prison. What were the complaints and censures against Georgia, forsimilar conduct
-  towards the imprisoned missionaries? Is such conduct inNew-England, in Connecticut,
-  less sinful, shameful, unjust and cruel? Whoselife, liberty and pursuit of happiness
-  are safe, if a christian lady is exposedto imprisonment for obedience to the dictates
-  of her conscience and the evidentrequirements of piety, patriotism and philanthropy?”"
+  using her own<br>property, talents and time for the noblest purposes, according
+  to the sentiments<br>of President Dwight, which we lately published in this paper.
+  For this christian<br>and noble employment, she is taken by the violent hand of
+  persecution and<br>confined in a prison. What were the complaints and censures against
+  Georgia, for<br>similar conduct towards the imprisoned missionaries? Is such conduct
+  in<br>New-England, in Connecticut, less sinful, shameful, unjust and cruel? Whose<br>life,
+  liberty and pursuit of happiness are safe, if a christian lady is exposed<br>to
+  imprisonment for obedience to the dictates of her conscience and the evident<br>requirements
+  of piety, patriotism and philanthropy?”"
 Scholarly Notes: 
 Commentary: 
 order: '043'

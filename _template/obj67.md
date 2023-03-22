@@ -20,8 +20,8 @@ article.type:
 volume: '1'
 issue: '2'
 transcription: <p align="center">WANTED,</p><p align="center">50 CORDS OF OAK BARK.</p><p>  Benson
-  &amp; Chace, will pay cash and the market price for oak bark delivered  at their
-  manufactory in North Providence, one mile north-east of Olneyville</p>
+  &amp; Chace, will pay cash and the market price for oak bark delivered<br>  at their
+  manufactory in North Providence, one mile north-east of Olneyville<br></p>
 Scholarly Notes: 
 Commentary: Benson and Chace were both Abolitionists.
 order: '066'

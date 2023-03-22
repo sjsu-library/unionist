@@ -20,9 +20,9 @@ article.type:
 volume: '1'
 issue: '2'
 transcription: Is the persecution of this benevolent and talented lady either republican
-  orchristian? Is it judicious to attempt to break her down by violence and insult?We
-  know of no distinction in our State Constitution between colors, and we hopeMiss
-  Crandall will bring her persecutors to a trial of vested rights.” –<em>New London
+  or<br>christian? Is it judicious to attempt to break her down by violence and insult?<br>We
+  know of no distinction in our State Constitution between colors, and we hope<br>Miss
+  Crandall will bring her persecutors to a trial of vested rights.” –<br><em>New London
   Gazette</em>
 Scholarly Notes: 
 Commentary: 
