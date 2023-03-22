@@ -1,0 +1,34 @@
+---
+pid: obj40
+identifier: unionist--text-0040
+title: FROM THE HARTFORD TIMES!!
+bibliographicCitation: The Unionist 1833-08-08
+bibliographicCitation.republished: The Hartford Times (not researched)
+fullIssueSequenceNumber: 1833-08-08 p02.26
+creator: Journal of Commercel; Charles C. Burleigh
+_date.created: '1833-08-08'
+description: Hartford Times eschews publishing the Circular of Adams and Judson
+language: English
+publisher: The Unionist
+IsPartOf: 
+rights: https://creativecommons.org/publicdomain/mark/1.0/
+source: The Unionist
+subject: Journalistic Debate
+type: Text
+category: Unionist full issue 1833-08-08
+article.type: 
+volume: '1'
+issue: '2'
+transcription: "<p>  “From the Hartford Times!!”  <em>The Unionist</em>  August 8,
+  1833, 1:2:2, column 5</p><p>FROM THE HARTFORD TIMES!!</p><p>  We have received the
+  letter of Messrs Rufus Adams and Andrew T. Judson  relating to the negro school
+  at Canterbury. It cannot be doubted that these  gentlemen have been much abused
+  and misrepresented; [☞] but we believe there  are no new facts set forth in this
+  letter requiring its publication. [☞]</p><p>So Mr. Judson has wasted his paper and
+  ink.</p>"
+Scholarly Notes: 
+Commentary: 
+order: '039'
+layout: template_item
+collection: template
+---

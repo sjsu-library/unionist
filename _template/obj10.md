@@ -1,29 +1,30 @@
 ---
 pid: obj10
-url: http://maca.contentdm.oclc.org/u?/p1325coll1
-contributor: 
-coverage: 
-creator: 
-_date: 
-description: 'Forms part of the David A. Hanson Collection of the History of Photomechanical
-  Reproduction In: Color photography / by Sir William J. Herschel. -- Washington :
-  [s.n.], 1902. -- p. 313-316, 3 col. plat…'
-format: 
-identifier: 8c3a8b6bc33314124cf43867f43c1bb5
-language: 
-publisher: 
-relation: 
-rights: 
-source: Sterling and Francine Clark Art Institute Library
-subject: 
-title: "[Screened photolithographs in Color photography]"
-type: 
-! '': 
-Thumbnail: https://dp.la/thumb/8c3a8b6bc33314124cf43867f43c1bb5
-order: '09'
+identifier: unionist--text-0010
+title: Positive Reception for The Unionist
+bibliographicCitation: Boston Traveler, 10 September 1833
+bibliographicCitation.republished: 
+fullIssueSequenceNumber: 
+creator: Boston Traveler
+_date.created: '1833-09-10'
+description: Positive Reception for The Unionist
+language: English
+publisher: Boston Traveler
+IsPartOf: 
+rights: https://creativecommons.org/publicdomain/mark/1.0/
+source: Boston Traveler
+subject: The Unionist
+type: Text
+category: Positive notice
+article.type: original
+volume: 
+issue: 
+transcription: THE UNIONIST.—A new paper, with this title, has been commenced, within
+  a few weeks, at Brooklyn, Con. It is edited by C. C. Burleigh, and advocates the
+  doctrine of the immediate emancipation of slaves in the United States.
+Scholarly Notes: 
+Commentary: 
+order: '009'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
 ---

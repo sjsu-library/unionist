@@ -1,18 +1,22 @@
+
+{% if page.transcription.size > 1 %}
+<div id="osd" class="image-viewer">
+  <div class="excerpt">
+    <div class="excerpt-inner">
+    {{ page.transcription }}
+    </div>
+  </div>
+</div>
+
+{% else %}
 <div id="osd" class="image-viewer"></div>
 <script defer src="{{ '/assets/openseadragon/openseadragon.min.js' | absolute_url }}"></script>
-
 <script>
   $(document).ready(function () {
     var manifestUrl = "{{ include.manifest | absolute_url }}";
-    if (manifestUrl == "{{ site.url}}"+"{{ site.baseurl }}") {
-      {% if page.excerpt.size > 1 %}
-        var excerpt = "{{ page.excerpt }}"
-        var excerptDiv= $('<div>');
-        $(excerptDiv)
-            .addClass('excerpt')
-            .append(excerpt);
-        $('#osd').append(excerptDiv);
-      {% endif %}
+    if (manifestUrl == "{{ site.url}}"+"{{ site.baseurl }}" || manifestUrl=="") {
+
+
     }
     else {
 
@@ -36,3 +40,4 @@
   }//end else
   });
 </script>
+{% endif %}

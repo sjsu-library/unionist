@@ -1,29 +1,34 @@
 ---
 pid: obj5
-url: http://cdm15138.contentdm.oclc.org/cdm/ref/collection/p15138coll6/id/8256
-contributor: 
-coverage: 
-creator: 
-_date: 
-description: This hand tinted tintype is of a Union cavalryman with either the last
-  name of Vermillion or Bryant. Family story is that he was a teamster in an Iowa
-  cavalry regiment from Greene County, Iowa. There…
-format: 
-identifier: 319e69dc68f5e6683b4a3ca4b4d072b3
-language: 
-publisher: 
-relation: 
-rights: 
-source: Tennessee State Library and Archives
-subject: 
-title: Hand-tinted tintype of a Union cavalryman
-type: 
-! '': 
-Thumbnail: https://dp.la/thumb/319e69dc68f5e6683b4a3ca4b4d072b3
-order: '04'
+identifier: unionist--text-0005
+title: O! SHAME! SHAME!!
+bibliographicCitation: The Unionist 1:7 (September 12, 1833)
+bibliographicCitation.republished: The Liberator, September 21, 1833, p. 151 (3:38:151)
+fullIssueSequenceNumber: 
+creator: Charles C. Burleigh
+_date.created: '1833-09-12'
+description: Cow Dung in the Water Well
+language: English
+publisher: The Liberator
+IsPartOf: '1833-09-21'
+rights: https://creativecommons.org/publicdomain/mark/1.0/
+source: The Unionist
+subject: Canterbury Female Academy; African-American Students; Vigilante VIolence
+type: Text
+category: Unionist content republished
+article.type: 
+volume: '1'
+issue: '7'
+transcription: "<p>“O! SHAME! SHAME!!”</p><p>  ☞“The following paragraph is  extracted
+  from the Unionist of last week:” </p><p>  “’The laudable efforts of the Canterbury
+  worthies to drive Miss Crandall from  her purpose, by withholding from her the necessaries
+  of life, will have the  effect to perpetuate their own well earned fame, if not
+  to attain its primary  object. The latest measure which we have heard of their adopting,
+  is the  FILLING MISS C’S WELL WITH MANURE FROM THE BARNYARD,  <em>and then refusing
+  to give her water from their own wells.’”</em></p>"
+Scholarly Notes: 
+Commentary: 
+order: '004'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
 ---

@@ -28,10 +28,9 @@
     {% else %}
       {% for item in collection %}
       var thumbnailUrl = "{{ item.thumbnail | absolute_url }}";
-      if (thumbnailUrl == "{{ site.url}}"+"{{ site.baseurl }}") {
-
+      if (thumbnailUrl == "{{ site.url}}"+"{{ site.baseurl }}" || thumbnailUrl == "") {
         {%- capture item_html_no_thumb -%}
-          "<div class='gallery-item no-thumb {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>{{item.title}}</h3> <p>{{item.description}}</p></div></div><div class='overlay'><p class='info'>{{ item.title| escape }}</p></div></div></a></div>"
+          "<div class='gallery-item no-thumb {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>{{item.title | escape}}</h3> <p>{{item.description | escape}}</p></div></div><div class='overlay'><p class='info'>{{ item.title| escape }}</p></div></div></a></div>"
         {%- endcapture -%}
         gallery.append({{ item_html_no_thumb | strip_newlines }});
       }

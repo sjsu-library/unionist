@@ -343,7 +343,6 @@ item pages (iiif + metadata)
 
   .image-viewer {
     position: relative;
-    text-align: center;
     height:   $viewer-height;
     max-height: 80vh;
     background-color: $bg-color;
@@ -791,15 +790,18 @@ search box
 
 
 .excerpt {
-  font-size:2rem;
   width: 100%;
   height: 100%;
   padding:40px 60px;
-  text-align: justify;
   border: 5px  $accent-dark solid;
   border-radius: 30px;
   background-color: $neutral;
-  word-spacing: -3px;
+
+  overflow-x:scroll;
+
+}
+
+.excerpt-inner {
 
 }
 

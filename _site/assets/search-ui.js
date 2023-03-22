@@ -25,7 +25,7 @@ function getThumbnail(item, url) {
 
 function displayResult(item, fields, url) {
   var pid   = item.pid;
-  var label = item.label || 'Untitled';
+  var label = item.title || 'Untitled';
   var link  = item.permalink;
   var thumb = getThumbnail(item, url);
   var meta  = []
@@ -36,7 +36,7 @@ function displayResult(item, fields, url) {
       meta.push(`<b>${fieldLabel}:</b> ${excerptedString(item[fieldLabel])}`);
     }
   }
-  return `<div class="result"><a href="${url}${link}">${thumb}<p><span class="title">${item.label}</span><br><span class="meta">${meta.join(' | ')}</span></p></a></div>`;
+  return `<div class="result"><a href="${url}${link}">${thumb}<p><span class="title">${item.title}</span><br><span class="meta">${meta.join(' | ')}</span></p></a></div>`;
 }
 
 function startSearchUI(fields, indexFile, url) {

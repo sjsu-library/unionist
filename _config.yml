@@ -18,10 +18,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Exhibit Template'
-description:      'A Template for Wax Exhibits at the SJSU Library'
+title:            'The Unionist Unified'
+description:      'Test site'
 url:              'https://sjsu-library.github.io'
-baseurl:          '/sjsu-wax-template'
+baseurl:          '/unionist'
 copyright:        'CC-BY 4.0'
 logo:             '/assets/logo-sjsu.png'
 
@@ -88,6 +88,7 @@ search:
       template:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
+          - title
           - creator
           - source
           - description

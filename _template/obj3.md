@@ -1,29 +1,41 @@
 ---
 pid: obj3
-url: http://cdm16311.contentdm.oclc.org/cdm/ref/collection/p16311coll1/id/65
-contributor: 
-coverage: 
-creator: C.A. Wayland, So. Knoxville, TN
-_date: 
-description: Hist. Photo Copy Project 2011-012-097 [Princess Bonita, Queen of the
-  leopards. “Big Otto’s” Trained Wild Animals]. Appalachian Exposition, Sept. 12-Oct.
-  12, 1910. No. 254. Stereo by C.A. Wayland, So.…
-format: 
-identifier: 2bf91f0839426f2d478185170e1d32c7
-language: 
-publisher: 
-relation: 
-rights: 
-source: Knox County Public Library
-subject: 
-title: Appalachian Exposition, 1910
-type: 
-! '': 
-Thumbnail: https://dp.la/thumb/2bf91f0839426f2d478185170e1d32c7
-order: '02'
+identifier: unionist--text-0003
+title: Vigilante Attack on Canterbury Female Academy
+bibliographicCitation: The Unionist 1:10 (October 3, 1833)
+bibliographicCitation.republished: American Repertory (St. Albans, Vermont), 12:51:3
+  (October 17, 1833).
+fullIssueSequenceNumber: 
+creator: Charels C. Burleigh
+_date.created: '1833-10-03'
+description: Visit by Rev. Ray Potter, School attacked with projectiles
+language: English
+publisher: American Repertory
+IsPartOf: '1833-10-17'
+rights: https://creativecommons.org/publicdomain/mark/1.0/
+source: The Unionist
+subject: Canterbury Female Academy; Religion; African-American Students
+type: Text
+category: Unionist content republished
+article.type: 
+volume: '1'
+issue: '10'
+transcription: "<p>BROOKLYN, Ct. October 3.</p><p>  On the evening of Friday Sept.
+  20th while Miss Crandall and her pupils were  assembled in the school room for the
+  purpose of holding a religious meeting,  Rev. Mr. Potter of Pawtucket, R. I. having
+  accepted her invitation to preach  to them.) near the close of the services a clamorous
+  rabble, without, assailed  the house, a volley of rotten eggs and other missiles
+  were thrown at the  window, breaking the glass and lodging part of the filth on
+  the curtain. The  pupils, regardless of the assault, commenced singing the hymn
+  which had just  been read and went through without interruption.</p><p>  On Thursday
+  last [Sept. 26th] Miss C. was again brought before Esquire Adams  for examination
+  on two separate complaints, one for instructing and the other  for boarding and
+  harbouring {sic} colored persons from abroad. She was bound  over to the Supreme
+  Court which commenced its session in the place on Tuesday  the first inst.</p>"
+Scholarly Notes: 
+Commentary: The second paragraph of this account is also found in the <em>Connecticut
+  Courant</em>, 1833-10-7
+order: '002'
 layout: template_item
 collection: template
-thumbnail: "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/obj3/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/obj3/manifest.json"
 ---

@@ -1,29 +1,36 @@
 ---
 pid: obj15
-url: http://hdl.handle.net/10020/2008r3_2189
-contributor: 
-coverage: 
-creator: Wilson, G. W. (George Washington), 1823-1893
-_date: 
-description: 'Slide has printed title: “The Western Orient:” Morocco. G. W. W. Source
-  of the title: Title from caption on mount. Signature/Stamp: Photographer’s credit
-  on slide. #28. Dimensions: Magic lantern slide…'
-format: 
-identifier: b8c6afae2be858b8dfd0e7027f62c1f4
-language: 
-publisher: 
-relation: 
-rights: 
-source: Getty Research Institute
-subject: 
-title: Berber water seller, [187]
-type: 
-! '': 
-Thumbnail: https://dp.la/thumb/b8c6afae2be858b8dfd0e7027f62c1f4
-order: '14'
+identifier: unionist--text-0015
+title: "[Masthead and Title]"
+bibliographicCitation: The Unionist 1833-08-08
+bibliographicCitation.republished: 
+fullIssueSequenceNumber: 1833-08-08 p01.01
+creator: Charles C. Burleigh
+_date.created: '1833-08-08'
+description: Masthead and Title
+language: English
+publisher: The Unionist
+IsPartOf: 
+rights: https://creativecommons.org/publicdomain/mark/1.0/
+source: The Unionist
+subject: Titles and Information
+type: Text
+category: Unionist full issue 1833-08-08
+article.type: original
+volume: '1'
+issue: '2'
+transcription: <p align="center"><strong>THE UNIONIST</strong></p><p align="center">PUBLISHED
+  EVERY THURSDAY MORNING,</p><div>    <p align="center">BROOKLYN, CONN.</p>    <p
+  align="center">///</p>    <p align="center">CHARLES C. BURLEIGH,</p>    <p align="center">Editor
+  and Publisher</p>    <p align="center">///</p>    <p>TERMS.—Mail Subscribers Two
+  Dollars, in advance. Delivered by Stage or Post one dollar and seventy-five cents.
+  Those taken at the office, one dollar and fifty cents.</p>    <p>No paper will be
+  discontinued till arrearages are paid, except at the discretion of the publisher.</p>    <p>Advertisements
+  inserted at the usual prices.</p>    <p>All communications must be addressed to
+  the Editor, post-paid.</p></div>
+Scholarly Notes: 
+Commentary: 
+order: '014'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
 ---
