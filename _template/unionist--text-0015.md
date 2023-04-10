@@ -1,0 +1,46 @@
+---
+pid: unionist--text-0015
+title: "[Masthead and Title]"
+bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
+bibliographicCitation.republished: 
+fullIssueSequenceNumber: 1833-08-08 p01.01
+creator: Charles C. Burleigh
+date.created: '1833-08-08'
+description: Masthead and Title
+language: English
+publisher: The Unionist
+IsPartOf: 
+rights: https://creativecommons.org/publicdomain/mark/1.0/
+source: The Unionist
+subject: Titles and Information
+type: Text
+category: Unionist full issue 1833-08-08
+article.type: original
+volume: '1'
+issue: '2'
+transcription: <p align="center"><strong>THE UNIONIST</strong></p><p align="center">PUBLISHED
+  EVERY THURSDAY MORNING,</p><div>    <p align="center">BROOKLYN, CONN.</p>    <p
+  align="center">///</p>    <p align="center">CHARLES C. BURLEIGH,</p>    <p align="center">Editor
+  and Publisher</p>    <p align="center">///</p>    <p>TERMS.—Mail Subscribers Two
+  Dollars, in advance. Delivered by Stage or Post one dollar and seventy-five cents.
+  Those taken at the office, one dollar and fifty cents.</p>    <p>No paper will be
+  discontinued till arrearages are paid, except at the discretion of the publisher.</p>    <p>Advertisements
+  inserted at the usual prices.</p>    <p>All communications must be addressed to
+  the Editor, post-paid.</p></div>
+scholarlyNotes: 
+commentary: 
+relatedPeople: Charles C. Burleigh
+featured: 
+repeated: 
+relatedImage: 
+relatedText: 
+relatedTextIssue: 
+filename: 
+caption: 
+order: '014'
+layout: template_item
+collection: template
+thumbnail: ''
+full: ''
+manifest: ''
+---

@@ -1,0 +1,43 @@
+---
+pid: unionist--image-0043
+title: Benjamin Watkins Leigh
+bibliographicCitation: 
+bibliographicCitation.republished: 
+fullIssueSequenceNumber: 
+creator: 
+date.created: '1835'
+description: Benjamin Watkins Leigh (1781-1849) was appointed to an empty Senatorial
+  seat from Virginia in 1834. During the hysteria over Abolitionist publications in
+  1835, he famously said that Virginians had the right “to suppress to the utmost
+  of our power what we deem inflammatory, dangerous, mischievous."
+language: English
+publisher: 
+IsPartOf: 
+rights: By James B. Longacre - http://bioguide.congress.gov/scripts/biodisplay.pl?index=L000232;
+  http://museumcatalog.virginiahistory.org/final/ViewImage.aspx?template=Image&amp;field=DerivedIma&amp;hash=c069919e9e65c8c7d99bbb50e58f1630&amp;lang=en-US,
+  Public Domain, https://commons.wikimedia.org/w/index.php?curid=6315947
+source: https://en.wikipedia.org/wiki/Benjamin_W._Leigh
+subject: 
+type: 
+category: 
+article.type: 
+volume: 
+issue: 
+transcription: 
+scholarlyNotes: 
+commentary: 
+relatedPeople: 
+featured: 
+repeated: 
+relatedImage: 
+relatedText: unionist-text-0259
+relatedTextIssue: 1834-03-13 p.03.23
+filename: 
+caption: Benjamin Watkins Leigh (1781-1849)
+order: '446'
+layout: template_item
+collection: template
+thumbnail: ''
+full: ''
+manifest: ''
+---

@@ -1,0 +1,39 @@
+---
+pid: unionist--text-0266
+title: Blank Deeds
+bibliographicCitation: "<em>The Unionist</em> 1834-03-13"
+bibliographicCitation.republished: 
+fullIssueSequenceNumber: 1834-03-13 p.03.30
+creator: "<em>The Unionist</em>"
+date.created: '1834-03-13'
+description: Printing services offered at Unionist office
+language: English
+publisher: The Unionist
+IsPartOf: 
+rights: https://creativecommons.org/publicdomain/mark/1.0/
+source: "<em>The Unionist</em>"
+subject: Advertisements; The Unionist; Miscellaneous Filler
+type: Text
+category: Unionist full issue 1834-03-13
+article.type: 
+volume: '1'
+issue: '32'
+transcription: <p align="center"><strong>BLANK DEEDS.</strong></p><p align="center">A
+  FEW PACKS BLANK CARDS.</p>
+scholarlyNotes: 
+commentary: 
+relatedPeople: 
+featured: 
+repeated: 
+relatedImage: 
+relatedText: 
+relatedTextIssue: 
+filename: 
+caption: 
+order: '265'
+layout: template_item
+collection: template
+thumbnail: ''
+full: ''
+manifest: ''
+---

@@ -1,0 +1,38 @@
+---
+pid: unionist--image-0086
+title: Unionist 1.4 Sept 1833 issue p. 4 AmAntiquarianSociety.tif
+bibliographicCitation: "<em>The Unionist</em> 1:5:4 (September 5 1833)"
+bibliographicCitation.republished: 
+fullIssueSequenceNumber: 
+creator: Charles C. Burleigh
+date.created: '1833'
+description: Page Four of <em>The Unionist</em> 1:5, 1833-09-05
+language: English
+publisher: 
+IsPartOf: 
+rights: Public Domain
+source: American Antiquarian Society
+subject: 
+type: image
+category: 
+article.type: 
+volume: 
+issue: 
+transcription: 
+scholarlyNotes: 
+commentary: 
+relatedPeople: 
+featured: 
+repeated: 
+relatedImage: 
+relatedText: 
+relatedTextIssue: 
+filename: 
+caption: "<em>The Unionist</em>, 1833-09-05, page 4"
+order: '489'
+layout: template_item
+collection: template
+thumbnail: ''
+full: ''
+manifest: ''
+---

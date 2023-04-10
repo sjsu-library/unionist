@@ -14,6 +14,7 @@
 <script>
   $(document).ready(function () {
     var manifestUrl = "{{ include.manifest | absolute_url }}";
+    console.log (manifestUrl);
     if (manifestUrl == "{{ site.url}}"+"{{ site.baseurl }}" || manifestUrl=="") {
 
 

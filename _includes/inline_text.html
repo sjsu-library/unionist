@@ -1,0 +1,9 @@
+{% assign item  = site[include.collection] | where: 'pid', include.pid | first %}
+
+<div class="transcription-inline">
+  <div class="excerpt">
+    <div class="excerpt-inner">
+    {{ item.transcription }}
+    </div>
+  </div>
+</div>

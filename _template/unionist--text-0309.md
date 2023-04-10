@@ -1,0 +1,45 @@
+---
+pid: unionist--text-0309
+title: The Combat Thickens
+bibliographicCitation: "<em>The Unionist</em> 1834-04-10"
+bibliographicCitation.republished: 
+fullIssueSequenceNumber: 1834-04-10 p.02.09
+creator: Charles C Burleigh; William H. Burleigh
+date.created: '1834-04-10'
+description: Humor on Election Results
+language: English
+publisher: The Unionist
+IsPartOf: 
+rights: https://creativecommons.org/publicdomain/mark/1.0/
+source: "<em>The Unionist</em> 1834-04-10"
+subject: National News; Humor
+type: Text
+category: Unionist full issue 1834-04-10
+article.type: 
+volume: '1'
+issue: '36'
+transcription: "<p>  The editor of the Hartford Times heads a little electioneering
+  paragraph in<br>  his last weekly with a line from Campbell’s Hohenlinden—<br></p><p>
+  \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “THE COMBAT<br>
+  \ THICKENS—ON YE BRAVE!”<br></p><p>  He should also have quoted the next line—“Who
+  rush to “glory” or the GRAVE,”<br>  that all might know to whom the battle cry was
+  addressed.<br></p>"
+scholarlyNotes: 
+commentary: The quote comes from the poem "Hohenlinden" by Thomas Campbell (1777-1844),
+  and can be found here - https://www.poetry-archive.com/c/hohenlinden.html . The
+  quotation is not perfect. The joke, though, comes close.
+relatedPeople: Thomas Campbell
+featured: 
+repeated: 
+relatedImage: 
+relatedText: 
+relatedTextIssue: 
+filename: 
+caption: 
+order: '308'
+layout: template_item
+collection: template
+thumbnail: ''
+full: ''
+manifest: ''
+---

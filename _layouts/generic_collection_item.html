@@ -6,8 +6,29 @@ layout: default
   The block below controls the image viewer
 {% endcomment %}
 
-<h3 alt="{{ page.label | escape }}" class='item-label'>{{ page.title }}</h3>
-<p class='item-creator'> {{ page.creator }} </p>
+<div class="item-title">
+  <div class="title-inner">
+    <h3 alt="{{ page.label | escape }}" class='item-label'>{{ page.title }}</h3>
+    <p class='item-creator'> {{ page.creator }} </p>
+  </div>
+</div>
+
+<div class="item-parallax">
+{% assign related = page.relatedImage | strip %}
+  {% if related != '' %}
+   {% if page.relatedImage contains ';' %}
+     {% assign firstImage = page.relatedImage | split: '; ' | first %}
+        {% include parallax_image.html collection='template' pid=firstImage height='200px' %}
+  {% else %}
+       {% include parallax_image.html collection='template' pid=page.relatedImage height='200px' %}
+     {% endif %}
+
+{% elsif page.type == 'image' %}
+  {% include parallax_image.html collection='template' pid=page.pid height='200px' %}
+
+  {% endif %}
+ </div>
+
 
 {% if page.image_viewer %}
   {% assign viewer = page.image_viewer %}
@@ -16,6 +37,7 @@ layout: default
 {% endif %}
 
 {% if viewer %}
+  <h3>Section: Item Display</h3>
   <div class='item-view'>
     <span class='pagination-link' id='prevlink'></span>
     {% if viewer == 'openseadragon' %}
@@ -28,10 +50,37 @@ layout: default
   {% unless layout.pagination == false %}{% include item_pagination.html %}{% endunless %}
 {% endif %}
 
+  <div class='item-content'>
+    <h3>Section: Featured Content</h3>
+    {% if related != '' %}
+     {% if page.relatedImage contains ';' %}
+       {% assign images = page.relatedImage | split: '; ' %}
+       {% for image in images %}
+           {% include inline_image.html collection='template' pid=image %}
+       {% endfor %}
+    {% else %}
+       {% include inline_image.html collection='template' pid=page.relatedImage %}
+       {% endif %}
+   {% endif %}
+   {% assign scholarly = page.scholarlyNotes | strip %}
+   {% if scholarly != '' %}
+    <h4>Scholarly Notes</h4>
+      <p>{{ page.scholarlyNotes }}</p>
+   {% endif %}
+   {% assign comment = page.commentary | strip %}
+   {% if comment != '' %}
+    <h4>Commentary</h4>
+      <p>{{ page.commentary }}</p>
+   {% endif %}
+
+  </div>
+
+
+
 {% comment %}
   The block below controls the item metadata table
 {% endcomment %}
-
+<h3>Section: Full Metadata</h3>
 {% if layout.meta.size %}
   {% assign metadata = layout.meta %}
 {% elsif page.meta.size %}

@@ -1,0 +1,38 @@
+---
+pid: unionist--image-0085
+title: Unionist 1.4 Sept 1833 issue p. 2 and 3 AmAntiquarianSociety
+bibliographicCitation: "<em>The Unionist</em> 1:5:2-3 (September 5 1833)"
+bibliographicCitation.republished: 
+fullIssueSequenceNumber: 
+creator: Charles C. Burleigh
+date.created: '1833'
+description: Pages Two-Three of <em>The Unionist</em> 1:5, 1833-09-05
+language: English
+publisher: 
+IsPartOf: 
+rights: Public Domain
+source: American Antiquarian Society
+subject: 
+type: image
+category: 
+article.type: 
+volume: 
+issue: 
+transcription: 
+scholarlyNotes: 
+commentary: 
+relatedPeople: 
+featured: 
+repeated: 
+relatedImage: 
+relatedText: 
+relatedTextIssue: 
+filename: 
+caption: "<em>The Unionist</em>, 1833-09-05, pages 2-3"
+order: '488'
+layout: template_item
+collection: template
+thumbnail: ''
+full: ''
+manifest: ''
+---

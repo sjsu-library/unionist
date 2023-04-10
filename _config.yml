@@ -108,6 +108,8 @@ menu:
     sub:
       - label: 'Example'
         link: '/explore/example-exhibit/'
+      - label: 'Issues'
+        link: '/explore/issues/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
@@ -123,7 +125,7 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/sjsu-library/betita'
+      link: 'https://github.com/sjsu-library/unionist'
     - label: 'Contact'
       link: 'mailto:nick.szydlowski@sjsu.edu'
   logos:

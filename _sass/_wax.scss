@@ -333,6 +333,40 @@ content section
 item pages (iiif + metadata)
 
 */
+#wax-main .item-title {
+  position: absolute;
+  z-index: 999;
+  height: 200px;
+  padding: 20px;
+
+  .title-inner {
+    padding:20px;
+    background-color:rgba(255,255,255,.9);
+    border-radius: 20px;
+
+      h3 {
+        margin-top:0;
+      }
+
+  }
+
+
+}
+
+.item-parallax {
+  position:   relative;
+  height:200px;
+
+  .wax-parallax.inline-parallax {
+      margin-top: 0;
+  }
+
+
+}
+
+
+
+
 .item-view {
   width:           110%;
   display:         inline-flex;
@@ -450,7 +484,7 @@ search box
 
 
 
-.wax-gallery-container {
+#wax-main .wax-gallery-container {
   .facet-buttons {
     .facet {
       @extend .btn-outline-secondary;
@@ -530,12 +564,17 @@ search box
           border: 2px  $accent-dark solid;
           border-radius: 20px;
           background-color: $neutral;
-          text-align: justify;
-          word-spacing: -3px;
+          text-align: left;
           height: 100%;
           overflow: hidden;
 
-
+          h3 {
+            font-size: 1.25em;
+            font-weight: 500;
+            color: #000;
+            margin-top:10px;
+            border-bottom: 5px $accent-light solid;
+          }
 
           p.excerpt_text {
               line-height: 1.5rem;
