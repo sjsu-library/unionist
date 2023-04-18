@@ -129,6 +129,15 @@ footer:
     - label: 'Contact'
       link: 'mailto:nick.szydlowski@sjsu.edu'
   logos:
+    - img: '/img/humanities.png'
+      link: 'https://www.sjsu.edu/hum/'
+    - img: '/img/dhc.png'
+      link: 'https://library.sjsu.edu/digitalhumanities'
     - img: '/img/logo-sjsu.png'
+      link: 'https://library.sjsu.edu/'
+    - img: '/img/humanities-and-arts.png'
+      link: 'https://www.sjsu.edu/humanitiesandarts/'
+
+
 
 # FIN
