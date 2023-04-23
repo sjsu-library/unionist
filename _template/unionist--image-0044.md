@@ -35,7 +35,7 @@ caption: Daniel Lambert (1770-1809), a gargantuan man who was exhibited as a cur
 order: '447'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0044/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0044/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0044/manifest.json"
 ---

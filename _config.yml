@@ -23,7 +23,7 @@ description:      'Test site'
 url:              'https://sjsu-library.github.io'
 baseurl:          '/unionist'
 copyright:        'CC-BY 4.0'
-logo:             '/assets/logo-sjsu.png'
+logo:             '/img/unionist-logo.png'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS

@@ -25,11 +25,12 @@ transcription: There is at present, in perfect operation, at the penitentiary, n
   perfectly<br>cold.&nbsp; This is a very great labor and time saving invention, and
   is worthy<br>the attention of those engaged in that branch of mechanics.<br>
 scholarlyNotes: 
-commentary: 
+commentary: A penitentiary seems an odd location for advertising a method of punching
+  through iron bars...
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0155
 relatedText: 
 relatedTextIssue: 
 filename: 

@@ -32,7 +32,7 @@ caption: Isaac McKim (1775-1838)
 order: '457'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0054/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0054/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0054/manifest.json"
 ---

@@ -71,8 +71,8 @@ transcription: <p align="right">FOR THE UNIONIST.</p><p>MR. EDITOR.—It is ofte
   their richest earthly treasure; and if its integrity be preserved, the best inheritance
   of their children, but, when crippled and polluted, their sorest calamity!</p><p>UNIONIST.</p>
 scholarlyNotes: 
-commentary: I think this is setting up the argument of Ellsworth for the trial, asking
-  the jury to decide on the legality of the Black Law itself
+commentary: The logic here sets up the argument of William Ellsworth for the trial,
+  asking the jury to decide on the legality of the Black Law itself
 relatedPeople: 
 featured: 
 repeated: 

@@ -23,7 +23,7 @@ transcription: We have received the first number of a new paper published at Bro
   </em>paper, which means absolute <em>dependence</em> on two or three individuals—it
   is a <em>one-party</em> paper which is to be understood as opposing the democratic
   party—and <em>unionist</em> signifies disunion, discord and dissension, provided
-  it is in the powr of two or three persons of pong purses, negro friendship and church
+  it is in the powr of two or three persons of long purses, negro friendship and church
   and State view to create them. The Advertiser which is printed at Brooklyn is conducted
   with far more ability than any paper which ever preceded it in that county, and
   is more expressive of the feelings and sentiments of the citizens. We doubt whether
@@ -33,7 +33,8 @@ transcription: We have received the first number of a new paper published at Bro
 scholarlyNotes: This article reprinted in <em>Eastern Argus</em> 9 Aug 1833, with
   the title “Another Snake in the Grass” and credits the <em>Hartford Times</em> rather
   than the <em>Windham Times</em>
-commentary: 
+commentary: The Windham Times, aligned with the pro-colonizationist and Jacksonian
+  forces, is unimpressed with The Unionist
 relatedPeople: Arthur Tappan
 featured: 
 repeated: 

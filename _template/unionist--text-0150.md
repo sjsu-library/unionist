@@ -27,7 +27,7 @@ transcription: "<p>  We cannot consent to be drawn, as the Unionist seems desiro
   the abolitionists can hope to obtain a hearing. No better<br>  evidence is wanted
   of the weakness of the cause than the confessions of the<br>  Genius of Temperance,
   that Abolition cannot hope to succeed without the<br>  destruction of the Colonization
-  Society. That Society has effected the<br>  emancipation of may slaves, whereas
+  Society. That Society has effected the<br>  emancipation of many slaves, whereas
   abolitionism has not yet freed one.<br>  <em>By their fruits ye shall know them.</em>
   \ Let us suppose a [..]se—not a very probable one, it must be confessed, yet if<br>
   \ the abolitionists are to be believed they expect to see a part, at least, of<br>
@@ -36,7 +36,7 @@ transcription: "<p>  We cannot consent to be drawn, as the Unionist seems desiro
   \ and fierce as Garrison himself—that those who are south of this line remain<br>
   \ just as they are—some few honorable to the Colonization Society, here and<br>
   \ there one [..]ling and anxious to be rid of his slaves, but the great majority<br>
-  \ desirous to retain them. Now supposing such a {…]e of public opinion—and<br>  with&nbsp;
+  \ desirous to retain them. Now supposing such a […]e of public opinion—and<br>  with&nbsp;
   the&nbsp; Constitution directly in their teeth, what course, we<br>  ask, would
   the abolitionists most probably pursue? If they answer,<br>  <em>we do not know,</em>
   \ then they are laboring without any definite views—and if they<br>  <em>do know,</em>
@@ -59,7 +59,7 @@ commentary:
 relatedPeople: William Lloyd Garrison; Charles C. Burleigh (inferred)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0011
 relatedText: 
 relatedTextIssue: 
 filename: 

@@ -21,7 +21,7 @@ article.type:
 volume: '1'
 issue: '15'
 transcription: "“We see it stated in the “Unionist,” a paper published at Brooklyn,
-  Ct., that a<br>memorial is in a circulation in the eastern part of the State, the
+  Ct., that a<br>memorial is in circulation in the eastern part of the State, the
   object of<br>which is, ‘the abolition of slavery in the District of Columbia.’ Persons<br>frequently
   put their names to papers of this description without sufficient<br>reflection,
   and on the exparte statement of those who are interested, or have an<br>object in
@@ -48,7 +48,7 @@ commentary: The notice about this petition could have appeared in late October o
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0203
 relatedText: 
 relatedTextIssue: 
 filename: 

@@ -29,7 +29,7 @@ commentary:
 relatedPeople: L.S. Walcott; E. Walcott
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0134
 relatedText: 
 relatedTextIssue: 
 filename: 

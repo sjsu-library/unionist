@@ -28,7 +28,7 @@ commentary:
 relatedPeople: Lorenzo Litchfield
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0175
 relatedText: 
 relatedTextIssue: 
 filename: 

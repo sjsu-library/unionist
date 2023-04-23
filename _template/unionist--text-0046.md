@@ -24,7 +24,8 @@ transcription: Is the persecution of this benevolent and talented lady either re
   Crandall will bring her persecutors to a trial of vested rights.” –<br><em>New London
   Gazette</em>
 scholarlyNotes: 
-commentary: 
+commentary: This article from a New London newspaper is intriguing because that city
+  had a substantial Black population because of its proximity to the sea.
 relatedPeople: Prudence Crandall
 featured: 'Yes'
 repeated: 

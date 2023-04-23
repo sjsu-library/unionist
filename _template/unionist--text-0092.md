@@ -177,11 +177,11 @@ transcription: <p align="center">THE UNIONIST.</p><p align="center">BROOKLYN, SE
   that the court would tell them that the law was unconstitutional, but<br>  if they
   should not, my appeal, said Mr E., is to THE PEOPLE, and to THE PEOPLE<br>  I leave
   my client.<br></p><p>  Mr. Strong said that after the very full, and eloquent, and
-  conclusive<br>  argument o his brother Ellsworth, it would be more grateful to his
-  feelings to<br>  leave the case in the hands of the jury without adding a word.
+  conclusive<br>  argument of his brother Ellsworth, it would be more grateful to
+  his feelings to<br>  leave the case in the hands of the jury without adding a word.
   He feared that<br>  he should rather diminish than add to the force of that argument.
-  He however<br>  found an&nbsp; apology for occupying a short time, in the magnitude
-  of the<br>  case under consideration. It involves the liberties of the people.<br></p><p>  Those
+  He however<br>  found an apology for occupying a short time, in the magnitude of
+  the<br>  case under consideration. It involves the liberties of the people.<br></p><p>  Those
   who advocate the cause of the defendant, said Mr. S., are charged with<br>  endeavoring
   to nullify the laws. What is nullification? An attempt by the<br>  Legislature of
   a state, to destroy a power higher than itself. South Carolina<br>  had done this
@@ -192,7 +192,7 @@ transcription: <p align="center">THE UNIONIST.</p><p align="center">BROOKLYN, SE
   criminal. She was charged with giving instruction, but there was no<br>  pretence
   that she has inculcated bad principles. He had heard of a land where<br>  this might
   be criminal, but it was a land where despots reigned. Her crime<br>  consisted in
-  this, that she had given light to thoses who were in mental<br>  darkness—had taught
+  this, that she had given light to those who were in mental<br>  darkness—had taught
   those who were ignorant, to read the bible. It was true<br>  that the persons to
   whom she had given instruction were descendants of that<br>  unfortunate race, who
   were even in a state of slavery in this country. He said<br>  this not to their
@@ -325,7 +325,7 @@ transcription: <p align="center">THE UNIONIST.</p><p align="center">BROOKLYN, SE
   had in respect to naturalization. In deference<br>  to southern views, the Militia
   laws of the nation, passed in 1792, did not<br>  include colored persons—the words
   were, “every free white male citizen”—was<br>  not this an express recognition that
-  persons other than whites were citizens?<br>  If “citiens” meant a white person
+  persons other than whites were citizens?<br>  If “citizens” meant a white person
   only, why was this language used? (Mr S.<br>  here read from Ingersoll’s digest
   745, relative to the protections granted to<br>  American seamen, which, he said
   were always given to blacks as well as<br>  whites.) The war of 1812 was caused,
@@ -340,7 +340,7 @@ transcription: <p align="center">THE UNIONIST.</p><p align="center">BROOKLYN, SE
   of American citizens.<br></p><p>Mr S. named Paul Cuffee as an instance.</p><p>  The
   courts of the United States were open to citizens and also to<br>  aliens—aliens,
   however, must describe themselves as such, on order to maintain<br>  an action.
-  The uniform practice was for blacs to sue as citizens, never as<br>  aliens. Mr
+  The uniform practice was for blacks to sue as citizens, never as<br>  aliens. Mr
   S. here read from Kent’s Com. and claimed from the doctrine there<br>  advanced
   that a black might go from one State to another, and enjoy in that<br>  other, the
   same privileges that a person of the same class enjoyed who<br>  belonged to that
@@ -440,22 +440,22 @@ transcription: <p align="center">THE UNIONIST.</p><p align="center">BROOKLYN, SE
   The jury, he<br>  said, were the people. It was no doubt true that in criminal cases
   the jury<br>  could decide the in spite of the court, but, was it enviable? Would
   they<br>  desire to do it? Rights were at stake, the rights of the state as well
-  as the<br>  rights of the party.—He would have the jury look&nbsp; at the result
-  of their<br>  verdict as it respected the effects it would have on these rights.
-  They might<br>  take the law into their own han ds and acquit the defendant. They
-  sacrificed<br>  the rights of the state beyond remedy by doing so—their verdict
-  against the<br>  state was final. If, however, they found a verdict against the
-  defendant, it<br>  had no such effect on her. The case could be carried to another
-  tribunal where<br>  she could have perfect justice, and where her rights would not
-  be at all<br>  prejudiced by a conviction here. ‘Twas no hardship to her, and a
-  contrary<br>  course might do an irremediable wrong to the state.<br></p><p>  They
-  had been told that they had, that day, to decide a great question—an<br>  exciting
-  one. It was true. Why then had they been called so loudly to take the<br>  case
-  from the court? If they decided the law to be unconstitutional ‘twould be<br>  no
-  evidence except between the same parties as a matter of fact. Another jury<br>  might
-  decide the law to be constitutional, and this what was a crime at one<br>  time
-  would be no crime at another, though tried under the same law. He had no<br>  idea
-  that they had any motive but to discharge impartially their duties as<br>  jurors.<br></p><p>  Mr
+  as the<br>  rights of the party.—He would have the jury look at the result of their<br>  verdict
+  as it respected the effects it would have on these rights. They might<br>  take
+  the law into their own hands and acquit the defendant. They sacrificed<br>  the
+  rights of the state beyond remedy by doing so—their verdict against the<br>  state
+  was final. If, however, they found a verdict against the defendant, it<br>  had
+  no such effect on her. The case could be carried to another tribunal where<br>  she
+  could have perfect justice, and where her rights would not be at all<br>  prejudiced
+  by a conviction here. ‘Twas no hardship to her, and a contrary<br>  course might
+  do an irremediable wrong to the state.<br></p><p>  They had been told that they
+  had, that day, to decide a great question—an<br>  exciting one. It was true. Why
+  then had they been called so loudly to take the<br>  case from the court? If they
+  decided the law to be unconstitutional ‘twould be<br>  no evidence except between
+  the same parties as a matter of fact. Another jury<br>  might decide the law to
+  be constitutional, and this what was a crime at one<br>  time would be no crime
+  at another, though tried under the same law. He had no<br>  idea that they had any
+  motive but to discharge impartially their duties as<br>  jurors.<br></p><p>  Mr
   W. said, that as the defendant, by her plea, had put all the facts<br>  necessary
   to her conviction in issue, he should now examine the proof. The<br>  counsel for
   the defence had seemed tacitly to admit the facts charged to be<br>  true, but as
@@ -562,28 +562,16 @@ transcription: <p align="center">THE UNIONIST.</p><p align="center">BROOKLYN, SE
   they should ever agree. The court then discharged<br>  them. This operates as a
   continuance of the case to the next term of the<br>  County Court to be holden on
   the second Tuesday of December<br>  next.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  F.<br></p>
-scholarlyNotes: "<p>  OK, a few interesting things – Welch seems to admit that the
-  defense was<br>  eloquent, which might explain the strategic decision to rush the
-  next trial<br>  for a time when there would be less eloquence available. Also, Welch<br>
-  \ out-and-out says that Black citizenship is at issue, and he is against it. The<br>
-  \ sides are clear.<br></p><p>  I also see here that before a fair-minded jury, once
-  the Abolitionist side was<br>  reasonably articulated, and once the girls themselves
-  were seen to be the<br>  strong human being they were, the colonizationist exclusionary
-  policies start<br>  to crumble. It is like a slow-motion collapse by the colonizationists.
-  They<br>  know they have a serious new opponent in Abolitionism, and the coalition
-  of<br>  Black women, white women, and white men that they see here (and their<br>
-  \ fear/hatred of the unspoken Black males, that would surface with the Olney<br>
-  \ trial), start to look like a vise grip. So they search for the man they need –<br>
-  \ Daggett – and a surprise move to October (an October surprise – LOL!)<br></p><p>They
-  knew they had lost the courtroom battle here</p> <p>This take all of page 2 and
-  first two columns on page 3 from this issue.</p>"
-commentary: 
+scholarlyNotes: 
+commentary: 'These trial records are vital to understanding not only the fate of the
+  Canterbury Female Academy, but the entire legal history of Civil Rights in the United
+  States. '
 relatedPeople: Eliza Glasko; Paul Cuffee; Prudence Crandall; Jonathan Welch; Ichabod
   Bulkley; Calvin Goddard; William W. Ellsworth; Henry Strong; Ann Eliza Hammond;
   Paul Cuffee; Noah Webster; Joseph K. Eaton; Andrew Judson
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0164
 relatedText: 
 relatedTextIssue: 
 filename: 

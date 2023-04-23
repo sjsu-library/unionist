@@ -29,7 +29,7 @@ commentary:
 relatedPeople: 
 featured: 
 repeated: 'yes'
-relatedImage: 
+relatedImage: unionist--image-0140
 relatedText: 
 relatedTextIssue: 
 filename: 

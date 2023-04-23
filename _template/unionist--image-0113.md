@@ -33,7 +33,7 @@ caption: Stray cows still are a problem. Meet Mootilda, the loose cow of Atlanti
 order: '516'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0113/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0113/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0113/manifest.json"
 ---

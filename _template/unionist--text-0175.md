@@ -30,11 +30,12 @@ transcription: "<em>The Mormonites.—</em>Some further particulars relating to 
   of the papers of St. Louis for their<br>resistance.<br>"
 scholarlyNotes: 
 commentary: This article is in sympathy with the Mormons in their oppression by the
-  people of Missouri.
+  people of Missouri. The explusion of the Latter-Day Saints from Jackson County is
+  covered in the History of the Church [here] (https://www.churchofjesuschrist.org/manual/church-history-in-the-fulness-of-times/chapter-eleven?lang=eng)
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0216
 relatedText: 
 relatedTextIssue: 
 filename: 

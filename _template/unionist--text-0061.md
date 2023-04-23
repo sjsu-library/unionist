@@ -28,11 +28,11 @@ transcription: <p align="right"><em>From the New-York Com. Adv.</em></p><p align
   And gave<br>  them to the wind;<br></p><p>And said, my heart no more shall trust</p><p>To
   that which is itself but dust!</p>
 scholarlyNotes: 
-commentary: 
+commentary: 'The Temperance cause was understood by its advocates as a form of self-control. '
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0141
 relatedText: 
 relatedTextIssue: 
 filename: 

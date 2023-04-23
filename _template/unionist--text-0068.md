@@ -24,8 +24,8 @@ transcription: A BOARDING-HOUSE is established at the corner of<br><em>Cedar-str
   regimen as<br>well as beverage. Transient boarders from the country can be<br>accommodated.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>New
   York.
 scholarlyNotes: 
-commentary: Boarding houses that did not serve alcohol became central to the travels
-  of Abolitionists.
+commentary: Boarding houses that did not serve alcohol were significant to the travels
+  of Abolitionists. See more here https://restaurant-ingthroughhistory.com/tag/graham-boarding-houses/
 relatedPeople: Sylvester Graham
 featured: 
 repeated: 

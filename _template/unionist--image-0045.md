@@ -29,7 +29,7 @@ relatedImage:
 relatedText: unionist-text-0269
 relatedTextIssue: 1834-03-13 p.03.33
 filename: 
-caption: Amos A. Phelps (1805-1847)
+caption: 'Amos A. Phelps (1805-1847) '
 order: '448'
 layout: template_item
 collection: template

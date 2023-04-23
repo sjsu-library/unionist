@@ -24,7 +24,10 @@ transcription: "“The Blue Laws of Connecticut have become Black. We learn from
   colored<br>girls not belonging to the State. Not obtaining bonds, she was committed
   to<br>jail.”—<br><em>Worcester Yeoman.</em>"
 scholarlyNotes: 
-commentary: 
+commentary: The Blue Laws were restrictions to activity on the Sabbath. Lists of the
+  Connecticut Blue Laws were often exaggerated or outright invented. However, as a
+  youngster growing up in Connecticut in the 1970s, an echo of them still existed
+  in the ban on liquor sales on Sundays!
 relatedPeople: Prudence Crandall
 featured: 'Yes'
 repeated: 

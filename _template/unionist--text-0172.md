@@ -34,12 +34,12 @@ transcription: "<p>  <em>Distressing.</em>  —The Rochester Daily Advertiser, r
   who escaped from the flames with simply a<br>  blanket around her in very feeble
   health.<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
   \ [<br>  <em>Phil. Gaz.</em></p>"
-scholarlyNotes: I was not able to corroborate this information on a quick search
-commentary: 
+scholarlyNotes: 
+commentary: I was not able to corroborate this information on a quick search
 relatedPeople: William Irvine
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0214
 relatedText: 
 relatedTextIssue: 
 filename: 

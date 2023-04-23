@@ -1,6 +1,6 @@
 ---
 pid: unionist--text-0151
-title: "[December 7 arrest of Crandall sisters]"
+title: 'December 7, 1833 arrest of Prudence and Almira Crandall '
 bibliographicCitation: "<em>The Unionist</em> 1833-12-12"
 bibliographicCitation.republished: "<em>Evening Post</em> 1833-12-18; <em>National
   Gazette</em> 1833-12-21; <em>Boston Post</em> 1833-12-23; <em>Middlebury Free Press</em>
@@ -33,7 +33,7 @@ commentary: The fact that this event was so widely republished shows the strong 
 relatedPeople: Prudence Crandall; Almira Crandall; Rufus Adams
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0204
 relatedText: 
 relatedTextIssue: 
 filename: 

@@ -40,7 +40,9 @@ transcription: "<em>Connecticut</em>BLACK<br><em>Laws.</em>—We mentioned, a sh
   consistency! Pure Christianity! More on this subject,<br>anon.—<br><em>Liverpool
   (Pa.) Mercury.</em>"
 scholarlyNotes: 
-commentary: 
+commentary: This Pennsylvania paper raises a comparison to the unjust imprisonment
+  of the missionary Samuel Worcester (1798-1859) in Georgia. Worcester defended Cherokee
+  sovereignty and right to education.
 relatedPeople: Prudence Crandall
 featured: 'Yes'
 repeated: 

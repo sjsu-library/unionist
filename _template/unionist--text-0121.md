@@ -20,11 +20,14 @@ volume: '1'
 issue: '6'
 transcription: It is better to suffer wrong than to do wrong.<br>
 scholarlyNotes: 
-commentary: 
-relatedPeople: 
+commentary: This epigram has deep New Testament and Socratic roots. It had also been
+  recently restated by Samuel Johnson in a 1750 entry in ["The Rambler"] (https://www.johnsonessays.com/the-rambler/suspicious-justly-suspected/)
+  . For the growing Peace and Non-Resistant movement, this epigram would become a
+  life-guiding maxim.
+relatedPeople: Samuel Johnson (inferred)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0187
 relatedText: 
 relatedTextIssue: 
 filename: 

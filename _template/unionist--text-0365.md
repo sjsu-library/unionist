@@ -30,7 +30,7 @@ commentary:
 relatedPeople: E. Walcott
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0138
 relatedText: 
 relatedTextIssue: 
 filename: 

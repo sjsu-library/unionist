@@ -27,11 +27,12 @@ transcription: <p>  CAUTION.—All persons are forbid employing John Skinner, a 
   vest and striped<br>  jean pantaloons.<br></p><p align="right">DANIEL BENNET.</p><p>Canterbury
   August 30, 1833r&nbsp;</p>
 scholarlyNotes: ironic, due to similarity to runway slave language
-commentary: 
+commentary: I could not find the definitive facts about this case, but I've included
+  the likely 1830 Census report on the Bennett household.
 relatedPeople: John Skinner; Daniel Bennet
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0171
 relatedText: 
 relatedTextIssue: 
 filename: 

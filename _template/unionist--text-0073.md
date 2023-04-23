@@ -27,11 +27,13 @@ transcription: "<p>  “Our friend of the Providence Patriot is mistaken in attr
   \ and we thought you were your<br>  <em>brother!””</em></p>"
 scholarlyNotes: Since there was no "Inistail" in 1.2, that means it is either in 1.1
   or 1.3, with this response being 1.4
-commentary: 
+commentary: Apparently an editorial, in one of the missing issues of <em>The Unionist</em>,
+  by one of Charles Burleigh's brothers. The most likely candidate, of course, is
+  William Burleigh, but even the eldest son, John Burleigh, could be possible.
 relatedPeople: Charles C. Burleigh
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0148
 relatedText: 
 relatedTextIssue: 
 filename: 

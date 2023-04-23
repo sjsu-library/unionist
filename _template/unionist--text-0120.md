@@ -21,11 +21,11 @@ issue: '6'
 transcription: He that riseth late must trot all day, and shall scarce overtake his
   business at<br>night.<br>
 scholarlyNotes: 
-commentary: 
+commentary: Franklin's admonitions to early rising were already famous.
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0186
 relatedText: 
 relatedTextIssue: 
 filename: 

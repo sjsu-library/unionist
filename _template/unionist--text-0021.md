@@ -20,7 +20,8 @@ volume: '1'
 issue: '2'
 transcription: Who is the true Hero? He who has the most courage in resisting himself.
 scholarlyNotes: 
-commentary: 
+commentary: Column fillers such as this proverb were part of all early nineteenth-century
+  newspapers.
 relatedPeople: 
 featured: 
 repeated: 

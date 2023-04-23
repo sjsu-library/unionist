@@ -32,7 +32,7 @@ caption: George Jeffrey Tillotson (1805-1888)
 order: '419'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0016/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0016/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0016/manifest.json"
 ---

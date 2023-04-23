@@ -25,11 +25,13 @@ transcription: "<p>NOTICE.</p><p>  The sale of the real estate of Ephraim Ingals
   Nov.<br>  18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
   \ 17<br></p><p></p>"
 scholarlyNotes: 
-commentary: 
+commentary: Col. Ephraim Ingals of Pomfret (1764-1831) was father of Dr. Ephraim Inglas
+  who was a leader in the medical community in Chicago in the last quarter of the
+  nineteenth century.
 relatedPeople: Ephraim Ingals; George Sharpe
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0219
 relatedText: 
 relatedTextIssue: 
 filename: 

@@ -38,7 +38,7 @@ caption: 'Apprentice domestic shoemaker in the 19th century. Image taken from Th
 order: '522'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0119/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0119/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0119/manifest.json"
 ---

@@ -40,7 +40,8 @@ transcription: <p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Before his<br>  footstool fall,<br></p><p>And remember in thy gladness</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   His grace<br>  who gave thee all.<br></p><p>  <br>
 scholarlyNotes: 
-commentary: "<p>Pray too for those who hate thee</p>"
+commentary: "<p>Pray too for those who hate thee.</p> The students at the Canterbury
+  Female Academy were literally doing that."
 relatedPeople: 
 featured: 
 repeated: 

@@ -68,7 +68,7 @@ commentary: 'There is a paragraph in this excerpt that is actual Unionist conten
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0201
 relatedText: 
 relatedTextIssue: 
 filename: 

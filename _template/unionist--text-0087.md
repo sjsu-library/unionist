@@ -24,11 +24,12 @@ transcription: At an election for Senator, in Marion and Hamilton counties, Indi
   the other county Morrison had a majority of<br><em>ten</em>votes, and of course
   was elected by a majority of<br><em>one.</em>
 scholarlyNotes: 
-commentary: 
+commentary: I have yet to uncover solid evidence of this vote. Historians of the nineteenth-century
+  Indiana State Senate, rescue me!
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0159
 relatedText: 
 relatedTextIssue: 
 filename: 

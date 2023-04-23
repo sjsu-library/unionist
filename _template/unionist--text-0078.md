@@ -39,11 +39,13 @@ transcription: "<em>Wonderful memory of Blind Alick.</em>—There is still livin
   their patience<br>allowed, blind Alick would have given them the sermon or speech
   over again."
 scholarlyNotes: Romanticism, but ultimately solid American piety winning, is interesting.
-commentary: 
-relatedPeople: 
+commentary: Blind Alick (1766-1839) was a real person, who was contradictorily used
+  both as an example of piety and impiety for his remarkable knowledge of the scriptures.
+  He is now featured in a Ghost Walk in Stirling.
+relatedPeople: Blind Alick
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0151
 relatedText: 
 relatedTextIssue: 
 filename: 

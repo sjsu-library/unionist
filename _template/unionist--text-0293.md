@@ -35,7 +35,7 @@ commentary:
 relatedPeople: Major Jack Downing
 featured: 
 repeated: 'yes'
-relatedImage: 'unionist-image '
+relatedImage: unionist--image-0035
 relatedText: 
 relatedTextIssue: 
 filename: 

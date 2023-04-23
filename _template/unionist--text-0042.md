@@ -36,7 +36,7 @@ transcription: '<p>TO RUFUS ADAMS, ESQ.,</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   their children.<br>  “These engagements” says the letter-writer “she has violated
   without excuse.”<br>  If you could prove all this, Gentlemen, you would certainly
   prove that<br>  <em>she</em>  did very wrong, but not that<br>  <em>you</em>  have
-  done right.” I will venture to say however, that if she had given up the<br>  office&nbsp;
+  done right.” I will venture to say however, that if she had given up the<br>  office
   of an instructress altogether, we never should have heard a<br>  syllable about
   her “numerous, solemn engagements.” And discontinued the<br>  instruction of your
   children, if she had not first been threatened with the<br>  loss of your patronage,
@@ -52,14 +52,14 @@ transcription: '<p>TO RUFUS ADAMS, ESQ.,</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   people should enjoy the blessings of<br>  education, only in a very stinted measure?
   Answer me this if you please?<br></p><p>  Again. You complain, and have elsewhere
   complained that Miss C. made the<br>  change in her school abruptly—that she did
-  it without asking the consent or<br>  even the advice of her former patrons.&nbsp;
-  I apprehend that the blame for<br>  this must attach to yourselves rather than to
-  her. If you had ever evinced,<br>  that interest in the education and freedom and
-  happiness of our colored<br>  brethren, which you now profess to feel, there can
-  be little doubt that she<br>  would have disclosed to you her feelings and her purposes;
-  and gladly have<br>  availed herself of your assistance. But she perceived that
-  you, like most of<br>  our white brethren, regarded the colored children of our
-  Heavenly Father as<br>  doomed to degradation, and not to be admitted to equal privileges
+  it without asking the consent or<br>  even the advice of her former patrons. I apprehend
+  that the blame for<br>  this must attach to yourselves rather than to her. If you
+  had ever evinced,<br>  that interest in the education and freedom and happiness
+  of our colored<br>  brethren, which you now profess to feel, there can be little
+  doubt that she<br>  would have disclosed to you her feelings and her purposes; and
+  gladly have<br>  availed herself of your assistance. But she perceived that you,
+  like most of<br>  our white brethren, regarded the colored children of our Heavenly
+  Father as<br>  doomed to degradation, and not to be admitted to equal privileges
   even in this<br>  land of boasted liberty. Therefore she did not reveal her plan
   until it was<br>  matured. She anticipated that you would oppose it. The event has
   proved that<br>  she judged correctly.<br></p><p>  But you assure your fellow-citizens,
@@ -183,10 +183,11 @@ transcription: '<p>TO RUFUS ADAMS, ESQ.,</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   But it seems that for some wide reason he has since<br>  concluded to omit the proposed
   clause.<br></p>'
 scholarlyNotes: 
-commentary: 
+commentary: Samuel J. May's response to Judson and Adams contains much primary evidence
+  about the genesis of the Canterbury Female Academy.
 relatedPeople: Andrew Judson; Rufus Adams; Prudence Crandall; Samuel J. May; Arnold
   Buffum; Sarah Harris (infered)
-featured: 
+featured: 'yes'
 repeated: 
 relatedImage: 
 relatedText: 

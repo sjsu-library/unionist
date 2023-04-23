@@ -33,7 +33,7 @@ caption: Portrait of Benjamin Silliman (1779-1864), prominent American scientist
 order: '470'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0067/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0067/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0067/manifest.json"
 ---

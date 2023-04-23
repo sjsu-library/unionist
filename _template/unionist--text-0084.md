@@ -26,9 +26,11 @@ transcription: 'There are those to whom a sense of religion has come in storm an
   err, is most<br>frequently impressed upon the mind during seasons of affliction;
   and tears are<br>the softened showers which cause the seed of heaven to spring and
   take root in<br>the human breast.—<br><em>Walter Scott</em>'
-scholarlyNotes: 'Walter Scott, <em>The Monastery</em>, in Three Volumes, Vol. III
-  (Edinburgh: Longman, Hurst, Rees, Orme, and Brown, 1820), p. 137'
-commentary: This quote is still included in online quote data bases today
+scholarlyNotes: 
+commentary: 'This excerpt is still included in online quote data bases today. It encapsulates
+  a Romantically-tinged understanding of spiritual individuality. It can be found
+  in Walter Scott, <em>The Monastery</em>, in Three Volumes, Vol. III (Edinburgh:
+  Longman, Hurst, Rees, Orme, and Brown, 1820), p. 137.'
 relatedPeople: Walter Scott
 featured: 
 repeated: 

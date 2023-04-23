@@ -20,7 +20,8 @@ volume: '1'
 issue: '2'
 transcription: Before you give way to anger, try to find a reason for not being angry.
 scholarlyNotes: 
-commentary: 
+commentary: This brief anecdote addresses the peace principles that were gaining credence
+  among the Immediate Abolitionists.
 relatedPeople: 
 featured: 
 repeated: 

@@ -26,11 +26,12 @@ transcription: <p align="center"><strong>Graham Boarding-House.</strong></p><p> 
   York.<br></p><p></p>
 scholarlyNotes: 
 commentary: Graham Houses were popular with Temperance and Abolitionist activists,
-  as they traveled across the northeast
+  as they traveled across the northeast; see https://restaurant-ingthroughhistory.com/tag/graham-boarding-houses/
+  for more information
 relatedPeople: 
 featured: 
 repeated: 'yes'
-relatedImage: 
+relatedImage: unionist--image-0126
 relatedText: 
 relatedTextIssue: 
 filename: 

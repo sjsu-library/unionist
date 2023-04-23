@@ -21,7 +21,7 @@ issue: '6'
 transcription: '<p align="center">DREADFUL EFFECTS OF IMMEDIATE EMANCIPATION</p><p
   align="center">[From a pamphlet recently published in England.}</p><p>  Of the many
   persons who declare themselves averse to slavery and yet afraid to<br>  join in
-  measures or its abolition, some perhaps have not paid much attention<br>  to the
+  measures for its abolition, some perhaps have not paid much attention<br>  to the
   instances of emancipation that have already taken place. If any such<br>  will take
   the trouble to read the following account of the effects of<br>  emancipation as
   far as it has hitherto been tried, they will perhaps see that<br>  their fears on
@@ -159,13 +159,20 @@ transcription: '<p align="center">DREADFUL EFFECTS OF IMMEDIATE EMANCIPATION</p>
 scholarlyNotes: Ye gads this article is objectionable. It is all about how much the
   Haitians fit European and capitalist models. Subordination and submission, and the
   unquestioned superiority of European thought, systems and people is grating.
-commentary: 
+commentary: The argument implicit in this account - that once emancipated, people
+  of African descent will behave like Europeans, and even retain a sense of their
+  place in the hierarchic order - was far too common in these early days of Immediate
+  Abolition. This is, to my ears, another misstep along the road to true allyship
+  between white Abolitionists and African-Americans. On a more positive note, the
+  presence of Haiti as a symbol of Black achievement and independence, was always
+  important, as is borne out in the writings of African-Americans like David Walker,
+  Maria Stewart, and Henry Highland Garnet.
 relatedPeople: Étienne Polvirel; Colonel Charles Malenfant; Touissant Louverture;
   Charles Humbert Marie Vincent ; Napoleon Bonaparte ; Jean-Jacques Dessalines ; William
   W. Harvey ; Henri Christophe ; Charles Stuart
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0149
 relatedText: 
 relatedTextIssue: 
 filename: 

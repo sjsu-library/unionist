@@ -24,7 +24,7 @@ transcription: This transaction will stand in future ages as a blot upon that<br
   is at reading the accounts of the trials and executions of witches in<br>New-England.”
   –<br><em>Rochester Revivalist</em>
 scholarlyNotes: 
-commentary: 
+commentary: The Rochester Revivalist accurately predicted the future here.
 relatedPeople: Prudence Crandall (inferred)
 featured: 'Yes'
 repeated: 

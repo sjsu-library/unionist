@@ -30,11 +30,11 @@ transcription: "<em>Extraordinary Expedition.</em>—A merchant of Manchester wa
   Liverpool at three, were put on<br>board, and the vessel sailed at 5, just 24 hours
   after the order was given!<br>"
 scholarlyNotes: 
-commentary: 
+commentary: How many people worked to get this speedy order prepared?
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0192
 relatedText: 
 relatedTextIssue: 
 filename: 

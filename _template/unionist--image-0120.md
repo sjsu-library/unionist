@@ -36,7 +36,7 @@ caption: Daguerretype of Rinaldo Burleigh (1774-1863), father of <em>The Unionis
 order: '523'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0120/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0120/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0120/manifest.json"
 ---

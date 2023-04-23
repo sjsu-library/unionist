@@ -21,11 +21,11 @@ issue: '6'
 transcription: TENNESSEE.—The noted David Crocket, is elected to Congress in his district,
   by a<br>small majority.<br>
 scholarlyNotes: 
-commentary: 
+commentary: Did he wear the hat to Congress?
 relatedPeople: David Crocket
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0184
 relatedText: 
 relatedTextIssue: 
 filename: 

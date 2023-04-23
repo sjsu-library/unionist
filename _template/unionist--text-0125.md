@@ -32,11 +32,13 @@ transcription: <p>  <em>The Holy Bible in Canton.</em>  —A second edition of t
   in China itself, in diffusing a knowledge of<br>  its righteous requisites and its
   glorious promises.<br></p><p align="right"><em>Chinese Courier</em></p>
 scholarlyNotes: 
-commentary: 
+commentary: Robert Morrison (1782-1834) was instrumental in establishing the college
+  at Malacca, and the <em>Chinese Courier</em>, as well as in this translation of
+  the Bible into Cantonese.
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0191
 relatedText: 
 relatedTextIssue: 
 filename: 

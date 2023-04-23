@@ -72,7 +72,7 @@ transcription: "<p>FROM THE BROOKLYN UNIONIST, AUGUST 29.</p><p>TRIAL OF MISS PR
   \ them into her house very politely. They asked her in relation to her scholars.<br>
   \ She said she had four who were from New York and one from Hartford.—She called<br>
   \ them in and introduced them. Theodosia De Grass, Amelia Elizabeth Wildes, and<br>
-  \ Catherine Ann Weldon, he thinkers were the names of those called. Witness did<br>
+  \ Catherine Ann Weldon, he thinks were the names of those called. Witness did<br>
   \ not remember the day of the month that he called—thinks it was the day after<br>
   \ the girls came—certainly soon after.<br></p><p>  <em>Ebenezer Sanger</em>  coincided
   in the statement of Mr. Bacon.<br></p><p>  <em>George Cady</em>  had conversed with
@@ -157,7 +157,7 @@ transcription: "<p>FROM THE BROOKLYN UNIONIST, AUGUST 29.</p><p>TRIAL OF MISS PR
   also seen her at Miss Crandall’s, and slept in a room with Miss<br>  De Grasse a
   colored girl from New York. Miss Crandall employed witness to work<br>  for her,
   because she said she did not wish to keep her scholars out of school<br>  to do
-  the work. Never saw any of the firls in school.—Have seen them have<br>  books and
+  the work. Never saw any of the girls in school.—Have seen them have<br>  books and
   study them.<br></p><p>  <em>Rowland Greene</em>  (affirmed) Has often heard that
   Miss Crandall kept a school for colored girls<br>  in Canterbury—has been at the
   house often, was called as a physician—went<br>  there and saw several colored girls—heard
@@ -418,7 +418,7 @@ relatedPeople: 'Prudence Crandall; Rufus Adams; Jonathan Welch; Chauncey F. Clev
   Crandall; James Chandler; Mary Benson; Joseph K. Eaton  '
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0147
 relatedText: 
 relatedTextIssue: 
 filename: 

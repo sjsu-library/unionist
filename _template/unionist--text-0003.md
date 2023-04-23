@@ -22,7 +22,7 @@ issue: '10'
 transcription: "<p>BROOKLYN, Ct. October 3.</p><p>  On the evening of Friday Sept.
   20th while Miss Crandall and her pupils were<br>  assembled in the school room for
   the purpose of holding a religious meeting,<br>  Rev. Mr. Potter of Pawtucket, R.
-  I. having accepted her invitation to preach<br>  to them.) near the close of the
+  I. having accepted her invitation to preach<br>  to them, near the close of the
   services a clamorous rabble, without, assailed<br>  the house, a volley of rotten
   eggs and other missiles were thrown at the<br>  window, breaking the glass and lodging
   part of the filth on the curtain. The<br>  pupils, regardless of the assault, commenced

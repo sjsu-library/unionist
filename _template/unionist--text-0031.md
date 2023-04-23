@@ -27,7 +27,8 @@ transcription: GRAPE SHOT—The Advertiser kindly warns us of our exposure “to
   “grape shot” of those of greater caliber, or the lighter metal from the Advertiser’s
   blunderbuss.
 scholarlyNotes: 
-commentary: 
+commentary: Burleigh indicates that The Unionist doesn't fear "the whole host of the
+  Black Law defenders."
 relatedPeople: James Holbrook (inferred)
 featured: 
 repeated: 

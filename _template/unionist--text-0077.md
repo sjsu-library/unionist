@@ -101,12 +101,17 @@ transcription: <p align="center">[From the New-York Observer.]</p><p align="cent
   demonstration of man’s susceptibilities of religious<br>  affections, of a sense
   of guilt, of his need of atonement, and of the dreadful<br>  errors, into which
   he may be plunged without the guidance of a divine<br>  revelation!<br></p>
-scholarlyNotes: An unusual decision, for page one at the time of the trial. The full-on
-commentary: 
-relatedPeople: 
+scholarlyNotes: 'An unusual decision, for page one at the time of the trial. '
+commentary: 'While it is interesting that this occupies part of page one, in the very
+  midst of the trial over the Black Law, the discussion about religious sensibilities
+  in this reflective travelogue certainly speaks to the Romantic spirit, and the emergence
+  in New England of Emersonian Transcendentalism at this same time. Hannah More (1745-1833),
+  the author of <em>The Sheperd of Salisbury Plain</em>, was an important female voice
+  on the literature of the time, though not well-known today. '
+relatedPeople: Hannah More
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0150
 relatedText: 
 relatedTextIssue: 
 filename: 

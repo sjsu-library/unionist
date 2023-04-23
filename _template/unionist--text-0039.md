@@ -49,7 +49,8 @@ transcription: <p align="center">THE JOURNAL OF COMMERCE</p><p align="center"><e
   that such a defence as this,<br>  must be with sensible men, their last effort before
   abandoning the cause.<br></p>
 scholarlyNotes: 
-commentary: 
+commentary: A level-headed assessment from The Journal of Commerce about the legally
+  dubious strategy of Andrew Judson and his associates.
 relatedPeople: Andrew Judson; Rufus Adams
 featured: 
 repeated: 

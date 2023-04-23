@@ -28,7 +28,7 @@ transcription: "<em>The Land of the Free!”</em>—A Miss Crandall established,
   and passed an act,<br>making it<br><em>  unlawful to instruct children of color
   from any other state!” – Batavia,<br>  (New-York) Advocate.”<br></em>"
 scholarlyNotes: 
-commentary: 
+commentary: Batavia is located between Rochester and Buffalo in upstate New York.
 relatedPeople: Prudence Crandall
 featured: 'Yes'
 repeated: 

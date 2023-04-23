@@ -34,7 +34,7 @@ caption: The title page to <em>Washington's Valedictory Address</em>, published 
 order: '442'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0039/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0039/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0039/manifest.json"
 ---

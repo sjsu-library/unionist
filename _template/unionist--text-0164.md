@@ -36,7 +36,7 @@ commentary: Because William Burleigh was teaching at the Canterbury Female Acade
 relatedPeople: 
 featured: 'YES'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0209
 relatedText: 
 relatedTextIssue: 
 filename: 

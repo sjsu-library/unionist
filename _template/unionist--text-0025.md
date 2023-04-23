@@ -36,7 +36,10 @@ transcription: "“Who pays?” asks the Advertiser. We of course feel deeply se
   not been wholly ineffectual. But if the Advertiser knows better, why! We must be
   mistaken, that’s all."
 scholarlyNotes: 
-commentary: 
+commentary: The Unionist received considerable financial backing from the wealthy
+  New York merchant and Abolitionist Arthur Tappan. This connection appeared suspicious
+  to James Holbrook of the Windham Advertiser, who made insinuations against The Unionist
+  as a result. This is Burleigh's reply to these attacks.
 relatedPeople: James Holbrook (inferred)
 featured: 
 repeated: 

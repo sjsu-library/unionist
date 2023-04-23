@@ -25,7 +25,8 @@ transcription: "<em>Black Laws.—</em>The Charleston Mercury says, that South C
   therefore, that the<br>law savors too much of barbarism, to be enforced, even in
   the slave holding<br>State of South Carolina.”<br><em>N.E. Review</em>"
 scholarlyNotes: 
-commentary: 
+commentary: The New England Review was another project in which John Greenleaf Whittier
+  was an editorial presence.
 relatedPeople: 
 featured: 'Yes'
 repeated: 

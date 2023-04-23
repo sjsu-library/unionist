@@ -25,13 +25,13 @@ transcription: <p align="center">  <strong><em>A CARD.</em></strong></p><p>  G.C
   himself the school will be<br>  pleasant and profitable.<br></p><p>  Tuition, 25
   cts. a<br>  week.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  W3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   4<br></p>
-scholarlyNotes: The G.C. Segur mentioned here in Hampton may be related to Abel Segur,
+scholarlyNotes: 
+commentary: The G.C. Segur mentioned here in Hampton may be related to Abel Segur,
   who signs the petition to remove the Black Law
-commentary: 
 relatedPeople: G.C. Segur
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0176
 relatedText: 
 relatedTextIssue: 
 filename: 

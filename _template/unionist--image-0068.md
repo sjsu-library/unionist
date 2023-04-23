@@ -32,7 +32,7 @@ caption: Photograph of Senator La Fayette S. Foster (1806-1880), by Matthew Brad
 order: '471'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0068/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0068/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0068/manifest.json"
 ---

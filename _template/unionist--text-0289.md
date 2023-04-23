@@ -33,11 +33,12 @@ transcription: "<p>THE PEOPLE’S MAGAZINE</p><p>  This work is published twice 
   \ for fifteen dollars—or twenty-five quarterly parts for five dollars. Payment<br>
   \ in all cases to be made in advance. Nov. 27<br></p><p></p>"
 scholarlyNotes: 
-commentary: 
+commentary: This general interest magazine was admired for its engravings. The whimsical
+  quality of "Animal Associations" can hold its attraction across time.
 relatedPeople: 
 featured: 
 repeated: 'yes'
-relatedImage: 
+relatedImage: unionist--image-0132
 relatedText: 
 relatedTextIssue: 
 filename: 

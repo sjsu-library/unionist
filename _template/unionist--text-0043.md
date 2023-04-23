@@ -23,7 +23,7 @@ transcription: Public Sentiment, Respecting the Black Law of Connecticut and the
   of Miss Crandall
 scholarlyNotes: Using only the headline; each story is listed seperately
 commentary: This compilation is a key primary source for understanding the impact
-  of Canterbury
+  of Canterbury across the North.
 relatedPeople: 
 featured: 'Yes'
 repeated: 

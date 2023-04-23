@@ -27,8 +27,8 @@ transcription: The Unionist will be taken, (says our neighbor,) by all the ladie
   to fear.
 scholarlyNotes: 
 commentary: Embrace of the power and readership of women is important in this early
-  context
-relatedPeople: 
+  context.
+relatedPeople: James Holbrook (inferred)
 featured: 'Yes'
 repeated: 
 relatedImage: 

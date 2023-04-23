@@ -40,7 +40,7 @@ commentary: <p>  What is being referred to here is the Ephraim Avery trial – s
 relatedPeople: Andrew Judson; James Holbrook (inferred)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0018
 relatedText: 
 relatedTextIssue: 
 filename: 

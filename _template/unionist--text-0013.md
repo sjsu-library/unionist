@@ -14,7 +14,7 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: Norwich Republican
 subject: The Unionist
 type: Text
-category: Negative notice
+category: Positive notice
 article.type: original
 volume: 
 issue: 
@@ -32,7 +32,8 @@ transcription: "“THE UNIONIST.”—This is the title of a new paper lately es
   to “advocate temperance, virtue and sound morality,” we must earnestly wish him
   success in the undertaking."
 scholarlyNotes: 
-commentary: 
+commentary: This is a rather balanced assessment of The Unionist and its chances for
+  long-term success.
 relatedPeople: Charles C. Burleigh; Andrew Judson; Prudence Crandall
 featured: 
 repeated: 

@@ -27,13 +27,13 @@ transcription: Never did any soul do good, but it came readier to do the same ag
 scholarlyNotes: 
 commentary: 'The Earl of Shaftesbury, Anthony Ashley-Cooper, Characteristicks of Men,<br>Manners,
   Opinions, Times. , Volume II. Containing An Inquiry concerning Virtue<br>and Merit.
-  The Moralists: A Philosophical Rhapsody, London 1711 p. 238-239 –<br>online edition
-  of original<br><a<br>  href="https://play.google.com/books/reader?id=0ZQTAAAAQAAJ&amp;pg=GBS.PP6&amp;hl=en"<br>>  https://play.google.com/books/reader?id=0ZQTAAAAQAAJ&amp;pg=GBS.PP6&amp;hl=en<br></a>accessed
-  10/7/22<br>'
+  The Moralists: A Philosophical Rhapsody, London 1711 p. 238-239 –<br>[online edition
+  of original]<br>(https://play.google.com/books/reader?id=0ZQTAAAAQAAJ&amp;pg=GBS.PP6&amp;hl=en),
+  accessed 10/7/22<br>'
 relatedPeople: The Earl of Shaftesbury, Anthony Ashley-Cooper
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0161
 relatedText: 
 relatedTextIssue: 
 filename: 

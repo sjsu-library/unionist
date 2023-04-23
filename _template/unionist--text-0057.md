@@ -31,7 +31,8 @@ transcription: "<p>  AT a Court of Probate holden at Killingly within and for th
   \ Certified from Record<br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
   \ DAVID CHASE, Clerk.<br></p>"
 scholarlyNotes: 
-commentary: 
+commentary: Jedediah Leavens may have been a Revolutionary War veteran, based on probate
+  records.
 relatedPeople: Jedediah Leavens (probate); Thomas Backus (probate judge); David Chase
   (probate clerk)
 featured: 

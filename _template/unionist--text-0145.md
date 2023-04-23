@@ -52,7 +52,7 @@ commentary: Noteworthy here in the commentary is the idea that the rest of the n
 relatedPeople: David Daggett; Prudence Crandall; William Jay
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0198
 relatedText: 
 relatedTextIssue: 
 filename: 

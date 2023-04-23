@@ -26,7 +26,7 @@ commentary:
 relatedPeople: Amos Phelps
 featured: 
 repeated: 'yes'
-relatedImage: 
+relatedImage: unionist--image-0130
 relatedText: 
 relatedTextIssue: 
 filename: 

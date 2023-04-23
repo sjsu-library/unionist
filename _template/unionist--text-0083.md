@@ -28,12 +28,12 @@ transcription: CHINESE COURAGE. While advancing towards Fuh-chow, the capital of
   which they supposed pointed at them.—<br><em>Gutzlaff’s Voyage</em>
 scholarlyNotes: I haven't found this quote yet in the book that is here - https://babel.hathitrust.org/cgi/pt?id=ucw.ark:/13960/t1rf6c42z&view=1up&seq=5
 commentary: As with much travel writing at this time, Gützlaff's tone is patronizing
-  and laced with Euro-centric perspectives. Some of Gützlaff's book is available here
-  https://babel.hathitrust.org/cgi/pt?id=ucw.ark:/13960/t1rf6c42z&view=1up&seq=5
-relatedPeople: 
+  and laced with Euro-centric perspectives. Some of Gützlaff's book is available [here]
+  (https://babel.hathitrust.org/cgi/pt?id=ucw.ark:/13960/t1rf6c42z&view=1up&seq=5)
+relatedPeople: Charles Gützlaff
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0156
 relatedText: 
 relatedTextIssue: 
 filename: 

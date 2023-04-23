@@ -27,7 +27,7 @@ commentary:
 relatedPeople: William Herschel
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0183
 relatedText: 
 relatedTextIssue: 
 filename: 

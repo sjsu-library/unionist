@@ -21,7 +21,7 @@ issue: '6'
 transcription: "<strong>☞</strong><strong>  THE VENERABLE WILBERFORCE, THE WARM PHILANTHROPIST,
   THE ZEALOUS FRIEND OF THE<br>  BLACKS IS DEAD<br></strong>"
 scholarlyNotes: 
-commentary: 
+commentary: Wilberforce was an important exemplar among American Abolitionists.
 relatedPeople: William Wilberforce
 featured: 
 repeated: 

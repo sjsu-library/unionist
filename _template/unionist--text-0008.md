@@ -29,7 +29,8 @@ transcription: "<em>“The Unionist”</em> is the title of a paper just establi
   standard of freedom, he will keep it unfurled, so long as a single advocate of slavery
   in any form shall dare to raises his hateful head in our country."
 scholarlyNotes: 
-commentary: 
+commentary: The Haverhill Gazette was, at times, under the editorial guidance of John
+  Greenleaf Whittier, which may explain this strong support.
 relatedPeople: Prudence Crandall
 featured: 
 repeated: 

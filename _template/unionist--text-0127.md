@@ -33,11 +33,15 @@ transcription: "<p>  <em>U.S. Deposits.</em>  —A writer in the Boston Daily Ad
   not be removed.</em>  And further: No matter for the sentiments or the vetoes of
   the President,<br>  <em>the Charter of the Bank will one day be renewed.”</em></p><p></p>"
 scholarlyNotes: 
-commentary: 
+commentary: The political and economic crisis that preoccupied Andrew Jackson's second
+  term as President was the controversy over the charter of The Bank of the United
+  States. <em>The Unionist</em> predictably stood by the Bank against President Jackson,
+  a perspective that was amplified when William Burleigh joined the editorial team
+  by the end of 1833.
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0135
 relatedText: 
 relatedTextIssue: 
 filename: 

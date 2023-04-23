@@ -76,11 +76,14 @@ transcription: <p align="center">MODERN CATECHISM,</p><p align="center"><em>Adap
   to the times,” be continued?</p><p>  A.<br>  <em>    Indefinitely.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>    Gen.
   of Tem.<br>  </em></p>
 scholarlyNotes: 
-commentary: 
+commentary: 'An age-old habit: pointing the finger of humor at societal declension.
+  The <em> Genius of Temperance, Philanthropist and People''s Advocate</em> was one
+  of the most important reform journals of the time, and a strong ally to Burleigh
+  and Crandall.'
 relatedPeople: William Goodell (inferred)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0144
 relatedText: 
 relatedTextIssue: 
 filename: 

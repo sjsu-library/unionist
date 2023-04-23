@@ -44,7 +44,7 @@ commentary: Biblical reference is to Isaiah 58:6
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0206
 relatedText: 
 relatedTextIssue: 
 filename: 

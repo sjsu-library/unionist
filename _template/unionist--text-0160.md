@@ -31,11 +31,12 @@ transcription: "<p>  <em>The Unionist</em>  December 19, 1833, 1:20, p. 2, colum
   and twenty five are in the hands of the party for<br>  additional evidence or authentication,
   or in<br>  <em>transitu</em>  between them and the office.<br></p>"
 scholarlyNotes: 
-commentary: 
+commentary: Lewis Cass (1782-1866) was the Secretary of War at the time. He was a
+  pro-slavery proponent and in 1848 a candidate for President
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0205
 relatedText: 
 relatedTextIssue: 
 filename: 

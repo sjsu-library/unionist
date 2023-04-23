@@ -35,7 +35,7 @@ caption: Statue of Thomas Jefferson given as a gift to the City of New York in 1
 order: '467'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0064/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0064/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0064/manifest.json"
 ---

@@ -32,7 +32,7 @@ commentary:
 relatedPeople: Arthur Tappan;  Francis Robinson; James Holbrook (inferred)
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0169
 relatedText: 
 relatedTextIssue: 
 filename: 

@@ -23,7 +23,8 @@ transcription: Our neighbor calls the Unionist “the <em>pattern</em> of newspa
   far at least as to copy the reply of Mr. May to the letter of Messrs. Adams and
   Judson, since we have inserted their letter in our columns.
 scholarlyNotes: 
-commentary: 
+commentary: Charles Burleigh again says that Holbrook's claim to print both sides
+  had been made disingeuously
 relatedPeople: Samuel J. May; Andrew Judson; Rufus Adams
 featured: 
 repeated: 

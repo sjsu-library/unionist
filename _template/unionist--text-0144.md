@@ -124,7 +124,7 @@ relatedPeople: William Jay; Prudence Crandall; De Witt Clinton; Rufus King; Abra
   Carter; R. Clark; James Kent; Gilbert Horton
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0197
 relatedText: 
 relatedTextIssue: 
 filename: 

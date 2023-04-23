@@ -20,15 +20,15 @@ volume: '1'
 issue: '6'
 transcription: A meeting of the “Anti-Slavery Society of Plainfield and its vicinity,”
   will be<br>holden at the Central Factory school house in Plainfield on WEDNESDAY
-  the 11st<br>inst., at half past six, P.M.&nbsp; An address is (is-sic error) expected
-  from<br>Rev. S.J. MAY. Ladies and gentlemen who feel an interest in the cause, are<br>respectfully
+  the 11st<br>inst., at half past six, P.M.&nbsp; An address is expected from<br>Rev.
+  S.J. MAY. Ladies and gentlemen who feel an interest in the cause, are<br>respectfully
   invited to attend.<br>
 scholarlyNotes: 
 commentary: 
 relatedPeople: Samuel J. May
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0170
 relatedText: 
 relatedTextIssue: 
 filename: 

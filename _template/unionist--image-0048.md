@@ -33,7 +33,7 @@ caption: The title page of <em>The Ivimey Lecture</em>, one of the books for sal
 order: '451'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0048/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0048/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0048/manifest.json"
 ---

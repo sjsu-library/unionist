@@ -94,12 +94,13 @@ transcription: "<p>  RIVERS.—There is a wonderous beauty, a mysterious charm, 
   “So passes<br>  this world’s glory.”<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
   \ <em>We, the People.</em></p>"
 scholarlyNotes: 
-commentary: This newspaper, <em>We, the People</em> is one Charles C. Burleigh worked
-  for briefly.
+commentary: This newspaper, <em>We, the People</em> is one for which Charles C. Burleigh
+  briefly worked. They would prove to be a strong ally to the cause, as can be seen
+  here in the accompanying story from their October issue.
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0143
 relatedText: 
 relatedTextIssue: 
 filename: 

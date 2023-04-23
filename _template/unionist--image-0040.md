@@ -34,7 +34,7 @@ caption: Portrait of Lord Grenville (1759-1834), Prime Minister of England and i
 order: '443'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0040/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0040/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0040/manifest.json"
 ---

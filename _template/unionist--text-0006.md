@@ -32,12 +32,14 @@ transcription: " <p>“FOR THE REGISTER”</p><p>“THE UNIONIST” </p><p>“A 
   Canterbury law, thinking perhaps, that if the question were put to the inhabitants
   of Litchfield, whether they would consent to the establishment of a negro school
   among them, in addition to their present schools, they would answer in the affirmative.
-  But in this he may be mistaken.</p><p>The&nbsp; shouting horn of federal sedition
-  this year, is to be the Canterbury negro school, and the dissection law.</p><p>ANDOVER</p>"
+  But in this he may be mistaken.</p><p>The shouting horn of federal sedition this
+  year, is to be the Canterbury negro school, and the dissection law.</p><p>ANDOVER</p>"
 scholarlyNotes: 
 commentary: Note here the attempt to paint Unitarianism as suspect, and to indicate
   that Tappan is with him – conversely it points to the wide range of religious tolerance
-  and coexistence in the ranks of the Abolitionists
+  and coexistence in the ranks of the Abolitionists. The Columbian Register, based
+  in New Haven, had been a leading voice of opposition to the proposed Manual Labor
+  College for Black men in 1831.
 relatedPeople: Arthur Tappan; Samuel J. May; Prudence Crandall
 featured: 
 repeated: 

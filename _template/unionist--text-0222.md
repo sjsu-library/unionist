@@ -33,11 +33,15 @@ transcription: <p align="center">THE PEOPLE’S MAGAZINE</p><p>  THIS work is pu
   copies for $5—20 copies<br>  for fifteen dollars—or twenty-five quarterly parts
   for five dollars. Payment<br>  in all cases to be made in advance.<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  Nov.<br>  27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  18<br></p><p></p>
 scholarlyNotes: 
-commentary: 
+commentary: "<em>The People's Magazine</em> was a family-oriented bi-weekly magazine
+  that featured stories of distant, exotic, and interesting places, animals, and people.
+  It was especially prized for its engravings. It began publication in 1833. Unlike
+  many of the periodicals that advertised in <em>The Unionist</em>, it took no political
+  or philosophic positions, even implicitly, on slavery."
 relatedPeople: 
 featured: 
 repeated: 'Yes'
-relatedImage: 
+relatedImage: unionist--image-0131
 relatedText: 
 relatedTextIssue: 
 filename: 

@@ -34,7 +34,10 @@ transcription: "<p>ANECDOTE.—The following anecdote is related in the London N
   hope of freedom that she may know she possesses a slave who will never quit her
   side.</p>"
 scholarlyNotes: 
-commentary: 
+commentary: This anecdote was one of those missteps made by white Abolitionists who
+  were gaining their anti-racist consciousness in real time. It is meant to demonstrate
+  the moral superiority of the loyal slave, but it thus could give succor to the pro-slavery
+  arguments that slaves were happy with their condition.
 relatedPeople: 
 featured: 
 repeated: 

@@ -31,15 +31,16 @@ transcription: "<em>Another suspected case of Kidnapping.</em>—Two or three at
   extending down the centre of her forehead, nose and<br>chin. Any information which
   can be given concerning her will be thankfully<br>received by Mr. Fuller, No. 33.
   Thomas st.—<br><em>Jour. of Com.</em>"
-scholarlyNotes: How and why did Mary come to these shores? Was she ever found? Why
-  did Burleigh include this news?
-commentary: These two articles on kidnapping are likely from The NY<br><em>Journal
-  of Commerce</em>, another innovation by Arthur Tappan, in partnership with Samuel
-  Morse.<br>
+scholarlyNotes: 
+commentary: Kidnapping of free Blacks in northern cities would have been a major fear
+  for the students at the Canterbury Female Academy. This article, and the one following
+  closely on it concerning kidnapping free Blacks into slavery, are from the New York<br><em>Journal
+  of Commerce</em>, another journalistic innovation by Arthur Tappan, in partnership
+  with Samuel Morse.<br>
 relatedPeople: Isaac L. Fuller; Mary
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0188
 relatedText: 
 relatedTextIssue: 
 filename: 

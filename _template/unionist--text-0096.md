@@ -39,7 +39,7 @@ relatedPeople: Jonathan Welch; Andrew Judson; Henry Strong; William W. Ellsworth
   Prudence Crandall; James Holbrook (inferred)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0168
 relatedText: 
 relatedTextIssue: 
 filename: 

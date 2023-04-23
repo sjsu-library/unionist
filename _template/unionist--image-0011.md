@@ -25,7 +25,7 @@ relatedPeople:
 featured: 
 repeated: 
 relatedImage: 
-relatedText: unionist--text-0158
+relatedText: unionist--text-0150; unionist--text-0158; unionist--text-0153; unionist--text-0154
 relatedTextIssue: 1833-12-19 p.01.04
 filename: 
 caption: '"Pledg''d But to Truth, to Liberty, and Law -- No Favor Sways Us, and No
@@ -33,7 +33,7 @@ caption: '"Pledg''d But to Truth, to Liberty, and Law -- No Favor Sways Us, and 
 order: '414'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0011/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0011/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0011/manifest.json"
 ---

@@ -1,13 +1,13 @@
 ---
 layout: page
 show_title: false
-banner:
-  collection: template
-  pid: unionist--image-0109
-  y: 25%
-  height: '500px'
-  label: true
+
 ---
+
+<div class="hero-banner full-width">
+  <img src="img/unionist-hero2.png">
+</div>
+
 <h3>Connecticut's First Immediate Abolitionist Newspaper</h3>
 <div class="first-p">
 <p><em>The Unionist</em> was established in 1833 in Brooklyn, Connecticut to serve as a local voice in support of Abolition, Prudence Crandall, and the Canterbury Female Academy. It was birthed in a conversation between the Unitarian minister and Abolitionist Samuel J. May and New York Abolitionist and wealthy merchant Arthur Tappan. The man selected to edit it - Charles C. Burleigh - was ready to lead this venture due to his triple training in law, journalism, and the fervid moral reform movements of the era. The paper ran from August of 1833 through September of 1834. Charles Burleigh's brother William Burleigh became a co-editor by the end of 1833, as well as being an associate teacher at the Canterbury Female Academy - New England's first Academy for African-American women. <em>The Unionist</em> was active during all four of the legal actions taken against Crandall and the Academy, which expanded its importance regionally. <em>The Unionist</em> is the earliest documented newspaper in support of Immediate Abolition to be published in Connecticut.</p>

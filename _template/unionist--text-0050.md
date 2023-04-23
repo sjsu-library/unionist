@@ -40,7 +40,8 @@ transcription: If the provisions of this law can be reconciled with the nature o
   condemned, and regarded as a shame<br>and reproach to our state.” –<br><em>Connecticut
   Courant</em>
 scholarlyNotes: 
-commentary: 
+commentary: The Connecticut Courant was arguably the flagship newspaper of the state,
+  so its support for the cause of Crandall was signficant.
 relatedPeople: Prudence Crandall
 featured: 'Yes'
 repeated: 

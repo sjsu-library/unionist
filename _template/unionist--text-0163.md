@@ -33,14 +33,14 @@ transcription: The cause of Temperance prospers well in Massachusetts. Our good 
   Societies, embracing 6,511 members, to which<br>have been added 2,375 others, and
   fourteen new societies have been organized,<br>embracing 761 members. This tells
   well for Temperance effort in Massachusetts.<br>Let our Connecticut friends do likewise.<br>
-scholarlyNotes: I have not yet determined if the hyper-active Temperance Advocate
-  Daniel Frost is the same as the Daniel Frost, Jr., of Canterbury (1787-1863), who
-  was among the opponents of the Canterbury Female Academy
-commentary: 
+scholarlyNotes: 
+commentary: I have not yet determined if the hyper-active Temperance Advocate Daniel
+  Frost is the same as the Daniel Frost, Jr., of Canterbury (1787-1863), who was among
+  the opponents of the Canterbury Female Academy.
 relatedPeople: Daniel Frost
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0207
 relatedText: 
 relatedTextIssue: 
 filename: 

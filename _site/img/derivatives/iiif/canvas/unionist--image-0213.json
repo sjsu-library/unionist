@@ -1,0 +1,29 @@
+{
+  "@type": "sc:Canvas",
+  "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/canvas/unionist--image-0213.json",
+  "label": "front",
+  "width": 1032,
+  "height": 2524,
+  "thumbnail": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0213/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/annotation/unionist--image-0213.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0213/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0213",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 516,
+        "height": 1262
+      },
+      "on": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/canvas/unionist--image-0213.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

@@ -22,7 +22,7 @@ transcription: The Hartford Times in a sentence of seven lines, concerning this 
   has told three falsehoods. We are not sufficiently acquainted with that paper to
   say, whether this is so rare an occurrence as to be worth relating.
 scholarlyNotes: 
-commentary: 
+commentary: Noting misrepresentations by the Hartford Times concerning The Unionist.
 relatedPeople: 
 featured: 
 repeated: 

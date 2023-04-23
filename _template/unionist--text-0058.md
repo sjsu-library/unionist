@@ -25,11 +25,11 @@ transcription: <p align="center">ROBERTS &amp; WOODBERRY</p><p align="center">IM
   at wholesale and<br>  retail.<br></p><p>Orders from the country will be executed
   with promptness and fidelity.</p>
 scholarlyNotes: 
-commentary: 
+commentary: Cutlery from England was all the rage at this time.
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0139
 relatedText: 
 relatedTextIssue: 
 filename: 

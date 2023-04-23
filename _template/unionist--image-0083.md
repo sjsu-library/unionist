@@ -34,7 +34,7 @@ caption: Samuel Goodrich (1793-1860), author of the Peter Parley books
 order: '486'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0083/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0083/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0083/manifest.json"
 ---

@@ -33,7 +33,7 @@ caption: Avery's Rotary Engine
 order: '456'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0053/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0053/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0053/manifest.json"
 ---

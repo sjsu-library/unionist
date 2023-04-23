@@ -52,11 +52,14 @@ transcription: <p align="right">FOR THE UNIONIST.</p><p>  Mr. Editor. It is trul
   glance—whether they were there or not. We would<br>  advise the writer of that article
   to look up much reckless villains and have<br>  them tried for perjury.<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  JUSTICE.<br></p>
 scholarlyNotes: 
-commentary: 
+commentary: It is worth noting the sarcastic emphasis this letter-writer gives to
+  the notion of sharing the table with the Black students at the Canterbury Female
+  Academy. This suggests that there were members of the white community who were "unlearning"
+  their racism - and recognizing the racist presumptions in others.
 relatedPeople: James Holbrook (inferred); Prudence Crandall
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0165
 relatedText: 
 relatedTextIssue: 
 filename: 

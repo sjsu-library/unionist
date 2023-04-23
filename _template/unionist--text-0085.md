@@ -31,7 +31,7 @@ commentary: While it would be easy to dismiss this as pious filler, it is a fact
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0157
 relatedText: 
 relatedTextIssue: 
 filename: 

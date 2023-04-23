@@ -20,9 +20,10 @@ volume: '1'
 issue: '2'
 transcription: We really think the Hartford Times acts much better, the part of a
   <em>discreet</em> friend to Col. Judson, in omitting his Circular, than does the
-  Advertiser in publishing and requesting others to publish it.&nbsp;
+  Advertiser in publishing and requesting others to publish it.
 scholarlyNotes: 
-commentary: 
+commentary: A recognition by Charles Burleigh that Judson's circular does not present
+  its author in a good light. History has sustained Burleigh's insight in this regard.
 relatedPeople: Andrew Judson; James Holbrook (inferred)
 featured: 
 repeated: 

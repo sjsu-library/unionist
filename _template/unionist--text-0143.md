@@ -47,13 +47,13 @@ transcription: "<p>  “Judge Daggett.—This respected magistrate, we perceive,
   \ Washington.”<br></p>"
 scholarlyNotes: 
 commentary: This confirms that Jay's letter - and his well-tuned legal arguments -
-  appeared soon after the trial.
+  appeared soon after the second trial.
 relatedPeople: Prudence Crandall (inferred); David Daggett; Noah Webster; Peter A.
   Jay; Rufus King; Abram Van Vechten; De Witt Clinton; Gilbert Horton; John Quincy
   Adams
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0202
 relatedText: 
 relatedTextIssue: 
 filename: 

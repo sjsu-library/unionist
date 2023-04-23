@@ -33,7 +33,7 @@ caption: Title page from Orin Fowler's <em>A Disquisition on the Evils of Using 
 order: '449'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0046/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0046/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0046/manifest.json"
 ---

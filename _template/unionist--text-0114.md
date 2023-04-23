@@ -22,11 +22,11 @@ transcription: As the next thing to having wisdom ourselves, is to profit by tha
   of others, so<br>the next thing to having merit ourselves is to take care the meritorious
   profit<br>by us; for he that rewards the deserving, makes himself one of that number.<br>
 scholarlyNotes: 
-commentary: 
+commentary: How are the meritorious defined?
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0181
 relatedText: 
 relatedTextIssue: 
 filename: 

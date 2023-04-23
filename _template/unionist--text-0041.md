@@ -165,10 +165,15 @@ transcription: '<p>Canterbury, CT. July 19, 1833</p><p align="center">CIRCULAR O
   4<br>  <sup>th</sup>  of July last, when it was met with a prompt denial of its
   truth.<br></p>'
 scholarlyNotes: 
-commentary: 
+commentary: The circular of Judson and Adams is a revealing document. Outraged and
+  petulant in tone, they complain about receiving hate mail, about Crandall's support
+  from out of state, and about the content of the school inculcating Abolitionist
+  ideas. They give away their ultimate position when they ask "Does any one think
+  or believe that this school, <b>with all its evils</b>, should be fixed, and permanently
+  located here(?)"
 relatedPeople: Andrew Judson; Rufus Adams; Prudence Crandall; William Lloyd Garrison;
   Arnold Buffum; Oliver Watkins
-featured: 
+featured: 'yes'
 repeated: 
 relatedImage: 
 relatedText: 

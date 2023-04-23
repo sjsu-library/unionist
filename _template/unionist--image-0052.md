@@ -33,7 +33,7 @@ caption: George Benson, Sr. (1752-1836) was one of the leading radical thinkers 
 order: '455'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0052/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0052/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0052/manifest.json"
 ---

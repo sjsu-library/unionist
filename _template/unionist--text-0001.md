@@ -78,13 +78,23 @@ transcription: <p><em>From the (Brooklyn) Unionist, August 29</em></p><p>  The l
   These are my reasons for asking the privilege of entering your<br>  church; and
   all the licence I have received is as given above.<br></p><p align="center">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yours<br>  with
   respect,<br></p><p>P. CRANDALL.</p><p>  &nbsp;&nbsp; Shortly after the above answer
-  was sent by Miss Crandall to the<br>  foregoing communication was sent by Miss Crandall
-  to the foregoing<br>  communication, she received a verbal message, by Samuel L.
-  Hough, Esq. from<br>  SOLOMON PAYNE, Esq. directing her not to go into the meeting
-  house again with<br>  her pupils. For the truth of this last statement we rely upon
-  the declaration<br>  of Samuel L. Hough, Esq.<br></p>
+  was sent by Miss Crandall to the<br>  foregoing communication, she received a verbal
+  message, by Samuel L. Hough, Esq. from<br>  SOLOMON PAYNE, Esq. directing her not
+  to go into the meeting house again with<br>  her pupils. For the truth of this last
+  statement we rely upon the declaration<br>  of Samuel L. Hough, Esq.<br></p>
 scholarlyNotes: 
-commentary: 
+commentary: 'Church attendance, and church membership, were valorized cultural norms.
+  Church seating was institutionalized as a marker of white supremacy, with African-Americans
+  most often being limited to seats in the balcony. In fact, this very issue had led
+  to the walkout by Black leaders Richard Allen and Absalom Jones from St. George''s
+  Methodist Church in Philadelphia that launched the northern Black independent chuch
+  movement (see http://nationalhumanitiescenter.org/pds/maai/community/text3/allenmethodism.pdf
+  ).  Therefore this particular battle in Canterbury carried great emotional and strategic
+  weight. For those reading about this controversy in the press - including The Unionist
+  - the idea of denying the students access to attending church created an informal
+  litmus test: spiritual equality before God (favoring the students) or preserving
+  caste privilege in the key social institution that was the Congregational Church
+  in Connecticut.'
 relatedPeople: 'Solomon Payne; Andrew Harris; Prudence Crandall: Samuel L. Hough;
   Ashael Bacon; Isaac Knight'
 featured: 'Yes'

@@ -34,7 +34,7 @@ caption: William Jackson (1783-1855), Congressman from Massachusetts, and eager 
 order: '445'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0042/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0042/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0042/manifest.json"
 ---

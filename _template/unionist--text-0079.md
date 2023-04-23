@@ -21,7 +21,7 @@ issue: '6'
 transcription: THE SENSES FALLIBLE WITNESSES.—When we bathe in the sea, or in a cold
   bath, we<br>are accustomed to consider the water as colder than the air, and the
   air colder<br>than the clothes which surround us. Now all these objects are, in
-  fact, the same<br>temperature. A thermometer surrounded by the cloth of our coast
+  fact, the same<br>temperature. A thermometer surrounded by the cloth of our coat
   or suspended in<br>the atmosphere, or immersed in the sea, will stand at the same
   temperature. A<br>linen shirt, when first put on, will feel colder than a cotton
   one, and a<br>flannel shirt will actually feel warm; yet all these have the same
@@ -31,11 +31,11 @@ transcription: THE SENSES FALLIBLE WITNESSES.—When we bathe in the sea, or in 
   suspended<br>under shelter, and in a calm place, will indicate exactly the same
   temperature<br>as a thermometer on which the wind blows.
 scholarlyNotes: 
-commentary: 
+commentary: But can we trust the thermometers?
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0152
 relatedText: 
 relatedTextIssue: 
 filename: 

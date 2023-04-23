@@ -41,7 +41,7 @@ commentary: Important for being a woman author, a type of lament and jeremiad, a
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0178
 relatedText: 
 relatedTextIssue: 
 filename: 

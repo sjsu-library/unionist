@@ -28,12 +28,13 @@ transcription: "<p>  <em>Modern Refinement.</em>  —In the slave-holding States
   by a convicted murderer! There is<br>  something quite romantic in all this—inasmuch
   as it savors of the notions held<br>  in olden times—for instance, the chivalric
   days of the Sixth Harry:<br></p><p>  <em>Cade.</em>  Thou hast most notoriously
-  corrupted the youth of the realm, in erecting&nbsp;<br>  a grammar school. It will
-  be proved to thy face that thou hast those about<br>  thee, that usually talk of
-  a noun and a verb, and such abominable words as no<br>  christian can endure to
-  hear.”<br>  <em>Nantucket Inquirer</em></p>"
+  corrupted the youth of the realm, in erecting a grammar school. It will be proved
+  to thy face that thou hast those about<br>  thee, that usually talk of a noun and
+  a verb, and such abominable words as no<br>  christian can endure to hear.”<br>
+  \ <em>Nantucket Inquirer</em></p>"
 scholarlyNotes: 
-commentary: 
+commentary: Support from Nantucket shows how far the news could travel in maritime
+  circles.
 relatedPeople: Prudence Crandall; Oliver Watkins (inferred)
 featured: 'Yes'
 repeated: 

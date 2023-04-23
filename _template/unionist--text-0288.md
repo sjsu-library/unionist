@@ -33,7 +33,7 @@ commentary: 'John Prentice and Daniel Tibbets were men of strong anti-slavery se
   Society. In fact, John Prentice introduced a motion at the meeting in approbation
   of Prudence Crandall and the Canterbury Female Academy. Similarly, he was in the
   Providence Anti-Slavery Association, where, in 1833, he served as Treasurer. Others
-  on hte board include Henry E. Benson and Ray Potter. <p>Providence Anti-Slavery
+  on the board include Henry E. Benson and Ray Potter. <p>Providence Anti-Slavery
   Society; <em>The Reports and Proceedings<br>  of the First Annual Meeting of the
   Providence Anti-Slavery Society.&nbsp; With<br>  a Brief Exposition of the Principles
   and Purposes of the Abolitionists.&nbsp;</em>  Providence: H.H.Brown, 1833<br></p>In
@@ -42,7 +42,7 @@ commentary: 'John Prentice and Daniel Tibbets were men of strong anti-slavery se
 relatedPeople: John Prentice; Daniel Tibbits
 featured: 
 repeated: maybe
-relatedImage: 
+relatedImage: unionist--image-0137
 relatedText: 
 relatedTextIssue: 
 filename: 

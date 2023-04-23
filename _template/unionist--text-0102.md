@@ -23,11 +23,15 @@ transcription: <p align="center"><strong>INSURANCE.</strong></p><p>  DANIEL P. T
   reasonable terms.<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Brooklyn 29<br>  <sup>th</sup>  July, 1833.&nbsp;<br></p>
 scholarlyNotes: 
-commentary: 
+commentary: 'The Ætna was doing well in this era, paying high dividends and building
+  a strong name for itself, especially in fire insurance. Henry Ross Gall and William
+  George Jordan, <em>One Hundred Years of Fire Insurance: Being a History of the Ætna
+  Insurance Company, Hartford, Connecticut, 1819-1919</em> (Hartford: Ætna Insurance
+  Company, 1919), p. 77.'
 relatedPeople: Daniel P. Tyler
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0172
 relatedText: 
 relatedTextIssue: 
 filename: 

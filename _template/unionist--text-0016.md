@@ -47,7 +47,9 @@ transcription: <p align="center">PROSPECTUS</p><p align="center">OF</p><p align=
   of this character, are requested to send us their names as subscribers, taking care
   to specify particularly, the place to which they wish their papers sent.</p><p></p>
 scholarlyNotes: 
-commentary: 
+commentary: While there is no direct reference to the Canterbury Female Academy here,
+  the "recent enactments of our Legislature" would have left no doubt in the minds
+  of readers, given the notereity of the Connecticut Black Law.
 relatedPeople: 
 featured: 
 repeated: 

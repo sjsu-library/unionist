@@ -28,11 +28,12 @@ transcription: "<p>  <em>CAUTION.—A</em>  ll persons are forbid employing John
   \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
   \ DANIEL BENNET<br></p>"
 scholarlyNotes: 
-commentary: 
+commentary: I could not find the definitive facts about this case, but I've included
+  the likely 1830 Census report on the Bennett household.
 relatedPeople: John Skinner; Daniel Bennet
 featured: 
 repeated: 'yes'
-relatedImage: 
+relatedImage: unionist--image-0171
 relatedText: 
 relatedTextIssue: 
 filename: 

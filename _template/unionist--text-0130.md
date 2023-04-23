@@ -25,12 +25,12 @@ transcription: "<p>  It is stated by a gentleman in Ohio, who had every opportun
   Ohio will<br>  be one of the most wealthy and prosperous States of the Union.—<br>
   \ <em>S.C. Gaz.</em></p><p></p>"
 scholarlyNotes: Interesting that this comes from South Carolina
-commentary: Many folks from eastern Connecticut – including famously the Cleveland
-  family — were among the Ohio migrants
+commentary: 'Many folks from eastern Connecticut – including famously the Cleveland
+  family — were among the migrants to Ohio. '
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0193
 relatedText: 
 relatedTextIssue: 
 filename: 

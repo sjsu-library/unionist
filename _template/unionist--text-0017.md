@@ -116,7 +116,8 @@ transcription: <p align="center">EXTRACT.</p><p align="center"><em>From a </em>4
   than they did, of the great principles for which they so nobly contended. Let us
   not rest satisfied with our liberty, while aught of slavery abides in our land.</p>
 scholarlyNotes: Authorship unclear
-commentary: I am suspicious that this could be Samuel J. May
+commentary: While no author is given, this might well be Samuel J. May's contribution.
+  It embraces peace principles, anti-slavery, and equality before the law.
 relatedPeople: George Washington
 featured: 
 repeated: 

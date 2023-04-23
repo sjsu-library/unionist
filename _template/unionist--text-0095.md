@@ -48,7 +48,7 @@ commentary: 'This letter from "W." concerns militia training laws. Apparently a 
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0167
 relatedText: 
 relatedTextIssue: 
 filename: 

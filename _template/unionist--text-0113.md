@@ -28,7 +28,7 @@ commentary:
 relatedPeople: John Tyrell
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0180
 relatedText: 
 relatedTextIssue: 
 filename: 

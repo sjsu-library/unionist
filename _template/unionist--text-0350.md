@@ -22,10 +22,13 @@ transcription: "<p>  FOR SALE—300 white mulberry trees suitable for<br>  trans
   S.BARROWS.<br></p><p>  Brooklyn, March<br>  20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
   \ 33tf<br></p>"
 scholarlyNotes: 
-commentary: Sylvester Barrows (1801-1876) was a minister as well as a horticulturist.
-  He had a distant relative,  Ephraim P. Barrows Jr., who was a minister with connections
+commentary: 'Sylvester Barrows (1801-1876) was a minister as well as a horticulturist.
+  He had a distant relative, Ephraim P. Barrows Jr., who was a minister with connections
   to the New York City anti-slavery movement [Cole, Charles C. Jr.  1953.  The Free
-  Church Movement in New York City.  New York History 34:3:284-297 (July 1953).]
+  Church Movement in New York City.  New York History 34:3:284-297 (July 1953).].
+  The sale of mulberry trees here is part of "Connecticut''s Great Mulberry Mania
+  of the 1830s." This was an attempt to cultivate (literally) a home-grown silk industry
+  in New England. See this article for more information - https://newenglandhistoricalsociety.com/connecticuts-great-mulberry-mania-1830s/ '
 relatedPeople: Sylvester Barrows
 featured: 
 repeated: 

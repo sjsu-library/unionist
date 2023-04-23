@@ -55,12 +55,22 @@ header & nav bar
   padding: $margin;
   letter-spacing: 0.075rem;
 
+
+
   .navbar-brand {
     font-weight: 700;
     color: $accent-light;
     font-size: 2.5rem;
     white-space: normal;
     line-height: 2.5rem;
+    width: 50%;
+    min-width: 400px;
+
+
+    .site-logo {
+      width: 100%;
+    }
+
   }
 
   .navbar-brand:hover {
@@ -75,6 +85,7 @@ header & nav bar
     .nav-item {
       z-index: 1000000;
       background-color: $bg-color;
+      font-family: "Copperplate", $heading-font;
     }
     .nav-link {
       color: $accent-dark;
@@ -238,6 +249,9 @@ content section
     font-size: .9em;
     line-height: .9rem;
     font-family: "Copperplate", $heading-font;
+  }
+  .footer-site-logo img {
+    height:40px;
   }
   .footer-copyright {
     margin: 1rem 0 $margin 0;

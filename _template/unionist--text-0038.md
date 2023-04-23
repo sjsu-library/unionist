@@ -63,7 +63,14 @@ transcription: <p align="center">THE QUESTION.</p><p><strong>Considerable pains 
   these violation of our civil and religious principles? If they will, let them no
   longer claim to be a republican, much less a christian people!</p>
 scholarlyNotes: 
-commentary: 
+commentary: 'Samuel J. May (1797-1871) was the Unitarian minister of Brooklyn - the
+  only Unitarian in the entire state of Connecticut at the time - and the best strategic
+  thinker among Prudence Crandall''s local white allies. Here he names the problem
+  quite precisely: "Education has from the first, been regarded in this State highly
+  conducive to private happiness, and the public weal. Yet have our colored brethren
+  been twice angrily denied permission to seek this blessing." The "twice angrily
+  denied" refers to the New Haven Manual Labor College effort of 1831, while the second
+  denial is the Black Law against the Canterbury Female Academy.'
 relatedPeople: Andrew Judson; Samuel J. May; Prudence Crandall
 featured: 'Yes'
 repeated: 

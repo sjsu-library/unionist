@@ -46,7 +46,7 @@ commentary: "<p>Amos Phelps (1805-1847) was an endorser of the school. His pamph
 relatedPeople: Amos Phelps
 featured: 
 repeated: 'yes'
-relatedImage: 
+relatedImage: unionist--image-0129
 relatedText: 
 relatedTextIssue: 
 filename: 

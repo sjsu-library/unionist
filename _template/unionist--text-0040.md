@@ -26,7 +26,7 @@ transcription: "<p>  “From the Hartford Times!!”<br>  <em>The Unionist</em> 
   in this letter requiring its publication. [☞]<br></p><p>So Mr. Judson has wasted
   his paper and ink.</p>"
 scholarlyNotes: 
-commentary: 
+commentary: The Hartford Times chooses against publishing Andrew Judson's circular.
 relatedPeople: Andrew Judson; Rufus Adams
 featured: 
 repeated: 

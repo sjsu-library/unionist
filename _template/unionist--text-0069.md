@@ -39,7 +39,7 @@ relatedPeople: Erastus Dickinson; John McLellan; Theodore B. Chandler; William M
   Cornell; Daniel Lyman; Amos Paine; James McLellan; Moses Lyon
 featured: 
 repeated: 'yes'
-relatedImage: 
+relatedImage: unionist--image-0145
 relatedText: 
 relatedTextIssue: 
 filename: 

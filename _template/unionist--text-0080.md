@@ -31,12 +31,15 @@ transcription: COMMERCE OF CHINA. For more than a century past, almost the whole
   equally cogent, foreign trade was restricted; the emigration of<br>natives and the
   ingress of foreigners, were prohibited; and, if we mistake not,<br>the building
   of vessels on the European model was likewise interdicted. —<br><em>Chinese Rep.</em>
-scholarlyNotes: Interesting
-commentary: 
+scholarlyNotes: 
+commentary: The Chinese Repository was a periodical published in Canton, China, from
+  1832-1851, by Protestant missionaries. It is the site of a transcription project
+  on [Wikisource]  (https://en.wikisource.org/wiki/The_Chinese_Repository) for the
+  avid!
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0153
 relatedText: 
 relatedTextIssue: 
 filename: 

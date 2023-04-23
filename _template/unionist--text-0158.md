@@ -47,7 +47,7 @@ transcription: "<p>  The following communication from a christian, a philanthrop
   \ I would request of you, sir, to re-peruse an article which appeared under your<br>
   \ editorial head, Oct. 23d, in relation to Miss Crandall’s school and the<br>  sentiments
   of the abolitionists. I would ask you to do it calmly and<br>  dispassionately—<br>
-  \ <em>searching for the truth</em>  —unbiassed by opinions previously expressed,
+  \ <em>searching for the truth</em>  —unbiased by opinions previously expressed,
   farther than you find<br>  <em>reason</em>  to be your supporter.<br></p><p>  You
   say, “Although we think that Miss Crandall has a right to continue her<br>  school
   we are by no means friendly to the doctrines which are said to be<br>  taught in
@@ -179,7 +179,7 @@ transcription: "<p>  The following communication from a christian, a philanthrop
 scholarlyNotes: 
 commentary: 
 relatedPeople: Prudence Crandall
-featured: 
+featured: 'yes'
 repeated: 
 relatedImage: unionist--image-0011
 relatedText: 

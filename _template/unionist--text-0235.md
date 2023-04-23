@@ -37,7 +37,7 @@ commentary: 'This set of ripostes is most noteworthy for the Burleighs'' calling
 relatedPeople: Charles C. Burleigh (inferred)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0142
 relatedText: 
 relatedTextIssue: 
 filename: 

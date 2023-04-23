@@ -1,0 +1,45 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/unionist--image-0186",
+  "protocol": "http://iiif.io/api/image",
+  "width": 558,
+  "height": 940,
+  "sizes": [
+    {
+      "width": 558,
+      "height": 940
+    },
+    {
+      "width": 250,
+      "height": 421
+    },
+    {
+      "width": 1140,
+      "height": 1920
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

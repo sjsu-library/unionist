@@ -75,14 +75,14 @@ transcription: As the Unionist has requested, we have reperused our remarks upon
   are not expedient.” In the present state of<br>the country immediate and unconditional
   abolition is neither<br><em>expedient</em>nor<br><em>lawful</em>—and those engaged
   in promoting it are only planting the seeds of sedition. Let<br>them beware that
-  in sowing the wind, the do not reap the whirlwind.<br>
+  in sowing the wind, they do not reap the whirlwind.<br>
 scholarlyNotes: 
 commentary: 'This is a response to something that <em>The Unionist</em> published
   in the issue of October 31, 1833 (or, possibly October 24, 1833) '
 relatedPeople: William Lloyd Garrison; Prudence Crandall; Ralph Gurley; Robert Finley
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0199
 relatedText: 
 relatedTextIssue: 
 filename: 

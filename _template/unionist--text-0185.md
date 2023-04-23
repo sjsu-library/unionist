@@ -36,7 +36,7 @@ commentary: Lydia White (1788-1871) was a Philadelphia-based Abolitionist and fe
 relatedPeople: Lydia White
 featured: 
 repeated: 'yes'
-relatedImage: 
+relatedImage: unionist--image-0217
 relatedText: 
 relatedTextIssue: 
 filename: 

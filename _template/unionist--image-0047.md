@@ -35,7 +35,7 @@ caption: Endorsement page with testimony of <em>The Unionist</em> for Orin Fowle
 order: '450'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0047/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0047/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0047/manifest.json"
 ---

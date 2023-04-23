@@ -131,12 +131,14 @@ transcription: "<p>From the Brooklyn Unionist, October 10</p><p>MISS CRANDALL’
   defendant’s council, and the case will<br>  be carried to the Supreme Court of Errors,
   which will sit here next July.”<br></p>"
 scholarlyNotes: 
-commentary: 
+commentary: 'The second trial of Prudence Crandall on the Black Law convicted her
+  as guilty, largely on the machinations of Andrew Judson and the presiding judge,
+  the famed David Daggett. '
 relatedPeople: Prudence Crandall; David Daggett; Andrew Judson; Chauncey F. Cleaveland;
   Henry Strong; Calvin Goddard
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0196
 relatedText: 
 relatedTextIssue: 
 filename: 

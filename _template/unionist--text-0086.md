@@ -23,11 +23,11 @@ transcription: QUICK TRAVELLING. A gentleman left Boston on Friday morning at 5 
   30<br>minutes before 2 on Sunday morning—making the journey in 44 hours and 40<br>minutes,
   from city to city, distance about 500 miles.—<br><em>N.Y. Daily Adv.</em>
 scholarlyNotes: 
-commentary: 
+commentary: Boston to Baltimore can now be traversed by plane in less than two hours.
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0158
 relatedText: 
 relatedTextIssue: 
 filename: 

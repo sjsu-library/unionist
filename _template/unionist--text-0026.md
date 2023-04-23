@@ -33,7 +33,8 @@ transcription: We confess having spoken without sufficient reflection, in saying
   is bound to conduct with that “fairness which <em>ought to characterize</em> a public
   journal.”
 scholarlyNotes: 
-commentary: 
+commentary: As is true in today's media environment, the promise to represent "all
+  sides" is often made disingenuously.
 relatedPeople: James Holbrook (inferred)
 featured: 
 repeated: 

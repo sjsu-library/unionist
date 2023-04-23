@@ -28,12 +28,11 @@
 
 
   <body>
-    <time datetime='2023-04-18 03:19'></time>
+    <time datetime='2023-04-23 22:14'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
     <a class='navbar-brand' href="http://0.0.0.0:4000/unionist/" title='Home'>
-      <div class='header-title'>The Unionist Unified</div>
-      <div class='header-description'>Test site</div>
+      <img class='site-logo' src='http://0.0.0.0:4000/unionist/img/unionist-logo.png' alt= 'The Unionist Unified'>
     </a>
 
     <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#wax-header-navbar' aria-controls='wax-header-navbar' aria-expanded='false' aria-label='navigation'>
@@ -104,6 +103,19 @@
 <div class="item-parallax">
 
   
+   
+       <div class='wax-parallax full-width inline-parallax'>
+  <div class='parallax-image' style="background-image: url('http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0121/full/1140,/0/default.jpg');
+  background-position: 0% 15%;
+
+  
+  height: 200px !important;"></div>
+  
+</div>
+
+     
+
+
  </div>
 
 
@@ -116,38 +128,14 @@
     
       
 
-<div id="osd" class="image-viewer"></div>
-<script defer src="http://0.0.0.0:4000/unionist/assets/openseadragon/openseadragon.min.js"></script>
-<script>
-  $(document).ready(function () {
-    var manifestUrl = "http://0.0.0.0:4000/unionist";
-    console.log (manifestUrl);
-    if (manifestUrl == "http://0.0.0.0:4000"+"/unionist" || manifestUrl=="") {
+<div id="osd" class="image-viewer">
+  <div class="excerpt">
+    <div class="excerpt-inner">
+    <p>O! SHAME! SHAME!!”</p><p>☞ “The following paragraph is<br>  extracted from the Unionist of last week” <br></p><p>  “’The laudable efforts of the Canterbury worthies to drive Miss Crandall from<br>  her purpose, by withholding from her the necessaries of life, will have the<br>  effect to perpetuate their own well earned fame, if not to attain its primary<br>  object. The latest measure which we have heard of their adopting, is the<br>  FILLING MISS C’S WELL WITH MANURE FROM THE BARNYARD,<br>  <em>and then refusing to give her water from their own wells.’”</em></p>
+    </div>
+  </div>
+</div>
 
-
-    }
-    else {
-
-    $.getJSON(manifestUrl, function(data) {
-      var tileSources = [];
-      $.each(data.sequences[0].canvases, function(_k, val) {
-        tileSources.push({
-          tileSource: val.images[0].resource.service['@id'] + '/info.json',
-          referenceStripThumbnailUrl: val.thumbnail
-        });
-      });
-      OpenSeadragon({
-        id: "osd",
-        preload: true,
-        sequenceMode: true,
-        prefixUrl: "http://0.0.0.0:4000/unionist/assets/openseadragon/images/",
-        tileSources: tileSources,
-        showReferenceStrip: true,
-      });
-    });
-  }//end else
-  });
-</script>
 
 
     
@@ -168,9 +156,28 @@
   <div class='item-content'>
     <h3>Section: Featured Content</h3>
     
+     
+       
+
+<div class='inline-image-reference'>
+  <a href='http://0.0.0.0:4000/unionist/template/unionist--image-0121/'>
+    <img src='http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0121/full/1140,/0/default.jpg' alt="The answer, not surprisingly, is yes. Yes, it is dangerous to ingest"/>
+  </a>
+  
+  <p class='image-caption'>
+    Above: <a href='http://0.0.0.0:4000/unionist/template/unionist--image-0121/'>The answer, not surprisingly, is yes. Yes, it is dangerous to ingest</a>
+  </p>
+  
+</div>
+
+       
    
    
    
+   
+   
+    <h4>Commentary</h4>
+      <p>The vigilante violence and harassment of the Canterbury Female Academy was continuous, malicious, and often crudely immature, as in this instance. Putting dung into drinking water can be life-threatening, and coupled with the white villagers' unwillingness to assist the Academy by delivering fresh water, this incident revealed the depth of inhuman disdain that the white villagers had.</p>
    
 
   </div>
@@ -358,6 +365,10 @@
 
     
     
+      
+        <dt>Transcription</dt>
+        <dd><p>O! SHAME! SHAME!!”</p><p>☞ “The following paragraph is<br>  extracted from the Unionist of last week” <br></p><p>  “’The laudable efforts of the Canterbury worthies to drive Miss Crandall from<br>  her purpose, by withholding from her the necessaries of life, will have the<br>  effect to perpetuate their own well earned fame, if not to attain its primary<br>  object. The latest measure which we have heard of their adopting, is the<br>  FILLING MISS C’S WELL WITH MANURE FROM THE BARNYARD,<br>  <em>and then refusing to give her water from their own wells.’”</em></p></dd>
+    
   
     
 
@@ -367,6 +378,10 @@
     
 
     
+    
+      
+        <dt>Commentary</dt>
+        <dd>The vigilante violence and harassment of the Canterbury Female Academy was continuous, malicious, and often crudely immature, as in this instance. Putting dung into drinking water can be life-threatening, and coupled with the white villagers' unwillingness to assist the Academy by delivering fresh water, this incident revealed the depth of inhuman disdain that the white villagers had.</dd>
     
   
     
@@ -395,6 +410,10 @@
     
 
     
+    
+      
+        <dt>Related image</dt>
+        <dd>unionist--image-0121</dd>
     
   
     
@@ -428,8 +447,9 @@
   <div class='wax-inline-container'>
     <div class='row'>
       <div class='col'>
-        <p class='footer-title title-big'>The Unionist Unified</p>
-        <p class='footer-description'>Test site</p>
+        <div class='footer-site-logo'>
+          <img class='site-logo' src='http://0.0.0.0:4000/unionist/img/unionist-logo.png' alt= 'The Unionist Unified'>
+        </div>
         <p class='footer-copyright'>
           Built with <a href='https://github.com/minicomp/wax/'>Minicomp/Wax</a>
           <br/><br/>

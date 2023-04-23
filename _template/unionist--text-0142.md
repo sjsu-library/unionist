@@ -130,7 +130,7 @@ relatedPeople: Prudence Crandall; David Daggett; Noah Webster; Peter A. Jay; Ruf
   King; Abram Van Vechten; De Witt Clinton; Gilbert Horton; John Quincy Adams
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0197
 relatedText: 
 relatedTextIssue: 
 filename: 

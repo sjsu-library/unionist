@@ -97,7 +97,7 @@ commentary: This article contains a request for The Unionist to republish this a
 relatedPeople: Amos Beman
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0200
 relatedText: 
 relatedTextIssue: 
 filename: 

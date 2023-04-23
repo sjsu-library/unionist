@@ -26,7 +26,8 @@ transcription: JUVENILE INTREPEDITY. On Monday afternoon last, a child of four y
   so much courage and coolness, and still more to find it in the case of<br>a mere
   lad. He deserves much credit.—<br><em>N.Y. Standard</em>
 scholarlyNotes: 
-commentary: 
+commentary: Bravery in the young - something that was on display daily at the Canterbury
+  Female Academy!
 relatedPeople: Thomas Bennet
 featured: 
 repeated: 

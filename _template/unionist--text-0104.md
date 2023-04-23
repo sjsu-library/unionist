@@ -31,12 +31,13 @@ transcription: "<p>  AT a Court of Probate holden at Killingly within and for th
   Certified<br>  from Record<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
   \ DAVID CHASE, Clerk.<br></p>"
 scholarlyNotes: 
-commentary: 
+commentary: Judge Thomas Backus (1800-1858) was well-connected locally. See his [Find-a-Grave]
+  (https://www.findagrave.com/memorial/77485041/thomas-backus) page.
 relatedPeople: Jedediah Leavens (probate); Thomas Backus (probate judge); David Chase
   (probate clerk)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0173
 relatedText: 
 relatedTextIssue: 
 filename: 

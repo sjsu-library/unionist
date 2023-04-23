@@ -36,7 +36,7 @@ caption: A page about Athens in <em>The Life and Travels of the Apostle Paul</em
 order: '509'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0106/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0106/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0106/manifest.json"
 ---

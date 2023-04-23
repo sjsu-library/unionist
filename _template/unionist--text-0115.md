@@ -26,7 +26,7 @@ commentary:
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0182
 relatedText: 
 relatedTextIssue: 
 filename: 

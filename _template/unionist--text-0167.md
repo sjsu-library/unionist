@@ -23,11 +23,11 @@ transcription: On account of the length of the Declaration of the Anti-Slavery C
   week is coming. We are thankful for all literary favors—and<br>respectfully request
   a continuance of them.<br>
 scholarlyNotes: 
-commentary: 
+commentary: Editors either have too little material, or too much.
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0210
 relatedText: 
 relatedTextIssue: 
 filename: 

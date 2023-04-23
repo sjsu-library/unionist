@@ -36,7 +36,7 @@ caption: George Benson (1808-1879) from daguerreotype taken about 1845
 order: '422'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0019/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0019/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0019/manifest.json"
 ---

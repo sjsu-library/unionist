@@ -33,7 +33,7 @@ commentary: John Prentice and Daniel Tibbits listed themselves as tailors on<br>
 relatedPeople: John Prentice; Daniel Tibbits
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0136
 relatedText: 
 relatedTextIssue: 
 filename: 

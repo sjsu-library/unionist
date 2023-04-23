@@ -22,11 +22,12 @@ transcription: An Anti-masonic Convention is to be holden at Hartford, on the 25
   the present month, for the purpose of nominating State officers for the next<br>Spring
   election.<br>
 scholarlyNotes: 
-commentary: 
+commentary: Both Charles and William Burleigh were committed to an Anti-Masonic politics
+  of egalitarianism.
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0211
 relatedText: 
 relatedTextIssue: 
 filename: 

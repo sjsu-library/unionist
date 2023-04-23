@@ -29,7 +29,8 @@ transcription: "“She was in her own house, and as we suppose in her native Sta
   imprisonment for obedience to the dictates of her conscience and the evident<br>requirements
   of piety, patriotism and philanthropy?”"
 scholarlyNotes: 
-commentary: 
+commentary: The Rhode Island Philanthropist was co-edited by Rev. Thomas Williams,
+  a staunch ally of Prudence Crandall.
 relatedPeople: Timothy Dwight; Prudence Crandall
 featured: 'Yes'
 repeated: 

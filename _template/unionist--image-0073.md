@@ -34,7 +34,7 @@ caption: 'Page from an 1840 issue of Godey''s Lady Book: Fig. 1.—Barege dress,
 order: '476'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0073/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0073/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0073/manifest.json"
 ---

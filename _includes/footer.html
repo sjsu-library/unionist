@@ -2,8 +2,9 @@
   <div class='wax-inline-container'>
     <div class='row'>
       <div class='col'>
-        <p class='footer-title title-big'>{{ site.title }}</p>
-        <p class='footer-description'>{{ site.description }}</p>
+        <div class='footer-site-logo'>
+          <img class='site-logo' src='{{ site.logo | absolute_url }}' alt= '{{ site.title }}'>
+        </div>
         <p class='footer-copyright'>
           Built with <a href='https://github.com/minicomp/wax/'>Minicomp/Wax</a>
           <br/><br/>

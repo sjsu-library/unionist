@@ -34,7 +34,7 @@ commentary: The Free Produce movement urged Abolitionists to boycott any goods m
 relatedPeople: Joseph H. Beale
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0146
 relatedText: 
 relatedTextIssue: 
 filename: 

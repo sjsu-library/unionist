@@ -34,7 +34,7 @@ caption: A white mulberry tree (Morus alba) in Windsor Locks, Connecticut, June 
 order: '458'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0055/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0055/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0055/manifest.json"
 ---

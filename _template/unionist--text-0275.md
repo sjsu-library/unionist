@@ -33,7 +33,7 @@ commentary:
 relatedPeople: Lydia White
 featured: 
 repeated: 'yes'
-relatedImage: 
+relatedImage: unionist--image-0217
 relatedText: 
 relatedTextIssue: 
 filename: 

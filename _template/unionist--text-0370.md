@@ -200,7 +200,7 @@ relatedPeople: 'William R. Staples; David Pickering; Oliver Angell; Tristam Burg
   King; J.O. Conner; Roberts Vaux; Roswell C. Smith, '
 featured: 
 repeated: 'yes'
-relatedImage: 
+relatedImage: unionist--image-0124
 relatedText: 
 relatedTextIssue: 
 filename: 

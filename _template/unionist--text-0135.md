@@ -22,11 +22,11 @@ transcription: A few days since a rustic stranger inquired for a letter at the p
   and<br>after paying for it, not being satisfied with its contents, deliberately<br>deposited
   in the letter box, exclaimed, “hang the thing, it aint [sic] worth<br>paying for.”<br>
 scholarlyNotes: 
-commentary: 
+commentary: We of the 21st century know about receiving worthless mail!
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0195
 relatedText: 
 relatedTextIssue: 
 filename: 

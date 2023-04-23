@@ -34,7 +34,7 @@ commentary: Many of the radical abolitionists were among those also arguing for 
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0194
 relatedText: 
 relatedTextIssue: 
 filename: 

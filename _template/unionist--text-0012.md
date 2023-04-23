@@ -27,7 +27,9 @@ transcription: "“A paper has just been established at Brooklyn, Windham Co. ca
   instead of announcing his name as Chas. Burleigh, should say, “published by Hurly
   Burly, near Canterbury.”"
 scholarlyNotes: 
-commentary: 
+commentary: The Columbian Register of New Haven was always a stalwart opponent of
+  Black civil rights in the United States. As masters of newspaper sarcasm, the use
+  of "Hurly Burly" to describe Charles C. Burleigh is to be expected.
 relatedPeople: Charles C. Burleigh; Andrew Judson; Prudence Crandall; Oliver Watkins
 featured: 
 repeated: 

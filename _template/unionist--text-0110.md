@@ -27,11 +27,12 @@ transcription: EGYPTIAN NEWSPAPER.—A journal is now published at Alexandria, u
   languages,<br>gives no political news, but is confined to civil and military subjects,
   which<br>have merely a local interest.<br>
 scholarlyNotes: 
-commentary: Why did he include this notice?
+commentary: This article was originally published in the July, 1833 edition of <em>The
+  Christian Advocate</em>
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0179
 relatedText: 
 relatedTextIssue: 
 filename: 

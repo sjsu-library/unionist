@@ -95,9 +95,11 @@ transcription: <p align="center">THE SPIRIT OF REFORM.</p><p>What is the spirit 
   is, that they want moral independence, and do not hold themselves individually accountable
   to their own spirit, or to the Father of Spirits.</p>
 scholarlyNotes: Authorship unclear
-commentary: Authorship unclear; wonder if it is a Quaker, or someone Quaker-influenced?
-  Given how eccentric CCB becomes, this is an interesting early editorial if it is
-  his
+commentary: This editorial extols those who live by steadfast principles, rather than
+  ego, conceit, self-interest, or the whims of popular opinion. Thus it obviously
+  addresses, even if obliquely, the situation of the cognitive minority of Immediate
+  Abolitionists. No author is credited; it is interesting to consider if this might
+  be by Charles Burleigh himself.
 relatedPeople: 
 featured: 
 repeated: 

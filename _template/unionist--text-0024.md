@@ -36,7 +36,8 @@ transcription: "<p>We cannot but admire the facility with which the Editor of th
   it was never our intention to insinuate that it had not been in his possession,
   nor do we believe that our plain narrative contains any such insinuation.</p>"
 scholarlyNotes: 
-commentary: 
+commentary: Accusations of dissimulation between Burleigh and James Holbrook, editor
+  of the Windham Advertiser.
 relatedPeople: James Holbrook (inferred)
 featured: 
 repeated: 

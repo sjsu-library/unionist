@@ -20,14 +20,15 @@ volume:
 issue: 
 transcription: THE UNIONIST.—This is the title of a new paper just commenced at Brooklyn,
   Connecticut; edited and published by CHARLES C. BURLEIGH. We have received the first
-  number, and are much&nbsp; pleased with its appearance. Pledged to no party, but
-  taking for its motto the glorious truth—“Righteousness exalteth a nation!”—it avows
-  its determination to exert its influence for the promotion of virtue and the suppression
+  number, and are much pleased with its appearance. Pledged to no party, but taking
+  for its motto the glorious truth—“Righteousness exalteth a nation!”—it avows its
+  determination to exert its influence for the promotion of virtue and the suppression
   of vice. Upon the subject of A.T. Judson’s “black law,” it speaks fearlessly, independently,
   dispassionately. We wish the new paper success, and from our knowledge of the talents
   and stern moral integrity of its editor, we know it will deserve it.
 scholarlyNotes: 
-commentary: 
+commentary: The Schnectady Cabinet would prove to be a strong ally to the Abolitionist
+  cause.
 relatedPeople: Charles C. Burleigh; Andrew Judson; Prudence Crandall
 featured: 
 repeated: 

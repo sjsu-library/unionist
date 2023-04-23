@@ -208,7 +208,7 @@ relatedPeople: William C. Preston; Stephen D. Miller; Samuel McKean; George M. D
   Peter Wager; Hugh McElderry
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0213
 relatedText: 
 relatedTextIssue: 
 filename: 

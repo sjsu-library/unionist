@@ -29,11 +29,14 @@ transcription: TATTLING. “He that keepeth his mouth, keepeth his life.” It i
   the character<br>of a person, or thwart any of his purposes—acts up to the proverb,
   and gains the<br>esteem and friendship of his fellows.—<br><em>Juvenile Watchman</em>
 scholarlyNotes: 
-commentary: 
+commentary: 'The <em>Juvenile Watchman</em> was a short-lived spin-off project of
+  the Baptist newspaper, <em>Christian Watchman</em>. A remarkable Digital Humanities
+  project [here] (https://www.merrycoz.org/bib/MAGAZINE.xhtml) includes a page tracking
+  the lack of interest in this [periodical] (https://www.merrycoz.org/jwatch/RVJWATCH.xhtml#6). '
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0154
 relatedText: 
 relatedTextIssue: 
 filename: 

@@ -35,7 +35,7 @@ caption: Even in the second edition, William Alcott's name was not given on the 
 order: '424'
 layout: template_item
 collection: template
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0021/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/unionist--image-0021/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0021/manifest.json"
 ---
