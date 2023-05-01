@@ -18,17 +18,23 @@ layout: default
   {% if related != '' %}
    {% if page.relatedImage contains ';' %}
      {% assign firstImage = page.relatedImage | split: '; ' | first %}
-        {% include parallax_image.html collection='template' pid=firstImage height='200px' %}
+        {% include parallax_image.html collection='items' pid=firstImage height='200px' %}
   {% else %}
-       {% include parallax_image.html collection='template' pid=page.relatedImage height='200px' %}
+       {% include parallax_image.html collection='items' pid=page.relatedImage height='200px' %}
      {% endif %}
 
 {% elsif page.type == 'image' %}
-  {% include parallax_image.html collection='template' pid=page.pid height='200px' %}
+  {% include parallax_image.html collection='items' pid=page.pid height='200px' %}
 
   {% endif %}
  </div>
 
+{% assign category = page.category | strip %}
+<div class='item-category'>
+  <div class='{{ category }}'>
+    <p>{{ category }}</p>
+  </div>
+</div>
 
 {% if page.image_viewer %}
   {% assign viewer = page.image_viewer %}
@@ -56,10 +62,10 @@ layout: default
      {% if page.relatedImage contains ';' %}
        {% assign images = page.relatedImage | split: '; ' %}
        {% for image in images %}
-           {% include inline_image.html collection='template' pid=image %}
+           {% include inline_image.html collection='items' pid=image %}
        {% endfor %}
     {% else %}
-       {% include inline_image.html collection='template' pid=page.relatedImage %}
+       {% include inline_image.html collection='items' pid=page.relatedImage %}
        {% endif %}
    {% endif %}
    {% assign scholarly = page.scholarlyNotes | strip %}

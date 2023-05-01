@@ -4,4 +4,4 @@ title: Browse the Collection
 permalink: /collection/
 ---
 
-{% include collection_gallery.html collection='template' %}
+{% include collection_gallery.html collection='items' %}

@@ -65,13 +65,13 @@ kramdown:
 collections:
   exhibits:
     output: true
-  template: # name of collection
+  items: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'template_item' # the layout for the pages to use
+    layout: 'items_item' # the layout for the pages to use
     metadata:
-      source: 'template.csv' # path to the metadata file within `_data`
+      source: 'items.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/template' # path to the directory of images within `_data`
+      source: 'raw_images/items' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -85,7 +85,7 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      template:
+      items:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - title
@@ -108,6 +108,8 @@ menu:
     sub:
       - label: 'Example'
         link: '/explore/example-exhibit/'
+      - label: 'Setting and Context'
+        link: '/explore/setting-and-context/'
       - label: 'Issues'
         link: '/explore/issues/'
   - label: 'Browse'

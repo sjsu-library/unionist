@@ -34,8 +34,8 @@ p {
   margin-bottom: $less-margin;
   letter-spacing: .02rem;
   font-weight: 400;
-  font-size: 1rem;
-  line-height: 1.75rem;
+  font-size: 1.25rem;
+  line-height: 2.00rem;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
@@ -928,4 +928,30 @@ search box
 
 .exhibit-after {
   margin-top: 60px;
+}
+
+.item-category {
+  width: 100%;
+
+    div {
+      background-color: $feature2;
+      padding:10px;
+    }
+    .Unionist {
+      background-color: $feature5;
+    }
+    .Positive {
+      background-color: $feature3;
+    }
+    .Negative {
+      background-color: $feature4;
+    }
+    .full {
+      background-color: $feature1;
+      p {
+        color: #ffffff;
+      }
+    }
+
+
 }
