@@ -18,7 +18,7 @@ source: 'Eliza Morrison, <em>Memoirs of the Life and Labours Robert Morrison</em
   v. 1 (London: Longman, Orme, Brown, Green, and Longmans, 1839).'
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -36,10 +36,10 @@ caption: Li Shigong (far left) and Chen Laoyi translating the Bible as Robert Mo
   (1782-1834) looks on, an engraving after George Chinnery's now-lost c. 1828 original.
   Robert Morrison was instrumental in establishing Anglo-Sino institutions, including
   the college at Malaca, and the work of translating the Bible into Cantonese.
-order: '594'
+order: '602'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0191/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0191/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0191/manifest.json"
+full: ''
 ---

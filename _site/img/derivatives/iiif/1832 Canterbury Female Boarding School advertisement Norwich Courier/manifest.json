@@ -1,0 +1,46 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/1832 Canterbury Female Boarding School advertisement Norwich Courier/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "1832 Canterbury Female Boarding School advertisement Norwich Courier",
+  "thumbnail": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/1832 Canterbury Female Boarding School advertisement Norwich Courier/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/sequence/1832 Canterbury Female Boarding School advertisement Norwich Courier.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/canvas/1832 Canterbury Female Boarding School advertisement Norwich Courier.json",
+          "label": "front",
+          "width": 964,
+          "height": 1284,
+          "thumbnail": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/1832 Canterbury Female Boarding School advertisement Norwich Courier/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/annotation/1832 Canterbury Female Boarding School advertisement Norwich Courier.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/1832 Canterbury Female Boarding School advertisement Norwich Courier/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/1832 Canterbury Female Boarding School advertisement Norwich Courier",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 482,
+                "height": 642
+              },
+              "on": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/canvas/1832 Canterbury Female Boarding School advertisement Norwich Courier.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/1832 Canterbury Female Boarding School advertisement Norwich Courier/full/full/0/default.jpg"
+}

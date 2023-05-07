@@ -20,7 +20,7 @@ rights: Public Domain
 source: https://archive.org/details/earlytobedandea00frangoog/page/n4/mode/2up?view=theater
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -37,10 +37,10 @@ filename:
 caption: 'Title Page to Benjamin Franklin''s <em>Early to Bed, and Early to Rise,
   Makes a Man Healthy, Wealthy, and Wise, Or, Early Rising, a Natural, Social, and
   Religious Duty</em> (Northampton: Abel & Sons, Parade, 1855)'
-order: '589'
+order: '597'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0186/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0186/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0186/manifest.json"
+full: ''
 ---

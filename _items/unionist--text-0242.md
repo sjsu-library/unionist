@@ -32,7 +32,7 @@ commentary:
 relatedPeople: George Washington (inferred)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0306
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -41,6 +41,6 @@ order: '241'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

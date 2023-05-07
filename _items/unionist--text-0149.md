@@ -57,6 +57,6 @@ order: '148'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

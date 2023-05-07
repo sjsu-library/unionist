@@ -19,8 +19,8 @@ article.type:
 volume: '1'
 issue: '2'
 transcription: <p align="center">  <strong><em>Plainfield Academy.</em></strong></p><p>  THIS
-  institution commenced its summer term on the 16<br>  <sup>th</sup>  of May last,
-  under the care of Mr. KEEP, Principal, and Mr CLARK assistant.<br></p><p>  Plainfield,
+  institution commenced its summer term on the 16<sup>th</sup>  of May last, under
+  the care of Mr. KEEP, Principal, and Mr CLARK assistant.<br></p><p>  Plainfield,
   in point of ease of access, healthiness and pleasantness of<br>  situation, and
   other considerations favorable to the locality of a school, is,<br>  it is believed,
   surpassed by but few towns in the state. The building is a two<br>  story edifice
@@ -47,6 +47,6 @@ order: '070'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

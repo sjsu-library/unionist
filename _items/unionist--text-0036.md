@@ -28,7 +28,7 @@ commentary: To stay true to its word concerning printing all sides, The Unionist
 relatedPeople: Andrew Judson; Rufus Adams
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0270
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -37,6 +37,6 @@ order: '035'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

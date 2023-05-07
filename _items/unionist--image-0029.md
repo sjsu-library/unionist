@@ -14,7 +14,7 @@ rights: https://idahonews.com/news/local/stray-steer-shows-up-in-eagle-neighborh
 source: https://idahonews.com/news/local/stray-steer-shows-up-in-eagle-neighborhood
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist--text-0189
 relatedTextIssue: 1833-12-19 p.03.35
 filename: 
 caption: A loose cattle wandering the neighborhood in Eagle, Idaho
-order: '432'
+order: '440'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0029/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0029/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0029/manifest.json"
+full: ''
 ---

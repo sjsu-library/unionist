@@ -32,7 +32,7 @@ commentary: The Schnectady Cabinet would prove to be a strong ally to the Abolit
 relatedPeople: Charles C. Burleigh; Andrew Judson; Prudence Crandall
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0235
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -41,6 +41,6 @@ order: '008'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

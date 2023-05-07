@@ -26,11 +26,11 @@ transcription: <p align="center">TEMPERANCE &amp; FREE LABOR GROCERY.</p><p>  WI
   their friends of color and others to give them a call at No. 33,<br>  Sullivan-st.<br></p><p>  <em>New
   York, August,</em>  1833.<br></p>
 scholarlyNotes: Look up address and name in Peterson
-commentary: Likely a person of color?
+commentary: Not sure if William Grey is a Black or white man.
 relatedPeople: William Grey
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0221
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -39,6 +39,6 @@ order: '195'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

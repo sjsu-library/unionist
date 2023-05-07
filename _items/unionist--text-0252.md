@@ -43,31 +43,31 @@ transcription: "<p>  <em>The Fire at Canterbury—</em>  Mr. Frederick Olney has
   way, to “break up” the “nigger school.” Col. Judson and<br>  his fellow laborers
   against that school have done all in their power to excite<br>  the most virulent
   and reckless hostility to it. We were ourselves present in<br>  the famous town
-  meeting on the 9<br>  <sup>th</sup>  of March, 1833, and there we heard enough said
-  by the Col. and his colleagues<br>  to instigate persons of a certain character
-  to violence against the school. It<br>  is notorious that minor acts of violence
-  have repeatedly been committed<br>  against her house—and they must not wonder if
-  those who have thrown stones and<br>  rotten eggs and filth, with impunity if not
-  with applause, should be<br>  emboldened to apply even the slow match. That this
-  or something like this was<br>  meditated the public are compelled to believe by
-  the article in the Advertiser<br>  of Dec. 19<br>  <sup>th*</sup>  —and will not
-  all have reason to suspect that the Col. and his coadjutors and<br>  the public
-  prosecutor are leagued to protect the real culprit, unless they now<br>  set about
-  in earnest to find him, in the direction pointed out by Mr.<br>  Holbrook? This
-  mysterious affair ought to be cleared up. No one could rejoice<br>  more than we
-  should do to have it satisfactory proved, that the fire was<br>  accidental. But
-  there appears to be scarcely any doubt that it was the work of<br>  an incendiary.
-  Therefore let the felon be hunted for without further delay.<br>  Mr. Holbrook has
-  refused to give to the public at our request, and has even<br>  refused to give
-  to Miss Crandall, an explanation of his meaning in the article<br>  to which we
-  have so often alluded. But Col. Judson and the State’s Attorney<br>  can doubtless
-  elicit from him the information which has so long been called<br>  for in vain.<br></p>"
+  meeting on the 9<sup>th</sup>  of March, 1833, and there we heard enough said by
+  the Col. and his colleagues<br>  to instigate persons of a certain character to
+  violence against the school. It<br>  is notorious that minor acts of violence have
+  repeatedly been committed<br>  against her house—and they must not wonder if those
+  who have thrown stones and<br>  rotten eggs and filth, with impunity if not with
+  applause, should be<br>  emboldened to apply even the slow match. That this or something
+  like this was<br>  meditated the public are compelled to believe by the article
+  in the Advertiser<br>  of Dec. 19<sup>th*</sup>  —and will not all have reason to
+  suspect that the Col. and his coadjutors and<br>  the public prosecutor are leagued
+  to protect the real culprit, unless they now<br>  set about in earnest to find him,
+  in the direction pointed out by Mr.<br>  Holbrook? This mysterious affair ought
+  to be cleared up. No one could rejoice<br>  more than we should do to have it satisfactory
+  proved, that the fire was<br>  accidental. But there appears to be scarcely any
+  doubt that it was the work of<br>  an incendiary. Therefore let the felon be hunted
+  for without further delay.<br>  Mr. Holbrook has refused to give to the public at
+  our request, and has even<br>  refused to give to Miss Crandall, an explanation
+  of his meaning in the article<br>  to which we have so often alluded. But Col. Judson
+  and the State’s Attorney<br>  can doubtless elicit from him the information which
+  has so long been called<br>  for in vain.<br></p>"
 scholarlyNotes: 
 commentary: 
 relatedPeople: Frederick Olney; Prudence Crandall; Andrew Judson; James Holbrook
 featured: 'yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0265
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -76,6 +76,6 @@ order: '251'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

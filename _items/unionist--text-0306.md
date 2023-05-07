@@ -68,7 +68,7 @@ commentary: Original of this memoir available on line at<br>https://catalog.hath
 relatedPeople: Zerah Colburn
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0276
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -77,6 +77,6 @@ order: '305'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

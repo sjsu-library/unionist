@@ -22,7 +22,7 @@ rights: one or more third parties have made copyright claims against Wikimedia C
 source: 
 subject: 
 type: Image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -37,10 +37,10 @@ relatedText: unionist-text-0100
 relatedTextIssue: 1833-09-05 p03.27
 filename: 
 caption: William Wilberforce, 1828
-order: '407'
+order: '415'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

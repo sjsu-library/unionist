@@ -42,7 +42,7 @@ commentary: 'The text of this small-minded riposte makes it clear that Charles a
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0011
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -51,6 +51,6 @@ order: '227'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

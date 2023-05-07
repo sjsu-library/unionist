@@ -14,7 +14,7 @@ rights: No restrictions listed
 source: https://www.andlaw.com/is-it-legal-to-write-your-own-will/
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -28,11 +28,11 @@ relatedImage:
 relatedText: unionist--text-0192
 relatedTextIssue: 1833-12-19 p.03.38
 filename: 
-caption: 
-order: '622'
+caption: Last Will and Testament
+order: '630'
 layout: items_item
 collection: items
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0219/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0219/manifest.json"
+full: "/img/derivatives/iiif/images/unionist--image-0219/full/1140,/0/default.jpg"
 ---

@@ -38,7 +38,7 @@ commentary: '<p>  This same William Hutchins, most likely, gave an address decla
 relatedPeople: Rev. Mr. Benedict; William Hutchins
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0269
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -47,6 +47,6 @@ order: '346'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

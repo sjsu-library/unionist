@@ -15,7 +15,7 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: 
 subject: 
 type: Image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ relatedTextIssue: 1833-12-19 p.01.03
 filename: 
 caption: 'from <em>Steamboat Disasters and Railroad Accidents in the United States</em>,
   Revised and Improved (Worcester: Warren Lazell, 1846)'
-order: '413'
+order: '421'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0010/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0010/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0010/manifest.json"
+full: ''
 ---

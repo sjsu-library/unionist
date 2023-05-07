@@ -29,7 +29,7 @@ commentary: The murder, and a sad gravestone inscription attesting to it, are de
 relatedPeople: John R. Wiggins
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0239
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -38,6 +38,6 @@ order: '327'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

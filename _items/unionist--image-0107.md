@@ -19,7 +19,7 @@ source: "<em>The Life and Travels of the Apostle Paul, Prepared with Questions f
   Colman and Holden, 1833), p.254. online at https://play.google.com/store/books/details?id=AzwAAAAAYAAJ&rdid=book-AzwAAAAAYAAJ&rdot=1"
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -36,10 +36,10 @@ filename:
 caption: A page about Paul writing his epistles from prison, in <em>The Life and Travels
   of the Apostle Paul</em>. This tradition was very important to the Abolitionists,
   including Prudence Crandall.
-order: '510'
+order: '518'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0107/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0107/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0107/manifest.json"
+full: ''
 ---

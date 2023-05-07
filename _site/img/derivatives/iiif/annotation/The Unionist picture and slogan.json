@@ -1,0 +1,19 @@
+{
+  "@type": "oa:Annotation",
+  "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/annotation/The Unionist picture and slogan.json",
+  "motivation": "sc:painting",
+  "resource": {
+    "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/The Unionist picture and slogan/full/full/0/default.jpg",
+    "@type": "dcterms:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/The Unionist picture and slogan",
+      "profile": "http://iiif.io/api/image/2/level0.json"
+    },
+    "width": 539,
+    "height": 426
+  },
+  "on": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/canvas/The Unionist picture and slogan.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

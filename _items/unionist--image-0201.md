@@ -17,7 +17,7 @@ rights: No known restrictions
 source: https://collections.si.edu/search/record/ark:/65665/fd5c9c8c487349c439da88eb4093c00eacd
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -33,10 +33,10 @@ relatedTextIssue:
 filename: 
 caption: 'Enameled container and lid with anti-slavery slogan: "May the Enemies of
   Liberty, Feel the Evils of Slavery." This dates from the era of the American Revolution.'
-order: '605'
+order: '613'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0201/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0201/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0201/manifest.json"
+full: ''
 ---

@@ -19,7 +19,7 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: 
 subject: 
 type: Image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -35,10 +35,10 @@ relatedTextIssue: 1833-12-19 p.01.05
 filename: 
 caption: Silk broadside of the Declaration of Sentiments, printed in Philadelphia
   in 1833.
-order: '415'
+order: '423'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0012/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0012/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0012/manifest.json"
+full: ''
 ---

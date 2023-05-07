@@ -1,0 +1,50 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0314/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "unionist--image-0314",
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/unionist--image-0314/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/unionist--image-0314.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/unionist--image-0314.json",
+          "label": "front",
+          "width": 1600,
+          "height": 2134,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/unionist--image-0314/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/unionist--image-0314.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/unionist--image-0314/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/unionist--image-0314",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 800,
+                "height": 1067
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/unionist--image-0314.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/unionist--image-0314/full/full/0/default.jpg",
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/unionist--image-0314/full/1140,/0/default.jpg"
+}

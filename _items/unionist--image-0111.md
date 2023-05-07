@@ -16,7 +16,7 @@ rights: Public Domain
 source: https://play.google.com/store/books/details?id=-QITAAAAIAAJ
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -33,10 +33,10 @@ filename:
 caption: The title page to Lydia Maria Child's <em>An Appeal in Favor of that Class
   of Americans called Africans</em>. This female-authored anti-racist work was one
   of the most important politico-philosophic studies of the day.
-order: '514'
+order: '522'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0111/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0111/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0111/manifest.json"
+full: ''
 ---

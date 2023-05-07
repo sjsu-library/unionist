@@ -14,7 +14,7 @@ rights: 'https://creativecommons.org/publicdomain/mark/1.0/ '
 source: 
 subject: 
 type: Image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ relatedTextIssue: 1833-09-05 p04.62; 1833-09-05 p04.63; 1833-09-05 p04.64; 1833-
   p04.65; 1833-09-05 p04.66
 filename: 
 caption: Header for the last two columns of page four in September 5, 1833 issue
-order: '411'
+order: '419'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0008/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0008/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0008/manifest.json"
+full: ''
 ---

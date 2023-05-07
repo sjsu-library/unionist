@@ -28,7 +28,7 @@ commentary: 'Henry Petrikin (d. 1851) represented Lycoming county in the Pennsyl
 relatedPeople: Henry Petrikin
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0249
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -37,6 +37,6 @@ order: '322'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

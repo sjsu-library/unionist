@@ -14,7 +14,7 @@ rights: CC BY-SA 2.5
 source: https://commons.wikimedia.org/w/index.php?curid=733451
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist--text-0118
 relatedTextIssue: 1833-09-05 p01.44
 filename: 
 caption: Coonskin Hat, made popular by Davy Crockett
-order: '587'
+order: '595'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0184/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0184/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0184/manifest.json"
+full: ''
 ---

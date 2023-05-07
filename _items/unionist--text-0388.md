@@ -39,7 +39,7 @@ commentary: As was a common practice, poetry was one of the areas in which women
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0237
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -48,6 +48,6 @@ order: '387'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

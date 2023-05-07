@@ -29,7 +29,7 @@ commentary:
 relatedPeople: D.C. Robinson
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0229
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -38,6 +38,6 @@ order: '264'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

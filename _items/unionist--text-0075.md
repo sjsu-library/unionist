@@ -31,11 +31,13 @@ transcription: <p align="center"><strong>The Unionist.</strong></p><p align="cen
 scholarlyNotes: this copy has name John McLellan at the top - possibly this John McLellan
   from Maine - https://www.findagrave.com/memorial/120495372/john-mclellan
 commentary: This copy is held at the American Antiquarian Society. The motto remains
-  "Righteousness Exalteth a Nation"
+  "Righteousness Exalteth a Nation." This copy has a name at the top, John McLellan.
+  I traced one possible John McLellan, from Maine. If anyone else has an idea about
+  the identity of this subscriber, please contact the website - https://www.findagrave.com/memorial/120495372/john-mclellan
 relatedPeople: Charles C. Burleigh
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0253
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -44,6 +46,6 @@ order: '074'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -27,7 +27,7 @@ commentary: A recognition by Charles Burleigh that Judson's circular does not pr
 relatedPeople: Andrew Judson; James Holbrook (inferred)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0315
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -36,6 +36,6 @@ order: '032'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

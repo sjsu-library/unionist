@@ -20,7 +20,7 @@ category: Unionist full issue 1834-04-10
 article.type: 
 volume: '1'
 issue: '36'
-transcription: "<p>  [Concluded from our 34<br>  <sup>th</sup>  number.]<br></p><p>[Reported
+transcription: "<p>  [Concluded from our 34<sup>th</sup>  number.]<br></p><p>[Reported
   for the Unionist.]</p><p>  TRIAL OF FREDERIC OLNEY. (<br>  <em>Concluded.</em>  )<br></p><p>
   \ <em>Windham County Court</em>  ss.<br>  <em>March Term,</em>  1834.<br></p><p>Present,
   Hon. Judges Eaton, Griffin and Chase.</p><p>State vs. Frederic Olney</p><p>  <em>Mary
@@ -76,40 +76,40 @@ transcription: "<p>  [Concluded from our 34<br>  <sup>th</sup>  number.]<br></p>
   kitchen he said he would bid Miss Crandall<br>  good bye and start for Brooklyn;
   saw clapboards cut off when he came back from<br>  ringing the bell;<br></p><p><em>Note
   to self: were they trying to frame Charles, too?</em></p><p>  <em>Elizabeth Marshall</em>
-  \ resides in the city of New York; on the 23d or 24<br>  <sup>th</sup>  of January
-  last Olney left New York and took a letter, and bundle &amp;c. to<br>  her little
-  daughter at Miss Crandall’s school at Canterbury; witness had<br>  before sent a
-  bundle to her daughter which had miscarried in October last;<br>  Olney said he
-  would write to witness as soon as he got to Canterbury and tell<br>  her whether
-  he had found it or not and also tell her about her daughter; the<br>  Saturday night
-  of the week following Olney’s departure from New York, when<br>  witness returned
-  home from her work, her eldest daughter told her that she had<br>  got a letter
-  from Olney, and read it to her. (witness not being able to read);<br>  [The witness
-  here produced a half sheet of letter paper written over, which he<br>  said was
-  the letter paper written over, which he said was the letter read to<br>  her by
-  her daughter; it was dated Canterbury January 28<br>  <sup>th</sup>  1834, and purported
-  to be a letter from Frederic Olney to Mrs. Marshall; the<br>  other half of the
-  sheet, which was the one containing the direction and post<br>  mark witness said
-  she had used to light her lamp one morning, soon after<br>  receiving the letter,
-  having risen before it was light.]<br></p><p>  <em>    Note to self: Olney’s name
-  was misspelt once as Onley; note also that there<br>    seems to be some gender
-  confusion about the witness in here<br>  </em></p><p>  <em>Mary Jane Benson.</em>
-  \ After dinner at Miss Crandall’s on the day of the fire, witness went from the<br>
-  \ dinner table in the kitchen to the keeping room in company with Miss Willis<br>
-  \ and others; soon after entering the keeping room Miss Willis asked, what<br>  smells
-  so? witness replies that it was like old chestnut wood burning; Olney<br>  was at
-  this time eating his dinner in the kitchen; witness went from the<br>  keeping room
-  into the space and fro thence she thinks she went to the school<br>  room; don’t
-  recollect seeing any smoke.<br></p><p>  <em>Cross examined.</em>  The conversation
-  about the smell was after dinner, as soon as she had done;<br>  don't remember whether
-  any one was in the keeping room when they came to it;<br>  those with witness were
-  Miss Willis and Miss De Grasse, &amp;c.; don’t<br>  remember that any but Miss Willis
-  asked as to the smell: had no particular<br>  business in the room, and did not
-  remain in it more than two or three minutes;<br>  do not recollect whether she had
-  spoken to any one of this but Mr. Tyler;<br>  “don’t remember how the conversation
-  was then introduced; don’t recollect that<br>  Mr. Tyler said to her that other
-  girls had stated a similar story.<br></p><p>[The defendant’s counsel here rested
-  their testimony.]</p><p>The counsel for the prosecution then called</p><p>  <em>Charles
+  \ resides in the city of New York; on the 23d or 24<sup>th</sup>  of January last
+  Olney left New York and took a letter, and bundle &amp;c. to<br>  her little daughter
+  at Miss Crandall’s school at Canterbury; witness had<br>  before sent a bundle to
+  her daughter which had miscarried in October last;<br>  Olney said he would write
+  to witness as soon as he got to Canterbury and tell<br>  her whether he had found
+  it or not and also tell her about her daughter; the<br>  Saturday night of the week
+  following Olney’s departure from New York, when<br>  witness returned home from
+  her work, her eldest daughter told her that she had<br>  got a letter from Olney,
+  and read it to her. (witness not being able to read);<br>  [The witness here produced
+  a half sheet of letter paper written over, which he<br>  said was the letter paper
+  written over, which he said was the letter read to<br>  her by her daughter; it
+  was dated Canterbury January 28<sup>th</sup>  1834, and purported to be a letter
+  from Frederic Olney to Mrs. Marshall; the<br>  other half of the sheet, which was
+  the one containing the direction and post<br>  mark witness said she had used to
+  light her lamp one morning, soon after<br>  receiving the letter, having risen before
+  it was light.]<br></p><p>  <em>    Note to self: Olney’s name was misspelt once
+  as Onley; note also that there<br>    seems to be some gender confusion about the
+  witness in here<br>  </em></p><p>  <em>Mary Jane Benson.</em>  After dinner at Miss
+  Crandall’s on the day of the fire, witness went from the<br>  dinner table in the
+  kitchen to the keeping room in company with Miss Willis<br>  and others; soon after
+  entering the keeping room Miss Willis asked, what<br>  smells so? witness replies
+  that it was like old chestnut wood burning; Olney<br>  was at this time eating his
+  dinner in the kitchen; witness went from the<br>  keeping room into the space and
+  fro thence she thinks she went to the school<br>  room; don’t recollect seeing any
+  smoke.<br></p><p>  <em>Cross examined.</em>  The conversation about the smell was
+  after dinner, as soon as she had done;<br>  don't remember whether any one was in
+  the keeping room when they came to it;<br>  those with witness were Miss Willis
+  and Miss De Grasse, &amp;c.; don’t<br>  remember that any but Miss Willis asked
+  as to the smell: had no particular<br>  business in the room, and did not remain
+  in it more than two or three minutes;<br>  do not recollect whether she had spoken
+  to any one of this but Mr. Tyler;<br>  “don’t remember how the conversation was
+  then introduced; don’t recollect that<br>  Mr. Tyler said to her that other girls
+  had stated a similar story.<br></p><p>[The defendant’s counsel here rested their
+  testimony.]</p><p>The counsel for the prosecution then called</p><p>  <em>Charles
   Harris,</em>  who being asked, if Olney had not been requested by Miss Crandall
   not to visit<br>  at her house, said not to his knowledge, witness has never said
   so.<br></p><p>  <em>William Kinne</em>  was called by Miss Crandall to examine her
@@ -180,7 +180,7 @@ relatedPeople: 'Frederick Olney; Joseph Eaton; (Judge) Griffin; (Judge) Chase; M
   Hinckley; Elkanah C. Eaton; D.P. Tyler; Calvin Goddard; Chauncey Cleaveland; '
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0252
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -189,6 +189,6 @@ order: '301'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

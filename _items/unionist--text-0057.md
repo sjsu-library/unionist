@@ -37,7 +37,7 @@ relatedPeople: Jedediah Leavens (probate); Thomas Backus (probate judge); David 
   (probate clerk)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0245
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -46,6 +46,6 @@ order: '056'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

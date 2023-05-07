@@ -26,28 +26,27 @@ transcription: "<p>ELECTION RETURNS.</p><p>BROOKLYN, Septimus Davison</p><p>Ashf
   John K. Greene, Parley Jordon</p><p>Voluntown, _____ Gallup</p><p>Windham, Justin
   Swift, Benjamin Hovey</p><p>Woodstock, Silas H. Cutler, Oliver Morse</p><p>HARTFORD,
   Wm. Hungerford, Truman Hanks</p><p>NORWICH, Charles W. Rockwell, Roger Huntington</p><p>Griswold,
-  Samuel C. Morgan</p><p>Lisbon ______ Allen</p><p>  In the 13<br>  <sup>th</sup>
-  \ Senatorial District George Spafford has a majority of between three and four<br>
-  \ hundred over Philip Pearl, Jr. the Jackson candidate. The 1<br>  <sup>st</sup>
-  \ , 2d, 8<br>  <sup>th</sup>  , 14<br>  <sup>th</sup>  and 21<br>  <sup>st</sup>
-  \ districts have elected anti-Jacksonian Senators. No returns have been received<br>
-  \ from the other districts.<br></p><p>  From a letter received by a gentleman in
-  this town we gather the following<br>  returns: Hartford, Monday Evening. Hartford,
-  1<br>  <sup>st</sup>  Rep. W. Hungerford 965 to 833; 2d “______ Hanks 932 to 798
-  both Anti Jackson<br>  men. In E. Hartford, E. Windsor, (majority 140) Enfield,
-  Manchester,<br>  (reported) Wethersfield, Middletown, Durham, Winchester, Coventry,
-  (reported)<br>  Avon, have gone Anti-Jackson. Southington doubtful. Glastonbury,
-  Suffield and<br>  Mansfield are reported to have gone for Jackson candidates.<br></p><p>
-  \ THE ELECTION.—The returns so far as received, give strong indications that<br>
-  \ Jacksonism in this State is prostrated. Last year every town in the 13<br>  <sup>th</sup>
-  \ District was represented by Jackson men, now only one Jackson man* goes from<br>
-  \ this district. The 14<br>  <sup>th</sup>  District had two or three representatives
-  who were either wholly Jackson men,<br>  or sometimes acted as such; now we believe
-  not a man goes from that district<br>  who is not decidedly Anti-Jackson. Last year
-  the Jackson party carried one of<br>  the Senators in this county. This year both
-  Senators are Anti-Jackson, and<br>  elected by decisive majorities. Instead of a
-  respectable majority<br>  <em>for</em>  Pearl, as was the case last year, the 13<br>
-  \ <sup>th</sup>  District now gives more than 300 majority<br>  <em>against</em>
+  Samuel C. Morgan</p><p>Lisbon ______ Allen</p><p>  In the 13<sup>th</sup>  Senatorial
+  District George Spafford has a majority of between three and four<br>  hundred over
+  Philip Pearl, Jr. the Jackson candidate. The 1<sup>st</sup>  , 2d, 8<sup>th</sup>
+  \ , 14<sup>th</sup>  and 21<sup>st</sup>  districts have elected anti-Jacksonian
+  Senators. No returns have been received<br>  from the other districts.<br></p><p>
+  \ From a letter received by a gentleman in this town we gather the following<br>
+  \ returns: Hartford, Monday Evening. Hartford, 1<sup>st</sup>  Rep. W. Hungerford
+  965 to 833; 2d “______ Hanks 932 to 798 both Anti Jackson<br>  men. In E. Hartford,
+  E. Windsor, (majority 140) Enfield, Manchester,<br>  (reported) Wethersfield, Middletown,
+  Durham, Winchester, Coventry, (reported)<br>  Avon, have gone Anti-Jackson. Southington
+  doubtful. Glastonbury, Suffield and<br>  Mansfield are reported to have gone for
+  Jackson candidates.<br></p><p>  THE ELECTION.—The returns so far as received, give
+  strong indications that<br>  Jacksonism in this State is prostrated. Last year every
+  town in the 13<sup>th</sup>  District was represented by Jackson men, now only one
+  Jackson man* goes from<br>  this district. The 14<sup>th</sup>  District had two
+  or three representatives who were either wholly Jackson men,<br>  or sometimes acted
+  as such; now we believe not a man goes from that district<br>  who is not decidedly
+  Anti-Jackson. Last year the Jackson party carried one of<br>  the Senators in this
+  county. This year both Senators are Anti-Jackson, and<br>  elected by decisive majorities.
+  Instead of a respectable majority<br>  <em>for</em>  Pearl, as was the case last
+  year, the 13<sup>th</sup>  District now gives more than 300 majority<br>  <em>against</em>
   \ him. The intelligence which we have received from other quarters is of much<br>
   \ the same character. Hartford, represented last year by Jackson men, has now<br>
   \ elected the Anti-Jackson candidates by nearly 150 majority. In several other<br>
@@ -77,7 +76,7 @@ relatedPeople: Septimus Davison; Daniel Knowlten; James Trobridge; Festus Baldwi
   Philip Pearl, Jr; W. Hungerford
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0307
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -86,6 +85,6 @@ order: '307'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

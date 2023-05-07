@@ -15,7 +15,7 @@ rights: Public Domain
 source: "<em>We, the People</em>, 1833-11-23, vol. 2 no. 5 p.1"
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -32,10 +32,10 @@ filename:
 caption: Masthead of the newspaper <em>We, the People</em> of Plymouth, Massachusetts.
   Charles C. Burleigh briefly worked for this paper. This issue is held in the collection
   of the American Antiquarian Society, Worcester, Massachusetts
-order: '545'
+order: '553'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0142/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0142/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0142/manifest.json"
+full: ''
 ---

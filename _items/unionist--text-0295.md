@@ -82,11 +82,13 @@ transcription: '<p align="center"><strong>Wilberforce Prize Essay.</strong></p><
   the premium awarded, by ________<br></p><p>[N.B.—The blank will be filled, when
   the money is subscribed.]</p><p></p>'
 scholarlyNotes: 
-commentary: 
+commentary: Charles Dennison (1809-1881) was an important early agent of the American
+  Anti-Slavery Association. He was also a schoolmate and friend of Reuben Crandall,
+  Prudence's younger brother.
 relatedPeople: William Wilberforce; Charles Denison (inferred); William Goodell (inferred)
 featured: 
 repeated: 'yes'
-relatedImage: 
+relatedImage: unionist--image-0240
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -95,6 +97,6 @@ order: '294'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -70,7 +70,7 @@ commentary: The author identifies himself as some one who grew up in Windham Cou
 relatedPeople: Frederick Olney; Joseph Eaton; Prudence Crandall
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0265
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -79,6 +79,6 @@ order: '321'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

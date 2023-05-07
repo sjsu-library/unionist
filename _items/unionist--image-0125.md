@@ -14,7 +14,7 @@ rights: https://www.friesianbloodhorseregistry.com/friesians-n-motion
 source: 
 subject: 
 type: movingimage
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist--text-0348
 relatedTextIssue: 1834-04-10 p.03.48
 filename: 
 caption: Two blood horses exercising
-order: '528'
+order: '536'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -16,7 +16,7 @@ rights: Public Domain
 source: https://archive.org/details/godeys-1833-v-7/mode/2up
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -32,10 +32,10 @@ relatedTextIssue: 1833-12-19 p.03.24
 filename: 
 caption: The New Alms House in Philadelphia, p. 156 of the September 1833 issue of
   Godey's
-order: '479'
+order: '487'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

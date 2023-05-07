@@ -32,7 +32,7 @@ commentary:
 relatedPeople: Ariel Winchell; John Winchell
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0244
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -41,6 +41,6 @@ order: '331'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

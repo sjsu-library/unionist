@@ -14,7 +14,7 @@ rights: unsure
 source: https://www.ancestry.com/mediaui-viewer/collection/1030/tree/9618201/person/192418388400/media/d3ec20ab-0f96-461e-97aa-a476b0918557?_phsrc=ZOy738&_phstart=successSource
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedTextIssue: 1834-04-10 p.02.16
 filename: 
 caption: George Benson, Sr. (1752-1836) was one of the leading radical thinkers in
   Windham county at the time of the Canterbury Female Academy.
-order: '455'
+order: '463'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0052/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0052/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0052/manifest.json"
+full: ''
 ---

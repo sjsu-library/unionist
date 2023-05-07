@@ -14,7 +14,7 @@ rights: No known restrictions
 source: https://www.findagrave.com/memorial/19017449/rufus-adams
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ filename:
 caption: Rufus Adams (1774-1840) was part of the Canterbury white male cabal opposed
   to the second incarnation of the Canterbury Female Academy. He often served in a
   legal capacity in the enforcement of the Black Law.
-order: '607'
+order: '615'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0204/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0204/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0204/manifest.json"
+full: ''
 ---

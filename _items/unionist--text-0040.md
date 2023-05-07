@@ -30,7 +30,7 @@ commentary: The Hartford Times chooses against publishing Andrew Judson's circul
 relatedPeople: Andrew Judson; Rufus Adams
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0279
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -39,6 +39,6 @@ order: '039'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

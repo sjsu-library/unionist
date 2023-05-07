@@ -19,15 +19,15 @@ article.type:
 volume: '1'
 issue: '32'
 transcription: <p align="center"><em>From The U.S. Gazette.</em></p><p>  MELANCHOLY
-  ACCIDENT — Yesterday afternoon, (Wednesday 5<br>  <sup>th</sup>  inst.) about 5
-  o’clock P.M. just as the William Penn, with about 150<br>  passengers, from Baltimore,
-  had come round the point, below this city,<br>  (Philadelphia,) she was discovered
-  to be on fire near the furnace. The<br>  rapidity of her motion creating a strong
-  draft, and the very combustible<br>  nature of every piece of wood near the fire,
-  soon rendered it certain that the<br>  boat would be lost. She was accordingly run
-  ashore on the muddy margin of the<br>  river, before reaching which she seemed to
-  be in one full blaze. Here the<br>  passengers jumped out; and most of their baggage
-  and part of the great<br>  Southern Mail were thrown ashore. Many of the passengers
+  ACCIDENT — Yesterday afternoon, (Wednesday 5<sup>th</sup>  inst.) about 5 o’clock
+  P.M. just as the William Penn, with about 150<br>  passengers, from Baltimore, had
+  come round the point, below this city,<br>  (Philadelphia,) she was discovered to
+  be on fire near the furnace. The<br>  rapidity of her motion creating a strong draft,
+  and the very combustible<br>  nature of every piece of wood near the fire, soon
+  rendered it certain that the<br>  boat would be lost. She was accordingly run ashore
+  on the muddy margin of the<br>  river, before reaching which she seemed to be in
+  one full blaze. Here the<br>  passengers jumped out; and most of their baggage and
+  part of the great<br>  Southern Mail were thrown ashore. Many of the passengers
   jumped overboard. A<br>  steamboat went down and brought up from the wreck most
   of the passengers to<br>  the usual landing place.<br></p><p>  We learned late Wednesday
   evening, that the dead bodies of a gentleman and<br>  lady were taken from the river.<br></p><p>  Several
@@ -59,7 +59,7 @@ commentary: 'One of the five people who died was described as a prominent Connec
 relatedPeople: John Mitchelmore; Joseph S. Porter
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0338
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -68,6 +68,6 @@ order: '256'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

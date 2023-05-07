@@ -15,7 +15,7 @@ rights: https://creativecommons.org/licenses/by-nc-sa/4.0/
 source: 
 subject: 
 type: Image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedText: unionist--text-0134
 relatedTextIssue: 1833-09-05 p04.60
 filename: 
 caption: 
-order: '410'
+order: '418'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0007/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0007/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0007/manifest.json"
+full: ''
 ---

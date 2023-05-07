@@ -15,7 +15,7 @@ rights: https://www.newtonma.gov/home/showpublisheddocument/65268/63747779671910
 source: https://www.newtonma.gov/home/showpublisheddocument/65268/637477796719100000
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ relatedTextIssue: 1834-03-13 p.03.15
 filename: 
 caption: William Jackson (1783-1855), Congressman from Massachusetts, and eager supporter
   of reform causes
-order: '445'
+order: '453'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0042/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0042/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0042/manifest.json"
+full: ''
 ---

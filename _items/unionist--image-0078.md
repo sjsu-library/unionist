@@ -15,7 +15,7 @@ rights: Public Domain
 source: https://archive.org/details/godeys-1833-v-7/mode/2up
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ relatedTextIssue: 1834-04-10 p.04.62
 filename: 
 caption: Sketches of Paganini and Norton. Note the paean to female talent below Mrs.
   Norton.
-order: '481'
+order: '489'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

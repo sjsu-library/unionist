@@ -38,7 +38,7 @@ commentary: As is true in today's media environment, the promise to represent "a
 relatedPeople: James Holbrook (inferred)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0314
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -47,6 +47,6 @@ order: '025'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

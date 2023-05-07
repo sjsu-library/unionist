@@ -14,7 +14,7 @@ rights: unsure; will ask
 source: https://millmuseum.org/down-sodom/
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist--text-0365
 relatedTextIssue: 1834-04-10 p.04.65
 filename: 
 caption: 1830 Map of Willimantic with Mills and Factories
-order: '541'
+order: '549'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0138/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0138/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0138/manifest.json"
+full: ''
 ---

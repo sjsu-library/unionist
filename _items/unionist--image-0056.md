@@ -17,7 +17,7 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/File:Samuel_Johnson_by_Joshua_Reynolds_2.png#/media/File:Samuel_Johnson_by_Joshua_Reynolds_2.png
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -32,10 +32,10 @@ relatedText: unionist-text-0361
 relatedTextIssue: 1834-04-10 p.04.61
 filename: 
 caption: Dr. Samuel Johnson, reading a book intentely
-order: '459'
+order: '467'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0056/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0056/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0056/manifest.json"
+full: ''
 ---

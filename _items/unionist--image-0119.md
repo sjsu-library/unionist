@@ -18,7 +18,7 @@ source: 'The Band of Hope Review November 1861. Found within The Band of Hope Re
   BF; https://divergentpathsstafford.wordpress.com/tag/shoemaking/'
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -35,10 +35,10 @@ filename:
 caption: 'Apprentice domestic shoemaker in the 19th century. Image taken from The
   Band of Hope Review November 1861. Found within The Band of Hope Review 1861-67
   and Child’s Paper Vol. 2 1853. London: S.W. Patridge. Parker Collection BF'
-order: '522'
+order: '530'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0119/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0119/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0119/manifest.json"
+full: ''
 ---

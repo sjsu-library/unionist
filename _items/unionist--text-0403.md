@@ -34,7 +34,7 @@ commentary:
 relatedPeople: William Lloyd Garrison; Samuel J. May
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0343
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -43,6 +43,6 @@ order: '402'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -43,7 +43,7 @@ commentary:
 relatedPeople: Prudence Crandall; Calvin Philleo
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0060
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -52,6 +52,6 @@ order: '401'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -14,7 +14,7 @@ rights: CC BY 2.0
 source: https://commons.wikimedia.org/w/index.php?curid=28500690
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -25,15 +25,15 @@ relatedPeople:
 featured: 
 repeated: 
 relatedImage: 
-relatedText: unionist--text-0069
-relatedTextIssue: 1833-08-08 p04.55
+relatedText: unionist--text-0069; unionist--text-0296; unionist--text-0351
+relatedTextIssue: 1833-08-08 p04.55; 1834-03-13 p.04.60; 1834-04-10 p.03.51
 filename: 
 caption: One of the principal classroom buildings at the Woodstock Academy, still
   standing today.
-order: '548'
+order: '556'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0145/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0145/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0145/manifest.json"
+full: ''
 ---

@@ -41,7 +41,7 @@ commentary: Accusations of dissimulation between Burleigh and James Holbrook, ed
 relatedPeople: James Holbrook (inferred)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0314
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -50,6 +50,6 @@ order: '023'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

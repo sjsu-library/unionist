@@ -19,8 +19,8 @@ article.type:
 volume: '1'
 issue: '20'
 transcription: "<p>  <em>Distressing.</em>  —The Rochester Daily Advertiser, relates
-  that on the evening of the 28<br>  <sup>th</sup>  ult. the house of Mr. Wm. Irvine,
-  in Ulster county, was consumed by fire, with<br>  all if contents, and three children,
+  that on the evening of the 28<sup>th</sup>  ult. the house of Mr. Wm. Irvine, in
+  Ulster county, was consumed by fire, with<br>  all if contents, and three children,
   sons of Mr. I. from six to twelve years<br>  of age, perished in the flames. The
   fire broke out after the family had<br>  retired to bed, and made such progress
   before it was discovered, that nothing<br>  could be saved from the house, and even
@@ -48,6 +48,6 @@ order: '171'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

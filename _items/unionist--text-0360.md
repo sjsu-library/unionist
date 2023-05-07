@@ -28,7 +28,7 @@ commentary: Humor of the inexperienced
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0333
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -37,6 +37,6 @@ order: '359'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -16,7 +16,7 @@ rights: Public Domain
 source: https://catalog.loc.gov/vwebv/search?searchCode=LCCN&searchArg=99406591&searchType=1&permalink=y
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ relatedText: unionist-text-0068
 relatedTextIssue: 1833-08-08 p.04.54
 filename: 
 caption: Sylvester Graham (1794-1851)
-order: '466'
+order: '474'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0063/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0063/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0063/manifest.json"
+full: ''
 ---

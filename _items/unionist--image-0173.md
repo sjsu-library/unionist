@@ -14,7 +14,7 @@ rights: no restrictions
 source: https://www.southbury-ct.org/probatecourt
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -25,14 +25,14 @@ relatedPeople:
 featured: 
 repeated: 
 relatedImage: 
-relatedText: unionist--text-0104
-relatedTextIssue: 1833-09-05 p01.30
+relatedText: unionist--text-0104; unionist--text-0211
+relatedTextIssue: 1833-09-05 p01.30; 1833-12-19 p.04.56
 filename: 
 caption: Probate Court
-order: '576'
+order: '584'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0173/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0173/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0173/manifest.json"
+full: ''
 ---

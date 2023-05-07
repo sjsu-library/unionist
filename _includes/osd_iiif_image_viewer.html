@@ -1,9 +1,11 @@
 
 {% if page.transcription.size > 1 %}
-<div id="osd" class="image-viewer">
+<div id="osd" class="text-viewer">
   <div class="excerpt">
     <div class="excerpt-inner">
+      <div class="excerpt-content">
     {{ page.transcription }}
+      </div>
     </div>
   </div>
 </div>
@@ -19,9 +21,28 @@
 
 
     }
+
     else {
 
     $.getJSON(manifestUrl, function(data) {
+      var width = data.sequences[0].canvases[0].images[0].resource.width
+      var height = data.sequences[0].canvases[0].images[0].resource.height
+      console.log(width);
+      console.log(height);
+
+      if (width < 300 || height < 300) {
+        console.log ('too small!')
+        var source = data.sequences[0].canvases[0].images[0].resource['@id']
+        var altText = '{{ include.alt | escape }}'
+        var img = $('<img>')
+          .attr('src', source)
+          .attr('alt', altText)
+        $('#osd').append(img);
+        return;
+
+      }
+
+
       var tileSources = [];
       $.each(data.sequences[0].canvases, function(_k, val) {
         tileSources.push({

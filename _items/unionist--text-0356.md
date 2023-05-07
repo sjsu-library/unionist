@@ -46,7 +46,7 @@ commentary:
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0339
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -55,6 +55,6 @@ order: '355'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

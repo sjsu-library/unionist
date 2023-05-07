@@ -28,7 +28,7 @@ commentary: Oops! I should have chosen "B"
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0300
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -37,6 +37,6 @@ order: '330'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -36,7 +36,7 @@ commentary: 'John Greenleaf Whittier (1807-1892) was active in numerous Abolitio
 relatedPeople: John Greenleaf Whitter; Prudence Crandall; Sarah Harris (inferred)
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0015
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -45,6 +45,6 @@ order: '033'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

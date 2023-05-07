@@ -16,7 +16,7 @@ rights: By William G. Johnson, Photographer - http://memory.loc.gov/cgi-bin/disp
 source: https://en.wikipedia.org/wiki/James_H._Dakin#/media/File:Bank_of_Louisville_Building,_322_West_Main_Street,_Louisville_(Jefferson_County,_Kentucky).jpg
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ relatedText: unionist-text-0246
 relatedTextIssue: 1834-03-13 p.02.10
 filename: 
 caption: Famed building that was the permanent home of the Bank of Louisville
-order: '444'
+order: '452'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0041/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0041/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0041/manifest.json"
+full: ''
 ---

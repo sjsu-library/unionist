@@ -38,7 +38,7 @@ commentary: Support from Nantucket shows how far the news could travel in mariti
 relatedPeople: Prudence Crandall; Oliver Watkins (inferred)
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0344
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -47,6 +47,6 @@ order: '046'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

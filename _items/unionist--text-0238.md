@@ -146,7 +146,7 @@ commentary: The author of this piece is unknown. This is the conclusion of a mul
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0302
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -155,6 +155,6 @@ order: '237'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

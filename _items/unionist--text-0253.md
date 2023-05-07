@@ -20,9 +20,9 @@ category: Unionist full issue 1834-03-13
 article.type: 
 volume: '1'
 issue: '32'
-transcription: "<p>  *The Advertiser of the 19<br>  <sup>th</sup>  of last December
-  contained the following article:<br></p><p>  <em>To all whom it may concern.</em>
-  \ —From what we can learn, we have great reason to believe that a<br>  <em>determination</em>
+transcription: "<p>  *The Advertiser of the 19<sup>th</sup>  of last December contained
+  the following article:<br></p><p>  <em>To all whom it may concern.</em>  —From what
+  we can learn, we have great reason to believe that a<br>  <em>determination</em>
   \ has been formed to BREAK UP the<br>  <em>negro school</em>  in Canterbury by some
   means or other in less than two months. We by no means<br>  wish to encourage such
   a determination. And we seriously hope that our belief<br>  is not sufficiently
@@ -50,7 +50,7 @@ commentary: Note here the insulting language of “wenches” but also the high 
 relatedPeople: David Daggett; Prudence Crandall (inferred)
 featured: 'yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0337
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -59,6 +59,6 @@ order: '252'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

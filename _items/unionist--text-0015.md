@@ -32,7 +32,7 @@ commentary:
 relatedPeople: Charles C. Burleigh
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0273
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -41,6 +41,6 @@ order: '014'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

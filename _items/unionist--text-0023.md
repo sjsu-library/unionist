@@ -98,7 +98,7 @@ commentary: There would be much in the way of partisan posturing between Charles
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0325
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -107,6 +107,6 @@ order: '022'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

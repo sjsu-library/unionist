@@ -19,7 +19,7 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: 
 subject: 
 type: Image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -41,10 +41,10 @@ caption: 'Silk broadside of the Declaration of Sentiments, printed in Philadelph
   Pennsylvania Hall (https://en.wikipedia.org/wiki/Pennsylvania_Hall_%28Philadelphia%29#/media/File:Pennsylvania_Hall_after_fire.jpg
   ). He died young, though well-published. There is a Find-a-Grave memorial for him;
   ironically, it does not appear that his stone was well-engraved. https://www.findagrave.com/memorial/104231115/reuben-s-gilbert?_gl=1*effs81*_ga*MTUyMjQxNDg5NS4xNjU5NTYyOTE2*_ga_4QT8FMEX30*NDI0Njk2OGEtZmM3ZS00YjkyLWI1YzItMWY0MzM5ZGU3N2ZkLjcuMS4xNjc5MDAxNjA3LjMyLjAuMA. '
-order: '417'
+order: '425'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0014/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0014/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0014/manifest.json"
+full: ''
 ---

@@ -15,7 +15,7 @@ rights: Public Domain
 source: https://commons.wikimedia.org/wiki/File:11-stages-womanhood-1840s.jpg#/media/File:11-stages-womanhood-1840s.jpg
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -32,10 +32,10 @@ filename:
 caption: This poster, "The Life and Age of Woman," is an especial favorite of mine,
   having first seen it at the Prudence Crandall Museum. My mother has had it on her
   wall since the early 2000s, charting her progress!
-order: '565'
+order: '573'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0162/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0162/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0162/manifest.json"
+full: ''
 ---

@@ -17,7 +17,7 @@ source: By The original uploader was Kevin Myers at English Wikipedia. - Transfe
   from en.wikipedia to Commons., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=50264389
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -33,10 +33,10 @@ relatedTextIssue: 1834-04-10 p.03.53
 filename: 
 caption: The view from Rankin's famous home in Ripley, Ohio, showing Kentucky across
   the Ohio river. Rankin is most famous now for his role in the Underground Railroad.
-order: '519'
+order: '527'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0116/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0116/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0116/manifest.json"
+full: ''
 ---

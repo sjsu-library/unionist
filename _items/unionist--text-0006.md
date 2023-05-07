@@ -43,7 +43,7 @@ commentary: Note here the attempt to paint Unitarianism as suspect, and to indic
 relatedPeople: Arthur Tappan; Samuel J. May; Prudence Crandall
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0232
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -52,6 +52,6 @@ order: '005'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

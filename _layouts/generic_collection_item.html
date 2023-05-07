@@ -2,18 +2,16 @@
 layout: default
 ---
 
-{% comment %}
-  The block below controls the image viewer
-{% endcomment %}
 
 <div class="item-title">
   <div class="title-inner">
     <h3 alt="{{ page.label | escape }}" class='item-label'>{{ page.title }}</h3>
     <p class='item-creator'> {{ page.creator }} </p>
+    <p class='item-citation'> {{ page.bibliographicCitation }} </p>
   </div>
 </div>
 
-<div class="item-parallax">
+<div class="item-parallax full-width">
 {% assign related = page.relatedImage | strip %}
   {% if related != '' %}
    {% if page.relatedImage contains ';' %}
@@ -29,12 +27,58 @@ layout: default
   {% endif %}
  </div>
 
+<div class="breadcrumb">
+{% if page.issue %}
+  {% capture bc %}
+   Issue {{ page.issue }}
+     {% endcapture %}
+  {% capture bcLink  %}
+    /unionist/explore/issues/?issue={{ page.issue }}
+  {% endcapture %}
+{% else %}
+  {% assign bc = page.category %}
+  {% capture bcLink  %}
+    /unionist/explore/categories/?category={{ page.category | slugify}}
+  {% endcapture %}
+
+  {% endif %}
+
+
+
+<a href="/unionist/">Home</a>
+<div class='caret'> > </div>
+<a href="/unionist/collection/">Items</a>
+<div class='caret'> > </div>
+<a href="{{ bcLink }}">{{ bc }}</a>
+<div class='caret'> > </div>
+{{ page.title }}
+</div>
+
+<div class='pagination-nav'>
+<span class='pagination-link' id='prevlink'></span>
+<span class='pagination-link' id='nextlink'></span>
+{% unless layout.pagination == false %}{% include item_pagination.html %}{% endunless %}
+</div>
+
+
 {% assign category = page.category | strip %}
-<div class='item-category'>
-  <div class='{{ category }}'>
-    <p>{{ category }}</p>
+<div class='full-width'>
+  <div class='item-category'>
+    <div class='{{ category }}'>
+      <div class='category-inner'>
+      <p>{{ category }}</p>
+      {% if page.featured %}
+      <div class='item-featured'>
+        <p>Featured Item</p>
+        <img alt='star' src='/unionist/img/icons/star-white.png'>
+      </div>
+      {% endif %}
+      </div>
+    </div>
   </div>
 </div>
+
+
 
 {% if page.image_viewer %}
   {% assign viewer = page.image_viewer %}
@@ -43,50 +87,34 @@ layout: default
 {% endif %}
 
 {% if viewer %}
-  <h3>Section: Item Display</h3>
+  {% if page.transcription.size > 1 %}
+  <h3>Transcription</h3>
+  {% endif %}
   <div class='item-view'>
-    <span class='pagination-link' id='prevlink'></span>
     {% if viewer == 'openseadragon' %}
-      {% include osd_iiif_image_viewer.html manifest=page.manifest prevlink=prevlink nextlink=nextlink %}
+      {% include osd_iiif_image_viewer.html manifest=page.manifest alt=page.title prevlink=prevlink nextlink=nextlink %}
     {% else %}
        {% include simple_image_viewer.html full_image=page.full prevlink=prevlink nextlink=nextlink %}
     {% endif %}
-    <span class='pagination-link' id='nextlink'></span>
   </div>
-  {% unless layout.pagination == false %}{% include item_pagination.html %}{% endunless %}
+
 {% endif %}
 
   <div class='item-content'>
-    <h3>Section: Featured Content</h3>
-    {% if related != '' %}
-     {% if page.relatedImage contains ';' %}
-       {% assign images = page.relatedImage | split: '; ' %}
-       {% for image in images %}
-           {% include inline_image.html collection='items' pid=image %}
-       {% endfor %}
-    {% else %}
-       {% include inline_image.html collection='items' pid=page.relatedImage %}
-       {% endif %}
-   {% endif %}
-   {% assign scholarly = page.scholarlyNotes | strip %}
-   {% if scholarly != '' %}
-    <h4>Scholarly Notes</h4>
-      <p>{{ page.scholarlyNotes }}</p>
-   {% endif %}
-   {% assign comment = page.commentary | strip %}
-   {% if comment != '' %}
-    <h4>Commentary</h4>
-      <p>{{ page.commentary }}</p>
-   {% endif %}
-
+    {% assign comment = page.commentary | strip %}
+    {% if comment != '' %}
+     <h4>About this Item</h4>
+       <p>{{ page.commentary }}</p>
+    {% endif %}
   </div>
-
 
 
 {% comment %}
   The block below controls the item metadata table
 {% endcomment %}
-<h3>Section: Full Metadata</h3>
+<h3>Item Details</h3>
+<a href='#' class='metadata-full'>See Full Metadata</a>
+<a href='#' class='metadata-hide'>Hide Full Metadata</a>
 {% if layout.meta.size %}
   {% assign metadata = layout.meta %}
 {% elsif page.meta.size %}
@@ -95,3 +123,33 @@ layout: default
 {% if metadata.size %}
   {% include item_metadata.html meta=metadata %}
 {% endif %}
+
+
+<div class='related-images'>
+
+      {% if related != '' %}
+       {% if page.relatedImage contains ';' %}
+         {% assign images = page.relatedImage | split: '; ' %}
+         {% for image in images %}
+             {% include inline_image.html collection='items' pid=image titleHeader='true' %}
+         {% endfor %}
+      {% else %}
+         {% include inline_image.html collection='items' pid=page.relatedImage titleHeader='true' %}
+         {% endif %}
+     {% endif %}
+</div>
+<script type='text/javascript'>
+  $('.metadata-full').click(function(){
+     event.preventDefault();
+    $('.metadata-block').children().show('slow');
+    $(this).hide('slow');
+    $('.metadata-hide').show('slow');
+  })
+  $('.metadata-hide').click(function(){
+     event.preventDefault();
+    $('.metadata-block :nth-child(n+7)').hide('slow');
+    $(this).hide('slow');
+    $('.metadata-full').show('slow');
+  })
+
+</script>

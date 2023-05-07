@@ -16,7 +16,7 @@ rights: https://www.loc.gov/resource/cph.3a05352/
 source: https://www.loc.gov/resource/cph.3a05352/
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ relatedText: unionist-text-0240
 relatedTextIssue: 1834-03-13 p.01.04
 filename: 
 caption: 'Symptoms of a lock jaw: Plain Sewing Done Here.'
-order: '441'
+order: '449'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0038/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0038/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0038/manifest.json"
+full: ''
 ---

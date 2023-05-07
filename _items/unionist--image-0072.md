@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/Samuel_Price_Carson#/media/File:SamuelPriceCarson.jpg
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist--text-0128
 relatedTextIssue: 1833-09-05 p.04.54
 filename: 
 caption: Sketch of Congressman Samuel Price Carson (1798-1838), slave-owner and duelist
-order: '475'
+order: '483'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0072/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0072/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0072/manifest.json"
+full: ''
 ---

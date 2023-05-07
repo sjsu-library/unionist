@@ -26,7 +26,7 @@ commentary: Witty but immature insults were traded
 relatedPeople: James Holbrook (inferred)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0314
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -35,6 +35,6 @@ order: '029'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

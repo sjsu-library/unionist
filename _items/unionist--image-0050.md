@@ -18,7 +18,7 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/William_Wirt_(Attorney_General)#/media/File:Attorney_General_William_Wirt.jpg
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -33,10 +33,10 @@ relatedText: unionist--text-0304
 relatedTextIssue: 1834-04-10 p.01.04
 filename: 
 caption: William Wirt (1772-1834)
-order: '453'
+order: '461'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

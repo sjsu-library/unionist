@@ -15,7 +15,7 @@ rights: Public Domain
 source: "<em>The Liberator</em> 3:9:35 (1833-03-02)"
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedText: unionist--text-0072
 relatedTextIssue: 1833-08-08 p04.58
 filename: 
 caption: Original ad from <em>The Liberator</em> for the Canterbury Female Academy.
-order: '498'
+order: '506'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0095/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0095/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0095/manifest.json"
+full: ''
 ---

@@ -24,7 +24,7 @@ transcription: <p align="center">[Reported for the Unionist.]</p><p align="cente
   OF FREDERIC OLNEY.</p><p align="center">  <em>Windham County Court</em>  , ss.<br>  <em>March
   Term</em>  1834.<br></p><p align="center">Present – HON. JUDGES EATON, GRIFFIN and
   CHASE.</p><p align="center">State vs. Frederic Olney</p><p>  The information charged
-  the defendant with having on the 28<br>  <sup>th</sup>  of January last, feloniously,
+  the defendant with having on the 28<sup>th</sup>  of January last, feloniously,
   voluntarily, maliciously, and wilfully, set fire<br>  to the dwelling-house of Miss
   Prudence Crandall, in Canterbury, in the County<br>  of Windham, and then and there,
   with force and arms, burning the same. The<br>  information having been read, the
@@ -161,18 +161,18 @@ transcription: <p align="center">[Reported for the Unionist.]</p><p align="cente
   fire<br>  caught on the inside—Olney said that there was a knot-hole outside about
   the<br>  bigness of a dollar where the fire might have been placed. (Witness then
   went<br>  out).<br></p><p>  <em>Maria Robinson</em>  was at Miss Crandall’s house
-  at work on the 28<br>  <sup>th</sup>  day of January, the day of the fire—the stage
-  stopped, and the first she saw<br>  Olney he was standing by the side of the stage—some
-  bundles &amp;c. were<br>  brought into the house and Olney came in and sat down
-  in the keeping-room by<br>  the fire, remarked that it was cold, looking at the
-  clock on the mantel-piece,<br>  after he had sat a few moments, said to Miss Crandall,
-  “your clock does not<br>  beat right.” Miss Crandall replied, that she had not noticed
-  it, or did not<br>  know it. Miss Crandall soon asked him to take off his surtout,
-  and said that<br>  she had not asked him before because she supposed he was cold—Mr
-  Olney asked<br>  if Mr. and Mrs Harris were in the house, and was told they were
-  in the<br>  kitchen, said to Miss Crandall, “with your permission I will go and
-  see them,”<br>  she said, yes—he came back in a little while, and that he had promised
-  to<br>  write to a lady in New-York as soon as he got there and had seen her little<br>  daughter,
+  at work on the 28<sup>th</sup>  day of January, the day of the fire—the stage stopped,
+  and the first she saw<br>  Olney he was standing by the side of the stage—some bundles
+  &amp;c. were<br>  brought into the house and Olney came in and sat down in the keeping-room
+  by<br>  the fire, remarked that it was cold, looking at the clock on the mantel-piece,<br>  after
+  he had sat a few moments, said to Miss Crandall, “your clock does not<br>  beat
+  right.” Miss Crandall replied, that she had not noticed it, or did not<br>  know
+  it. Miss Crandall soon asked him to take off his surtout, and said that<br>  she
+  had not asked him before because she supposed he was cold—Mr Olney asked<br>  if
+  Mr. and Mrs Harris were in the house, and was told they were in the<br>  kitchen,
+  said to Miss Crandall, “with your permission I will go and see them,”<br>  she said,
+  yes—he came back in a little while, and that he had promised to<br>  write to a
+  lady in New-York as soon as he got there and had seen her little<br>  daughter,
   the paper was brought, and Olney wrote and sealed a letter, he then<br>  went out
   and witness saw him no more till dinner, when she saw him in the<br>  upper kitchen,
   talking with Mr. and Mrs. Harris. After dinner she came back to<br>  the keeping-room,
@@ -345,7 +345,7 @@ relatedPeople: 'Frederick Olney; Joseph Eaton; (Judge) Griffin; (Judge) Chase; E
   Jenks; John Bard; Solomon Paine; Nehemiah Ensworth; Daniel Morgan; Luther Sangar;    '
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0254
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -354,6 +354,6 @@ order: '248'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

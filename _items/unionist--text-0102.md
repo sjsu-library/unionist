@@ -21,7 +21,7 @@ issue: '6'
 transcription: <p align="center"><strong>INSURANCE.</strong></p><p>  DANIEL P. TYLER,
   Agent for the AETNA INSURANCE OFFICE, will insure all<br>  <em>Insurable property</em>  on
   reasonable terms.<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Brooklyn 29<br>  <sup>th</sup>  July, 1833.&nbsp;<br></p>
+  Brooklyn 29<sup>th</sup>  July, 1833.&nbsp;<br></p>
 scholarlyNotes: 
 commentary: 'The Ætna was doing well in this era, paying high dividends and building
   a strong name for itself, especially in fire insurance. Henry Ross Gall and William
@@ -40,6 +40,6 @@ order: '101'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

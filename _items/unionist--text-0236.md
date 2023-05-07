@@ -56,7 +56,7 @@ commentary: Attitudes are shifting towards <emThe Unionist</em>. Differences eme
 relatedPeople: Prudence Crandall; William H. Burleigh; Charles C. Burleigh
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0320
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -65,6 +65,6 @@ order: '235'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

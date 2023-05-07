@@ -27,7 +27,7 @@ commentary:
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0278
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -36,6 +36,6 @@ order: '316'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

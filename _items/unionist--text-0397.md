@@ -59,12 +59,15 @@ transcription: <p align="center">THE RIOTS IN NEW-YORK,</p><p align="center">  <
   effect their purposes, that they resort to brute force?&nbsp; We<br>  think so.
   Let the intelligent and candid judge.—<br>  <em>Brooklyn Unionist.</em></p><p align="center"></p>
 scholarlyNotes: I've placed this at July 24 issue
-commentary: The riots in New York City directly affected many of the students at the
-  Canterbury Female Academy
+commentary: 'The riots in New York City directly affected many of the students at
+  the Canterbury Female Academy. Black churches, Black businesses, and white abolitionists
+  were attacked viciously. Numerous ebndorsers of the Canterbury Female Academy were
+  singled out, most notably Peter Williams Jr. and Arthur Tappan. For an interesting
+  discovery about these riots, see https://blog.mcny.org/2012/04/03/the-abolitionist-riots-of-1834/ '
 relatedPeople: James Watson Webb; William Leete Stone
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0271
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -73,6 +76,6 @@ order: '396'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

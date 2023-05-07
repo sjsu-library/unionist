@@ -32,7 +32,7 @@ commentary: Batavia is located between Rochester and Buffalo in upstate New York
 relatedPeople: Prudence Crandall
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0340
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -41,6 +41,6 @@ order: '050'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -26,7 +26,7 @@ commentary:
 relatedPeople: George Benson, Jr; William Chace
 featured: 
 repeated: 'yes'
-relatedImage: unionist-image-0097
+relatedImage: unionist--image-0097
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -35,6 +35,6 @@ order: '204'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

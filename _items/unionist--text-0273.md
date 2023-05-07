@@ -31,14 +31,13 @@ transcription: "<p>  NOTICE is hereby given to all whom it may concern, that Nat
   said proposed road in repair as by said petition will appear. All<br>  persons concerned
   are notified to appear before said Assembly as the law<br>  directs, then and there
   to show reasons if any they have why the prayer of<br>  said petition should not
-  be granted.<br></p><p>  Dated at Brooklyn the 12<br>  <sup>th</sup>  day of March
-  1834.<br></p>"
+  be granted.<br></p><p>  Dated at Brooklyn the 12<sup>th</sup>  day of March 1834.<br></p>"
 scholarlyNotes: map?
 commentary: 
 relatedPeople: Nathan Witter
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0268
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -47,6 +46,6 @@ order: '272'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

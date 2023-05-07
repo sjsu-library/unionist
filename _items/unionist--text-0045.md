@@ -31,7 +31,7 @@ commentary: The Blue Laws were restrictions to activity on the Sabbath. Lists of
 relatedPeople: Prudence Crandall
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0289
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -40,6 +40,6 @@ order: '044'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/Seba_Smith
 subject: 
 type: Image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedTextIssue: 1833-09-05 p04.37
 filename: 
 caption: Seba Smith (1792-1868), creator of Major Jack Downing character, and husband
   to early feminist Elizabeth Oakes Smith
-order: '408'
+order: '416'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0005/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0005/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0005/manifest.json"
+full: ''
 ---

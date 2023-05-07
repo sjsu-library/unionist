@@ -18,7 +18,7 @@ rights: Public Domain
 source: https://publicdomainreview.org/collection/the-american-anti-slavery-almanac-for-1838
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -34,10 +34,10 @@ relatedTextIssue: 1833-09-05 p01.50
 filename: 
 caption: 1838 woodcut of the kidnapping of a free Black man into slavery by white
   men from Virginia
-order: '592'
+order: '600'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0189/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0189/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0189/manifest.json"
+full: ''
 ---

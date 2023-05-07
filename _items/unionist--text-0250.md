@@ -44,7 +44,7 @@ commentary: Because the author identifies himself as a farmer, I have defaulted 
 relatedPeople: Philip Pearl Jr.
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0332
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -53,6 +53,6 @@ order: '249'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

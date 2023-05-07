@@ -29,7 +29,7 @@ commentary:
 relatedPeople: Leffingwell; Levens
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0266, unionist--image-0128
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -38,6 +38,6 @@ order: '365'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

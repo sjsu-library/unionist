@@ -103,7 +103,7 @@ commentary: This editorial extols those who live by steadfast principles, rather
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0291
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -112,6 +112,6 @@ order: '017'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

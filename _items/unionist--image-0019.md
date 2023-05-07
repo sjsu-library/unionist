@@ -18,7 +18,7 @@ source: 'Charles A. Sheffield, editor <em>History of Florence, Massachusetts</em
   Florence MA: Published by editor, 1895. p. 68; http://scua.library.umass.edu/exhibits/hudson/Northampton.html'
 subject: 
 type: Image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -33,10 +33,10 @@ relatedText: unionist--text-0176
 relatedTextIssue: 1833-12-19 p.03.22
 filename: 
 caption: George Benson (1808-1879) from daguerreotype taken about 1845
-order: '422'
+order: '430'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0019/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0019/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0019/manifest.json"
+full: ''
 ---

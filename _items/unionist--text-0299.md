@@ -35,7 +35,7 @@ commentary: "<em>The Liberator</em> reports on the acquittal of Olney, and takes
 relatedPeople: Frederick Olney; Andrew Judson; Prudence Crandall
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0303
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -44,6 +44,6 @@ order: '298'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -32,7 +32,7 @@ rights: 'By &lt;a href=&quot;https://en.wikipedia.org/wiki/en:John_Chester_Buttr
 source: 
 subject: 
 type: Image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -47,10 +47,10 @@ relatedText: unionist--text-0374
 relatedTextIssue: 1834-04-10 p.04.74
 filename: 
 caption: Engraving of William Alexander Alcott, by John Chester Buttre
-order: '425'
+order: '433'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

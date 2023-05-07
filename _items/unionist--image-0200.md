@@ -17,7 +17,7 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=32346965
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -33,10 +33,10 @@ relatedTextIssue:
 filename: 
 caption: Photographic portrait of Amos Beman (1812-1872). His father, Jeheil Beman,
   was an endorser of the Canterbury Female Academy
-order: '604'
+order: '612'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0200/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0200/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0200/manifest.json"
+full: ''
 ---

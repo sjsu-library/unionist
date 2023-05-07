@@ -3,24 +3,23 @@ layout: generic_collection_item
 image_viewer: 'openseadragon'
 pagination: true
 meta:
-  - label: 'Identifier'
-    value: page.pid
+
   - label: 'Title'
     value: page.title
+  - label: 'Description'
+    value: page.description
   - label: 'Bibliographic Citation'
     value: page.bibliographicCitation
+  - label: 'Creator'
+    value: page.creator
+  - label: 'Date'
+    value: page._date.created
   - label: 'Bibliographic Citation Republished'
     value: page.bibliographicCitation.republished
   - label: 'Full Issue Sequence Number'
     value: page.fullIssueSequenceNumber
-  - label: 'Creator'
-    value: page.creator
   - label: 'Type'
     value: page.type
-  - label: 'Date'
-    value: page._date.created
-  - label: 'Description'
-    value: page.description
   - label: 'Language'
     value: page.language
   - label: 'Publisher'
@@ -36,6 +35,8 @@ meta:
   - label: 'Original Item'
     value: page.url
     type:  link
+  - label: 'Identifier'
+    value: page.pid
   - label: 'IIIF Manifest'
     value: page.manifest
     type:  link
@@ -47,10 +48,6 @@ meta:
     value: page.Volume
   - label: 'Issue'
     value: page.issue
-  - label: 'Transcription'
-    value: page.transcription
-  - label: 'Scholarly Notes'
-    value: page.scholarlyNotes
   - label: 'Commentary'
     value: page.commentary
   - label: 'Related People'

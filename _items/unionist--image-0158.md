@@ -15,7 +15,7 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=1060577988
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -33,10 +33,10 @@ caption: '"<em>Enterprise</em> on her fast trip to Louisville, 1815." This ship,
   its journies, are important in the history of both transportation technology and
   wartime martial law; see this [article] (https://en.wikipedia.org/wiki/Enterprise_(1814))
   for more information.'
-order: '561'
+order: '569'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0158/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0158/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0158/manifest.json"
+full: ''
 ---

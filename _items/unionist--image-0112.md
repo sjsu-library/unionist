@@ -16,7 +16,7 @@ rights: Public Domain
 source: https://play.google.com/store/books/details?id=-QITAAAAIAAJ
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -35,10 +35,10 @@ caption: An internal page from Lydia Maria Child's <em>An Appeal in Favor of tha
   African-American intellectual inferiority, and a reference to English Quaker philosopher
   Jonathan Dymond, whom the students at the Canterbury Female Academy were also reading
   via <em>The Unionist</em>.
-order: '515'
+order: '523'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0112/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0112/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0112/manifest.json"
+full: ''
 ---

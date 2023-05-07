@@ -16,7 +16,7 @@ rights: Public Domian
 source: https://en.wikipedia.org/wiki/Anthony_Ashley-Cooper,_3rd_Earl_of_Shaftesbury#/media/File:Maurice_Ashley-Cooper;_Anthony_Ashley-Cooper,_3rd_Earl_of_Shaftesbury_by_John_Closterman.jpg
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -33,10 +33,10 @@ filename:
 caption: Earl of Shaftsbury, Anthony Ashley Cooper, with his brother Maurice, by John
   Closterman, 1702. The painting illustrates Shaftsbury's Neo-Platonism; he was connected
   with the Cambridge Platonist school of thought.
-order: '564'
+order: '572'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0161/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0161/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0161/manifest.json"
+full: ''
 ---

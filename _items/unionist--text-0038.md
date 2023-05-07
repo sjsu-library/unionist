@@ -74,7 +74,7 @@ commentary: 'Samuel J. May (1797-1871) was the Unitarian minister of Brooklyn - 
 relatedPeople: Andrew Judson; Samuel J. May; Prudence Crandall
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0288
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -83,6 +83,6 @@ order: '037'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

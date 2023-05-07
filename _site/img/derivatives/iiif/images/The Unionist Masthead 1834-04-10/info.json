@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/The Unionist Masthead 1834-04-10",
+  "protocol": "http://iiif.io/api/image",
+  "width": 728,
+  "height": 118,
+  "sizes": [
+    {
+      "width": 728,
+      "height": 118
+    },
+    {
+      "width": 250,
+      "height": 41
+    },
+    {
+      "width": 1140,
+      "height": 185
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

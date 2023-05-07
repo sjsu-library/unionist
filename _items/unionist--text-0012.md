@@ -33,7 +33,7 @@ commentary: The Columbian Register of New Haven was always a stalwart opponent o
 relatedPeople: Charles C. Burleigh; Andrew Judson; Prudence Crandall; Oliver Watkins
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0232
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -42,6 +42,6 @@ order: '011'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

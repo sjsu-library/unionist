@@ -14,7 +14,7 @@ rights: Own Work
 source: 
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist--text-0392
 relatedTextIssue: 
 filename: 
 caption: Eggs
-order: '462'
+order: '470'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

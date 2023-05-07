@@ -28,7 +28,7 @@ commentary: "<em>The Unionist</em> was hardly a strong advertisement for printin
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0218
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -37,6 +37,6 @@ order: '208'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

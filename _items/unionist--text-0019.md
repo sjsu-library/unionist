@@ -1,6 +1,6 @@
 ---
 pid: unionist--text-0019
-title: Popular Ediucation, Politically Considered
+title: Popular Education, Politically Considered
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
 bibliographicCitation.republished: 
 fullIssueSequenceNumber: 1833-08-08 p01.05
@@ -100,7 +100,7 @@ commentary: Could be Charles C. Burleigh, or someone in the family
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0329
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -109,6 +109,6 @@ order: '018'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

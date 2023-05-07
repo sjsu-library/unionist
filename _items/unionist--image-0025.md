@@ -16,7 +16,7 @@ rights: Public Domain
 source: https://repository.wellesley.edu/object/wellesley30332
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -32,10 +32,10 @@ relatedTextIssue:
 filename: 
 caption: Title Page from original edition of Lydia Maria Child's <em>An Appeal in
   Favor of that Class of Americans called African</em>
-order: '428'
+order: '436'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0025/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0025/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0025/manifest.json"
+full: ''
 ---

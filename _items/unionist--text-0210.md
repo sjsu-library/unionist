@@ -85,11 +85,14 @@ scholarlyNotes: Did this essay contest actually run?
 commentary: Charles Denison, editor of <em>The Emancipator</em>, and William Goodell
   of <em>The Genius of Temperance</em> were the two designated people to whom to send
   entries. Both were good friends of the cause and of the Canterbury Female Academy.
+  John Newton was a former slave trader who had a religious conversion to Christianity,
+  and denounced the slave trade. He is most famous as the author of the words to the
+  song "Amazing Grace."
 relatedPeople: William Wilberforce; John Newton; Charles Denison (inferred); William
   Goodell (inferred)
 featured: 
 repeated: 'yes'
-relatedImage: 
+relatedImage: unionist--image-0231
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -98,6 +101,6 @@ order: '209'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

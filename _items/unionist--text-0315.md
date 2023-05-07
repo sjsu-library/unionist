@@ -117,7 +117,7 @@ commentary:
 relatedPeople: William Wilberforce; William Lloyd Garrison
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0327
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -126,6 +126,6 @@ order: '314'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

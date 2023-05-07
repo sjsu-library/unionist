@@ -21,14 +21,14 @@ issue: '20'
 transcription: <p align="center"><strong>INSURANCE</strong></p><p>  Daniel P. Tyler,
   Agent for the AETNA INSURANCE OFFICE, will insure all<br>  <em>Insurable property</em>  on
   reasonable terms.<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Brooklyn 29<br>  <sup>th</sup>  July,<br>  1833.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  1<br></p>
+  Brooklyn 29<sup>th</sup>  July,<br>  1833.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  1<br></p>
 scholarlyNotes: Crandall's lead attorney, William Ellsworth, and his brother were
   involved in the early history of Aetna Insurance. See https://en.wikipedia.org/wiki/Aetna
 commentary: 
 relatedPeople: Daniel P. Tyler
 featured: 
 repeated: 'yes'
-relatedImage: 
+relatedImage: unionist--image-0172
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -37,6 +37,6 @@ order: '225'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

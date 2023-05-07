@@ -21,37 +21,37 @@ category: Unionist content
 article.type: 
 volume: '1'
 issue: '11'
-transcription: "<p>  “In the Brooklyn Unionist, Oct. 10<br>  <sup>th</sup>  , we find
-  an account of a second trial of Miss Crandall before the Superior<br>  Court of
-  Connecticut, Judge Daggett on the bench. The charge on which she was<br>  tried
-  was for teaching colored people from other states. The Judge instructed<br>  the
-  jury that free people of color are not citizens, and that the law of<br>  Connecticut
-  is, therefore, not unconstitutional. The jury went out and after<br>  an absence
-  of 20 or 30 minutes, returned with a verdict of guilty. A bill of<br>  exceptions
-  was filed and the case put over to the Supreme Court of Errors, to<br>  be holden
-  at Brooklyn next July.<br></p><p>  On this singular decision we remark that if the
-  case be so that free colored<br>  people are not citizens of the United States,
-  their condition is far worse<br>  than we had supposed. But we canot believe this,
-  the arguments in the decision<br>  notwithstanding; and we cannot account for it
-  that such a decision comes from<br>  Judge Daggett, except on the supposition that
-  strong feeling, excited in his<br>  native place (New Haven), by an attempt to erect
-  a similar school there some<br>  time ago, has biased his judgment.<br></p><p>Judge
-  Daggett says</p><p>  ‘Are the colored inhabitants of this country citizens? It is
-  the opinion of<br>  this court that they are not. Are slaves citizens of the U.S.?
-  The<br>  constitution recognizes them only as the basis of representation and taxation.<br>
-  \ I refer to the definition of the word citizen as given by Mr. Webster, the<br>
-  \ ablest philologist of this or any country. (The judge here read the several<br>
-  \ definitions of the word as given in Webster’s dictionary, the last of which,<br>
-  \ and the only one applicable to the case is as follows—“In the United States, a<br>
-  \ person, native or naturalized, who has the privilege of exercising the<br>  elective
-  franchise, and of purchasing and holding real estate.”) Slaves, then,<br>  are not
-  citizens, in any of the state constitutions. Are Indians citizens? It<br>  is difficult
-  to say what they are, but they are not citizens. Kent, in his<br>  commentaries,
-  speaks of them as distinct tribes, living under the protection<br>  of the government,—2
-  Kent, 70. Are the free people of color citizens? I<br>  answer, No. They are not
-  so styled in the Constitution of the United States,<br>  or, so far as I am aware,
-  in the laws of Congress or of any of the states. In<br>  that clause of the constitution
-  which fixes the basis of representation, there<br>  was an opportunity to have called
+transcription: "<p>  “In the Brooklyn Unionist, Oct. 10<sup>th</sup>  , we find an
+  account of a second trial of Miss Crandall before the Superior<br>  Court of Connecticut,
+  Judge Daggett on the bench. The charge on which she was<br>  tried was for teaching
+  colored people from other states. The Judge instructed<br>  the jury that free people
+  of color are not citizens, and that the law of<br>  Connecticut is, therefore, not
+  unconstitutional. The jury went out and after<br>  an absence of 20 or 30 minutes,
+  returned with a verdict of guilty. A bill of<br>  exceptions was filed and the case
+  put over to the Supreme Court of Errors, to<br>  be holden at Brooklyn next July.<br></p><p>
+  \ On this singular decision we remark that if the case be so that free colored<br>
+  \ people are not citizens of the United States, their condition is far worse<br>
+  \ than we had supposed. But we canot believe this, the arguments in the decision<br>
+  \ notwithstanding; and we cannot account for it that such a decision comes from<br>
+  \ Judge Daggett, except on the supposition that strong feeling, excited in his<br>
+  \ native place (New Haven), by an attempt to erect a similar school there some<br>
+  \ time ago, has biased his judgment.<br></p><p>Judge Daggett says</p><p>  ‘Are the
+  colored inhabitants of this country citizens? It is the opinion of<br>  this court
+  that they are not. Are slaves citizens of the U.S.? The<br>  constitution recognizes
+  them only as the basis of representation and taxation.<br>  I refer to the definition
+  of the word citizen as given by Mr. Webster, the<br>  ablest philologist of this
+  or any country. (The judge here read the several<br>  definitions of the word as
+  given in Webster’s dictionary, the last of which,<br>  and the only one applicable
+  to the case is as follows—“In the United States, a<br>  person, native or naturalized,
+  who has the privilege of exercising the<br>  elective franchise, and of purchasing
+  and holding real estate.”) Slaves, then,<br>  are not citizens, in any of the state
+  constitutions. Are Indians citizens? It<br>  is difficult to say what they are,
+  but they are not citizens. Kent, in his<br>  commentaries, speaks of them as distinct
+  tribes, living under the protection<br>  of the government,—2 Kent, 70. Are the
+  free people of color citizens? I<br>  answer, No. They are not so styled in the
+  Constitution of the United States,<br>  or, so far as I am aware, in the laws of
+  Congress or of any of the states. In<br>  that clause of the constitution which
+  fixes the basis of representation, there<br>  was an opportunity to have called
   them citizens if they were so considered.<br>  But that makes free<br>  <em>persons</em>
   \ (adding three fifths of all other persons,) the basis of representation and<br>
   \ taxation.”<br></p><p>  “They” (the free people of color) are not so styled (citizens)
@@ -139,6 +139,6 @@ order: '141'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

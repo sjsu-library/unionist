@@ -25,7 +25,7 @@ commentary: "\"The Tyrants Foe, The Peoples Friend"
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0275
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -34,6 +34,6 @@ order: '306'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

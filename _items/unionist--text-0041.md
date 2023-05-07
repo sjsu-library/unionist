@@ -7,7 +7,7 @@ bibliographicCitation.republished: Rufus Adams and Andrew T. Judson,  “Circula
   5 (p. 2) to column 1 (p. 3)
 fullIssueSequenceNumber: 1833-08-08 p02.27
 creator: Rufus Adams, Andrew T. Judson
-date.created: 
+date.created: '1833-08-08'
 description: The Circular of Judson and Admas
 language: English
 publisher: The Unionist
@@ -138,32 +138,31 @@ transcription: '<p>Canterbury, CT. July 19, 1833</p><p align="center">CIRCULAR O
   is for whom?</p><p>For Judge Adams and A.T. Judson.”</p><p>  If the reader will
   not be wearied, one other specimen of this benevolent work,<br>  which is going
   on to coerce this State into these Christian measures, as they<br>  are denominated,
-  shall also be exhibited to public view. On the 18<br>  <sup>th</sup>  inst., one
-  of the signers of this communication had delivered to him by the<br>  Post Master,
-  a letter mailing in Pittsburg, Penn. July 12, in the following<br>  language:<br></p><p
-  align="right">‘Pittsburg July 10, 1833.</p><p>  “Disgraceful Scoundrel—I have just
-  read in the Boston Advocate, that you have<br>  had a white young lady put in prison,
-  for taking in her school some colored<br>  girls. From all that I have seen and
-  heard of your conduct in this matter, I<br>  must say my opinion of you is this—You
-  is (are) a poor, dirty, mean, pitiful,<br>  dastardly puppy. Hypocritical villain,
-  a rascal of the lowest order. I cannot<br>  or will not waste any more paper with
-  such a Hell deserving hypocrite as you<br>  is. (are.) But this much I will tell
-  you, I will be in Canterbury in 3 weeks,<br>  and you may prepare yourself for me,
-  for I mean to beat you under the earth,<br>  if I can lay my hands on you. If not
-  I will take a shot at you. You poor dead<br>  dog.”<br></p><p>  “N.B. If you don''t
-  change your course of life and conduct towards that good<br>  young woman, in case
-  I do not meet with you myself, I will hire some Irishman<br>  to mould you. It<br>  <em>shall</em>  be
-  done if I have to [pay] five hundred dollars to have it done.”<br></p><p>  “I leave
-  you a poor Devil. G.P.”<br></p><p>  “The name of the young lady is Miss Prudence
-  Crandall. At the advice of a<br>  friend, [I] erase my name, as I shall be in your
-  little Hell.”<br></p><p>  Fellow citizens, such is the temper, and such the means
-  employed, to fasten<br>  upon this town, and its inhabitants, an institution of<br>  <em>benevolence.</em>  When
+  shall also be exhibited to public view. On the 18<sup>th</sup>  inst., one of the
+  signers of this communication had delivered to him by the<br>  Post Master, a letter
+  mailing in Pittsburg, Penn. July 12, in the following<br>  language:<br></p><p align="right">‘Pittsburg
+  July 10, 1833.</p><p>  “Disgraceful Scoundrel—I have just read in the Boston Advocate,
+  that you have<br>  had a white young lady put in prison, for taking in her school
+  some colored<br>  girls. From all that I have seen and heard of your conduct in
+  this matter, I<br>  must say my opinion of you is this—You is (are) a poor, dirty,
+  mean, pitiful,<br>  dastardly puppy. Hypocritical villain, a rascal of the lowest
+  order. I cannot<br>  or will not waste any more paper with such a Hell deserving
+  hypocrite as you<br>  is. (are.) But this much I will tell you, I will be in Canterbury
+  in 3 weeks,<br>  and you may prepare yourself for me, for I mean to beat you under
+  the earth,<br>  if I can lay my hands on you. If not I will take a shot at you.
+  You poor dead<br>  dog.”<br></p><p>  “N.B. If you don''t change your course of life
+  and conduct towards that good<br>  young woman, in case I do not meet with you myself,
+  I will hire some Irishman<br>  to mould you. It<br>  <em>shall</em>  be done if
+  I have to [pay] five hundred dollars to have it done.”<br></p><p>  “I leave you
+  a poor Devil. G.P.”<br></p><p>  “The name of the young lady is Miss Prudence Crandall.
+  At the advice of a<br>  friend, [I] erase my name, as I shall be in your little
+  Hell.”<br></p><p>  Fellow citizens, such is the temper, and such the means employed,
+  to fasten<br>  upon this town, and its inhabitants, an institution of<br>  <em>benevolence.</em>  When
   it shall be fastened here, what will be the effect? We leave them to the<br>  sober
   judgment of reflecting men.<br></p><p>RUFUS ADAMS.</p><p>ANDREW T. JUDSON.</p><p>  *The
   charge implied in this sentence, is a FALSE ACCUSATION. It is also a<br>  recent
   one, and has never to our knowledge been publicly made before, except<br>  on the
-  4<br>  <sup>th</sup>  of July last, when it was met with a prompt denial of its
-  truth.<br></p>'
+  4<sup>th</sup>  of July last, when it was met with a prompt denial of its truth.<br></p>'
 scholarlyNotes: 
 commentary: The circular of Judson and Adams is a revealing document. Outraged and
   petulant in tone, they complain about receiving hate mail, about Crandall's support
@@ -175,7 +174,7 @@ relatedPeople: Andrew Judson; Rufus Adams; Prudence Crandall; William Lloyd Garr
   Arnold Buffum; Oliver Watkins
 featured: 'yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0279
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -184,6 +183,6 @@ order: '040'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

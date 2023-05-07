@@ -34,7 +34,7 @@ commentary: William Burleigh is fully integrated as co-editor, even being the pe
 relatedPeople: Charles C. Burleigh; William H. Burleigh
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0260
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -43,6 +43,6 @@ order: '236'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -23,12 +23,16 @@ transcription: MARRIED.<br><br>On Wednesday last, at the Episcopal Church, by Re
   Windham, on the 11th inst., by Rev. Mr; Gregory, Mr. —— Jespon, of Springfield Mass.,
   to Miss Eliza Hebbard, of Windham.
 scholarlyNotes: I have not researched these folks
-commentary: 
+commentary: 'William Putnam (1812-1889) was great-grandson of General Israel Putnam.
+  He became a medical doctor, and lived in Brooklyn, Connecticut. He is on record
+  as signing the petition to repal the Black Law: "Petitions re: Repeal of Act Prohibiting
+  Education of Colored Persons RG002, Box 26 General Assembly Papers 1837-1838," folder
+  #16, doc. 10. '
 relatedPeople: "(Rev.) Kellogg; William Putman; Eliza Day; (Rev.) Gregory; (Mr.) Jespon;
   Eliza Hebbard"
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0246
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -37,6 +41,6 @@ order: '262'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

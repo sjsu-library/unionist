@@ -23,12 +23,12 @@ transcription: Letters from Washington state that the President will not nominat
   of the<br>directors, nominated, he will not submit the appointment of Mr. Taney
   to the<br>consideration of the Senate.—<br><em>Boston Atlas.</em>
 scholarlyNotes: 
-commentary: Roger Taney had a remarkable ability to be at the wrong place, at the
-  wrong time (and do the wrong thing)
+commentary: Chief Justice Roger B. Taney, photograph by Mathew Brady. Author of the
+  infamous Dred Scott decision, and a life-long advocate of colonizationism.
 relatedPeople: Roger Taney
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0017
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -37,6 +37,6 @@ order: '244'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

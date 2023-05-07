@@ -26,7 +26,7 @@ commentary: Noting misrepresentations by the Hartford Times concerning The Union
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0328
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -35,6 +35,6 @@ order: '034'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

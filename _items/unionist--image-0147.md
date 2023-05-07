@@ -14,7 +14,7 @@ rights:
 source: https://federalcriminallawcenter.com/2016/02/recent-inmates-death-raises-questions-police-restraint-techniques/gavel-law-concept/
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedTextIssue:
 filename: 
 caption: A judge's gavel. This second trial of Prudence Crandall on the Black Law
   was focused on the judge, the famed David Daggett.
-order: '550'
+order: '558'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0147/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0147/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0147/manifest.json"
+full: ''
 ---

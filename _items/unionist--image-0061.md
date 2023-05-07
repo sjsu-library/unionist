@@ -20,7 +20,7 @@ source: '"An Interview between the Rev. Ray Potter and the Devil!" anonymous pam
   as the frontispiece in <em>Rhode Island History</em> 30:1 (February 1971). '
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -38,10 +38,10 @@ caption: Cover picture of a pamplet, showing the Devil as an African-man-beast i
   conversation with Ray Potter. This was an exposé of Ray Potter after an affair he
   had came to light. At the time Potter was serving as an Agent of the American Anti-Slavery
   Society
-order: '464'
+order: '472'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0061/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0061/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0061/manifest.json"
+full: ''
 ---

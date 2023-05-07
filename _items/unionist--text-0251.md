@@ -19,7 +19,7 @@ article.type:
 volume: '1'
 issue: '32'
 transcription: "<em>Massachusetts.</em>—The delegation in Congress from that State
-  is now full. The 8<br><sup>th</sup>trial to elect a member from the 9<br><sup>th</sup>District
+  is now full. The 8<sup>th</sup>trial to elect a member from the 9<sup>th</sup>District
   on Monday the 3d inst. resulted in the choice of Wm. Jackson, the<br>Antimasonic
   candidate, by a majority of between 90 and 100 over Dearborn and<br>Thurber, the
   candidates of the National Republican and Jackson parties. Mr.<br>Jackson is a sound,
@@ -46,6 +46,6 @@ order: '250'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

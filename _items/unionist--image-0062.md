@@ -15,7 +15,7 @@ rights: cc by-sa 3.0
 source: https://en.wikipedia.org/wiki/Canterbury_Center_Historic_District#/media/File:Canterbury_Congregational_Church.JPG
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ relatedTextIssue:
 filename: 
 caption: The Canterbury Congregational Church, which is directly across the street
   from The Canterbury Female Academy
-order: '465'
+order: '473'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0062/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0062/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0062/manifest.json"
+full: ''
 ---

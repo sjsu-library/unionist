@@ -26,7 +26,7 @@ commentary: This notice is perhaps the least partisan of the group.
 relatedPeople: Charles C. Burleigh
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0299
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -35,6 +35,6 @@ order: '009'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

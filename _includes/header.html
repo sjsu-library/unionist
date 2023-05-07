@@ -13,7 +13,7 @@
         {% for item in site.menu %}
           {% if item.sub %}
             <li class='nav-item dropdown'>
-              <a class='nav-link dropdown-toggle' href='#' id='wax-{{ item.label | slugify }}-dropdown' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
+              <a class='nav-link dropdown-toggle nav-text' href='#' id='wax-{{ item.label | slugify }}-dropdown' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
                 {{ item.label }}
               </a>
               <div class='dropdown-menu' aria-labelledby='wax-{{ item.label | slugify }}-dropdown'>
@@ -24,8 +24,13 @@
             </li>
           {% else %}
             <li class='nav-item'>
-              <a class='nav-link' href='{{ item.link | absolute_url }}'>{{ item.label }}</a>
+                {% if item.img %}
+                <a class='nav-link nav-img' title='{{ item.label }}' href='{{ item.link | absolute_url }}'><img alt='{{ item.label }}' src='{{ item.img | absolute_url }}'></a>
+                {% else %}
+              <a class='nav-link nav-text' href='{{ item.link | absolute_url }}'>{{ item.label }}</a>
+              {% endif %}
             </li>
+
           {% endif %}
         {% endfor %}
       </ul>

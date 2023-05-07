@@ -29,7 +29,7 @@ commentary: My educated guess is that this (at least) two-part series on Anti-Ma
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0293
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -38,6 +38,6 @@ order: '389'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -19,7 +19,7 @@ source: "<em>The Life and Travels of the Apostle Paul, Prepared with Questions f
   Colman and Holden, 1833. online at https://play.google.com/store/books/details?id=AzwAAAAAYAAJ&rdid=book-AzwAAAAAYAAJ&rdot=1"
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -34,10 +34,10 @@ relatedText: unionist--text-0203
 relatedTextIssue: 1833-12-19 p.03.49
 filename: 
 caption: The title page to <em>The Life and Travels of the Apostle Paul</em>
-order: '434'
+order: '442'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0031/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0031/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0031/manifest.json"
+full: ''
 ---

@@ -30,7 +30,7 @@ commentary:
 relatedPeople: P.A. Bell
 featured: 
 repeated: 'yes'
-relatedImage: 
+relatedImage: unionist--image-0241
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -39,6 +39,6 @@ order: '381'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

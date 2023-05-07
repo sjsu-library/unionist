@@ -22,12 +22,13 @@ issue: '2'
 transcription: Public Sentiment, Respecting the Black Law of Connecticut and the persecution
   of Miss Crandall
 scholarlyNotes: Using only the headline; each story is listed seperately
-commentary: This compilation is a key primary source for understanding the impact
-  of Canterbury across the North.
+commentary: 'This compilation is a key primary source for understanding the impact
+  of Canterbury across the North. Apparently Burleigh was reprinting this from <em>The
+  Genius of Temperance</em>, in which there are a few additional such compendemiums. '
 relatedPeople: 
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0282
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -36,6 +37,6 @@ order: '042'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

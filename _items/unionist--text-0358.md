@@ -60,7 +60,7 @@ commentary: 'T.K.Hervey (1812-1847) was a student at Amherst College who organiz
 relatedPeople: T. K. Hervey
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0267
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -69,6 +69,6 @@ order: '357'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -4,7 +4,7 @@ title: 'The Setting and Context'
 subtitle: 'Page Subtitle'
 author: Jennifer Rycenga
 publish_date: 2022-11-02
-permalink: /explore/setting-and-context/
+permalink: /essays/setting-and-context/
 ---
 
 

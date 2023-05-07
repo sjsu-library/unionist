@@ -29,7 +29,7 @@ commentary:
 relatedPeople: Giles S. Bates
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0229
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -38,6 +38,6 @@ order: '223'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

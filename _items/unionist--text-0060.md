@@ -45,7 +45,7 @@ commentary: "<p>Pray too for those who hate thee.</p> The students at the Canter
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0296
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -54,6 +54,6 @@ order: '059'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -55,7 +55,7 @@ commentary:
 relatedPeople: Andrew Jackson (inferred)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0213
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -64,6 +64,6 @@ order: '255'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

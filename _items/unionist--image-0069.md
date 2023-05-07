@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=4606080
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist--text-0361
 relatedTextIssue: 1834-04-10 p.04.61
 filename: 
 caption: Portrait of Hester Thrale and her daughter Hester
-order: '472'
+order: '480'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

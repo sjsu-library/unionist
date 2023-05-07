@@ -5,7 +5,7 @@ show_title: false
 ---
 
 <div class="hero-banner full-width">
-  <img src="img/unionist-hero9.png">
+  <img src="img/unionist-hero17.png">
 </div>
 
 <h3>Connecticut's First Immediate Abolitionist Newspaper</h3>

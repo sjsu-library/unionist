@@ -30,7 +30,7 @@ commentary: I feel this is incorrect, as Garrison and others make reference to i
 relatedPeople: C. M. Halle
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0011
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -39,6 +39,6 @@ order: '398'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

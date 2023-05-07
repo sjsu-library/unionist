@@ -16,7 +16,7 @@ source: "<em>The Tales of Peter Parley about Africa</em>, Philadelphia: Charles 
   1859"
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -32,10 +32,10 @@ relatedTextIssue: 1834-03-13 p.04.38
 filename: 
 caption: A page from <em>The Tales of Peter Parley about Africa</em> (1859) dealing
   with race and imperialism
-order: '485'
+order: '493'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0082/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0082/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0082/manifest.json"
+full: ''
 ---

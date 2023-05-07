@@ -38,7 +38,7 @@ commentary: The <em>Windham Advertiser</em> here tars all of its electoral oppon
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0317
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -47,6 +47,6 @@ order: '297'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

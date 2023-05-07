@@ -38,7 +38,7 @@ commentary: '"Philisses" here is a cruel taunt against Black talent and intellig
 relatedPeople: 'Phillis Wheatly (inferred); '
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0294
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -47,6 +47,6 @@ order: '226'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

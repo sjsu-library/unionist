@@ -34,7 +34,7 @@ commentary: The Liberator, the most significant Abolitionist newspaper of the ti
 relatedPeople: Charles C. Burleigh; Andrew Judson; Prudence Crandall
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0233
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -43,6 +43,6 @@ order: '006'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

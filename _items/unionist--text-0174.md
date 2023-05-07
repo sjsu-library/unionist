@@ -20,9 +20,9 @@ article.type:
 volume: '1'
 issue: '20'
 transcription: "<em>Massacre of a Spanish Crew and Passengers.</em>—A Turkish galliot
-  having put into a port in the island of Cyprus, on the 12<br><sup>th</sup>of July
-  last, sailed thence about a fortnight afterwards. There were some Greek<br>sailors
-  on board, who having had a dispute with the captain, conspired for his<br>destruction.
+  having put into a port in the island of Cyprus, on the 12<sup>th</sup>of July last,
+  sailed thence about a fortnight afterwards. There were some Greek<br>sailors on
+  board, who having had a dispute with the captain, conspired for his<br>destruction.
   In the end the captain, and all the crew and passengers, excepting<br>two Turkish
   sailors, were massacred. The Turks were both wounded, but during the<br>mutiny contrived
   to conceal themselves. The mutineers, having accomplished their<br>bloody—sixteen
@@ -45,6 +45,6 @@ order: '173'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

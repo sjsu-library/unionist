@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://www.pbs.org/wgbh/aia/part2/2h73.html
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedTextIssue: 1833-09-05 p01.20
 filename: 
 caption: Cato's Letter and Petition to the Pennsylvania Assembly; for more on the
   white Revolutionary adulation of Cato, see [this document] (https://dailystoic.com/cato/)
-order: '569'
+order: '577'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0166/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0166/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0166/manifest.json"
+full: ''
 ---

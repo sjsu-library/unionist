@@ -15,7 +15,7 @@ rights: Public Domain
 source: https://archive.org/details/godeys-1833-v-7/mode/2up
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ relatedTextIssue: 1833-12-19 p.03.23
 filename: 
 caption: The cover of an 1833 issue of <em>Godey's Lady Book</em> that might well
   have been inside of the Canterbury Female Academy
-order: '482'
+order: '490'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

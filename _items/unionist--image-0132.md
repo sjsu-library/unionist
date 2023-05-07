@@ -15,7 +15,7 @@ rights: Public Domain
 source: "<em>The People's Magazine</em> 1.9.71 1833-07-13"
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ relatedTextIssue: 1834-03-13 p.04.53
 filename: 
 caption: Engraving of "Animal Associations" to accompany an article on cross-species
   relationships in <em>The People's Magazine</em>
-order: '535'
+order: '543'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0132/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0132/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0132/manifest.json"
+full: ''
 ---

@@ -17,7 +17,7 @@ source: By Historic image from the archives of the Turkish Navy. - Turkish Naval
   Command, Piri Reis History Research Center., Public Domain, https://commons.wikimedia.org/w/index.php?curid=15026631
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -33,10 +33,10 @@ relatedTextIssue: 1833-12-19 p.02.20
 filename: 
 caption: "<em>Mahmudiye</em>, Turkish galleon, 1829. This was the largest galleon
   in the world when commissioned. It is not the ship mentioned in the story."
-order: '618'
+order: '626'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0215/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0215/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0215/manifest.json"
+full: ''
 ---

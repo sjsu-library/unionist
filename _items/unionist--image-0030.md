@@ -14,7 +14,7 @@ rights: https://netposse.com/tag.asp?id=2603
 source: https://netposse.com/tag.asp?id=2603
 subject: 
 type: Image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist-text-0194
 relatedTextIssue: 1833-12-19 p.03.40
 filename: 
 caption: A Red Roan Mare and Colt. This pair was fortunately recoverd.
-order: '433'
+order: '441'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0030/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0030/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0030/manifest.json"
+full: ''
 ---

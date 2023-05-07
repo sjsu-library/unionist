@@ -14,7 +14,7 @@ rights:
 source: http://clipart-library.com/clipart/1913604.htm
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedTextIssue:
 filename: 
 caption: The six Burleigh brothers were NOT carbon copies of each other, but they
   were all active in reform movements for their entire lifespans.
-order: '551'
+order: '559'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0148/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0148/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0148/manifest.json"
+full: ''
 ---

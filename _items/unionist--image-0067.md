@@ -14,7 +14,7 @@ rights: CC0
 source: https://npg.si.edu/object/npg_NPG.68.6
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedTextIssue: 1833-12-19 p.01.03
 filename: 
 caption: Portrait of Benjamin Silliman (1779-1864), prominent American scientist in
   the first half of the nineteenth century
-order: '470'
+order: '478'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0067/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0067/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0067/manifest.json"
+full: ''
 ---

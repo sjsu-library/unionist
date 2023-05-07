@@ -26,11 +26,11 @@ transcription: "<em>Black Laws.—</em>The Charleston Mercury says, that South C
   the slave holding<br>State of South Carolina.”<br><em>N.E. Review</em>"
 scholarlyNotes: 
 commentary: The New England Review was another project in which John Greenleaf Whittier
-  was an editorial presence.
+  had an editorial presence.
 relatedPeople: 
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0015
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -39,6 +39,6 @@ order: '051'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

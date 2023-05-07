@@ -40,7 +40,7 @@ commentary: The is one of the gems credited to <em>The Unionist</em>
 relatedPeople: Prudence Crandall
 featured: 
 repeated: 'yes'
-relatedImage: 
+relatedImage: unionist--image-0322
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -49,6 +49,6 @@ order: '299'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -19,8 +19,8 @@ article.type:
 volume: '1'
 issue: '36'
 transcription: "<p>Baltimore, April 1</p><p>  We understand that a clear majority
-  of the whole voters of the 5<br>  <sup>th</sup>  Congressional District, have signed
-  the instructions to Mr. Isaac McKim,<br>  requiring him either to vote for the future
+  of the whole voters of the 5<sup>th</sup>  Congressional District, have signed the
+  instructions to Mr. Isaac McKim,<br>  requiring him either to vote for the future
   deposits of the public money in<br>  the Bank of the United&nbsp; States, or to
   resign his seat.—<br>  <em>Nat. Int.</em></p>"
 scholarlyNotes: 
@@ -40,6 +40,6 @@ order: '328'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

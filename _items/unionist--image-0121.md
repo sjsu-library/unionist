@@ -14,7 +14,7 @@ rights: unsure; can ask
 source: https://www.rolypig.com/is-cow-manure-dangerous-to-humans/
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist--text-0005
 relatedTextIssue: 
 filename: 
 caption: The answer, not surprisingly, is yes. Yes, it is dangerous to ingest
-order: '524'
+order: '532'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0121/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0121/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0121/manifest.json"
+full: ''
 ---

@@ -15,7 +15,7 @@ rights: unsure; can write
 source: https://www.nationalabolitionhalloffameandmuseum.org/john-rankin.html
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ relatedTextIssue: 1834-04-10 p.04.85
 filename: 
 caption: A sketch of Rankin that accompanies the narrative of his induction into the
   National Abolition Hall of Fame and Museum in Peterboro, NY
-order: '520'
+order: '528'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0117/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0117/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0117/manifest.json"
+full: ''
 ---

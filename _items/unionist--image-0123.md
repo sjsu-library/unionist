@@ -19,7 +19,7 @@ source: 'Oliver Angell, <em>The select reader, or, Union no. 6 : designed for th
   classics</em>, Revised Stereotype Edition (Philadelphia: W. Marshall and Co., 1836)'
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -34,10 +34,10 @@ relatedText: unionist--text-0291
 relatedTextIssue: 1834-03-13 p.04.55
 filename: 
 caption: A well-loved title page from <em>Angell's Select Reader Union No. 6</em>
-order: '526'
+order: '534'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

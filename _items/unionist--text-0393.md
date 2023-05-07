@@ -22,14 +22,14 @@ volume:
 issue: 
 transcription: "<p>  We have been requested to publish the following extract from
   an address<br>  delivered by Doct. Wm. Hutchins, before the Windham Co. Colonization
-  Society,<br>  at its anniversary held in this town on the 4<br>  <sup>th</sup>  of
-  July last. The address referred to, was delivered at a time when the<br>  community
-  was highly excited on the slavery question, and a good number of<br>  those, who
-  professed to be abolitionists, were present and heart it. And yet<br>  no attempt
-  was made at the time to overthrow its arguments, or to counteract<br>  its influence
-  upon the public mind.* [Here, WLG inserts the important footnote<br>  – “This is
-  a wilful and flagrant falsehood. The address was ably reviewed, at<br>  the time,
-  in the columns of the Brooklyn Unionist, by its intelligent editor,<br>  Mr. Burleigh,
+  Society,<br>  at its anniversary held in this town on the 4<sup>th</sup>  of July
+  last. The address referred to, was delivered at a time when the<br>  community was
+  highly excited on the slavery question, and a good number of<br>  those, who professed
+  to be abolitionists, were present and heard it. And yet<br>  no attempt was made
+  at the time to overthrow its arguments, or to counteract<br>  its influence upon
+  the public mind.* [Here, WLG inserts the important footnote<br>  – “This is a wilful
+  and flagrant falsehood. The address was ably reviewed, at<br>  the time, in the
+  columns of the Brooklyn Unionist, by its intelligent editor,<br>  Mr. Burleigh,
   who challenged the heathenish doctor to a public discussion.—ED.<br>  LIB.”]<br></p><p>
   \ It is well known that<br>  <em>equality</em>  in every respect, between our white
   and black population, is a prominent<br>  feature in the abolition creed. For a
@@ -54,23 +54,23 @@ transcription: "<p>  We have been requested to publish the following extract fro
   \ and intellectual cultivation, and what then? The outworks are indeed forced,<br>
   \ but the citadel remains yet impregnable. He is<br>  <em>black,</em>  and this
   single circumstance, I am bold to say,<br>  <em>    will always be a barrier between
-  him and the white, which he&nbsp; cannot<br>    overleap.<br>  </em>  Educated and
-  accomplished he may be, and protected by the whole power of the<br>  civil arm,
-  still he<br>  <em>    is forever condemned to occupy the lowest point in the scale
-  of social life.<br>    No form of philanthropy,<br>  </em>  no legal enactment can
-  prevent this. There is an imperium in imperio, an<br>  empire of sentiment and fashion
-  and opinion, an authority of nature and<br>  instinct, altogether paramount to all
-  written law, and beyond its control. The<br>  negro, if he be allowed to vote by
-  your side, must act with you as your equal<br>  every where else. You must meet
-  him with a bright smile of joyous<br>  congratulation. You must extend to him all
-  the tender charities and courtesies<br>  of social life. You must give him a seat
-  at your table, a welcome to your<br>  fireside and to your parlor, a place beside
-  you in your bed. You must<br>  reciprocate with him all the elegances and refinements
-  of polished society. He<br>  must be your companion and confidential friend by day
-  and by night, by the way<br>  side and in the field, in the drawing&nbsp; room of
-  the affluent, as well as<br>  in the hut of the indigent. He must be&nbsp; allowed
-  to break to you the bread<br>  of life—to prescribe to you&nbsp; in sickness, and
-  decide in courts of justice<br>  and halls of legislation, important questions pertaining
+  him and the white, which he cannot<br>    overleap.<br>  </em>  Educated and accomplished
+  he may be, and protected by the whole power of the<br>  civil arm, still he<br>
+  \ <em>    is forever condemned to occupy the lowest point in the scale of social
+  life.<br>    No form of philanthropy,<br>  </em>  no legal enactment can prevent
+  this. There is an imperium in imperio, an<br>  empire of sentiment and fashion and
+  opinion, an authority of nature and<br>  instinct, altogether paramount to all written
+  law, and beyond its control. The<br>  negro, if he be allowed to vote by your side,
+  must act with you as your equal<br>  every where else. You must meet him with a
+  bright smile of joyous<br>  congratulation. You must extend to him all the tender
+  charities and courtesies<br>  of social life. You must give him a seat at your table,
+  a welcome to your<br>  fireside and to your parlor, a place beside you in your bed.
+  You must<br>  reciprocate with him all the elegances and refinements of polished
+  society. He<br>  must be your companion and confidential friend by day and by night,
+  by the way<br>  side and in the field, in the drawing&nbsp; room of the affluent,
+  as well as<br>  in the hut of the indigent. He must be&nbsp; allowed to break to
+  you the bread<br>  of life—to prescribe to you&nbsp; in sickness, and decide in
+  courts of justice<br>  and halls of legislation, important questions pertaining
   to your life, liberty<br>  and property. In all these things, there must be no constraint,
   but you must<br>  bind him to your heart of hearts, and most freely and unaffectedly,
   share with<br>  him in the delicate sympathies and fond endearments of domestic
@@ -85,7 +85,7 @@ transcription: "<p>  We have been requested to publish the following extract fro
   to elevate the black man<br>  to an equality with the white? If it be, I give up
   the argument at once. If<br>  the negro can be treated in this country as it becometh
   a man, in whose face<br>  is lighted up the quenchless fire of an undying intellect,
-  and on whose brown<br>  God has stamped the indelible signet of immortality, the
+  and on whose brow<br>  God has stamped the indelible signet of immortality, the
   colonization society,<br>  as far as respects the American negro, is laboring in
   a worthless cause.<br>  <em>    Take the negro home to your heart, and embrace him
   as your brother, and you<br>    will save our society much time and expense.<br>
@@ -115,11 +115,12 @@ transcription: "<p>  We have been requested to publish the following extract fro
 scholarlyNotes: 
 commentary: 'This notice in <em>The Liberator</em> from 1835, indicates that Charles
   C. Burleigh had responded to this attack on racial equality at some point in July
-  of 1834. '
+  of 1834. Dr. William Hutchins was a physician, and active in support of education;
+  he also participated in the Windham County Peace Society. '
 relatedPeople: 'William Hutchins; Charles C. Burleigh; '
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0272
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -128,6 +129,6 @@ order: '392'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

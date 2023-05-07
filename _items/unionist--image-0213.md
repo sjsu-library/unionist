@@ -22,7 +22,7 @@ rights: Public Domain
 source: https://teva.contentdm.oclc.org/digital/collection/p15138coll33/id/289/
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -33,15 +33,15 @@ relatedPeople:
 featured: 
 repeated: 
 relatedImage: 
-relatedText: unionist--text-0171
-relatedTextIssue: 1833-12-19 p.02.17
+relatedText: unionist--text-0171; unionist--text-0256
+relatedTextIssue: 1833-12-19 p.02.17; 1834-03-13 p.03.20
 filename: 
 caption: This campaign broadside satirizes Andrew Jackson's autocratic style of governing.
   The Abolitionists tended to be opposed to Jackson and Jacksonism.
-order: '616'
+order: '624'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0213/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0213/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0213/manifest.json"
+full: ''
 ---

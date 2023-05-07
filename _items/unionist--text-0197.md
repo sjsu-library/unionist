@@ -30,7 +30,7 @@ commentary:
 relatedPeople: John Choller; Augustus Howe; Jacob Lewes; Erasmus Buck
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0222
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -39,6 +39,6 @@ order: '196'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

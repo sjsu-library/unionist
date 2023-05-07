@@ -37,7 +37,7 @@ commentary: So true – presuming that they never made good on repaying Olney wh
 relatedPeople: Andrew Judson; Rufus Adams; Frederick Olney
 featured: 'yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0303
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -46,6 +46,6 @@ order: '253'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

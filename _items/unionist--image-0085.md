@@ -14,7 +14,7 @@ rights: Public Domain
 source: American Antiquarian Society
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText:
 relatedTextIssue: 
 filename: 
 caption: "<em>The Unionist</em>, 1833-09-05, pages 2-3"
-order: '488'
+order: '496'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

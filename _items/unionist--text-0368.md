@@ -36,7 +36,7 @@ commentary:
 relatedPeople: Uriah Allard (probate case); Armin Bolles (probate case)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0245
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -45,6 +45,6 @@ order: '367'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -19,7 +19,7 @@ article.type:
 volume: '1'
 issue: '32'
 transcription: "<p>  NOTICE—WE the subscribers, having been by the Hon. Superior Court,
-  holden at<br>  Brooklyn, within and for the County of Windham, on the 4<br>  <sup>th</sup>
+  holden at<br>  Brooklyn, within and for the County of Windham, on the 4<sup>th</sup>
   \ Tuesday of January, 1834, appointed Commissioners on the estate of JOHN GRALL,<br>
   \ of Pomfret in said County, adjudged by said Court to be an insolvent debtor,<br>
   \ within the true intent and meaning of a certain act entitled “An act to<br>  authorize
@@ -27,9 +27,9 @@ transcription: "<p>  NOTICE—WE the subscribers, having been by the Hon. Superi
   give public notice that we will meet to receive, adjust and ascertain<br>  the several
   debts due and owing by said insolvent debtor, to each of his<br>  creditors as shall
   seasonably present and prove the same, at the office of<br>  Armin Bolles in said
-  Brooklyn, on the 16<br>  <sup>th</sup>  day of April, 4<br>  <sup>th</sup>  day
-  of June and 13<br>  <sup>th</sup>  day of August next at 3 o’clock, P. M., on each
-  of said days.<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+  Brooklyn, on the 16<sup>th</sup>  day of April, 4<sup>th</sup>  day of June and
+  13<sup>th</sup>  day of August next at 3 o’clock, P. M., on each of said days.<br></p><p>
+  \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
   \ RALPH JAMES,&nbsp;&nbsp;&nbsp; Commissioners.<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
   \ ARMIN BOLLES,<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Brooklyn,<br>  Feb. 13,<br>  1834.—w3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
@@ -40,7 +40,7 @@ relatedPeople: John Grall (probate case); Ralph James (probate case); Armin Boll
   (probate case)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0245
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -49,6 +49,6 @@ order: '278'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

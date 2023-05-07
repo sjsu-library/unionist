@@ -16,7 +16,7 @@ source: 'William A. Alcott, <em>The Young Man''s Guide</em>. Second Edition (Bos
   Lilly, Wait, Colman and Holden, 1834) - Google eBook here https://books.google.com/books?id=ey9WAAAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=true'
 subject: 
 type: Image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -32,10 +32,10 @@ relatedTextIssue: 1833-12-19 p.03.25
 filename: 
 caption: Even in the second edition, William Alcott's name was not given on the title
   page
-order: '424'
+order: '432'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0021/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0021/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0021/manifest.json"
+full: ''
 ---

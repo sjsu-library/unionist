@@ -14,7 +14,7 @@ rights: Public Domain
 source: Library of Congress
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText:
 relatedTextIssue: 
 filename: 
 caption: "<em>The Unionist</em>, 1833-12-19, page 4"
-order: '493'
+order: '501'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

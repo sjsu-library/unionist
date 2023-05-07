@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/Isaac_McKim#/media/File:IsaacMcKim.jpg
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist-text-0329
 relatedTextIssue: 1834-04-10 p.03.29
 filename: 
 caption: Isaac McKim (1775-1838)
-order: '457'
+order: '465'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0054/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0054/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0054/manifest.json"
+full: ''
 ---

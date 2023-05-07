@@ -14,7 +14,7 @@ rights: Public Domain
 source: "<em>The People's Magazine</em> 1.8.64 1833-06-24"
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedTextIssue: 1834-04-10 p.04.69
 filename: 
 caption: "<em>The People's Magazine</em> had a wide distribution and publication network,
   as evidenced from this insert."
-order: '536'
+order: '544'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0133/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0133/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0133/manifest.json"
+full: ''
 ---

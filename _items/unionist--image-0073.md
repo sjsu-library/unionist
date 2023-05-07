@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://commons.wikimedia.org/wiki/File:Godey%27s_lady%27s_book_%281840%29_%2814583318707%29.jpg
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ filename:
 caption: 'Page from an 1840 issue of Godey''s Lady Book: Fig. 1.—Barege dress, trimmed
   with ribbon and buttons, en tablier. Fig. 2.—Light blue grenadine dress, with one
   flounce, and over-skirt trimmed with ribbon.'
-order: '476'
+order: '484'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0073/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0073/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0073/manifest.json"
+full: ''
 ---

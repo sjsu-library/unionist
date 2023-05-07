@@ -15,7 +15,7 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/Shepherd_of_Salisbury_Plain#/media/File:MoreShepherd.png
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedText: unionist--text-0077
 relatedTextIssue: 1833-09-05 p01.03
 filename: 
 caption: Cover of Hannah More's <em>The Shepherd of Salisbury Plain</em>
-order: '553'
+order: '561'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0150/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0150/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0150/manifest.json"
+full: ''
 ---

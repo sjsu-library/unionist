@@ -14,7 +14,7 @@ rights: Public Domain
 source: "<em>The People's Magazine</em> 1.26.201 1834-03-08"
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedTextIssue: 1834-03-13 p.04.44
 filename: 
 caption: Engraving of Lowell, Massachusetts, America's pre-eminent factory town in
   1833, from <em>The People's Magazine</em>
-order: '537'
+order: '545'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0134/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0134/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0134/manifest.json"
+full: ''
 ---

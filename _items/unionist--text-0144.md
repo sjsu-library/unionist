@@ -35,7 +35,7 @@ transcription: <p>  Mr. Editor,—I have just received the following invaluable 
   true] I am most happy in being able to lay<br>  before the community in connection
   with his, the opinions of men who have held<br>  the highest rank at the Bar, on
   the Bench, in the Halls of Legislation, and in<br>  the Executive department of
-  the States. Yours truly, Samuel J. May<br></p><p>--</p><p>  Bedford, 30<br>  <sup>th</sup>  Sept.
+  the States. Yours truly, Samuel J. May<br></p><p>--</p><p>  Bedford, 30<sup>th</sup>  Sept.
   1833<br></p><p>  <em>Rev. Sir.</em>  —On the late trial of Miss Crandall, it was
   thought expedient by her opponents<br>  to attempt to deprive our whole free colored
   population, of the protection of<br>  the Constitution of the United States, by
@@ -102,7 +102,7 @@ transcription: <p>  Mr. Editor,—I have just received the following invaluable 
   of the Constitution of<br>  the U.S. that the citizens of each State shall be entitled
   to all the<br>  privileges and immunities of citizens in the several States.’—<br>  <em>Speech
   of Abraham Van Vechten, p.</em>  193.<br></p><p>Letter from De Witt Clinton, Governor
-  of N. York to President Adams.</p><p align="right">  ALBANY, 4<br>  <sup>th</sup>  Sept.
+  of N. York to President Adams.</p><p align="right">  ALBANY, 4<sup>th</sup>  Sept.
   1826<br></p><p>  Sir,—I have the honor to enclose copies of the proceedings of a&nbsp;<br>  respectable
   meeting in West Chester County in the State, and of an Affidavit<br>  of John Owen,
   by which it appears that one Gilbert Horton, a free man of color<br>  <em>and a
@@ -133,6 +133,6 @@ order: '143'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

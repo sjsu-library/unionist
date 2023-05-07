@@ -1,0 +1,22 @@
+---
+layout: none
+---
+{
+  "@type": "oa:Annotation",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/1832 Canterbury Female Boarding School advertisement Norwich Courier.json",
+  "motivation": "sc:painting",
+  "resource": {
+    "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/1832 Canterbury Female Boarding School advertisement Norwich Courier/full/full/0/default.jpg",
+    "@type": "dcterms:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/1832 Canterbury Female Boarding School advertisement Norwich Courier",
+      "profile": "http://iiif.io/api/image/2/level0.json"
+    },
+    "width": 482,
+    "height": 642
+  },
+  "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/1832 Canterbury Female Boarding School advertisement Norwich Courier.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

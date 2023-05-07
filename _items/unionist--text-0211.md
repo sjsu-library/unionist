@@ -19,9 +19,9 @@ article.type:
 volume: '1'
 issue: '20'
 transcription: "<p>  AT a Court of Probate holden at Plainfield within and for the
-  District of<br>  Plainfield, on the 1<br>  <sup>st</sup>  day of October A.D. 1833m,
-  Present, JOSEPH EATON ESQ., Judge.<br></p><p>  Then Mr. Daniel Gordon, Administrator
-  on the estate of Mr. John Gordon late of<br>  Plainfield within said district, deceased,
+  District of<br>  Plainfield, on the 1<sup>st</sup>  day of October A.D. 1833, Present,
+  JOSEPH EATON ESQ., Judge.<br></p><p>  Then Mr. Daniel Gordon, Administrator on the
+  estate of Mr. John Gordon late of<br>  Plainfield within said district, deceased,
   having represented said estate<br>  insolvent, and given notice all concerned, to
   appear before this Court the<br>  present day, at 9 o’clock, A.M. to be heard relative
   to the appointment of<br>  Commissioners, and no one appearing, This Court doth
@@ -39,7 +39,7 @@ relatedPeople: Joseph Eaton (Probate Judge); Daniel Gordon (probate); John Gordo
   clerk)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0173
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -48,6 +48,6 @@ order: '210'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

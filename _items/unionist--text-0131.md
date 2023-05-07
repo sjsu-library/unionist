@@ -27,12 +27,12 @@ transcription: "<em>Tin Roofs.</em>—The N.Y. Journal of Commerce informs us, t
   timber and labor<br>in the construction of the roofs, as the tinned roofs are in
   general nearly<br>flat. Tin, it is said, is more durable than slate, and less liable
   to get out of<br>place or to be blown off by the wind.<br>"
-scholarlyNotes: check back https://www.flickr.com/photos/monceau/5489206586
+scholarlyNotes: 
 commentary: 
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0298
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -41,6 +41,6 @@ order: '130'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -43,7 +43,7 @@ commentary: The Unionist received considerable financial backing from the wealth
 relatedPeople: James Holbrook (inferred)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0169
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -52,6 +52,6 @@ order: '024'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

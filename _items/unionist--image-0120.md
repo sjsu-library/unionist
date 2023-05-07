@@ -16,7 +16,7 @@ source: 'Clarence Winthrop Bowen, <em>The History of Woodstock Connecticut</em> 
   Massachusetts: The Plimpton Press, 1926). 377.'
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -33,10 +33,10 @@ filename:
 caption: Daguerretype of Rinaldo Burleigh (1774-1863), father of <em>The Unionist</em>
   editors Charles C. and William H. Burleigh, and Prudence Crandall's co-teacher Mary
   Burleigh.
-order: '523'
+order: '531'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0120/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0120/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0120/manifest.json"
+full: ''
 ---

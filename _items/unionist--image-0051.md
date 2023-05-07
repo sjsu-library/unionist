@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/Peter_the_Great#/media/File:Peter_I_by_Carel_de_Moor.jpeg
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist-text-0305
 relatedTextIssue: 1834-04-10 p.01.05
 filename: 
 caption: Peter the Great (1672-1725)
-order: '454'
+order: '462'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

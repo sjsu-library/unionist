@@ -21,7 +21,7 @@ source: 'Oliver Angell, <em>The select reader, or, Union no. 6 : designed for th
   p. 34-35.'
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -37,10 +37,10 @@ relatedTextIssue: 1834-04-10 p.04.70
 filename: 
 caption: A page dealing with the tragedy of intemperance, from <em>Angell's Select
   Reader Union No. 6</em>
-order: '527'
+order: '535'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0124/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0124/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0124/manifest.json"
+full: ''
 ---

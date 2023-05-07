@@ -14,7 +14,7 @@ rights: http://connecticuthistory.org/plainfield-academy-grooming-connecticut-sc
 source: http://connecticuthistory.org/plainfield-academy-grooming-connecticut-scholars-in-the-18th-and-19th-centuries/
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedTextIssue: 1833-08-08 p04.57
 filename: 
 caption: Plainfield, Connecticut, including the Plainfield Academy on top of the hill
   to the left behind the church
-order: '474'
+order: '482'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

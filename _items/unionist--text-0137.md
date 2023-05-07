@@ -31,13 +31,13 @@ transcription: <p>  An Act refunding to the people of this State, Monies collect
   further enacted, that within thirty days next after the day on<br>  which said monies
   may be received, by the Treasurer of this State, it shall be<br>  the duty of said
   Treasurer to make an apportionment of said monies to and<br>  among all the towns
-  which had been incorporated before the 20<br>  <sup>th</sup>  day of August, 1813,
-  as made out and returned to the Comptroller of public<br>  accounts, giving to each
+  which had been incorporated before the 20<sup>th</sup>  day of August, 1813, as
+  made out and returned to the Comptroller of public<br>  accounts, giving to each
   of said towns a due proportion of said monies,<br>  according to said lists; and
   thereupon each and every town in this State,<br>  which hath not been divided since
-  the 20<br>  <sup>th</sup>  day of August, 1813, and the local limits of which remain
-  the same as on the<br>  said 20<br>  <sup>th</sup>  day of August, 1813, shall be
-  entitled to draw from the Treasurer of this<br>  State, the amount of monies apportioned
+  the 20<sup>th</sup>  day of August, 1813, and the local limits of which remain the
+  same as on the<br>  said 20<sup>th</sup>  day of August, 1813, shall be entitled
+  to draw from the Treasurer of this<br>  State, the amount of monies apportioned
   to such town; and the select-men<br>  thereof are authorized to draw an order for
   the same on the Treasurer of this<br>  state.<br></p><p>  Sec. 3. Be it further
   enacted, That in all those towns in this State, the<br>  local limits of which have
@@ -47,9 +47,9 @@ transcription: <p>  An Act refunding to the people of this State, Monies collect
   all from said original towns, shall within<br>  thirty days from the notice to be
   given by the Treasurer aforesaid, proceed to<br>  ascertain and apportion to such
   original town, and the town or towns taken<br>  from the same, the amount apportioned
-  to said original town by said Treasurer,<br>  according to the list of August 20<br>  <sup>th</sup>  ,
+  to said original town by said Treasurer,<br>  according to the list of August 20<sup>th</sup>  ,
   eighteen hundred and thirteen, having reference to inhabitants, and the<br>  location
-  of estates on the 20<br>  <sup>th</sup>  day of August, 1813; and said apportionment,
+  of estates on the 20<sup>th</sup>  day of August, 1813; and said apportionment,
   so made, shall be forthwith<br>  returned to the Treasurer of this State. And should
   the select-men of either<br>  of such towns refuse to make such apportionment, or
   should the select-men of<br>  said towns so divided, be unable to agree on such
@@ -79,6 +79,6 @@ order: '136'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

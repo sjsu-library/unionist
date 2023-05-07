@@ -19,7 +19,7 @@ article.type:
 volume: '1'
 issue: '36'
 transcription: "<p>  At a Court of Probate, holden at Killingly, within and for the
-  District of<br>  Killingly on the 14<br>  <sup>th</sup>  day of March 1834.<br></p><p>
+  District of<br>  Killingly on the 14<sup>th</sup>  day of March 1834.<br></p><p>
   \ Present, THOMAS BACKUS,<br>  <em>Judge.</em></p><p>  On motion of Marvin Kies
   administrator on the estate of William W. Kies late<br>  of Killingly within said
   District deceased this Court doth limit six months<br>  for the creditors of said
@@ -35,7 +35,7 @@ relatedPeople: Thomas Backus (probate judge); Marvin Kies (probate case); Willia
   W. Kies (probate case)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0245
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -44,6 +44,6 @@ order: '376'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -38,7 +38,7 @@ commentary: The Windham Times, aligned with the pro-colonizationist and Jacksoni
 relatedPeople: Arthur Tappan
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0280
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -47,6 +47,6 @@ order: '010'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

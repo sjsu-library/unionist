@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=106541
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ filename:
 caption: The twenty-first century United States knows all about close elections, especially
   in the presidential contests of 2000, 2016, and 2020. This is one of the infamous
   inspections of "Hanging Chads" in the Florida recount of 2000.
-order: '562'
+order: '570'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0159/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0159/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0159/manifest.json"
+full: ''
 ---

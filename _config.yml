@@ -19,7 +19,7 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'The Unionist Unified'
-description:      'Test site'
+description:      'Connecticut\u0027s First Immediate Abolitionist Newspaper'
 url:              'https://sjsu-library.github.io'
 baseurl:          '/unionist'
 copyright:        'CC-BY 4.0'
@@ -93,6 +93,8 @@ search:
           - source
           - description
           - _date
+          - transcription
+          - commentary
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -102,22 +104,25 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'About'
-    link: '/about/'
+  - label: 'Home'
+    link: '/'
+    img: 'img/icons/home-neoclassical.png'
   - label: 'Explore'
     sub:
-      - label: 'Example'
-        link: '/explore/example-exhibit/'
-      - label: 'Setting and Context'
-        link: '/explore/setting-and-context/'
       - label: 'Issues'
         link: '/explore/issues/'
-  - label: 'Browse'
-    link: '/collection/'
+      - label: 'Categories'
+        link: '/explore/categories/'
+      - label: 'All Items'
+        link: '/collection/'
+  - label: 'Essays'
+    sub:
+      - label: 'Setting and Context'
+        link: '/essays/setting-and-context/'
   - label: 'Search'
     link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
+    img: 'img/icons/search.png'
+
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
@@ -126,8 +131,12 @@ menu:
 
 footer:
   links:
+    - label: 'About'
+      link: '/about/'
     - label: 'GitHub'
       link: 'https://github.com/sjsu-library/unionist'
+    - label: 'Reuse'
+      link: '/reuse/'
     - label: 'Contact'
       link: 'mailto:nick.szydlowski@sjsu.edu'
   logos:

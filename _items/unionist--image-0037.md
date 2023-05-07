@@ -17,7 +17,7 @@ source: 'Charles William Dymond, Memoir, Letters and Poems of Jonathan Dymond, w
   Bibliographical Supplements (Bristol: John Wright and Sons, 1911)'
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -33,10 +33,10 @@ relatedTextIssue: 1834-03-13 p.01.03
 filename: 
 caption: 'Portrait of Jonathan Dymond (1796-1828), English Quaker linen-draper and
   philosopher. Important in the development of the Quaker Peace Testimony '
-order: '440'
+order: '448'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0037/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0037/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0037/manifest.json"
+full: ''
 ---

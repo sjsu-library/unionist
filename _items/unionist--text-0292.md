@@ -23,11 +23,10 @@ transcription: "<p>  NOTICE.—The subscriber would inform all persons whom it m
   towns,<br>  viz: Thompson, Woodstock, Pomfret, Ashford, Killingly, Hampton, and
   Chaplin.<br>  And he would also give information to such as may be wishing to purchase
   of<br>  him for either of the above towns, or for their own farms, that they will
-  do<br>  well to apply before the 10<br>  <sup>th</sup>  of February next, as the
-  subscriber will then wish to make such arrangements<br>  for building Machines as
-  will be necessary, according to the number that may<br>  be wanted. WM. OSGOOD.<br></p><p>
-  \ Abington, January 13, 1834,—*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ 22<br></p>"
+  do<br>  well to apply before the 10<sup>th</sup>  of February next, as the subscriber
+  will then wish to make such arrangements<br>  for building Machines as will be necessary,
+  according to the number that may<br>  be wanted. WM. OSGOOD.<br></p><p>  Abington,
+  January 13, 1834,—*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  22<br></p>"
 scholarlyNotes: 
 commentary: 'These types of threshing machines were destroyed by workers opposed to
   automation and displacement, in the famed Swing Riots in England (1830). Samuel
@@ -45,6 +44,6 @@ order: '291'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

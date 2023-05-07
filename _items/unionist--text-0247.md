@@ -42,7 +42,7 @@ commentary: The phrase “By St Paul, the work goes bravely on" is credited to E
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0326
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -51,6 +51,6 @@ order: '246'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

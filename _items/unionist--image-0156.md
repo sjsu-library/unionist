@@ -18,7 +18,7 @@ rights: Public Domain
 source: https://babel.hathitrust.org/cgi/pt?id=ucw.ark:/13960/t1rf6c42z&view=1up&seq=1
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -35,10 +35,10 @@ filename:
 caption: Gützlaff's <em>Journal of a Residence in Siam, and of a Voyage along the
   Coast of China to Mantchou Tartary</em> with name of author and relation to the
   <em>Chinese Repository</em>
-order: '559'
+order: '567'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0156/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0156/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0156/manifest.json"
+full: ''
 ---

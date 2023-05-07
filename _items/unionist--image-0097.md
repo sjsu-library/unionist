@@ -14,7 +14,7 @@ rights: unknown
 source: https://dengarden.com/landscaping/Five-Types-of-Hardwood-for-Firewood
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist--text-0205
 relatedTextIssue: 1833-12-19 p.03.51
 filename: 
 caption: Another cord of wood
-order: '500'
+order: '508'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0097/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0097/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0097/manifest.json"
+full: ''
 ---

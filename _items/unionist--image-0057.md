@@ -14,7 +14,7 @@ rights: unsure
 source: https://dancingbeeequipment.com/products/seed-white-dutch-clover
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist-text-0376
 relatedTextIssue: 1834-04-10 p.04.76
 filename: 
 caption: White Clover Seed
-order: '460'
+order: '468'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0057/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0057/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0057/manifest.json"
+full: ''
 ---

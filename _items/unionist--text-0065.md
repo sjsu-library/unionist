@@ -25,7 +25,7 @@ commentary: The Unionist's printing quality and standards were not strong, to be
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0297
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -34,6 +34,6 @@ order: '064'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

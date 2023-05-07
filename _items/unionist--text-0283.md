@@ -38,7 +38,7 @@ commentary:
 relatedPeople: Thomas Backus (probate case); George B. Ruggles (probate case)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0245
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -47,6 +47,6 @@ order: '282'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

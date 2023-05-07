@@ -25,7 +25,7 @@ commentary: 'And thus fittingly ends the last column of existing <em>Unionist</e
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0243
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -34,6 +34,6 @@ order: '386'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

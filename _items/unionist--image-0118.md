@@ -14,7 +14,7 @@ rights: unsure; can ask
 source: https://www.labelvalue.com/account-past-due-labels-p-989.html
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist--text-0381
 relatedTextIssue: 1834-04-10 p.04.81
 filename: 
 caption: A polite 21st century Past Due notice
-order: '521'
+order: '529'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0118/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0118/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0118/manifest.json"
+full: ''
 ---

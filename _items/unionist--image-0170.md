@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://www.theliberatorfiles.com/liberator-photo-gallery/
 subject: 
 type: Image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ filename:
 caption: Samuel J. May (1797-1871), the most significant white Garrisonian Abolitionist
   in Windham County at the time of <em>The Unionist</em>, and a most effective Unitarian
   preacher and pacifist.
-order: '573'
+order: '581'
 layout: items_item
 collection: items
-thumbnail: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0170/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0170/manifest.json"
 full: ''
-manifest: ''
 ---

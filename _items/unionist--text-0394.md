@@ -31,7 +31,7 @@ commentary:
 relatedPeople: Charles C. Burleigh (inferred)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0011
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -40,6 +40,6 @@ order: '393'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

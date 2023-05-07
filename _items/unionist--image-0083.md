@@ -16,7 +16,7 @@ rights: Public Domain
 source: https://blogs.loc.gov/inside_adams/2019/08/peterparley/
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ relatedText: unionist--text-0341
 relatedTextIssue: 1834-04-10 p.03.41
 filename: 
 caption: Samuel Goodrich (1793-1860), author of the Peter Parley books
-order: '486'
+order: '494'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0083/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0083/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0083/manifest.json"
+full: ''
 ---

@@ -4,15 +4,25 @@
   {% assign subset = collection | where: include.facet_by, include.only | sort: 'order' %}
 {% endif %}
 
-{% assign collection = collectionFull | where: 'publisher', 'The Unionist' %}
+{% assign collection = collectionFull | where: 'publisher', 'The Unionist' | sort:'featured' %}
 
 <div id='wax-gallery-{{ include.collection }}-container' class='wax-gallery-container full-width'>
   <div class='wax-inline-container'>
     <div id="{{ include.collection }}-facet-buttons" class="facet-buttons"></div>
-    <div id="wax-gallery-{{ include.collection }}" class="wax-gallery"></div>
+    <div class='facet-nav'>
+        <div class='show-all'>Showing full issues only <a href="#">Show all issues</a></div>
+        <div class='show-full'>Showing all issues <a href="#">Show full issues only</a></div>
+    </div>
+    <div id="wax-gallery-{{ include.collection }}" class="wax-gallery">
+        <div class='gallery-featured gallery-category'>
+          <h4 class='gallery-category-head-featured'>Featured Items</h4>
+      </div>
+      <div class='gallery-not-featured gallery-category'>
+        <h4 class='gallery-category-head-notFeatured'>More Items</h4>
+      </div>
+    </div>
   </div>
 </div>
-
 
 <script type="text/javascript">
   const queryString = window.location.search;
@@ -24,45 +34,96 @@
     var container = $('#wax-gallery-{{ include.collection }}-container');
     var gallery = $('#wax-gallery-{{ include.collection }}');
     var buttonDiv = $('#{{ include.collection }}-facet-buttons');
-
+    {%- capture thumbTestURL -%}
+      {{ site.url }}{{ site.baseurl }}
+    {%- endcapture -%}
     {% if subset %}
       {% for item in subset %}
         {%- capture item_html -%}
-          "<div class='gallery-item thumb {{ item[include.facet_by] | slugify }} all'><a href='"/"+{{ item.pid }}+"/"'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='{{ item.thumbnail | absolute_url }}'/><div class='overlay'><p class='info'>{{ item.label | escape }}</p></div></div></a></div>"
+          "<div class='gallery-item thumb {{ item[include.facet_by] | slugify }} all'><a href='"/"+{{ item.pid }}+"/"'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='{{ item.thumbnail | absolute_url }}'/><div class='overlay'><p class='info'>{{ item.label | escape  }}</p></div></div></a></div>"
         {%- endcapture -%}
         gallery.append({{ item_html | strip_newlines }});
       {% endfor %}
     {% else %}
-      {% for item in collection %}
-      var thumbnailUrl = "{{ item.thumbnail | absolute_url }}";
-      if (thumbnailUrl == "{{ site.url}}"+"{{ site.baseurl }}" || thumbnailUrl == "") {
-        {%- capture item_html_no_thumb -%}
-          "<div class='gallery-item no-thumb {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><div class ='gallery_excerpt'> <div class='excerpt_text'><h3>{{item.title | escape}}</h3> <p>{{item.description | escape}}</p></div></div><div class='overlay'><p class='info'>{{ item.title| escape }}</p></div></div></a></div>"
-        {%- endcapture -%}
-        gallery.append({{ item_html_no_thumb | strip_newlines }});
-      }
-      else {
-        console.log("thumb");
 
-        {%- capture item_html -%}
-          "<div class='gallery-item thumb {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='{{ item.thumbnail | absolute_url }}' alt='{{ item.label | escape }}'/><div class='overlay'><p class='info'>{{ item.title | escape }}</p></div></div></a></div>"
-        {%- endcapture -%}
-        gallery.append({{ item_html | strip_newlines }});
-      }
+    {% for item in collection %}
 
-      {% endfor %}
-    {% endif %}
+    {%- if item.featured -%}
+      {%- assign featuredClass = "gallery-featured" -%}
+    {%- else -%}
+         {%- assign featuredClass = "gallery-not-featured" -%}
+    {%- endif -%}
+    {%- capture thumbnailUrl -%}
+      {{ item.thumbnail | absolute_url }}
+    {%- endcapture -%}
+
+    {%- if thumbnailUrl == thumbTestURL -%}
+      {%- if item.relatedImage contains ';' -%}
+        {%- assign firstImage = item.relatedImage | split: '\; ' | first -%}
+        {%- capture tn -%}
+          {{ site.url}}{{ site.baseurl }}/img/derivatives/iiif/images/{{firstImage}}/full/250,/0/default.jpg
+        {%- endcapture -%}
+      {%- elsif item.relatedImage contains 'unionist--image'-%}
+        {%- assign firstImage = item.relatedImage -%}
+        {%- capture tn -%}
+          {{ site.url}}{{ site.baseurl }}/img/derivatives/iiif/images/{{firstImage}}/full/250,/0/default.jpg
+        {%- endcapture -%}
+        {%- else -%}
+        {%- capture tn -%}
+          {{ site.url}}{{ site.baseurl }}/img/icons/document.png
+        {%- endcapture -%}
+      {%- endif -%}
+
+
+      {%- capture item_div_no_thumb -%}
+        "<div class='gallery-item no-thumb {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><div class ='gallery_excerpt'><img class='text-thumb' src={{tn}}> <div class='excerpt_text'><h3></h3><p class='description'></p></div></div><div class='overlay'><p class='info'></p></div></div></a></div>"
+      {%- endcapture -%}
+      var title = '{{ item.title | escape }}'
+      var titleFixed = title.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
+      var description = '{{ item.description | escape }}'
+      var descriptionFixed = description.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
+      var div = $($.parseHTML({{ item_div_no_thumb }}));
+      $(div).find('h3').html(titleFixed);
+      $(div).find('.info').html(titleFixed);
+      $(div).find('.description').html(descriptionFixed);
+      gallery.find('.{{featuredClass}}').append(div);
+
+    {%- else -%}
+
+      {%- capture item_div -%}
+        "<div class='gallery-item thumb {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='{{ item.thumbnail | absolute_url }}' alt='{{ item.label | escape  }}'/><div class='overlay'><p class='info'></p></div></div></a></div>"
+      {%- endcapture -%}
+      var title = '{{ item.title | escape }}'
+      var titleFixed = title.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
+      var div = $($.parseHTML({{ item_div }}));
+      $(div).find('.info').html(titleFixed);
+      gallery.find('.gallery-not-featured').append(div);
+
+
+      {%- endif -%}
+    {%- endfor -%}
+    {%- endif -%}
 
     {% if include.facet_by %}
       {% unless subset %}
         var facets = Array.from(new Set([{%- for item in collection -%}'{{ item[include.facet_by] | slugify }}'{% unless forloop.last %}, {% endunless %}{%- endfor -%}]));
+        const fullIssues = ['2','6','20','32','36'];
         buttonDiv.append("<button class='btn facet active' data-filter='all'>show all</button>");
         facets.sort(function(a, b){return a - b});
         filtered = facets.filter(elm => elm);
         console.log(filtered);
+        var issueType="full-issue"
         for (i in filtered) {
-          buttonDiv.append(`<button class='btn facet facet-${filtered[i]}' data-filter='${filtered[i]}'>${filtered[i]}</button>`);
+          if (fullIssues.includes(filtered[i])) {
+            issueType = "full-issue"
+          }
+          else {
+            issueType = "partial-issue"
+          }
+
+          buttonDiv.append(`<button class='btn facet facet-${filtered[i]} ${issueType}' data-filter='${filtered[i]}'>${filtered[i]}</button>`);
         }
+
 
         $(document).ready(function(){
           $(".facet").click(function(){
@@ -70,7 +131,17 @@
             $('.facet').removeClass('active');
             $(this).addClass('active');
             if(filterValue == 'all') { $('.all').show('slow'); }
-            else { $('.all').hide('slow'); $(`.${filterValue}`).show('slow'); }
+            else { $('.all').hide(); $(`.${filterValue}`).show('slow'); }
+            //hide empty gallery sections
+            $('.gallery-category h4').show();
+            //if there are no featured items hide both headers
+            if ($('.gallery-category-head-featured').siblings(':visible').length == 0) {
+              $('.gallery-category h4').hide();
+            };
+            //if there are no unfeatured items hide the more items header
+            if ($('.gallery-category-head-notFeatured').siblings(':visible').length == 0) {
+              $('.gallery-category-head-notFeatured').hide();
+            };
             // Change URL when filter is selected
             var nextURL = '?issue='+ filterValue;
             var nextTitle = 'Unionist Issue '+ filterValue ;
@@ -87,11 +158,31 @@
           $('.facet').removeClass('active');
           $(facetValue).addClass('active');
           if(filterValue == 'all') { $('.all').show('slow'); }
-          else { $('.all').hide('slow'); $(`.${filterValue}`).show('slow'); }
+          else { $('.all').hide(); $(`.${filterValue}`).show('slow'); }
+          //hide empty gallery sections
+          $('.gallery-category h4').show();
+          //if there are no featured items hide both headers
+          if ($('.gallery-category-head-featured').siblings(':visible').length == 0) {
+            $('.gallery-category h4').hide();
+          };
+          //if there are no unfeatured items hide the more items header
+          if ($('.gallery-category-head-notFeatured').siblings(':visible').length == 0) {
+            $('.gallery-category-head-notFeatured').hide();
+          };
         }
 
-
-
+        $('.show-all a').click(function() {
+            event.preventDefault();
+            $('.partial-issue').show();
+            $('.show-all').hide();
+            $('.show-full').show();
+        });
+        $('.show-full a').click(function() {
+            event.preventDefault();
+            $('.partial-issue').hide();
+            $('.show-all').show();
+            $('.show-full').hide();
+        });
 
 
 

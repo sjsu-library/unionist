@@ -17,7 +17,7 @@ rights: Boston Public Library
 source: https://www.theliberatorfiles.com/liberator-photo-gallery/
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -34,10 +34,10 @@ filename:
 caption: Lock to Garrison's 1835 Prison in Boston, for protection against the mob
   that intended to harm him. Charles Burleigh was with him during much of this frightening
   incident
-order: '615'
+order: '623'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0212/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0212/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0212/manifest.json"
+full: ''
 ---

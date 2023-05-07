@@ -17,7 +17,7 @@ rights: Public Domain
 source: "<em>Genius of Temperance, Philanthropist and People's Advocate</em>, 1833-09-19"
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -34,10 +34,10 @@ filename:
 caption: Masthead of <em> Genius of Temperance, Philanthropist and People's Advocate</em>,
   one of the periodicals most supportive of Prudence Crandall and the Canterbury Female
   Academy.
-order: '547'
+order: '555'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0144/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0144/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0144/manifest.json"
+full: ''
 ---

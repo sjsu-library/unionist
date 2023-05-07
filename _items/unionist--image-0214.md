@@ -14,7 +14,7 @@ rights: No restrictions
 source: own work
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist--text-0172
 relatedTextIssue: 1833-12-19 p.02.18
 filename: 
 caption: Tongues of flame
-order: '617'
+order: '625'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0214/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0214/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0214/manifest.json"
+full: ''
 ---

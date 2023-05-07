@@ -37,7 +37,7 @@ commentary: This is a rather balanced assessment of The Unionist and its chances
 relatedPeople: Charles C. Burleigh; Andrew Judson; Prudence Crandall
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0321
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -46,6 +46,6 @@ order: '012'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

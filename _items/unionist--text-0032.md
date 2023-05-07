@@ -28,7 +28,7 @@ commentary: Charles Burleigh again says that Holbrook's claim to print both side
 relatedPeople: Samuel J. May; Andrew Judson; Rufus Adams
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0316
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -37,6 +37,6 @@ order: '031'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

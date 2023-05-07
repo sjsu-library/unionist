@@ -73,43 +73,43 @@ transcription: "<p>From the Brooklyn Unionist, October 10</p><p>MISS CRANDALL’
   and the utility and necessity of their being<br>  educated, except so far as it
   is necessary to determine whether the privilege<br>  of education is fundamental,
   of which I have no doubt.<br></p><p>There are two points to be considered.</p><p>
-  \ 1<br>  <sup>st</sup>  . The constitution secures to all citizens of the U.S. the
-  privileges and<br>  immunities of citizens in the several states. The construction
-  of this section<br>  <em>is not,</em>  as was contended at the bar, that it regulates
-  only the action of the general<br>  Government: it is operative as well upon the
-  state Legislature as upon<br>  Congress.<br></p><p>  2<br>  <sup>nd</sup>  . Are
-  the persons affected by this law, citizens of the United States. The law<br>  prohibits
-  colored persons from Havana coming here, as well as the blacks of<br>  other states.
-  With respect to the former, the right of exclusion is<br>  unquestionable, for they
-  are not citizens of the United States. Are the<br>  colored inhabitants of this
-  country citizens? It is the opinion of this court<br>  that they are not. Are slaves
-  citizens of the United States? The constitution<br>  recognizes them only as the
-  basis of representation and taxation. I refer to<br>  the definition of the word
-  citizen as given by Mr. Webster, the ablest<br>  philologist of this or any country.
-  (The judge here read the several<br>  definitions of the word as given in Webster’s
-  dictionary, the last of which,<br>  and the only one applicable to the case is as
-  follows—“In the United States, a<br>  person, native or naturalized, who has the
-  privilege of exercising the<br>  elective franchise, and of purchasing and holding
-  real estate.”) Slaves, then,<br>  are not citizens, in any of the state constitutions.
-  Are Indians citizens? It<br>  is difficult to say what they are, but they are not
-  citizens. Kent, in his<br>  commentaries, speaks of them as distinct tribes, living
-  under the protection<br>  of the government,—2 Kent, 70. Are the free people of
-  color citizens? I<br>  answer, No. They are not so styled in the Constitution of
-  the United States,<br>  or, so far as I am aware, in the laws of Congress or of
-  any of the states. In<br>  that clause of the constitution which fixes the basis
-  of representation, there<br>  was an opportunity to have called them citizens if
-  they were so considered.<br>  But that makes free<br>  <em>persons</em>  (adding
-  three fifths of all other persons,) the basis of representation and<br>  taxation..<br></p><p>
-  \ It has been said that free blacks own vessels which participate in the<br>  peculiar
-  privileges of American shipping. But this claim has never been<br>  settled by judicial
-  decisions. I know of no case where this question has been<br>  settled. It is said
-  also that blacks may sue in the U.S. Courts, but this too,<br>  has never, within
-  my knowledge been decided. It is claimed that they are<br>  citizens because they
-  may be guilty of treason, but so may any person who<br>  resides under the government
-  and enjoys its protection, if he rises up against<br>  it.<br></p><p>  [His honor
-  then read from Kent’s commentaries II, 210 a note in which the<br>  commentator
-  speaks of the degraded condition of the blacks and the<br>  disabilities under which
-  they labor, and thence inferred that in Kent’s<br>  opinion they were not citizens.]<br></p><p>
+  \ 1<sup>st</sup>  . The constitution secures to all citizens of the U.S. the privileges
+  and<br>  immunities of citizens in the several states. The construction of this
+  section<br>  <em>is not,</em>  as was contended at the bar, that it regulates only
+  the action of the general<br>  Government: it is operative as well upon the state
+  Legislature as upon<br>  Congress.<br></p><p>  2<sup>nd</sup>  . Are the persons
+  affected by this law, citizens of the United States. The law<br>  prohibits colored
+  persons from Havana coming here, as well as the blacks of<br>  other states. With
+  respect to the former, the right of exclusion is<br>  unquestionable, for they are
+  not citizens of the United States. Are the<br>  colored inhabitants of this country
+  citizens? It is the opinion of this court<br>  that they are not. Are slaves citizens
+  of the United States? The constitution<br>  recognizes them only as the basis of
+  representation and taxation. I refer to<br>  the definition of the word citizen
+  as given by Mr. Webster, the ablest<br>  philologist of this or any country. (The
+  judge here read the several<br>  definitions of the word as given in Webster’s dictionary,
+  the last of which,<br>  and the only one applicable to the case is as follows—“In
+  the United States, a<br>  person, native or naturalized, who has the privilege of
+  exercising the<br>  elective franchise, and of purchasing and holding real estate.”)
+  Slaves, then,<br>  are not citizens, in any of the state constitutions. Are Indians
+  citizens? It<br>  is difficult to say what they are, but they are not citizens.
+  Kent, in his<br>  commentaries, speaks of them as distinct tribes, living under
+  the protection<br>  of the government,—2 Kent, 70. Are the free people of color
+  citizens? I<br>  answer, No. They are not so styled in the Constitution of the United
+  States,<br>  or, so far as I am aware, in the laws of Congress or of any of the
+  states. In<br>  that clause of the constitution which fixes the basis of representation,
+  there<br>  was an opportunity to have called them citizens if they were so considered.<br>
+  \ But that makes free<br>  <em>persons</em>  (adding three fifths of all other persons,)
+  the basis of representation and<br>  taxation..<br></p><p>  It has been said that
+  free blacks own vessels which participate in the<br>  peculiar privileges of American
+  shipping. But this claim has never been<br>  settled by judicial decisions. I know
+  of no case where this question has been<br>  settled. It is said also that blacks
+  may sue in the U.S. Courts, but this too,<br>  has never, within my knowledge been
+  decided. It is claimed that they are<br>  citizens because they may be guilty of
+  treason, but so may any person who<br>  resides under the government and enjoys
+  its protection, if he rises up against<br>  it.<br></p><p>  [His honor then read
+  from Kent’s commentaries II, 210 a note in which the<br>  commentator speaks of
+  the degraded condition of the blacks and the<br>  disabilities under which they
+  labor, and thence inferred that in Kent’s<br>  opinion they were not citizens.]<br></p><p>
   \ Another reason for believing that people of color were not considered<br>  citizens,
   is found in the fact that when the United States Constitution was<br>  adopted every
   state except Massachusetts, tolerated slavery. The slave laws of<br>  New-York were
@@ -147,6 +147,6 @@ order: '140'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

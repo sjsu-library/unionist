@@ -55,7 +55,7 @@ commentary: In this further commentary on the acquittal of Frederick Olney, we l
 relatedPeople: "(Mr.) Foster; Maria Robinson; Frederick Olney; Andrew Judson"
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0304
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -64,6 +64,6 @@ order: '311'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

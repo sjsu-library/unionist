@@ -15,7 +15,7 @@ rights: Public Domain
 source: https://archive.org/details/godeys-1833-v-7/mode/2up
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ relatedTextIssue: 1834-03-13 p.03.35
 filename: 
 caption: An example of a hand-tinted plate of the latest fashions, one of the features
   which made Godey's Lady's Book famed and successful for many decades
-order: '480'
+order: '488'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

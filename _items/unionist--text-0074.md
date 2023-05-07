@@ -49,40 +49,40 @@ transcription: "<p>FROM THE BROOKLYN UNIONIST, AUGUST 29.</p><p>TRIAL OF MISS PR
   \ had, of course, formed an opinion with respect to its constitutionality. The<br>
   \ Court decided that the juror was competent to sit. (He got excused, however,<br>
   \ on account of sickness.) The information against Miss Crandall consisted of<br>
-  \ two counts. The first charged “that the said Prudence Crandall, on the 24<br>
-  \ <sup>th</sup>  day of June last, with force, and arms, in a certain school which
-  before that<br>  time had been and then was set up in said Canterbury, for the instruction
-  and<br>  teaching of colored persons, to wit: Theodosia De Grasse, Ann Peterson,
-  Amelia<br>  Elizabeth Wilder, Ann Eliza Hammond, and others whose names are unknown,
-  who<br>  at the time so taught and instructed were not inhabitants of any town in
-  this<br>  state, which said acts were done, by the said Prudence Crandall, without
-  the<br>  consent, in writing, first had and obtained of a majority of the civil<br>
-  \ authority and select men of the said town of Canterbury, within which said<br>
-  \ school was then instructed, against the peace of this state, and contrary to<br>
-  \ the form and effect of the statute in such case made and provided.”<br></p><p>
-  \ The second count charged “that the defendant, with force and arms did wilfully<br>
-  \ and knowingly harbor and board, and aid and assist in harboring and boarding<br>
-  \ certain colored persons (named above,) who, when so harbored and boarded, were<br>
-  \ not inhabitants of any town in this State—without the consent in writing of<br>
-  \ the civil authority and select men, &amp;c.”<br></p><p>Plea, Not Guilty.</p><p>The
-  following witnesses were then called on the part of the prosecution.</p><p>  <em>Asahel
-  Bacon</em>  said that he had called at Miss Crandall’s house in the month of June
-  last,<br>  having heard that she had taken some scholars from abroad. Capt. Sanger<br>
-  \ accompanied him. They were both select men of the town. Miss Crandall invited<br>
-  \ them into her house very politely. They asked her in relation to her scholars.<br>
-  \ She said she had four who were from New York and one from Hartford.—She called<br>
-  \ them in and introduced them. Theodosia De Grass, Amelia Elizabeth Wildes, and<br>
-  \ Catherine Ann Weldon, he thinks were the names of those called. Witness did<br>
-  \ not remember the day of the month that he called—thinks it was the day after<br>
-  \ the girls came—certainly soon after.<br></p><p>  <em>Ebenezer Sanger</em>  coincided
-  in the statement of Mr. Bacon.<br></p><p>  <em>George Cady</em>  had conversed with
-  Miss Crandall—went to her house on Friday last to summon as<br>  witnesses to support
-  this prosecution, some of the girls who were attending<br>  the school. One of those
-  named in this subpoena said that she had been sent<br>  for him, on account of the
-  sickness of her mother, and wished him to excuse<br>  her attendance at Court—told
-  her that he could not, but would state the<br>  circumstances to the public prosecutor.
-  Miss Crandall said that she did not<br>  see that there was any need of witnesses
-  at all, for she should confess that<br>  she had broken the law.<br></p><p>  <em>Ann
+  \ two counts. The first charged “that the said Prudence Crandall, on the 24<sup>th</sup>
+  \ day of June last, with force, and arms, in a certain school which before that<br>
+  \ time had been and then was set up in said Canterbury, for the instruction and<br>
+  \ teaching of colored persons, to wit: Theodosia De Grasse, Ann Peterson, Amelia<br>
+  \ Elizabeth Wilder, Ann Eliza Hammond, and others whose names are unknown, who<br>
+  \ at the time so taught and instructed were not inhabitants of any town in this<br>
+  \ state, which said acts were done, by the said Prudence Crandall, without the<br>
+  \ consent, in writing, first had and obtained of a majority of the civil<br>  authority
+  and select men of the said town of Canterbury, within which said<br>  school was
+  then instructed, against the peace of this state, and contrary to<br>  the form
+  and effect of the statute in such case made and provided.”<br></p><p>  The second
+  count charged “that the defendant, with force and arms did wilfully<br>  and knowingly
+  harbor and board, and aid and assist in harboring and boarding<br>  certain colored
+  persons (named above,) who, when so harbored and boarded, were<br>  not inhabitants
+  of any town in this State—without the consent in writing of<br>  the civil authority
+  and select men, &amp;c.”<br></p><p>Plea, Not Guilty.</p><p>The following witnesses
+  were then called on the part of the prosecution.</p><p>  <em>Asahel Bacon</em>  said
+  that he had called at Miss Crandall’s house in the month of June last,<br>  having
+  heard that she had taken some scholars from abroad. Capt. Sanger<br>  accompanied
+  him. They were both select men of the town. Miss Crandall invited<br>  them into
+  her house very politely. They asked her in relation to her scholars.<br>  She said
+  she had four who were from New York and one from Hartford.—She called<br>  them
+  in and introduced them. Theodosia De Grass, Amelia Elizabeth Wildes, and<br>  Catherine
+  Ann Weldon, he thinks were the names of those called. Witness did<br>  not remember
+  the day of the month that he called—thinks it was the day after<br>  the girls came—certainly
+  soon after.<br></p><p>  <em>Ebenezer Sanger</em>  coincided in the statement of
+  Mr. Bacon.<br></p><p>  <em>George Cady</em>  had conversed with Miss Crandall—went
+  to her house on Friday last to summon as<br>  witnesses to support this prosecution,
+  some of the girls who were attending<br>  the school. One of those named in this
+  subpoena said that she had been sent<br>  for him, on account of the sickness of
+  her mother, and wished him to excuse<br>  her attendance at Court—told her that
+  he could not, but would state the<br>  circumstances to the public prosecutor. Miss
+  Crandall said that she did not<br>  see that there was any need of witnesses at
+  all, for she should confess that<br>  she had broken the law.<br></p><p>  <em>Ann
   Peterson,</em>  This witness was a colored girl, said to be a pupil of Miss Crandall,
   and was<br>  one of those named in the information to whom Miss C. had given instruction.<br>
   \ Mr. Ellsworth objected to the examination of the witness on the ground that<br>
@@ -107,30 +107,30 @@ transcription: "<p>FROM THE BROOKLYN UNIONIST, AUGUST 29.</p><p>TRIAL OF MISS PR
   had expressly enacted that the pupils<br>  should be witnesses. Mr. Ellsworth, in
   reply, said he apprehended the question<br>  to be whether the Legislature possessed
   the power to compel a witness to<br>  convict himself. He read from the opinion
-  of Chief Justice Hosmer, in the 8<br>  <sup>th</sup>  Con. Rep. and also from the
-  case of the people vs. Mather, in 4<br>  <sup>th</sup>  Wendell’s Reps on the subject
-  of examining witnesses.&nbsp; By the principles<br>  decided these cases, which
-  were the settled law of the land, he claimed that<br>  the witness was not compelled
-  to answer any questions in relation to her<br>  knowledge of this school. The Court
-  decided that the witness, under the<br>  circumstances, was not protected, but must
-  be examined.—The examination was<br>  about to proceed, when Mr. Ellsworth rose
-  and stated to the Court that the<br>  witness had been advised not to answer interrogatories
-  in regard to her<br>  knowledge of this school. He felt it to be his duty now to
-  repeat this advice.<br>  He wished the Court, however, distinctly to understand
-  that the counsel for<br>  the accused had taken this course not with a view to embarrass
-  the trial, but<br>  solely from a sense of duty. He conscientiously believed that
-  the legal rights<br>  of the witness were such that she should not be compelled
-  to testify. The<br>  Counsel for the prosecution, asked the witness when she came
-  to Canterbury,<br>  but she declined answering the question. A number of other questions
-  were then<br>  proposed to the witness, the principal of which were—“Has Miss Crandall
-  kept a<br>  school for colored girls not inhabitants of this state?”—“Will you say
-  whether<br>  the defendant has or has not instructed any person of color other than<br>
-  \ yourself since the 10<br>  <sup>th</sup>  of June last, or boarded and instructed
-  colored persons not inhabitants of<br>  this state?” To all these and other questions
-  of a similar character, the<br>  witness decline giving an answer, on the ground
-  that she could not do so<br>  without criminating herself. The counsel for the prosecution
-  then called<br>  <em>Catherine Ann Weldon</em>  and<br>  <em>Eliza Hammond,</em>
-  \ both girls of color, and charged with being pupils of Miss Crandall, and<br>  propounded
+  of Chief Justice Hosmer, in the 8<sup>th</sup>  Con. Rep. and also from the case
+  of the people vs. Mather, in 4<sup>th</sup>  Wendell’s Reps on the subject of examining
+  witnesses.&nbsp; By the principles<br>  decided these cases, which were the settled
+  law of the land, he claimed that<br>  the witness was not compelled to answer any
+  questions in relation to her<br>  knowledge of this school. The Court decided that
+  the witness, under the<br>  circumstances, was not protected, but must be examined.—The
+  examination was<br>  about to proceed, when Mr. Ellsworth rose and stated to the
+  Court that the<br>  witness had been advised not to answer interrogatories in regard
+  to her<br>  knowledge of this school. He felt it to be his duty now to repeat this
+  advice.<br>  He wished the Court, however, distinctly to understand that the counsel
+  for<br>  the accused had taken this course not with a view to embarrass the trial,
+  but<br>  solely from a sense of duty. He conscientiously believed that the legal
+  rights<br>  of the witness were such that she should not be compelled to testify.
+  The<br>  Counsel for the prosecution, asked the witness when she came to Canterbury,<br>
+  \ but she declined answering the question. A number of other questions were then<br>
+  \ proposed to the witness, the principal of which were—“Has Miss Crandall kept a<br>
+  \ school for colored girls not inhabitants of this state?”—“Will you say whether<br>
+  \ the defendant has or has not instructed any person of color other than<br>  yourself
+  since the 10<sup>th</sup>  of June last, or boarded and instructed colored persons
+  not inhabitants of<br>  this state?” To all these and other questions of a similar
+  character, the<br>  witness decline giving an answer, on the ground that she could
+  not do so<br>  without criminating herself. The counsel for the prosecution then
+  called<br>  <em>Catherine Ann Weldon</em>  and<br>  <em>Eliza Hammond,</em>  both
+  girls of color, and charged with being pupils of Miss Crandall, and<br>  propounded
   to them the same questions as above; but they for the same reason,<br>  and by the
   advice of counsel, declined answering. The prosecuting Attorney<br>  reserved to
   himself, though he waived for the present, the right of moving for<br>  an order
@@ -146,10 +146,10 @@ transcription: "<p>FROM THE BROOKLYN UNIONIST, AUGUST 29.</p><p>TRIAL OF MISS PR
   declined answering. In reply to the question whether he had not<br>  seen one of
   them at Miss Crandall’s, declined answering—decline to answer<br>  whether he had
   advised Miss Crandall in relation to her school. Declined<br>  answering whether
-  or not he had been in Miss Crandall’s school since the 10<br>  <sup>th</sup>  of
-  June last. The court, having decided that he was bound to answer the<br>  questions
-  put to him, and that the reasons he offered for refusing to do so,<br>  namely,
-  that he might subject himself to a prosecution, and entangle himself<br>  in difficulties,
+  or not he had been in Miss Crandall’s school since the 10<sup>th</sup>  of June
+  last. The court, having decided that he was bound to answer the<br>  questions put
+  to him, and that the reasons he offered for refusing to do so,<br>  namely, that
+  he might subject himself to a prosecution, and entangle himself<br>  in difficulties,
   were insufficient, granted a motion for a mittimus to commit<br>  him to prison
   and he was taken into custody by the Sheriff.<br></p><p>  <em>Eliza Parkis</em>
   \ (a woman of color) was acquainted with Ann Eliza Hammond, one of the girls<br>
@@ -294,9 +294,9 @@ transcription: "<p>FROM THE BROOKLYN UNIONIST, AUGUST 29.</p><p>TRIAL OF MISS PR
   All these laws Mr. J.<br>  claimed to be obnoxious to equal and indeed to greater
   constitutional<br>  objections than the one in question. The article in the constitution
   of the<br>  United States with which this law was supposed to conflict, he understood
-  to<br>  be, the 2d section of the 4<br>  <sup>th</sup>  article:—“The citizens of
-  each state shall be entitled to all the privileges<br>  and immunities of citizens
-  in the several states.” Mr. J. claimed that the<br>  term “citizens” in this place,
+  to<br>  be, the 2d section of the 4<sup>th</sup>  article:—“The citizens of each
+  state shall be entitled to all the privileges<br>  and immunities of citizens in
+  the several states.” Mr. J. claimed that the<br>  term “citizens” in this place,
   and throughout the constitution, had a<br>  technical signification—a legal meaning—that
   it did not include colored<br>  persons—that they were not be the constitution recognized
   as citizens. A<br>  certain class of colored persons, slaves) were in it considered
@@ -304,7 +304,7 @@ transcription: "<p>FROM THE BROOKLYN UNIONIST, AUGUST 29.</p><p>TRIAL OF MISS PR
   the subject of<br>  naturalization, reading from Ingersoll’s Digest, the several
   acts of Congress,<br>  and insisted that from them all, the language being precise,
   technical, and<br>  certain, none other than white persons could be naturalized
-  citizens of the<br>  United States. He also read from the 2<br>  <sup>nd</sup>  Kent’s
+  citizens of the<br>  United States. He also read from the 2<sup>nd</sup>  Kent’s
   Com. 70, 71, 72, by which he further illustrated these views.<br></p><p>  There
   have been, continued Mr. J., concurrent acts of the State of Connecticut<br>  which
   give the same construction to the constitution. If “citizen” do not mean<br>  a
@@ -402,11 +402,11 @@ transcription: "<p>FROM THE BROOKLYN UNIONIST, AUGUST 29.</p><p>TRIAL OF MISS PR
   is<br>  justly entitled, to equal representation in the Congress of the United States<br>
   \ with the white population. Could not a black man commit treason? The gentleman<br>
   \ would have it that he could not, for none other than citizens can. (Mr. E.<br>
-  \ here read from the 2<br>  <sup>nd</sup>  Kent’s Com on the subject of citizenship,
-  by birth.) I scout the idea, said<br>  Mr. E., that a man, born here by the side
-  of me, is not a citizen because, his<br>  father was black, while I am a citizen
-  because mine was white.<br></p><p>  [The remainder of Mr. Ellsworth’s argument next
-  week together with those of<br>  Messrs. Strong and Welch.]<br></p>"
+  \ here read from the 2<sup>nd</sup>  Kent’s Com on the subject of citizenship, by
+  birth.) I scout the idea, said<br>  Mr. E., that a man, born here by the side of
+  me, is not a citizen because, his<br>  father was black, while I am a citizen because
+  mine was white.<br></p><p>  [The remainder of Mr. Ellsworth’s argument next week
+  together with those of<br>  Messrs. Strong and Welch.]<br></p>"
 scholarlyNotes: 
 commentary: The arguments of William Ellsworth were also reprinted in the Hartford-based
   <em>Independent Press</em>, 16 September 1833.
@@ -427,6 +427,6 @@ order: '073'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

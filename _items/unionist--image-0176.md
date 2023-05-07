@@ -14,7 +14,7 @@ rights:
 source: https://www.facebook.com/photo/?fbid=509146947885008&set=a.509146887885014
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedTextIssue: 1833-09-05 p01.32
 filename: 
 caption: The Royal Belfast Academical Institution was founded by reformers and non-conformists
   in the early decades of the 19th century in Northern Ireland.
-order: '579'
+order: '587'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0176/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0176/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0176/manifest.json"
+full: ''
 ---

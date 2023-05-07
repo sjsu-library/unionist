@@ -21,7 +21,7 @@ article.type:
 volume: '1'
 issue: '20'
 transcription: "<p>  AT a Court of Probate holden at Windham, within and for the district
-  of<br>  Windham, on the 11<br>  <sup>th</sup>  day of November A.D. 1833,<br></p><p>Present,
+  of<br>  Windham, on the 11<sup>th</sup>  day of November A.D. 1833,<br></p><p>Present,
   C.F. CLEVELAND, Esq., Judge. [sic spelling of Cleveland]</p><p>  Upon the petition
   of Philip Pearl, Jr. of Hampton, in the county of Windham,<br>  shewing to this
   court that he is Guardian of Henry T. Utley, of Hampton within<br>  said district,
@@ -46,7 +46,7 @@ relatedPeople: Philip Pearl Jr.; Chauncey F. Clevealand; Henry Utley; Thomas Utl
   Thomas Gray
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0245
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -55,6 +55,6 @@ order: '216'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

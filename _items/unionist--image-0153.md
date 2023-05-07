@@ -15,7 +15,7 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=50595301
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedText: unionist--text-0080
 relatedTextIssue: 1833-09-05 p01.06
 filename: 
 caption: Cover Page to the first volume of <em>The Chinese Repository</em>
-order: '556'
+order: '564'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0153/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0153/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0153/manifest.json"
+full: ''
 ---

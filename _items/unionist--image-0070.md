@@ -14,7 +14,7 @@ rights: https://www.masshist.org/database/viewer.php?item_id=1136
 source: https://en.wikipedia.org/wiki/William_Goodell_%28abolitionist%29#/media/File:William-Goodell(Cropped).png
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist--text-0004
 relatedTextIssue: 
 filename: 
 caption: Photograph of William Goodell (1792-1878), editor of <em>The Genius of Temperance</em>
-order: '473'
+order: '481'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

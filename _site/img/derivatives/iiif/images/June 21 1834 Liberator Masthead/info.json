@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/June 21 1834 Liberator Masthead",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1696,
+  "height": 158,
+  "sizes": [
+    {
+      "width": 1696,
+      "height": 158
+    },
+    {
+      "width": 250,
+      "height": 23
+    },
+    {
+      "width": 1140,
+      "height": 106
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

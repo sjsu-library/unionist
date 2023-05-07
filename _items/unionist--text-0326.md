@@ -29,7 +29,7 @@ commentary:
 relatedPeople: Isaac Hill
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0277
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -38,6 +38,6 @@ order: '325'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

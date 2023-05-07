@@ -21,7 +21,7 @@ source: 'By This mediaUnknown authorOriginal workEllen Rankin Copp (1853–1901)
   https://commons.wikimedia.org/w/index.php?curid=64035982'
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -38,10 +38,10 @@ filename:
 caption: Bust of John Rankin (1793-1886) by his grand-daughter, noted sculptor Ellen
   Rankin Copp (1853-1901). See https://en.wikipedia.org/wiki/Ellen_Rankin_Copp for
   more information on her tumultuous and productive life.
-order: '518'
+order: '526'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0115/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0115/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0115/manifest.json"
+full: ''
 ---

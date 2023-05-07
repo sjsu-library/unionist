@@ -25,7 +25,7 @@ commentary: 'Ironically/awkwardly, this short advertisement has an error in it: 
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0243
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -34,6 +34,6 @@ order: '276'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

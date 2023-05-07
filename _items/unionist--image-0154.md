@@ -15,7 +15,7 @@ rights: Public Domain
 source: https://archive.org/details/sim_watchman-examiner_1830-12-31_11_53
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedText: unionist--text-0081
 relatedTextIssue: 1833-09-05 p01.07
 filename: 
 caption: Masthead of <em>The Christian Watchman</em>, parent to the <em>Juvenile Watchman</em>
-order: '557'
+order: '565'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0154/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0154/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0154/manifest.json"
+full: ''
 ---

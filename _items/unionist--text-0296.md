@@ -19,8 +19,8 @@ article.type:
 volume: '1'
 issue: '32'
 transcription: <p align="center"><em>WOODSTOCK ACADEMY.</em></p><p>  The fall term
-  of this institution will commence on Wednesday the 30<br>  <sup>th</sup>  of Oct.
-  The Academy will be under the superintendance of Mr. Otis Fisher late<br>  of Brown
+  of this institution will commence on Wednesday the 30<sup>th</sup>  of Oct. The
+  Academy will be under the superintendance of Mr. Otis Fisher late<br>  of Brown
   University. The course of studies will be the same as is usually<br>  pursued in
   similar institutions. The terms of tuition are for Latin and Greek<br>  languages
   -- $4,00<br></p><p>For the higher branches of Mathematics $4,00</p><p>  And for
@@ -37,7 +37,7 @@ relatedPeople: Otis Fisher; John McLellan; Daniel Lyman; William Cornell; Amos P
   James McLellan; Moses Lyon
 featured: 
 repeated: 'yes'
-relatedImage: 
+relatedImage: unionist--image-0145
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -46,6 +46,6 @@ order: '295'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

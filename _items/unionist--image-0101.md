@@ -14,7 +14,7 @@ rights: Wikimedia Commons
 source: https://commons.wikimedia.org/wiki/File:London_Leather,_Hide_and_Wool_Exchange_Public_House,_Bermondsey_%2803%29.jpg
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedTextIssue: 1833-08-08 p04.52
 filename: 
 caption: Exterior of London's Leather, Hide and Wool Exchange. Benson and Chace in
   their advertisement anticipsted the name of this major center!
-order: '504'
+order: '512'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0101/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0101/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0101/manifest.json"
+full: ''
 ---

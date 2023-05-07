@@ -14,7 +14,7 @@ rights: Public Domain
 source: "<em>The Rambler</em> 1750-06-12, n. 25"
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist--text-0121
 relatedTextIssue: 1833-09-05 p01.47
 filename: 
 caption: Front Page, June 12, 1750 issue of Samuel Johnson's <em>The Rambler</em>
-order: '590'
+order: '598'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0187/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0187/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0187/manifest.json"
+full: ''
 ---

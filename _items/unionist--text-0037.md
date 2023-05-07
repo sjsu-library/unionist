@@ -76,7 +76,7 @@ commentary: The logic here sets up the argument of William Ellsworth for the tri
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0319
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -85,6 +85,6 @@ order: '036'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

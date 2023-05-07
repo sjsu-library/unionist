@@ -29,7 +29,7 @@ commentary:
 relatedPeople: Robert K. Greenville
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0330
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -38,6 +38,6 @@ order: '317'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

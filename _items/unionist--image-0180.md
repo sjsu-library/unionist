@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://www.whipplemuseum.cam.ac.uk/explore-whipple-collections/calculating-devices/brief-history-calculating-devices
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist--text-0113
 relatedTextIssue: 1833-09-05 p01.39
 filename: 
 caption: An early calculation device, Mr Hélies' rolling rods, c.1830s
-order: '583'
+order: '591'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0180/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0180/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0180/manifest.json"
+full: ''
 ---

@@ -18,17 +18,23 @@ category: Unionist full issue 1834-04-10
 article.type: 
 volume: '1'
 issue: '36'
-transcription: "<p>MARRIED,</p><p>  At Hampton, on the 31<br>  <sup>st</sup>  ult.
-  By Elder Dexter Bullard, Ebenezer Griffin, Esq., to Mrs. Lydia Parsons,<br>  all
-  of Hampton.<br></p><p>  At Hampton, on the 31<br>  <sup>st</sup>  inst. by the Rev.
-  Daniel G. Sprague, Deacon Harvey Lummis to Mrs. Lucretia<br>  Hodgkins, all of Hampton.<br></p>"
-scholarlyNotes: I've not researched these people yet
-commentary: 
+transcription: "<p>MARRIED,</p><p>  At Hampton, on the 31<sup>st</sup>  ult. By Elder
+  Dexter Bullard, Ebenezer Griffin, Esq., to Mrs. Lydia Parsons,<br>  all of Hampton.<br></p><p>
+  \ At Hampton, on the 31<sup>st</sup>  inst. by the Rev. Daniel G. Sprague, Deacon
+  Harvey Lummis to Mrs. Lucretia<br>  Hodgkins, all of Hampton.<br></p>"
+scholarlyNotes: 
+commentary: 'Ebenezer Griffin (1775-1860) is almost certainly the same man who was
+  one of the presiding judges at Crandall''s first trial under the Black Law, and
+  then again at Frederick Olney''s trials; the full trial transcripts of both trials
+  are available in this database. His stance on slavery and abolition at the time
+  of Canterbury are unknown, but he is noted as a conductor on the Underground Railroad,
+  in Hampton (in Windham county) by Horatio T. Strother, <em>The Underground Railroad
+  in Connecticut</em>, (Middletown CT: Wesleyan University Press, 1962), p. 211.'
 relatedPeople: Dexter Bullard; Ebenezer Griffin; Lydia Parsons; Daniel G. Sprague;
   Harvey Lummis; Lucretia Hodgkins
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0238
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -37,6 +43,6 @@ order: '332'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

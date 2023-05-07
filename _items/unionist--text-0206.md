@@ -106,7 +106,7 @@ commentary: 'Charles Backus Storrs (1794-1833) was the first President of Case-W
 relatedPeople: John Greenleaf Whittier; Charles B. Storrs
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0015
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -115,6 +115,6 @@ order: '205'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

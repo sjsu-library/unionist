@@ -16,7 +16,7 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: https://www.gutenberg.org/cache/epub/6406/pg6406-images.html
 subject: 
 type: Image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ relatedText: unionist--text-0084
 relatedTextIssue: 1833-09-05 p01.10
 filename: 
 caption: Mary Avenal and Mysie Happer, from <em>The Monastery</em>
-order: '406'
+order: '414'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0003/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0003/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0003/manifest.json"
+full: ''
 ---

@@ -30,7 +30,7 @@ commentary:
 relatedPeople: William Grey
 featured: 
 repeated: 'yes'
-relatedImage: 
+relatedImage: unionist--image-0221
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -39,6 +39,6 @@ order: '293'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

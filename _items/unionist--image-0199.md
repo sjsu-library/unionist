@@ -16,7 +16,7 @@ rights: Public Domain
 source: https://www.theliberatorfiles.com/
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -32,10 +32,10 @@ relatedTextIssue:
 filename: 
 caption: Portrait of the young William Lloyd Garrison, by African-American artist
   Robert Douglass, Jr., in 1835.
-order: '603'
+order: '611'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0199/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0199/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0199/manifest.json"
+full: ''
 ---

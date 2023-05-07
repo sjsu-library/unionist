@@ -18,7 +18,7 @@ category: Unionist full issue 1834-04-10
 article.type: 
 volume: '1'
 issue: '36'
-transcription: "<p>  At a Court of Probate holden at Killingly on the 8<br>  <sup>th</sup>
+transcription: "<p>  At a Court of Probate holden at Killingly on the 8<sup>th</sup>
   \ day of March A.D. 1834.<br></p><p>Present THOMAS BACKUS Esq. Judge</p><p>  On
   motion of John Truesdell, executor of the last will and testament of<br>  Harriet
   Perrin late of Killingly within said district, deceased—This Court<br>  doth decree
@@ -34,7 +34,7 @@ relatedPeople: Thomas Backus (probate judge); David Chase (probate clerk); John 
   (probate court); Harriet Perrin (probate court)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0245
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -43,6 +43,6 @@ order: '336'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

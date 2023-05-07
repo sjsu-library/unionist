@@ -29,8 +29,10 @@ transcription: "<em>Ten miles of Paper.</em>—Paper used to be sold by the shee
   the paper of such<br>great length is that it may be printed from engraved cylinders,
   in the same way<br>as calicoes, &amp;c.<br>"
 scholarlyNotes: 
-commentary: For more on the Fourdrinier paper-machine, see https://www.frogmorepapermill.org.uk/the-fourdrinier-paper-machine/
-relatedPeople: George Fourdrinier
+commentary: George Spafford and James Phelps in Windham in the 1830s were among the
+  first Americans to use the Fourdrinier machine. See https://paper.gatech.edu/advent-paper-machine
+  For more on the Fourdrinier paper-machine, see https://www.frogmorepapermill.org.uk/the-fourdrinier-paper-machine/
+relatedPeople: George Fourdrinier; George Spafford; James Phelps
 featured: 
 repeated: 
 relatedImage: unionist--image-0066
@@ -42,6 +44,6 @@ order: '125'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

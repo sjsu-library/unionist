@@ -18,7 +18,7 @@ source: By Jacques Reich (undoubtedly based on an earlier work by another artist
   https://commons.wikimedia.org/w/index.php?curid=13266462
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -35,10 +35,10 @@ filename:
 caption: William Leete Stone (1792-1844) was a prominent editor in New York City;
   he played a notorious role in fomenting the 1834 New York City Anti-Abolitionist
   riots.
-order: '468'
+order: '476'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

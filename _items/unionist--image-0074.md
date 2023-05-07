@@ -15,7 +15,7 @@ rights: Public Domain
 source: https://www.loc.gov/pictures/item/2010649528/
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedText: unionist--text-0301
 relatedTextIssue: 1834-04-10 p.01.01
 filename: 
 caption: 
-order: '477'
+order: '485'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0074/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0074/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0074/manifest.json"
+full: ''
 ---

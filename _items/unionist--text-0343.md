@@ -24,7 +24,7 @@ commentary: Once again, self-advertising at the foot of a column!
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0243
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -33,6 +33,6 @@ order: '342'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

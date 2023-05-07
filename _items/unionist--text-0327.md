@@ -32,7 +32,7 @@ commentary:
 relatedPeople: John R. Scott
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0335
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -41,6 +41,6 @@ order: '326'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

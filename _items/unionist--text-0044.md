@@ -34,7 +34,7 @@ commentary: The Rhode Island Philanthropist was co-edited by Rev. Thomas William
 relatedPeople: Timothy Dwight; Prudence Crandall
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0285
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -43,6 +43,6 @@ order: '043'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

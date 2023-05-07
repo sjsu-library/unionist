@@ -121,7 +121,7 @@ commentary: While no author is given, this might well be Samuel J. May's contrib
 relatedPeople: George Washington
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0336
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -130,6 +130,6 @@ order: '016'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

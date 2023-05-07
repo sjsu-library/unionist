@@ -35,7 +35,7 @@ commentary:
 relatedPeople: Thomas Backus (probate judge); Thomas Barrows (probate case)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0245
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -44,6 +44,6 @@ order: '219'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

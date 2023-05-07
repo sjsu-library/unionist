@@ -18,7 +18,7 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/File:LOC_Main_Reading_Room_Highsmith.jpg#/media/File:LOC_Main_Reading_Room_Highsmith.jpg
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -34,10 +34,10 @@ relatedTextIssue: 1833-12-19 p.01.01
 filename: 
 caption: The Main Reading Room at the Library of Congress. For researchers, archivists,
   librarians, and historians, this is one of the happies of places.
-order: '478'
+order: '486'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0075/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0075/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0075/manifest.json"
+full: ''
 ---

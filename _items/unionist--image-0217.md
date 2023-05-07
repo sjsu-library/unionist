@@ -15,7 +15,7 @@ rights: No Known restrictions
 source: https://ark.digitalcommonwealth.org/ark:/50959/2z10zf93m
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -33,10 +33,10 @@ filename:
 caption: . The full salutation reads "With desires for thy continual advancement in
   the glorious principal of truth and righteousness, I remain as ever thy sincere
   friend, L. White"
-order: '620'
+order: '628'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0217/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0217/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0217/manifest.json"
+full: ''
 ---

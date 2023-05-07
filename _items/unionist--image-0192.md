@@ -16,7 +16,7 @@ rights: Public Domain
 source: Charles Knight’s Pictorial Gallery of Arts Vol. I, (c.1862).
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -32,10 +32,10 @@ relatedTextIssue: 1833-09-05 p01.55
 filename: 
 caption: 'Block printer and tierer or ‘tear girl’ (above, left). Children as young
   as six worked for twelve hours or more helping block printers. '
-order: '595'
+order: '603'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0192/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0192/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0192/manifest.json"
+full: ''
 ---

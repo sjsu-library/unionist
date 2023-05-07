@@ -1,0 +1,46 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/LibAd1833PCrev/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "LibAd1833PCrev",
+  "thumbnail": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/LibAd1833PCrev/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/sequence/LibAd1833PCrev.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/canvas/LibAd1833PCrev.json",
+          "label": "front",
+          "width": 1970,
+          "height": 2494,
+          "thumbnail": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/LibAd1833PCrev/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/annotation/LibAd1833PCrev.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/LibAd1833PCrev/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/LibAd1833PCrev",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 985,
+                "height": 1247
+              },
+              "on": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/canvas/LibAd1833PCrev.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/LibAd1833PCrev/full/full/0/default.jpg"
+}

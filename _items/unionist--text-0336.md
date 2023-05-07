@@ -19,8 +19,8 @@ article.type:
 volume: '1'
 issue: '36'
 transcription: "<p>  MEDICAL. The Windham County Medical Society will hold their Annual
-  meeting at<br>  S. Davison’s Hall on Monday 21<br>  <sup>st</sup>  inst. Meeting
-  open precisely at 11 o’clock A.M.<br></p><p>  JAMES B. WHITCOMB<br>  <em>Clerk.</em></p>"
+  meeting at<br>  S. Davison’s Hall on Monday 21<sup>st</sup>  inst. Meeting open
+  precisely at 11 o’clock A.M.<br></p><p>  JAMES B. WHITCOMB<br>  <em>Clerk.</em></p>"
 scholarlyNotes: Link to Celia Burleigh in Burleigh project eventually
 commentary: 'James Whitcomb (1804-1880) was a prominent figure in Windham county for
   many decades. In addition to his medical work - which was extensive - he was a founding
@@ -32,11 +32,13 @@ commentary: 'James Whitcomb (1804-1880) was a prominent figure in Windham county
   in<br>Connecticut</em> (Middletown CT: Wesleyan University Press, 1962), p. 134,
   211. <br>Whitcomb served as a surgeon in the Civil War, a war in which his son Edwin
   perished. After the war, as a member of the Unitarian Society in Brooklyn, he invited
-  Celia Burleigh to preach.'
+  Celia Burleigh to preach - one of the first women to be an official preacher in
+  Connecticut. Celia Burleigh was the second wife, and widow, of Unionist co-editor
+  William H. Burleigh'
 relatedPeople: James Whitcomb
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0305
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -45,6 +47,6 @@ order: '335'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -29,7 +29,7 @@ commentary: This article from a New London newspaper is intriguing because that 
 relatedPeople: Prudence Crandall
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0286
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -38,6 +38,6 @@ order: '045'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

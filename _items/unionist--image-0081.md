@@ -15,7 +15,7 @@ rights: Public Domain
 source: https://archive.org/details/godeys-1833-v-7/mode/2up
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ relatedTextIssue: 1834-03-13 p.04.50
 filename: 
 caption: Music was often included in magazines, as with this page from <em>Godey's
   Lady Book</em>.
-order: '484'
+order: '492'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

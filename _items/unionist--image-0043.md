@@ -19,7 +19,7 @@ rights: By James B. Longacre - http://bioguide.congress.gov/scripts/biodisplay.p
 source: https://en.wikipedia.org/wiki/Benjamin_W._Leigh
 subject: 
 type: 
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -34,10 +34,10 @@ relatedText: unionist-text-0259
 relatedTextIssue: 1834-03-13 p.03.23
 filename: 
 caption: Benjamin Watkins Leigh (1781-1849)
-order: '446'
+order: '454'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0043/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0043/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0043/manifest.json"
+full: ''
 ---

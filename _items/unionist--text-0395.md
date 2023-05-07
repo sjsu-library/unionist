@@ -75,14 +75,15 @@ transcription: "<p>FEMALE ANTI-SLAVERY SOCIETY.</p><p>  On Tuesday afternoon las
   Managers.<br>  </em></p><p>  Mrs. Syrena Sharpe, Miss Martha Smith, Mrs. Louisa
   Williams, Miss Olive<br>  Gilbert, Miss Martha E. Williams, Miss Elizabeth Mather.<br></p>"
 scholarlyNotes: 
-commentary: A very important announcement, that featured many key allies
+commentary: A very important announcement, that featured many key allies - and created
+  effects that we still are feeling today.
 relatedPeople: Samuel J. May, William Lloyd Garrison; Charles Stuart; Lucretia Mott;
   Mrs. Herbert Williams; Maria W. Lyon; Mary Burleigh; Sarah Benson; Lucretia Lee;
   Syrena Sharpe; Martha Smith; Louisa Williams; Olive Gilbert; Martha E. Williams;
   Elizabeth Mather; Charles Stuart
 featured: 
 repeated: 'yes'
-relatedImage: 
+relatedImage: unionist--image-0247
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -91,6 +92,6 @@ order: '394'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -31,7 +31,7 @@ commentary: It is interesting that the <em>Norwich Courier</em> publisehd <em>Th
 relatedPeople: Prudence Crandall
 featured: 'yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0265
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -40,6 +40,6 @@ order: '230'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

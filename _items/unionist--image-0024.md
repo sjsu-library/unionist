@@ -14,7 +14,7 @@ rights: Public Domain https://nmaahc.si.edu/object/nmaahc_2017.30.21
 source: https://nmaahc.si.edu/object/nmaahc_2017.30.21
 subject: 
 type: Image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist-text-0182
 relatedTextIssue: 1833-12-19 p.03.28
 filename: 
 caption: Carte-de-visite of Lydia Maria Child
-order: '427'
+order: '435'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

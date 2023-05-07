@@ -14,7 +14,7 @@ rights: Public Domain
 source: "<em>Liberator</em> 2.4.1853 v.23.n.5.p.19"
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedTextIssue: 1833-09-05 p01.11
 filename: 
 caption: Obituary of Lydia Bradford Burleigh, that appeared in <em>The Liberator</em>.
   She was the mother of <em>The Unionist</em> co-editors, Charles and William Burleigh.
-order: '560'
+order: '568'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0157/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0157/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0157/manifest.json"
+full: ''
 ---

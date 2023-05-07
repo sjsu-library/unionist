@@ -14,7 +14,7 @@ rights: no restrictions
 source: https://imgflip.com/i/ny75e
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedTextIssue: 1833-09-05 p01.17
 filename: 
 caption: This is a twenty-first century project, which reserves the right to speak
   in twenty-first century ways on occasion.
-order: '566'
+order: '574'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0163/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0163/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0163/manifest.json"
+full: ''
 ---

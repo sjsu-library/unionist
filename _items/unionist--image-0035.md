@@ -15,7 +15,7 @@ rights: Public Domain
 source: https://lccn.loc.gov/2003689250
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -35,10 +35,10 @@ caption: A portrait of a popular fictional political commentator of the 1830s, c
   in 1833 in Boston. The print shows Downing seated writing at a table, with a copy
   of the "Daily Courier" by his arm. A portrait of Andrew Jackson hangs on the wall
   behind him.
-order: '438'
+order: '446'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0035/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0035/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0035/manifest.json"
+full: ''
 ---

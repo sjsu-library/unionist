@@ -15,7 +15,7 @@ rights: CC BY 2.5
 source: https://commons.wikimedia.org/w/index.php?curid=1279855
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedText: unionist--text-0093
 relatedTextIssue: 1833-09-05 p01.19
 filename: 
 caption: Porcelain Tea Cup and Saucer
-order: '568'
+order: '576'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0165/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0165/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0165/manifest.json"
+full: ''
 ---

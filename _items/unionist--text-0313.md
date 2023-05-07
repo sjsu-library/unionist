@@ -96,7 +96,7 @@ commentary:
 relatedPeople: Philip Pearl Jr.; Knight; Cady; Eaton
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0307
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -105,6 +105,6 @@ order: '312'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -61,7 +61,7 @@ transcription: "<p>  “Some two or three&nbsp; weeks since we published, upon a
   remarks of the Emancipator are<br>  not true. Our account of the Plainfield disturbance<br>
   \ <em>was not</em>  published “during the height of the late reign of terror,” but
   when all was<br>  tranquil in the week following [my note – it was published July
-  15<br>  <sup>th</sup>  – notes in main PC file];—and in the second place, the account
+  15<sup>th</sup>  – notes in main PC file];—and in the second place, the account
   of the Brooklyn<br>  Unionist, (an&nbsp; abolition paper published in the neighborhood
   of<br>  Plainfield,) represents the case, if anything, more unfavorably than we<br>
   \ did.—Indeed our mistake seems to have consisted only in stating that the young<br>
@@ -151,7 +151,7 @@ commentary: "<p><em>Attack on Charles Stuart – Friday July 11</em></p><p><em>A
 relatedPeople: Charles Stuart; George Thompson
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0263
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -160,6 +160,6 @@ order: '395'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

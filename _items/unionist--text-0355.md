@@ -27,7 +27,7 @@ commentary:
 relatedPeople: Sylvester Barrows
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0229
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -36,6 +36,6 @@ order: '354'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

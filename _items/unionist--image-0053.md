@@ -15,7 +15,7 @@ rights: unsure
 source: Scientific American
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -30,10 +30,10 @@ relatedText: unionist-text-0321
 relatedTextIssue: 1834-04-10 p.03.21
 filename: 
 caption: Avery's Rotary Engine
-order: '456'
+order: '464'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0053/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0053/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0053/manifest.json"
+full: ''
 ---

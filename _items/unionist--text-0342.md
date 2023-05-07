@@ -31,7 +31,7 @@ commentary:
 relatedPeople: Joseph H. Beale
 featured: 
 repeated: 'yes'
-relatedImage: 
+relatedImage: unionist--image-0023
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -40,6 +40,6 @@ order: '341'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

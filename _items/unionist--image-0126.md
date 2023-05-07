@@ -16,7 +16,7 @@ source: 'Sylvester Graham, <em>A Treatise on Bread and Bread-Making</em> (Boston
   Light and Stearns, 1837)'
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -32,10 +32,10 @@ relatedTextIssue: 1833-12-19 p.03.48
 filename: 
 caption: Title page of <em>A Treatise on Bread</em> by Sylvester Graham (1794-1851),
   health reformer and inventor of the Graham cracker!
-order: '529'
+order: '537'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

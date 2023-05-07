@@ -16,7 +16,7 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=5963709
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -36,10 +36,10 @@ caption: Captain Paul Cuffee (1759-1817). It is remarkable that these trials, in
   knew much of this, the significance given to the history of figures like Paul Cuffee,
   let alone the immediate bearing of these trials on their education, likely made
   the knowledge ever more deeply resonant.
-order: '567'
+order: '575'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

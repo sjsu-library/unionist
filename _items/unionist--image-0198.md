@@ -15,7 +15,7 @@ rights: Public Domain
 source: https://archive.org/details/warpeaceevilsoff00jaywiala/page/n5/mode/2up
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -33,10 +33,10 @@ caption: Like many Abolitionists, William Jay was also a capable advocate of Pea
   and was president of the American Peace Society for some years. This 1842 work was
   quite influential. Its republication in 1919 is indicative of the resurgence of
   pacifism after the outrageously profligate loss of life in World War I.
-order: '602'
+order: '610'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0198/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0198/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0198/manifest.json"
+full: ''
 ---

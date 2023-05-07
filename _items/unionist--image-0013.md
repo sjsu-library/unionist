@@ -19,7 +19,7 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: 
 subject: 
 type: Image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -37,10 +37,10 @@ caption: Silk broadside of the Declaration of Sentiments, printed in Philadelphi
   in 1833. Many of the names here - and in <em>The Unionist</em>.reprint from <em>The
   Abolitionist</em>, were associated with or visited the Canterbury Female Academy,
   or had their writings published in <em>The Unionist</em>.
-order: '416'
+order: '424'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0013/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0013/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0013/manifest.json"
+full: ''
 ---

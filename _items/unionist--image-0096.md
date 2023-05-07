@@ -14,7 +14,7 @@ rights: unknown
 source: https://www.logsplittersdirect.com/stories/739-Log-Rack-and-Firewood-101.html
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist--text-0067
 relatedTextIssue: 1833-08-08 p04.53
 filename: 
 caption: A cord of wood
-order: '499'
+order: '507'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0096/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0096/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0096/manifest.json"
+full: ''
 ---

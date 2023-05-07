@@ -19,7 +19,7 @@ source: "<em>Windham Connecticut probate district records, Volume 1 (1719-1734)<
   George Waller editor (Westminster, Maryland: Heritage Books, Inc., 2006)."
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -34,10 +34,10 @@ relatedText: unionist--text-0057
 relatedTextIssue: 1833-08-08 p03.43
 filename: 
 caption: An 18th century illustration of a New England court scene
-order: '525'
+order: '533'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0122/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0122/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0122/manifest.json"
+full: ''
 ---

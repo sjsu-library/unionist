@@ -16,7 +16,7 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/Swing_Riots
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -32,10 +32,10 @@ relatedTextIssue: 1834-03-13 p.04.56
 filename: 
 caption: Drawing of a horse-powered thresher from a French dictionary (published in
   1881)
-order: '452'
+order: '460'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

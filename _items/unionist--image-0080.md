@@ -15,7 +15,7 @@ rights: Public Domain
 source: https://archive.org/details/godeys-1833-v-7/mode/2up
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -32,10 +32,10 @@ filename:
 caption: Most magazines and newspapers of the day, including <em>The Unionist</em>
   included poetry as a regular - and popular - feature. This image of Lord Byron clearly
   played with the readers of the enormously popular <em>Godey's Lady Book</em>.
-order: '483'
+order: '491'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

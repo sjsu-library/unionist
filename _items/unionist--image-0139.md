@@ -14,7 +14,7 @@ rights: CC0
 source: The National Museum of American History, The Smithsonian Institute
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist--text-0058
 relatedTextIssue: 1833-08-08 p03.44
 filename: 
 caption: A dinner knife from a set of cutlery made in Sheffield, England
-order: '542'
+order: '550'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0139/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0139/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0139/manifest.json"
+full: ''
 ---

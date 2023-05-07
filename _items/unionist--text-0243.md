@@ -57,7 +57,7 @@ commentary:
 relatedPeople: Reuben Fenner
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0287
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -66,6 +66,6 @@ order: '242'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

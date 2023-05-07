@@ -69,7 +69,7 @@ commentary: This is a not a strong poem, but the union of temperance and anti-sl
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0334
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -78,6 +78,6 @@ order: '058'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

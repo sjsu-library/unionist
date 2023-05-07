@@ -45,7 +45,7 @@ commentary: The Connecticut Courant was arguably the flagship newspaper of the s
 relatedPeople: Prudence Crandall
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0236
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -54,6 +54,6 @@ order: '049'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

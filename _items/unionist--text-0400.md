@@ -21,7 +21,7 @@ volume:
 issue: 
 transcription: Miss Crandall’s School, in Canterbury, Ct. is discontinued. An advertisement
   in<br>the Unionist, signed Calvin Phileo, offers a reward of $50 for information
-  of<br>the persons who, on the night of the 9<br><sup>th</sup>inst. about 12 o’clock,
+  of<br>the persons who, on the night of the 9<sup>th</sup>inst. about 12 o’clock,
   assaulted the house, and destroyed five window sashes<br>and about 90 panes of glass.
   Another advertisement offers “the house in<br>Canterbury, occupied by the late Prudence
   Crandall, now the wife of the<br>subscriber,” for sale, from an apprehension that
@@ -43,6 +43,6 @@ order: '399'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

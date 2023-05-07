@@ -33,7 +33,7 @@ commentary: 'Charles C. Burleigh pointing out grammar errors in Holbrook''s Wind
 relatedPeople: Arthur Tappan; Simeon Jocelyn; George Benson Jr.; James Holbrook
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0262
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -42,6 +42,6 @@ order: '027'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

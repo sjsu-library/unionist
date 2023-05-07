@@ -14,7 +14,7 @@ rights: Own Work; courtesy of Prudence Crandall Museum
 source: own work
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -25,17 +25,18 @@ relatedPeople:
 featured: 
 repeated: 
 relatedImage: 
-relatedText: unionist--text-0400
+relatedText: unionist--text-0400; unionist--text-0402
 relatedTextIssue: 
 filename: 
-caption: This is glass from windows that was collected during archeological digs at
-  the Canterbury Female Academy conducted during the COVIDian times of 2020-2022.
-  Courtesy of Joan DiMartino and the Canterbury Female Academy. Photography by Jennifer
-  Rycenga
-order: '463'
+caption: This glass was collected during archeological digs at the Canterbury Female
+  Academy conducted during the COVIDian times of 2020-2022. It is most likely from
+  the rash of broken windows that marked the attack that led to the closure of the
+  school. Courtesy of Joan DiMartino and the Canterbury Female Academy. Photography
+  by Jennifer Rycenga
+order: '471'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0060/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0060/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0060/manifest.json"
+full: ''
 ---

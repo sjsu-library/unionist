@@ -14,7 +14,7 @@ rights: No Known restrictions
 source: 
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -25,14 +25,14 @@ relatedPeople:
 featured: 
 repeated: 
 relatedImage: 
-relatedText: unionist--text-0190; unionist--text-0225
-relatedTextIssue: 1833-12-19 p.03.36; 1833-12-19 p.04.71
+relatedText: unionist--text-0190; unionist--text-0225; unionist--text-0209
+relatedTextIssue: 1833-12-19 p.03.36; 1833-12-19 p.04.71; 1833-12-19 p.04.53
 filename: 
 caption: Blank Page meme
-order: '621'
+order: '629'
 layout: items_item
 collection: items
-thumbnail: ''
-full: ''
-manifest: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0218/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0218/manifest.json"
+full: "/img/derivatives/iiif/images/unionist--image-0218/full/1140,/0/default.jpg"
 ---

@@ -31,7 +31,7 @@ commentary: Bravery in the young - something that was on display daily at the Ca
 relatedPeople: Thomas Bennet
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0274
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -40,6 +40,6 @@ order: '053'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

@@ -46,7 +46,7 @@ commentary: Scurrilous attacks (though they are right about the printing!), hatr
 relatedPeople: Prudence Crandall; Calvin Philleo; James Holbrook
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0314
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -55,6 +55,6 @@ order: '400'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

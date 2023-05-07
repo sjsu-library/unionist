@@ -14,7 +14,7 @@ rights: NYPL
 source: 
 subject: 
 type: Image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -29,10 +29,10 @@ relatedText: unionist-text-0062
 relatedTextIssue: 1833-08-08 p04.48
 filename: 
 caption: 
-order: '405'
+order: '413'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0002/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0002/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0002/manifest.json"
+full: ''
 ---

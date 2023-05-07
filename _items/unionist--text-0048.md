@@ -42,11 +42,11 @@ transcription: "<em>Connecticut</em>BLACK<br><em>Laws.</em>—We mentioned, a sh
 scholarlyNotes: 
 commentary: This Pennsylvania paper raises a comparison to the unjust imprisonment
   of the missionary Samuel Worcester (1798-1859) in Georgia. Worcester defended Cherokee
-  sovereignty and right to education.
-relatedPeople: Prudence Crandall
+  sovereignty and right to education, for which he was imprisoned.
+relatedPeople: Prudence Crandall; Samuel Worcester; Elizur Butler
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0341
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -55,6 +55,6 @@ order: '047'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

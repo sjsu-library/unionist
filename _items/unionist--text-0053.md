@@ -59,7 +59,7 @@ commentary: The anti-Catholic sentiment that was always bubbling beneath the sur
 relatedPeople: Andrew Judson; Prudence Crandall
 featured: 'Yes'
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0177
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -68,6 +68,6 @@ order: '052'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

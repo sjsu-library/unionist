@@ -27,7 +27,7 @@ commentary:
 relatedPeople: Daivd Daggett (inferred)
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0210
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -36,6 +36,6 @@ order: '309'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

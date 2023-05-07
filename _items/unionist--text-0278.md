@@ -29,7 +29,7 @@ commentary: No one has claimed this cow for a few months. I am concerned
 relatedPeople: George Bennett
 featured: 
 repeated: maybe
-relatedImage: 
+relatedImage: unionist--image-0251
 relatedText: 
 relatedTextIssue: 
 filename: 
@@ -38,6 +38,6 @@ order: '277'
 layout: items_item
 collection: items
 thumbnail: ''
-full: ''
 manifest: ''
+full: ''
 ---

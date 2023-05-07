@@ -20,7 +20,7 @@ source: "<em>The Report and Proceedings of the First Annual Meeting of the Provi
   - https://www.google.com/books/edition/The_Report_and_Proceedings_of_the_First/VGJBAQAAMAAJ?hl=en&gbpv=0"
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -36,10 +36,10 @@ relatedTextIssue: 1834-03-13 p.04.52
 filename: 
 caption: Roster of Officers, featuring John Prentice as Treasurer, of the Providence
   Anti-Slavery Society
-order: '540'
+order: '548'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0137/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0137/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0137/manifest.json"
+full: ''
 ---

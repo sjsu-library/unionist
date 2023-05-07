@@ -15,7 +15,7 @@ rights: Public Domain
 source: https://www.disabilitymuseum.org/dhm/lib/detail.html?id=793
 subject: 
 type: image
-category: 
+category: Image
 article.type: 
 volume: 
 issue: 
@@ -31,10 +31,10 @@ relatedTextIssue: 1833-09-05 p01.04
 filename: 
 caption: Selection from an American Sunday Schol Union text of 1839 concerning Blind
   Alick
-order: '554'
+order: '562'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0151/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/unionist--image-0151/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0151/manifest.json"
+full: ''
 ---

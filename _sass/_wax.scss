@@ -63,12 +63,10 @@ header & nav bar
     font-size: 2.5rem;
     white-space: normal;
     line-height: 2.5rem;
-    width: 50%;
-    min-width: 400px;
 
 
     .site-logo {
-      width: 100%;
+      height: 50px;
     }
 
   }
@@ -84,11 +82,20 @@ header & nav bar
   .navbar-nav {
     .nav-item {
       z-index: 1000000;
-      background-color: $bg-color;
       font-family: "Copperplate", $heading-font;
     }
+    img {
+      height: 50px;
+    }
+    .nav-img {
+      margin-right: 5px;
+    }
+
     .nav-link {
       color: $accent-dark;
+    }
+    .nav-text {
+      padding-top: 20px;
     }
     .nav-link:hover {
       color: $accent-light;
@@ -99,6 +106,7 @@ header & nav bar
     .dropdown-menu {
       background-color: $neutral;
       border-color: $accent-dark;
+      margin-top: -10px;
       .dropdown-item:focus {
         color: $accent-light;
       }
@@ -369,8 +377,10 @@ item pages (iiif + metadata)
 }
 
 .item-parallax {
-  position:   relative;
+  position: relative;
   height:200px;
+  margin-bottom:0;
+  background-color: $accent-dark;
 
   .wax-parallax.inline-parallax {
       margin-top: 0;
@@ -379,8 +389,10 @@ item pages (iiif + metadata)
 
 }
 
-
-
+.pagination-nav {
+    padding: 0.25rem 1rem;
+    margin-bottom: 5px;
+}
 
 .item-view {
   width:           110%;
@@ -389,6 +401,11 @@ item pages (iiif + metadata)
   justify-content: space-between;
   align-items:     center;
   margin-left:     -5%;
+
+  .text-viewer {
+    width:    100%;
+
+  }
 
   .image-viewer {
     position: relative;
@@ -431,8 +448,7 @@ item pages (iiif + metadata)
         color: $accent-dark !important;
       }
     }
-  }
-
+}
   #prevlink {
     float:left;
   }
@@ -447,6 +463,15 @@ item pages (iiif + metadata)
   border: $neutral 1px solid;
   border-radius: 3px;
   padding: $less-margin;
+
+  :nth-child(n+7) {
+    display:none;
+  }
+
+}
+
+.metadata-hide {
+  display: none;
 }
 
 /*
@@ -514,6 +539,14 @@ search box
       color: $bg-color;
     }
   }
+  .show-full {
+    display: none;
+  }
+  .partial-issue {
+    display:none;
+  }
+
+
   .wax-gallery {
     margin: $margin auto;
     min-height: 30vh;
@@ -527,18 +560,20 @@ search box
     }
 
     .no-thumb {
-      max-width: $excerpt-width;
+      width:100%;
       margin: .5rem;
+    }
+    .gallery-category-head {
+      width:100%;
     }
 
     .gallery-item {
       padding: 0;
 
       background-color: #ffffff;
-      max-height: $thumbnail-height;
 
       border: 0px grey solid;
-      border-radius: 20px;
+      border-radius: 5px;
       overflow:hidden;
 
       .gallery-thumb {
@@ -577,18 +612,33 @@ search box
           height: auto;
           padding:10px 20px;
           border: 2px  $accent-dark solid;
-          border-radius: 20px;
+          border-radius: 5px;
           background-color: $neutral;
           text-align: left;
           height: 100%;
           overflow: hidden;
+
+        img.text-thumb {   max-height: 150px;
+                          float: left;
+                          margin: 10px;
+                          max-width: 250px;
+                          object-fit: cover;
+                        }
+
+
+        div.excerpt_text {
+          margin-left: 300px;
 
           h3 {
             font-size: 1.25em;
             font-weight: 500;
             color: #000;
             margin-top:10px;
-            border-bottom: 5px $accent-light solid;
+            display: inline-block;
+            padding: 10px;
+            background-color: $bg-color;
+            max-width: 80%;
+            border-radius: 10px;
           }
 
           p.excerpt_text {
@@ -596,6 +646,7 @@ search box
               overflow: hidden;
               height: 100%;
             }
+          }
         }
 
         .info {
@@ -647,11 +698,38 @@ search box
           transition: opacity 0.5s ease-in-out;
           display: table;
           height: 100%;
-          border-radius: 20px;
+          border-radius: 5px;
           padding: 10px;
         }
       }
     }
+    .thumb {
+      height: $thumbnail-height;
+      width: $thumbnail-width;
+      display: inline-block;
+    }
+
+    .gallery-category {
+      width:100%;
+    }
+  .gallery-featured {
+      .excerpt_text::before {
+        content:'Featured';
+        display:block;
+      }
+
+      .excerpt_text::after {
+      background-image: url(/unionist/img/icons/star.png);
+      background-size: 80px 80px;
+      position: absolute;
+      top: 5px;
+      right: 5px;
+      content: '';
+      height: 80px;
+      width: 80px;
+      }
+
+  }
   }
 }
 
@@ -846,17 +924,40 @@ search box
 
 .excerpt {
   width: 100%;
-  height: 100%;
   padding:40px 60px;
   border: 5px  $accent-dark solid;
   border-radius: 30px;
-  background-color: $neutral;
+  background-color: #ffffff;
+  font-size: 1.5rem;
+  //scrollbar styling
 
-  overflow-x:scroll;
+  /* width */
+  ::-webkit-scrollbar {
+  width: 10px;
+  }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+  //background: #f1f1f1;
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+  background: #425D80;
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+  background: #555;
+  }
 
 }
 
 .excerpt-inner {
+  overflow-y:scroll;
+  max-height: 400px;
+
+
 
 }
 
@@ -864,6 +965,7 @@ search box
   width:$thumbnail-width;
   height: $thumbnail-height;
 }
+
 
 
 
@@ -930,12 +1032,39 @@ search box
   margin-top: 60px;
 }
 
+//sections of unionist item pages
+
+.breadcrumb {
+    background-color: transparent;
+    margin-bottom: 0;
+    padding: 0.25rem 1rem;
+    margin-top: 5px;
+}
+
+#nextlink {
+  float:right;
+}
+
 .item-category {
-  width: 100%;
+    font-family:Copperplate, $heading-font;
+
+
+
 
     div {
       background-color: $feature2;
       padding:10px;
+
+    .category-inner {
+        width: 1000px;
+        max-width: 90%;
+        margin:auto;
+        background-color: transparent;
+        padding: 0px;
+      }
+    p {
+      display: inline;
+    }
     }
     .Unionist {
       background-color: $feature5;
@@ -950,7 +1079,19 @@ search box
       background-color: $feature1;
       p {
         color: #ffffff;
+
       }
+    }
+    div.item-featured {
+      background-color: transparent;
+      float:right;
+      padding:0px;
+      img {
+        height:40px;
+        position: relative;
+        top: -5px;
+
+    }
     }
 
 
