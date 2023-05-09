@@ -388,6 +388,61 @@ layout: none
       "label": "unionist--image-0083"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0084/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0084"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0085/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0085"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0086/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0086"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0087/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0087"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0088/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0088"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0089/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0089"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0090/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0090"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0091/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0091"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0092/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0092"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0093/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0093"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0094/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0094"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0095/manifest.json",
       "@type": "sc:Manifest",
       "label": "unionist--image-0095"
@@ -1606,6 +1661,46 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0343/manifest.json",
       "@type": "sc:Manifest",
       "label": "unionist--image-0343"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0345/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0345"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0346/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0346"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0347/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0347"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0348/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0348"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0349/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0349"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0350/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0350"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0351/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0351"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/unionist--image-0352/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0352"
     }
   ]
 }

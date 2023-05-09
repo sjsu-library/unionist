@@ -34,7 +34,7 @@ caption: Sketches of Paganini and Norton. Note the paean to female talent below 
 order: '489'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

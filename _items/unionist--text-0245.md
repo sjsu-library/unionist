@@ -36,7 +36,7 @@ caption:
 order: '244'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

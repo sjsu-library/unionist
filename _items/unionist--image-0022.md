@@ -50,7 +50,7 @@ caption: Engraving of William Alexander Alcott, by John Chester Buttre
 order: '433'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

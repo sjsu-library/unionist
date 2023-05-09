@@ -36,7 +36,7 @@ caption: William Wirt (1772-1834)
 order: '461'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

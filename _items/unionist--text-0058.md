@@ -34,10 +34,10 @@ relatedText:
 relatedTextIssue: 
 filename: 
 caption: 
-order: '057'
+order: '57'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

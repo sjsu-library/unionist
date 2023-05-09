@@ -1,3 +1,5 @@
-# Betita Martínez: A Memorial exhibit
+# The Unionist Unified: Connecticut's First Immediate Abolitionist Newspaper
 
-This is a digital exhibit created by the SJSU King Library using [Wax](https://github.com/). 
+This is a digital exhibit created by the SJSU King Library using [Wax](https://github.com/).
+
+*The Unionist* was established in 1833 in Brooklyn, Connecticut to serve as a local voice in support of Abolition, Prudence Crandall, and the Canterbury Female Academy. It was birthed in a conversation between the Unitarian minister and Abolitionist Samuel J. May and New York Abolitionist and wealthy merchant Arthur Tappan. The man selected to edit it - Charles C. Burleigh - was ready to lead this venture due to his triple training in law, journalism, and the fervid moral reform movements of the era. The paper ran from August of 1833 through September of 1834. Charles Burleigh's brother William Burleigh became a co-editor by the end of 1833, as well as being an associate teacher at the Canterbury Female Academy - New England's first Academy for African-American women. The Unionist was active during all four of the legal actions taken against Crandall and the Academy, which expanded its importance regionally. The Unionist is the earliest documented newspaper in support of Immediate Abolition to be published in Connecticut.

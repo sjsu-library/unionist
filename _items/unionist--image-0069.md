@@ -32,7 +32,7 @@ caption: Portrait of Hester Thrale and her daughter Hester
 order: '480'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

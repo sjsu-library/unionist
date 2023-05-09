@@ -32,7 +32,7 @@ caption: Two blood horses exercising
 order: '536'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

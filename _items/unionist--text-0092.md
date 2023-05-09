@@ -575,10 +575,10 @@ relatedText:
 relatedTextIssue: 
 filename: 
 caption: 
-order: '091'
+order: '91'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

@@ -35,7 +35,7 @@ caption: Title page of <em>A Treatise on Bread</em> by Sylvester Graham (1794-18
 order: '537'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

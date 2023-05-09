@@ -1,14 +1,20 @@
 {% assign item  = site[include.collection] | where: 'pid', include.pid | first %}
 
 {% if include.titleHeader %}
-<div inline-image-header>
-  <h3>{{ item.title }}</h3>
+<div class='full-width' >
+<div class='inline-image-header'>
+  <p>{{ item.title }}</p>
+</div>
 </div>
 {% endif %}
+{% capture fullURL %}
+    {{ site.url }}{{ site.baseurl }}/img/derivatives/iiif/images/{{ item.pid }}/full/1140,/0/default.jpg
+{% endcapture %}
+
 
 <div class='inline-image-reference'>
   <a href='{{ item.url | absolute_url }}'>
-    <img src='{{ item.full | absolute_url }}' alt="{{ item.caption | escape }}"/>
+    <img src='{{ fullURL }}' alt="{{ item.caption | escape }}"/>
   </a>
   {% if item.caption %}
   <p class='image-caption'>

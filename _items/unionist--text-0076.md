@@ -177,10 +177,10 @@ relatedText:
 relatedTextIssue: 
 filename: 
 caption: 
-order: '075'
+order: '75'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

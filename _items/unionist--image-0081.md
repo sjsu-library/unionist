@@ -34,7 +34,7 @@ caption: Music was often included in magazines, as with this page from <em>Godey
 order: '492'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

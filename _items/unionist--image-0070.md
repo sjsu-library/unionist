@@ -32,7 +32,7 @@ caption: Photograph of William Goodell (1792-1878), editor of <em>The Genius of 
 order: '481'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

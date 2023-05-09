@@ -37,5 +37,5 @@ layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0142/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0142/manifest.json"
-full: ''
+full: "/img/derivatives/iiif/images/unionist--image-0142/full/1140,/0/default.jpg"
 ---

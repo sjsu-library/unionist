@@ -423,10 +423,10 @@ relatedText:
 relatedTextIssue: 
 filename: 
 caption: 
-order: '073'
+order: '73'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

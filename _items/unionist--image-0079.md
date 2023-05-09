@@ -34,7 +34,7 @@ caption: The cover of an 1833 issue of <em>Godey's Lady Book</em> that might wel
 order: '490'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

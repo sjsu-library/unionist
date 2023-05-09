@@ -35,7 +35,7 @@ caption: Drawing of a horse-powered thresher from a French dictionary (published
 order: '460'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

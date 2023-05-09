@@ -50,10 +50,10 @@ relatedText:
 relatedTextIssue: 
 filename: 
 caption: 
-order: '059'
+order: '59'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

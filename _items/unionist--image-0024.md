@@ -32,7 +32,7 @@ caption: Carte-de-visite of Lydia Maria Child
 order: '435'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

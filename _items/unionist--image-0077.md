@@ -34,7 +34,7 @@ caption: An example of a hand-tinted plate of the latest fashions, one of the fe
 order: '488'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

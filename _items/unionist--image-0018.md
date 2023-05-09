@@ -35,7 +35,7 @@ caption: E.K. Avery (1799-1869)
 order: '429'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

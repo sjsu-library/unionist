@@ -41,10 +41,10 @@ relatedText:
 relatedTextIssue: 
 filename: 
 caption: 
-order: '080'
+order: '80'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

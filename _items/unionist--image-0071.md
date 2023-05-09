@@ -33,7 +33,7 @@ caption: Plainfield, Connecticut, including the Plainfield Academy on top of the
 order: '482'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

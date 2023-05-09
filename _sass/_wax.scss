@@ -66,11 +66,11 @@ header & nav bar
 
 
     .site-logo {
-      height: 50px;
-    }
+      width: 500px;
+      max-width: 70vw;
 
   }
-
+}
   .navbar-brand:hover {
     color: $accent-dark;
   }
@@ -259,7 +259,8 @@ content section
     font-family: "Copperplate", $heading-font;
   }
   .footer-site-logo img {
-    height:40px;
+    width:400px;
+    max-width: 80vw;
   }
   .footer-copyright {
     margin: 1rem 0 $margin 0;
@@ -404,6 +405,7 @@ item pages (iiif + metadata)
 
   .text-viewer {
     width:    100%;
+    margin-bottom: 30px;
 
   }
 
@@ -454,6 +456,12 @@ item pages (iiif + metadata)
   }
   .nextlink {
     float: right;
+    @media ( max-width: 400px ) {
+      float: none;
+      display: block;
+      text-align: right;
+    }
+
   }
 }
 
@@ -470,9 +478,52 @@ item pages (iiif + metadata)
 
 }
 
+metadata-full::before, metadata-after::before {
+  border-top: solid 10px transparent;
+  border-bottom: solid 10px transparent;
+  border-left: solid 10px $accent-dark;
+  height: 0;
+  width: 0;
+  content: '';
+  display: inline-block;
+  margin-right:5px;
+  position:relative;
+  top:5px;
+
+}
+
 .metadata-hide {
   display: none;
 }
+
+.related-images {
+
+  .full-width {
+    background-color: $accent-light;
+    padding: 10px;
+
+    .inline-image-header {
+      width: 1000px;
+      max-width: 90%;
+      margin: auto;
+      background-color: transparent;
+      padding: 0px;
+      font-family: Copperplate,"Lucida Bright",Georgia,serif;
+
+      p {
+        margin-bottom: 0;
+        color:#ffffff;
+      }
+
+    }
+  }
+.image-caption {
+  font-size: 1rem;
+}
+}
+
+
+
 
 /*
 
@@ -591,6 +642,7 @@ search box
         position: relative;
         text-align: center;
         cursor: default;
+        padding:0;
 
         &:hover {
           .overlay {
@@ -617,6 +669,7 @@ search box
           text-align: left;
           height: 100%;
           overflow: hidden;
+          margin-left:0;
 
         img.text-thumb {   max-height: 150px;
                           float: left;
@@ -627,7 +680,7 @@ search box
 
 
         div.excerpt_text {
-          margin-left: 300px;
+          //margin-left: 300px;
 
           h3 {
             font-size: 1.25em;
@@ -799,6 +852,7 @@ search box
         position: relative;
         text-align: left;
         cursor: default;
+        padding: 0;
 
         &:hover {
           .overlay {
@@ -913,11 +967,13 @@ search box
   margin-bottom: 0px;
 }
 .item-creator {
-  font-size: 1.25rem;
   margin:0px;
 }
+.item-citation {
+  margin:0px;
+}
+
 .item-location {
-  font-size: 1.25rem;
   margin:0px;
 }
 
@@ -1086,10 +1142,17 @@ search box
       background-color: transparent;
       float:right;
       padding:0px;
+      position: relative;
+      top: -3px;
+        @media ( max-width:600px ) {
+          float:none;
+          clear:both;
+          top:0;
+        }
       img {
         height:40px;
         position: relative;
-        top: -5px;
+        top: -2px;
 
     }
     }

@@ -2,11 +2,13 @@
   {% assign image = include.image %}
 {% else %}
   {% assign item  = site[include.collection] | where: 'pid', include.pid | first %}
-  {% assign image = item.full %}
+  {%- capture image -%}
+      {{ site.url }}{{ site.baseurl }}/img/derivatives/iiif/images/{{ item.pid }}/full/1140,/0/default.jpg
+  {%- endcapture -%}
 {% endif %}
 
 {%- capture style -%}
-  background-image: url('{{ image | absolute_url }}');
+  background-image: url('{{ image }}');
   background-position: 0% {{ include.y | default: '15%' }};
 
   {% if include.height %}

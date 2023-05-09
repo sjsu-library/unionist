@@ -42,10 +42,10 @@ relatedText:
 relatedTextIssue: 
 filename: 
 caption: 
-order: '012'
+order: '12'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

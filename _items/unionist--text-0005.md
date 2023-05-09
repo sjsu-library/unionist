@@ -40,10 +40,10 @@ relatedText:
 relatedTextIssue: 
 filename: 
 caption: 
-order: '004'
+order: '4'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

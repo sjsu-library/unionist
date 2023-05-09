@@ -32,7 +32,7 @@ caption: Peter the Great (1672-1725)
 order: '462'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

@@ -7,7 +7,11 @@ layout: default
   <div class="title-inner">
     <h3 alt="{{ page.label | escape }}" class='item-label'>{{ page.title }}</h3>
     <p class='item-creator'> {{ page.creator }} </p>
+
+{% if page.type == 'Text' %}
     <p class='item-citation'> {{ page.bibliographicCitation }} </p>
+{% endif %}
+
   </div>
 </div>
 
@@ -21,7 +25,7 @@ layout: default
        {% include parallax_image.html collection='items' pid=page.relatedImage height='200px' %}
      {% endif %}
 
-{% elsif page.type == 'image' %}
+{% elsif page.type == 'image' or page.type == 'Image' %}
   {% include parallax_image.html collection='items' pid=page.pid height='200px' %}
 
   {% endif %}
@@ -103,7 +107,7 @@ layout: default
   <div class='item-content'>
     {% assign comment = page.commentary | strip %}
     {% if comment != '' %}
-     <h4>About this Item</h4>
+     <h3>About this Item</h3>
        <p>{{ page.commentary }}</p>
     {% endif %}
   </div>

@@ -37,7 +37,7 @@ caption: A well-loved title page from <em>Angell's Select Reader Union No. 6</em
 order: '534'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

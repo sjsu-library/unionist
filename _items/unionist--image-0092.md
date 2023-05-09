@@ -32,7 +32,7 @@ caption: "<em>The Unionist</em>, 1833-04-10, page 2"
 order: '503'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0092/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0092/manifest.json"
+full: "/img/derivatives/iiif/images/unionist--image-0092/full/1140,/0/default.jpg"
 ---

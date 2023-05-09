@@ -117,10 +117,10 @@ relatedText:
 relatedTextIssue: 
 filename: 
 caption: 
-order: '061'
+order: '61'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

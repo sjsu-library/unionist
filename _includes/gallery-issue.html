@@ -34,9 +34,7 @@
     var container = $('#wax-gallery-{{ include.collection }}-container');
     var gallery = $('#wax-gallery-{{ include.collection }}');
     var buttonDiv = $('#{{ include.collection }}-facet-buttons');
-    {%- capture thumbTestURL -%}
-      {{ site.url }}{{ site.baseurl }}
-    {%- endcapture -%}
+
     {% if subset %}
       {% for item in subset %}
         {%- capture item_html -%}
@@ -53,11 +51,8 @@
     {%- else -%}
          {%- assign featuredClass = "gallery-not-featured" -%}
     {%- endif -%}
-    {%- capture thumbnailUrl -%}
-      {{ item.thumbnail | absolute_url }}
-    {%- endcapture -%}
 
-    {%- if thumbnailUrl == thumbTestURL -%}
+  {%- if item.type == "Text" or item.type == "text" -%}
       {%- if item.relatedImage contains ';' -%}
         {%- assign firstImage = item.relatedImage | split: '\; ' | first -%}
         {%- capture tn -%}
@@ -76,7 +71,7 @@
 
 
       {%- capture item_div_no_thumb -%}
-        "<div class='gallery-item no-thumb {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect'><div class ='gallery_excerpt'><img class='text-thumb' src={{tn}}> <div class='excerpt_text'><h3></h3><p class='description'></p></div></div><div class='overlay'><p class='info'></p></div></div></a></div>"
+        "<div class='gallery-item no-thumb {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect container'><div class ='gallery_excerpt row'><div class ='col-4 excerpt-image'><img class='text-thumb' src={{tn}}></div><div class='col-8 excerpt_text'><h3></h3><p class='description'></p></div></div><div class='overlay'><p class='info'></p></div></div></a></div>"
       {%- endcapture -%}
       var title = '{{ item.title | escape }}'
       var titleFixed = title.replaceAll('&lt;', '<').replaceAll('&gt;', '>');

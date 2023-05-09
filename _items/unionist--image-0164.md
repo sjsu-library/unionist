@@ -39,7 +39,7 @@ caption: Captain Paul Cuffee (1759-1817). It is remarkable that these trials, in
 order: '575'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

@@ -38,7 +38,7 @@ caption: '"1839 Illustration in the Anti-Slavery Almanac of Black students exclu
 order: '755'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

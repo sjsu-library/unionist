@@ -105,10 +105,10 @@ relatedText:
 relatedTextIssue: 
 filename: 
 caption: 
-order: '062'
+order: '62'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

@@ -40,7 +40,7 @@ caption: William Wilberforce, 1828
 order: '415'
 layout: items_item
 collection: items
-thumbnail: ''
-manifest: ''
-full: ''
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---
