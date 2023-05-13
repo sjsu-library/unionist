@@ -4,7 +4,7 @@
   {% assign subset = collection | where: include.facet_by, include.only | sort: 'order' %}
 {% endif %}
 
-{% assign collection = collectionFull | where: 'publisher', 'The Unionist' | sort:'featured' %}
+{% assign collection = collectionFull | sort:'featured' %}
 
 <div id='wax-gallery-{{ include.collection }}-container' class='wax-gallery-container full-width'>
   <div class='wax-inline-container'>
@@ -45,6 +45,8 @@
     {% else %}
 
     {% for item in collection %}
+
+{%- if item.category contains "Unionist" -%}
 
     {%- if item.featured -%}
       {%- assign featuredClass = "gallery-featured" -%}
@@ -96,6 +98,7 @@
 
 
       {%- endif -%}
+    {%- endif -%}
     {%- endfor -%}
     {%- endif -%}
 
