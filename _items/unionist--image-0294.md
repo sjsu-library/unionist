@@ -2,10 +2,10 @@
 pid: unionist--image-0294
 title: Phillis Wheatley portrait
 bibliographicCitation: https://commons.wikimedia.org/w/index.php?curid=1629684
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Scipio Moorhead
-date.created: '1773'
+dateCreated: '1773'
 description: Phillis Wheatley portrait, frontispiece to her published poems
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=1629684
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

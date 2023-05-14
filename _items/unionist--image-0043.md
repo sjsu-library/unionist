@@ -2,10 +2,10 @@
 pid: unionist--image-0043
 title: Benjamin Watkins Leigh
 bibliographicCitation: 
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1835'
+dateCreated: '1835'
 description: Benjamin Watkins Leigh (1781-1849) was appointed to an empty Senatorial
   seat from Virginia in 1834. During the hysteria over Abolitionist publications in
   1835, he famously said that Virginians had the right “to suppress to the utmost
@@ -19,8 +19,8 @@ rights: By James B. Longacre - http://bioguide.congress.gov/scripts/biodisplay.p
 source: https://en.wikipedia.org/wiki/Benjamin_W._Leigh
 subject: 
 type: 
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

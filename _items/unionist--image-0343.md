@@ -2,10 +2,10 @@
 pid: unionist--image-0343
 title: Photographic portrait of Samuel J. May
 bibliographicCitation: https://rmc.library.cornell.edu/abolitionism/introduction/Samuel_J_May.htm
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: ca. 1850s
+dateCreated: ca. 1850s
 description: Photographic portrait of Samuel J. May
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://rmc.library.cornell.edu/abolitionism/introduction/Samuel_J_May.htm
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -3,10 +3,10 @@ pid: unionist--image-0116
 title: Rankin_house_window
 bibliographicCitation: By The original uploader was Kevin Myers at English Wikipedia.
   - Transferred from en.wikipedia to Commons., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=50264389
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Kevin Myers
-date.created: '2005'
+dateCreated: '2005'
 description: 'The view from Rankin''s famous home in Ripley, Ohio, showing Kentucky
   across the Ohio river. '
 language: English
@@ -17,8 +17,8 @@ source: By The original uploader was Kevin Myers at English Wikipedia. - Transfe
   from en.wikipedia to Commons., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=50264389
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

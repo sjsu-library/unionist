@@ -2,10 +2,10 @@
 pid: unionist--image-0067
 title: BenjaminSillimanPortrait
 bibliographicCitation: https://npg.si.edu/object/npg_NPG.68.6
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: John Trumbull (1756-1843)
-date.created: '1825'
+dateCreated: '1825'
 description: Portrait of Benjamin Silliman
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: CC0
 source: https://npg.si.edu/object/npg_NPG.68.6
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

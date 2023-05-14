@@ -2,10 +2,10 @@
 pid: unionist--image-0095
 title: Liberator PCAd March 02 1833
 bibliographicCitation: "<em>The Liberator</em> 3:9:35 (1833-03-02)"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Prudence Crandall
-date.created: '1833'
+dateCreated: '1833'
 description: The first instance of the Advertisement for Crandall's school run in
   <em>The Liberator</em>
 language: English
@@ -15,8 +15,8 @@ rights: Public Domain
 source: "<em>The Liberator</em> 3:9:35 (1833-03-02)"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

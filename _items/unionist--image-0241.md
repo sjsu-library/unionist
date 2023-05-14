@@ -3,10 +3,10 @@ pid: unionist--image-0241
 title: Reference to P.A. Bell as a Location for Delivery of Printed Material
 bibliographicCitation: Charles Denison (1809-1881) in a letter to William Lloyd Garrison,1834-03-07
   from central Connecticut, in a postscript.
-bibliographicCitation.republished: https://www.digitalcommonwealth.org/search/commonwealth:dv142x87k
+bibliographicCitationRepublished: https://www.digitalcommonwealth.org/search/commonwealth:dv142x87k
 fullIssueSequenceNumber: 
 creator: Charles Denison
-date.created: '1834'
+dateCreated: '1834'
 description: Reference to P.A. Bell as a Location for Delivery of Printed Material
 language: English
 publisher: 
@@ -15,8 +15,8 @@ rights: No known restrictions
 source: https://www.digitalcommonwealth.org/search/commonwealth:dv142x87k
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

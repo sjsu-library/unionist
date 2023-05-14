@@ -2,10 +2,10 @@
 pid: unionist--text-0329
 title: Baltimore, April 1
 bibliographicCitation: "<em>The Unionist</em> 1834-04-10"
-bibliographicCitation.republished: "<em>National Intelligencer</em>"
+bibliographicCitationRepublished: "<em>National Intelligencer</em>"
 fullIssueSequenceNumber: 1834-04-10 p.03.29
 creator: 
-date.created: '1834-04-10'
+dateCreated: '1834-04-10'
 description: More votes against the Jacksonian bank proposals
 language: English
 publisher: The Unionist
@@ -15,14 +15,14 @@ source: "<em>The Unionist</em> 1834-04-10"
 subject: National News
 type: Text
 category: Unionist full issue 1834-04-10
-article.type: 
+articleType: 
 volume: '1'
 issue: '36'
 transcription: "<p>Baltimore, April 1</p><p>  We understand that a clear majority
   of the whole voters of the 5<sup>th</sup>  Congressional District, have signed the
-  instructions to Mr. Isaac McKim,<br>  requiring him either to vote for the future
-  deposits of the public money in<br>  the Bank of the United&nbsp; States, or to
-  resign his seat.—<br>  <em>Nat. Int.</em></p>"
+  instructions to Mr. Isaac McKim, <br>  requiring him either to vote for the future
+  deposits of the public money in <br>  the Bank of the United&nbsp; States, or to
+  resign his seat.— <br>  <em>Nat. Int.</em></p>"
 scholarlyNotes: 
 commentary: 'Isaac McKim (1775-1838), in addition to serving a number of terms as
   a Congressional representative from Maryland, was also part of extensive transportation

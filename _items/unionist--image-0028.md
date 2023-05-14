@@ -4,10 +4,10 @@ title: Rankin_letters_on_slavery_book
 bibliographicCitation: 'John Rankin, <em>Letters on American Slavery. Addressed to
   Mr. Thomas Rankin, Merchant at Middlebrook, Augusta Co., Va.</em> (Boston: Garrison
   and Knapp, 1833)'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833'
+dateCreated: '1833'
 description: The original edition of Rankin's <em>Letters</em>.
 language: English
 publisher: 
@@ -16,8 +16,8 @@ rights: By Rdikeman at the English-language Wikipedia, CC BY-SA 3.0, https://com
 source: By Rdikeman at the English-language Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=13358329
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

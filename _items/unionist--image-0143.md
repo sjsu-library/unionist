@@ -3,10 +3,10 @@ pid: unionist--image-0143
 title: Miss Crandall Convicted
 bibliographicCitation: "<em>We, the People, and Old Colony Press</em>, 1833-10-12,
   vol. 1, no. 51, p. 2"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833'
+dateCreated: '1833'
 description: Article on Crandall's conviction, from <em>We, the People</em>; Charles
   Burleigh worked for this Anti-Masonic paper briefly.
 language: English
@@ -17,8 +17,8 @@ source: "<em>We, the People, and Old Colony Press</em>, 1833-10-12, vol. 1, no. 
   p. 2"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

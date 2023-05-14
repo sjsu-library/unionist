@@ -2,10 +2,10 @@
 pid: unionist--image-0275
 title: Masthead of <em>The Unionist</em>
 bibliographicCitation: "<em>The Unionist</em>, 1834-04-10, v. 1, n. 36. p. 1"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1834'
+dateCreated: '1834'
 description: Masthead of <em>The Unionist</em>
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>The Unionist</em>, 1834-04-10, v. 1, n. 36. p. 1"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

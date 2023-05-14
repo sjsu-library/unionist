@@ -2,10 +2,10 @@
 pid: unionist--image-0206
 title: Setting of Isaiah 58:6 against a nature scene background
 bibliographicCitation: https://www.scripture-images.com/bible-verse/kjv/isaiah-58-6-kjv.php
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: https://www.scripture-images.com/
-date.created: '2023'
+dateCreated: '2023'
 description: Setting of Isaiah 58:6 against a nature scene background
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://www.scripture-images.com/bible-verse/kjv/isaiah-58-6-kjv.php
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

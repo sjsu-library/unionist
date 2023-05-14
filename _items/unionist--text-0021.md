@@ -2,10 +2,10 @@
 pid: unionist--text-0021
 title: Who Is the True Hero?
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-08-08 p01.07
 creator: 
-date.created: '1833-08-08'
+dateCreated: '1833-08-08'
 description: Miscellaneous Filler
 language: English
 publisher: The Unionist
@@ -15,7 +15,7 @@ source: The Unionist
 subject: Miscellaneous Filler
 type: Text
 category: Unionist full issue 1833-08-08
-article.type: 
+articleType: 
 volume: '1'
 issue: '2'
 transcription: Who is the true Hero? He who has the most courage in resisting himself.

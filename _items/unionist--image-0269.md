@@ -5,10 +5,10 @@ title: Elisha B. Perkins, <em>Address Delivered Before the Peace Society of Wind
 bibliographicCitation: 'Elisha B. Perkins, <em>Address Delivered Before the Peace
   Society of Windham County At Its Annual Meeting in Brooklyn, August 20th, 1828</em>.
   (Brooklyn CT: Advertiser Press, 1828).'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Elisha Perkins
-date.created: '1828'
+dateCreated: '1828'
 description: 'Elisha B. Perkins, <em>Address Delivered Before the Peace Society of
   Windham County At Its Annual Meeting in Brooklyn, August 20th, 1828</em>. (Brooklyn
   CT: Advertiser Press, 1828).'
@@ -21,8 +21,8 @@ source: 'Elisha B. Perkins, <em>Address Delivered Before the Peace Society of Wi
   Advertiser Press, 1828).'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

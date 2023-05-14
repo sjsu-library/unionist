@@ -2,10 +2,10 @@
 pid: unionist--image-0309
 title: Gravestone of Lucy Adams Barrett
 bibliographicCitation: https://www.findagrave.com/memorial/77786106/lucy-barrett
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: ASB
-date.created: '1834'
+dateCreated: '1834'
 description: Gravestone of Lucy Adams Barrett
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Permission granted by ASB
 source: https://www.findagrave.com/memorial/77786106/lucy-barrett
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

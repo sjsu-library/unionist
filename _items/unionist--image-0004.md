@@ -2,10 +2,10 @@
 pid: unionist--image-0004
 title: William Wilberforce
 bibliographicCitation: https://en.wikipedia.org/wiki/William_Wilberforce#/media/File:Sir_Thomas_Lawrence02.jpg
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Thomas Lawrence
-date.created: 
+dateCreated: 
 description: Unfinished Portrait of William Wilberforce
 language: 
 publisher: 
@@ -22,8 +22,8 @@ rights: one or more third parties have made copyright claims against Wikimedia C
 source: 
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

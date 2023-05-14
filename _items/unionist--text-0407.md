@@ -3,10 +3,10 @@ pid: unionist--text-0407
 title: Countering a False Report of the School's Closure
 bibliographicCitation: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em>
   1833-10-16, v. 4, n.15"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: William Goodell
-date.created: '1833-10-16'
+dateCreated: '1833-10-16'
 description: Countering a False Report of the School's Closure
 language: English
 publisher: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em> 1833-10-16,
@@ -18,7 +18,7 @@ source: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em> 1
 subject: Prudence Crandall; Canterbury Female Academy; The Unionist
 type: Text
 category: Positive notice
-article.type: 
+articleType: 
 volume: 
 issue: 
 transcription: The N.Y. Daily Advertiser quotes the Traveller [sic] as saying, on

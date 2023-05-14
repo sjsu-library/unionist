@@ -3,10 +3,10 @@ pid: unionist--image-0009
 title: William Pinkney
 bibliographicCitation: 'Henry Wheaton, <em>Some Account of the Life, Writings, and
   Speeches of William Pinkney</em> (New York: G. & J. Carvill, 1826)'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1826'
+dateCreated: '1826'
 description: Portrait of William Pinkney (1764-1822) as the frontispiece of a collection
   of his writings published in 1823)
 language: English
@@ -17,8 +17,8 @@ rights: 'https://creativecommons.org/publicdomain/mark/1.0/ '
 source: 
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

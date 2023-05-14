@@ -4,10 +4,10 @@ title: Portrait of Dalip Singh Saund, first Asian-American Congressman, and a fa
   from California's Imperial Valley
 bibliographicCitation: Collection of the U.S. House of Representatives - http://clerk.house.gov/art_history/highlights.html?action=view&amp;intID=315,
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=20025176
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Jon R. Friedman
-date.created: '2007'
+dateCreated: '2007'
 description: Painted portrait of Dalip Singh Saund, oil on canvas
 language: English
 publisher: 
@@ -16,8 +16,8 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=20025176
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

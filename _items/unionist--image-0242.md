@@ -4,10 +4,10 @@ title: Title page to Thomas Carlyle's <em>On Heroes, Hero-Worship, and the Heroi
   in History</em>
 bibliographicCitation: 'Thomas Carlyle''s <em>On Heroes, Hero-Worship, and the Heroic
   in History</em> (New York: Wiley and Putnam, 1846).'
-bibliographicCitation.republished: https://www.google.com/books/edition/On_Heroes_Hero_worship_the_Heroic_in_His/wgErAAAAMAAJ?hl=en&gbpv=1&pg=PP9&printsec=frontcover
+bibliographicCitationRepublished: https://www.google.com/books/edition/On_Heroes_Hero_worship_the_Heroic_in_His/wgErAAAAMAAJ?hl=en&gbpv=1&pg=PP9&printsec=frontcover
 fullIssueSequenceNumber: 
 creator: Thomas Carlyle
-date.created: '1846'
+dateCreated: '1846'
 description: Title page to Thomas Carlyle's <em>On Heroes, Hero-Worship, and the Heroic
   in History</em>
 language: English
@@ -17,8 +17,8 @@ rights: Public Domain
 source: https://www.google.com/books/edition/On_Heroes_Hero_worship_the_Heroic_in_His/wgErAAAAMAAJ?hl=en&gbpv=1&pg=PP9&printsec=frontcover
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

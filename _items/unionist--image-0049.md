@@ -3,10 +3,10 @@ pid: unionist--image-0049
 title: Threshing Machine
 bibliographicCitation: Unknown author (Dictionnaire d'arts industriels) - cropped
   image from 1881 Dictionnaire d'arts industriels
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1881'
+dateCreated: '1881'
 description: Drawing of a horse-powered thresher from a French dictionary (published
   in 1881)
 language: English
@@ -16,8 +16,8 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/Swing_Riots
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

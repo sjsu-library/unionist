@@ -2,10 +2,10 @@
 pid: unionist--text-0016
 title: Prospectus of The Unionist
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-08-08 p01.02
 creator: Charles C. Burleigh
-date.created: '1833-08-08'
+dateCreated: '1833-08-08'
 description: Prospectus of The Unionist
 language: English
 publisher: The Unionist
@@ -15,7 +15,7 @@ source: The Unionist
 subject: Titles and information
 type: Text
 category: Unionist full issue 1833-08-08
-article.type: original
+articleType: original
 volume: '1'
 issue: '2'
 transcription: <p align="center">PROSPECTUS</p><p align="center">OF</p><p align="center"><strong>THE

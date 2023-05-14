@@ -2,10 +2,10 @@
 pid: unionist--image-0142
 title: Masthead of <em>We, the People</em>
 bibliographicCitation: "<em>We, the People</em>, 1833-11-23, vol. 2 no. 5 p.1"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Christopher A. Hack
-date.created: '1833'
+dateCreated: '1833'
 description: Masthead of <em>We, the People</em>; Charles Burleigh worked for this
   Anti-Masonic paper briefly.
 language: English
@@ -15,8 +15,8 @@ rights: Public Domain
 source: "<em>We, the People</em>, 1833-11-23, vol. 2 no. 5 p.1"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

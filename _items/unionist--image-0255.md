@@ -3,10 +3,10 @@ pid: unionist--image-0255
 title: Antigua and Barbuda postage stamp commemorating the 150th anniversary of the
   end of slavery
 bibliographicCitation: "<em>The Unionist</em> 1834-04-10 v. 1, n. 36, p. 3"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1834'
+dateCreated: '1834'
 description: Antigua and Barbuda postage stamp commemorating the 150th anniversary
   of the end of slavery
 language: English
@@ -16,8 +16,8 @@ rights: Public Domain
 source: "<em>The Unionist</em> 1834-04-10 v. 1, n. 36, p. 3"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

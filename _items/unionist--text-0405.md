@@ -3,10 +3,10 @@ pid: unionist--text-0405
 title: Welcome to the Unionist
 bibliographicCitation: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em>
   1833-08-07, v. 4, n.5"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: William Goodell
-date.created: '1833-08-07'
+dateCreated: '1833-08-07'
 description: Positive Reception for The Unionist
 language: English
 publisher: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em> 1833-08-07,
@@ -18,7 +18,7 @@ source: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em> 1
 subject: 
 type: Text
 category: Positive notice
-article.type: 
+articleType: 
 volume: 
 issue: 
 transcription: "A new paper called “The Unionist” has commenced at Brooklyn. Con.
@@ -30,9 +30,9 @@ transcription: "A new paper called “The Unionist” has commenced at Brooklyn.
   are treated according to their merits, in the columns of the Unionist. We wish it
   success. And may the Putnams of that region ever be shrewd in tracing public pests
   to their dark retreats, and bold in dragging them forth to the day light, regardless
-  of their fiery eyes, and their growling.\r<br>A liberal support to the Unionist
+  of their fiery eyes, and their growling.\r <br>A liberal support to the Unionist
   would do much towards retrieving the character of Connecticut from the disgrace
-  cast upon it, by A.T. Judson, and his associates.\r<br><br>"
+  cast upon it, by A.T. Judson, and his associates.\r <br> <br>"
 scholarlyNotes: 
 commentary: It is interesting that William Goodell - who had helped to launch Charles
   Burleigh to this editorship by publishing his letter to the editor back in May of

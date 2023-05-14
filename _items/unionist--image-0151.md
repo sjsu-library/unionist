@@ -3,10 +3,10 @@ pid: unionist--image-0151
 title: Selection from <em>The Boy's Scrap Book</em> concerning Blind Alick
 bibliographicCitation: "<em>The Boy's Scrap Book</em> (American Sunday School Union:
   1839)"
-bibliographicCitation.republished: https://www.disabilitymuseum.org/dhm/lib/detail.html?id=793
+bibliographicCitationRepublished: https://www.disabilitymuseum.org/dhm/lib/detail.html?id=793
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1839'
+dateCreated: '1839'
 description: Selection from <em>The Boy's Scrap Book</em> concerning Blind Alick
 language: English
 publisher: 
@@ -15,8 +15,8 @@ rights: Public Domain
 source: https://www.disabilitymuseum.org/dhm/lib/detail.html?id=793
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

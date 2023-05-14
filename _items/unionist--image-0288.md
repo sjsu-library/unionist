@@ -2,10 +2,10 @@
 pid: unionist--image-0288
 title: Engraving of Samuel J. May
 bibliographicCitation: https://rmc.library.cornell.edu/mayantislaverycoll/biography.php
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Engraving of Samuel J. May
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://rmc.library.cornell.edu/mayantislaverycoll/biography.php
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--text-0103
 title: Wanted, a Horse
 bibliographicCitation: "<em>The Unionist</em> 1833-09-05"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-09-05 p03.29
 creator: 
-date.created: '1833-09-05'
+dateCreated: '1833-09-05'
 description: Want ad for a horse
 language: English
 publisher: The Unionist
@@ -15,14 +15,14 @@ source: The Unionist
 subject: Advertisements
 type: Text
 category: Unionist full issue 1833-09-05
-article.type: 
+articleType: 
 volume: '1'
 issue: '6'
 transcription: "<p>  WANTED, a Horse of about 6 or 7 years old that can be warranted
-  sound and<br>  kind, good in harness or saddle, and that will stand without tying.
-  Any one<br>  having such a horse (none others need apply) can hear of a purchaser,
-  on<br>  application to J.B. Whitcomb.<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Brooklyn,<br>  August 29, 1833.<br></p>"
+  sound and <br>  kind, good in harness or saddle, and that will stand without tying.
+  Any one <br>  having such a horse (none others need apply) can hear of a purchaser,
+  on <br>  application to J.B. Whitcomb. <br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Brooklyn, <br>  August 29, 1833. <br></p>"
 scholarlyNotes: 
 commentary: 
 relatedPeople: J.B. Whitcomb

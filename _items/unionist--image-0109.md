@@ -3,10 +3,10 @@ pid: unionist--image-0109
 title: Still_Life_Basket_of_Peaches_by_Raphaelle_Peale_1816
 bibliographicCitation: By Raphaelle Peale - Yale University Art Gallery, Public Domain,
   https://commons.wikimedia.org/w/index.php?curid=14746061
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Raphaelle Peale (1774-1825)
-date.created: '1816'
+dateCreated: '1816'
 description: "<em>Still Life Basket of Peaches</em>, by Raphaelle Peale, America's
   first still-life painter.1816."
 language: English
@@ -16,8 +16,8 @@ rights: Public Domain
 source: By Raphaelle Peale - Yale University Art Gallery, Public Domain, https://commons.wikimedia.org/w/index.php?curid=14746061
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

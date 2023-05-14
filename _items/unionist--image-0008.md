@@ -2,10 +2,10 @@
 pid: unionist--image-0008
 title: Public Statute Laws of the State of Connecticut May 1833
 bibliographicCitation: "<em>The Unionist</em> 1833-09-05"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833'
+dateCreated: '1833'
 description: Header for the last two columns of page four in September 5, 1833 issue
 language: English
 publisher: The Unionist
@@ -14,8 +14,8 @@ rights: 'https://creativecommons.org/publicdomain/mark/1.0/ '
 source: 
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

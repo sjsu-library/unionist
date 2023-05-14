@@ -2,10 +2,10 @@
 pid: unionist--image-0271
 title: Peter William Jr.
 bibliographicCitation: https://en.wikipedia.org/w/index.php?curid=8508238
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Portrait of Peter Williams Jr. (1786-1840)
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://en.wikipedia.org/w/index.php?curid=8508238
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

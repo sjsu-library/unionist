@@ -3,10 +3,10 @@ pid: unionist--image-0331
 title: Henry Highland Garnet (1815-1882)
 bibliographicCitation: https://en.wikipedia.org/wiki/Henry_Highland_Garnet#/media/File:Henry_Highland_Garnet_by_James_U._Stead_crop.png,
   National Portrait Gallery Digital Collection.
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: James U. Stead
-date.created: '1881'
+dateCreated: '1881'
 description: Photographic portrait of Henry Highland Garnet, albumen silver print
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: https://en.wikipedia.org/wiki/Henry_Highland_Garnet#/media/File:Henry_Hi
   National Portrait Gallery Digital Collection.
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

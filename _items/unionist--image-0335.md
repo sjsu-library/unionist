@@ -2,10 +2,10 @@
 pid: unionist--image-0335
 title: Pistol
 bibliographicCitation: AdobeStock_57896827
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: EnginKorkmaz
-date.created: 
+dateCreated: 
 description: Schematic representation of a pistol
 language: Hungarian
 publisher: 
@@ -14,8 +14,8 @@ rights: Education License - Standard Image
 source: AdobeStock_57896827
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

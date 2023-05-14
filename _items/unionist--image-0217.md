@@ -2,11 +2,11 @@
 pid: unionist--image-0217
 title: Lydia White's signature and salutation to William Lloyd Garrison 1831
 bibliographicCitation: https://ark.digitalcommonwealth.org/ark:/50959/2z10zf93m
-bibliographicCitation.republished: Letter from Lydia White to William Lloyd Garrison,
+bibliographicCitationRepublished: Letter from Lydia White to William Lloyd Garrison,
   1833-10-17, Boston Public Library, Rare Books and Manuscript Division
 fullIssueSequenceNumber: 
 creator: Lydia White
-date.created: '1831'
+dateCreated: '1831'
 description: Lydia White's signature and salutation to William Lloyd Garrison 1831
 language: English
 publisher: 
@@ -15,8 +15,8 @@ rights: No Known restrictions
 source: https://ark.digitalcommonwealth.org/ark:/50959/2z10zf93m
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

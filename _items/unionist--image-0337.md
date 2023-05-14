@@ -2,10 +2,10 @@
 pid: unionist--image-0337
 title: Canine Wench and Pirate
 bibliographicCitation: AdobeStock_75759386
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: jstaley4011
-date.created: 
+dateCreated: 
 description: Canine Wench and Pirate
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Education License - Standard Image
 source: AdobeStock_75759386
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

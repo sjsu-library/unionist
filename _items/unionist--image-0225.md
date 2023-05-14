@@ -2,10 +2,10 @@
 pid: unionist--image-0225
 title: Definition of the word Vexatious
 bibliographicCitation: https://www.pinterest.com/pin/447686019186072504/
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Definition of the word Vexatious
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: No Known restrictions
 source: https://www.pinterest.com/pin/447686019186072504/
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

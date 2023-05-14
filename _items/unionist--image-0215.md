@@ -4,10 +4,10 @@ title: "<em>Mahmudiye</em>, Turkish galleon, 1829"
 bibliographicCitation: By Historic image from the archives of the Turkish Navy. -
   Turkish Naval Forces Command, Piri Reis History Research Center., Public Domain,
   https://commons.wikimedia.org/w/index.php?curid=15026631
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: "<em>Mahmudiye</em>, Turkish galleon, 1829"
 language: English
 publisher: 
@@ -17,8 +17,8 @@ source: By Historic image from the archives of the Turkish Navy. - Turkish Naval
   Command, Piri Reis History Research Center., Public Domain, https://commons.wikimedia.org/w/index.php?curid=15026631
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

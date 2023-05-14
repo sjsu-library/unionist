@@ -4,10 +4,10 @@ title: Masthead of <em>Genius of Temperance, Philanthropist and People's Advocat
   1833-09-19
 bibliographicCitation: "<em>Genius of Temperance, Philanthropist and People's Advocate</em>,
   1833-09-19"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: William Goodell
-date.created: '1833'
+dateCreated: '1833'
 description: Masthead of <em> Genius of Temperance, Philanthropist and People's Advocate</em>,
   1833-09-19
 language: English
@@ -17,8 +17,8 @@ rights: Public Domain
 source: "<em>Genius of Temperance, Philanthropist and People's Advocate</em>, 1833-09-19"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

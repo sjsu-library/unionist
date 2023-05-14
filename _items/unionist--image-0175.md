@@ -2,10 +2,10 @@
 pid: unionist--image-0175
 title: Cow
 bibliographicCitation: Own Work
-bibliographicCitation.republished: https://www.inaturalist.org/observations/35828461
+bibliographicCitationRepublished: https://www.inaturalist.org/observations/35828461
 fullIssueSequenceNumber: 
 creator: 
-date.created: '2019'
+dateCreated: '2019'
 description: Cow
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Own Work
 source: https://www.inaturalist.org/observations/35828461
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

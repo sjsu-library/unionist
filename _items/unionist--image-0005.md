@@ -2,10 +2,10 @@
 pid: unionist--image-0005
 title: Seba Smith
 bibliographicCitation: https://en.wikipedia.org/wiki/Seba_Smith
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Etching of Seba Smith
 language: 
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/Seba_Smith
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

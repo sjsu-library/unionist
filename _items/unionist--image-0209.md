@@ -4,10 +4,10 @@ title: African-American young woman studying
 bibliographicCitation: 'By African American Photographs Assembled for 1900 Paris Exposition
   - Library of CongressCatalog: http://lccn.loc.gov/99472366Image download: http://lcweb2.loc.gov/master/pnp/cph/3b10000/3b11000/3b11100/3b11189u.tifOriginal
   url: http://hdl.loc.gov/loc.pnp/cph.3b11189, Public Domain, https://commons.wikimedia.org/w/index.php?curid=32262226'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1900'
+dateCreated: '1900'
 description: A young African-American woman studying.
 language: English
 publisher: 
@@ -18,8 +18,8 @@ source: 'By African American Photographs Assembled for 1900 Paris Exposition - L
   url: http://hdl.loc.gov/loc.pnp/cph.3b11189, Public Domain, https://commons.wikimedia.org/w/index.php?curid=32262226'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

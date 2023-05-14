@@ -2,10 +2,10 @@
 pid: unionist--image-0121
 title: Is-cow-manure-dangerous-to-humans-1200x768
 bibliographicCitation: https://www.rolypig.com/is-cow-manure-dangerous-to-humans/
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '2023'
+dateCreated: '2023'
 description: Cows asking an important question
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: unsure; can ask
 source: https://www.rolypig.com/is-cow-manure-dangerous-to-humans/
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

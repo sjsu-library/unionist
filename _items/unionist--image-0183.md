@@ -2,10 +2,10 @@
 pid: unionist--image-0183
 title: Herschel's Great Telescopre
 bibliographicCitation: From <em>Leisure Hour</em>, Nov 2,1867, page 729, Public Domain
-bibliographicCitation.republished: https://commons.wikimedia.org/w/index.php?curid=552102
+bibliographicCitationRepublished: https://commons.wikimedia.org/w/index.php?curid=552102
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1867'
+dateCreated: '1867'
 description: Herschel's Great Telescopre
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=552102
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

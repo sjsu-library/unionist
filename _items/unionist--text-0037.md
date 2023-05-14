@@ -2,10 +2,10 @@
 pid: unionist--text-0037
 title: Letter to the Editor
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-08-08 p02.23
 creator: Charles C. Burleigh
-date.created: '1833-08-08'
+dateCreated: '1833-08-08'
 description: Letter to the Editor concerning the U.S. Constitution
 language: English
 publisher: The Unionist
@@ -15,7 +15,7 @@ source: The Unionist
 subject: Constitution
 type: Text
 category: Unionist full issue 1833-08-08
-article.type: 
+articleType: 
 volume: '1'
 issue: '2'
 transcription: <p align="right">FOR THE UNIONIST.</p><p>MR. EDITOR.—It is often said

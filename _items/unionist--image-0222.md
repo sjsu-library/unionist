@@ -2,10 +2,10 @@
 pid: unionist--image-0222
 title: Partnership being cut
 bibliographicCitation: https://www.legalzoom.com/articles/how-to-dissolve-a-business-partnership
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Partnership being cut
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: unclear
 source: https://www.legalzoom.com/articles/how-to-dissolve-a-business-partnership
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

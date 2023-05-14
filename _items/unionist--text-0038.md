@@ -2,10 +2,10 @@
 pid: unionist--text-0038
 title: The Question
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-08-08 p02.24
 creator: Samuel J. May; Charles C. Burleigh
-date.created: '1833-08-08'
+dateCreated: '1833-08-08'
 description: Letter to the Editor from Samuel J. May concerning the right to education
 language: English
 publisher: The Unionist
@@ -15,7 +15,7 @@ source: The Unionist
 subject: Education; Canterbury Female Academy
 type: Text
 category: Unionist full issue 1833-08-08
-article.type: 
+articleType: 
 volume: '1'
 issue: '2'
 transcription: <p align="center">THE QUESTION.</p><p><strong>Considerable pains are

@@ -2,10 +2,10 @@
 pid: unionist--text-0020
 title: Anecdote
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
-bibliographicCitation.republished: not researched
+bibliographicCitationRepublished: not researched
 fullIssueSequenceNumber: 1833-08-08 p01.06
 creator: London New Monthly Magazine
-date.created: '1833-08-08'
+dateCreated: '1833-08-08'
 description: Anecdote
 language: English
 publisher: The Unionist
@@ -15,7 +15,7 @@ source: London New Monthly Magazine
 subject: Anti-Slavery
 type: Text
 category: Unionist full issue 1833-08-08
-article.type: republished material from London New Monthly Magazine
+articleType: republished material from London New Monthly Magazine
 volume: '1'
 issue: '2'
 transcription: "<p>ANECDOTE.—The following anecdote is related in the London New Monthly
@@ -34,7 +34,9 @@ transcription: "<p>ANECDOTE.—The following anecdote is related in the London N
   hope of freedom that she may know she possesses a slave who will never quit her
   side.</p>"
 scholarlyNotes: 
-commentary: 
+commentary: This is a serious misstep, as it enhaces a stereotype of the gentle slave
+  who remains loyal to the master even when freedom is allowed. This sort of tone-deafness
+  doesn't happen as much in later issues.
 relatedPeople: 
 featured: 
 repeated: 

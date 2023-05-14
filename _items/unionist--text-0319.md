@@ -2,10 +2,10 @@
 pid: unionist--text-0319
 title: Lake Navigation
 bibliographicCitation: "<em>The Unionist</em> 1834-04-10"
-bibliographicCitation.republished: Ohio Rev.
+bibliographicCitationRepublished: Ohio Rev.
 fullIssueSequenceNumber: 1834-04-10 p.03.19
 creator: Ohio Rev.
-date.created: '1834-04-10'
+dateCreated: '1834-04-10'
 description: Arrival of a steamboat
 language: English
 publisher: The Unionist
@@ -15,12 +15,12 @@ source: "<em>The Unionist</em> 1834-04-10"
 subject: Miscellaneous Filler; National News
 type: Text
 category: Unionist full issue 1834-04-10
-article.type: 
+articleType: 
 volume: '1'
 issue: '36'
 transcription: "<em>Lake Navigation.</em>—The Steamboat General Brady arrived at Cleaveland,
-  from Detroit, on Tuesday<br>last. We may soon expect to hear of arrivals at Buffalo.—<br><em>Ohio
-  Rev.</em>"
+  from Detroit, on Tuesday <br>last. We may soon expect to hear of arrivals at Buffalo.—
+  <br><em>Ohio Rev.</em>"
 scholarlyNotes: 
 commentary: Note spelling of Cleaveland!
 relatedPeople: 

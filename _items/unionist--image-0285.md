@@ -3,10 +3,10 @@ pid: unionist--image-0285
 title: Masthead of the <em>Rhode Island Philanthropist</em>
 bibliographicCitation: Masthead of the <em>Rhode Island Philanthropist</em> 1833-07-17,
   v. 1, n.20
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833'
+dateCreated: '1833'
 description: Masthead of the <em>Rhode Island Philanthropist</em>
 language: English
 publisher: 
@@ -15,8 +15,8 @@ rights: Public Domain
 source: Masthead of the <em>Rhode Island Philanthropist</em> 1833-07-17, v. 1, n.20
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

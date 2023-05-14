@@ -2,10 +2,10 @@
 pid: unionist--image-0251
 title: Cow hiding behind tree
 bibliographicCitation: https://stock.adobe.com/bg/images/sneaky-cow-hiding-behind-tree/417524960?prev_url=detail
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Adobe Stock
-date.created: 
+dateCreated: 
 description: Cow hiding behind tree
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Education License - Standard Image
 source: https://stock.adobe.com/bg/images/sneaky-cow-hiding-behind-tree/417524960?prev_url=detail
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

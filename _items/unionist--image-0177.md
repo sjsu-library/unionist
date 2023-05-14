@@ -3,10 +3,10 @@ pid: unionist--image-0177
 title: Masthead of <em>The Genius of Universal Emancipation</em>
 bibliographicCitation: "<em>The Genius of Universal Emancipation</em>, 1833-05, Third
   Series, v. 3, n. 7"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Benjamin Lundy
-date.created: '1833'
+dateCreated: '1833'
 description: Masthead of <em>The Genius of Universal Emancipation</em>
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: "<em>The Genius of Universal Emancipation</em>, 1833-05, Third Series, v
   3, n. 7"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

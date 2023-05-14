@@ -2,10 +2,10 @@
 pid: unionist--image-0243
 title: Blank card and envelope
 bibliographicCitation: Adobe Stock - https://stock.adobe.com/search/images?k=folded+greeting+card&asset_id=203180881
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '2023'
+dateCreated: '2023'
 description: Blank card and envelope
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Education License - Standard Image
 source: https://stock.adobe.com/search/images?k=folded+greeting+card&asset_id=203180881
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

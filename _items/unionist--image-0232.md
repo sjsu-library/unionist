@@ -2,10 +2,10 @@
 pid: unionist--image-0232
 title: Masthead of the <em>Columbian Register</em>
 bibliographicCitation: "<em>The Columbian Register</em>, 1833-03-02, v. 21, n. 1058"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833'
+dateCreated: '1833'
 description: Masthead of the <em>Columbian Register</em>
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>The Columbian Register</em>, 1833-03-02, v. 21, n. 1058"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

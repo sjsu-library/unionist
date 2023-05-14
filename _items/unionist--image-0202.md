@@ -2,12 +2,12 @@
 pid: unionist--image-0202
 title: Portrait of William Jay
 bibliographicCitation: https://en.wikipedia.org/wiki/William_Jay_%28jurist%29#/media/File:William_Jay_by_Wenzler.jpg
-bibliographicCitation.republished: 'Bayard Tuckerman, <em>William Jay, and the constitutional
+bibliographicCitationRepublished: 'Bayard Tuckerman, <em>William Jay, and the constitutional
   movement for the abolition of slavery</em> (New York: Dodd, Mead and Company, 1894),
   p. 134'
 fullIssueSequenceNumber: 
 creator: 
-date.created: 1840-1850
+dateCreated: 1840-1850
 description: Portrait of William Jay
 language: English
 publisher: 
@@ -16,8 +16,8 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/William_Jay_%28jurist%29#/media/File:William_Jay_by_Wenzler.jpg
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

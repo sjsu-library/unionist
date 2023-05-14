@@ -2,10 +2,10 @@
 pid: unionist--image-0218
 title: Blank Page meme
 bibliographicCitation: Collection of author
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: ca.  2010
+dateCreated: ca.  2010
 description: Blank Page meme
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: No Known restrictions
 source: 
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

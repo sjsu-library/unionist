@@ -2,10 +2,10 @@
 pid: unionist--image-0062
 title: CanterburyCongregationalChurch
 bibliographicCitation: By Cathy Cline - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=22577080
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Cathy Cline
-date.created: '2012'
+dateCreated: '2012'
 description: The Canterbury Congregational Church, which is directly across the street
   from The Canterbury Female Academy
 language: English
@@ -15,8 +15,8 @@ rights: cc by-sa 3.0
 source: https://en.wikipedia.org/wiki/Canterbury_Center_Historic_District#/media/File:Canterbury_Congregational_Church.JPG
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

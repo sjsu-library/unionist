@@ -2,10 +2,10 @@
 pid: unionist--image-0141
 title: Broken Wine Glass
 bibliographicCitation: https://www.delightedcooking.com/what-are-the-pros-and-cons-of-using-plastic-wine-glasses.htm
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Sara Berdon
-date.created: '2023'
+dateCreated: '2023'
 description: Broken Wine Glass, indicative of having been dashed to the ground!
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: CC BY 2.0
 source: https://www.delightedcooking.com/what-are-the-pros-and-cons-of-using-plastic-wine-glasses.htm
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

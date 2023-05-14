@@ -2,10 +2,10 @@
 pid: unionist--image-0039
 title: Washington's Valedictory Address
 bibliographicCitation: 
-bibliographicCitation.republished: https://archive.org/details/washingtonsvaled00wash/page/n5/mode/2up
+bibliographicCitationRepublished: https://archive.org/details/washingtonsvaled00wash/page/n5/mode/2up
 fullIssueSequenceNumber: 
 creator: George Washington
-date.created: '1837'
+dateCreated: '1837'
 description: Annual republication of Washington's Farewell speech, as ordered by the
   Pennsylvania legislature
 language: English
@@ -15,8 +15,8 @@ rights: Public Domain
 source: https://archive.org/details/washingtonsvaled00wash/page/n5/mode/2up
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--text-0348
 title: Blood Horse Sportsman
 bibliographicCitation: "<em>The Unionist</em> 1834-04-10"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1834-04-10 p.03.48
 creator: 
-date.created: '1834-04-10'
+dateCreated: '1834-04-10'
 description: Horse for hire
 language: English
 publisher: The Unionist
@@ -15,18 +15,18 @@ source: "<em>The Unionist</em> 1834-04-10"
 subject: Advertisements
 type: Text
 category: Unionist full issue 1834-04-10
-article.type: 
+articleType: 
 volume: '1'
 issue: '36'
 transcription: "<p>Blood Horse Sportsman.</p><p>  This Horse will stand the ensuing
-  season at the farm of the subscriber in<br>  Pomfret under the management of Capt.
-  Giles R. Eldridge at seven dollars the<br>  season and one dollar to groom to be
-  paid at the time of service.<br></p><p>These are the ONLY conditions.</p><p>PEDIGREE</p><p>
-  \ Sportsman was got by Bassorah Arabian,—imported into New-York from the river<br>
-  \ Euphrates by David Ogden Esq. Dam Sportmistress by imported Hickory, grand<br>
-  \ Dam, Miller’s Damsel by old imported messenger. Millers Damsel was the dam of<br>
-  \ American Eclipse.<br></p><p>The get of Sportsman may be seen on the farm and in
-  the neighborhood.</p><p>EDWARD ELDRIDGE.</p><p>Pomfret, March 1834.</p><p></p>"
+  season at the farm of the subscriber in <br>  Pomfret under the management of Capt.
+  Giles R. Eldridge at seven dollars the <br>  season and one dollar to groom to be
+  paid at the time of service. <br></p><p>These are the ONLY conditions.</p><p>PEDIGREE</p><p>
+  \ Sportsman was got by Bassorah Arabian,—imported into New-York from the river <br>
+  \ Euphrates by David Ogden Esq. Dam Sportmistress by imported Hickory, grand <br>
+  \ Dam, Miller’s Damsel by old imported messenger. Millers Damsel was the dam of
+  <br>  American Eclipse. <br></p><p>The get of Sportsman may be seen on the farm
+  and in the neighborhood.</p><p>EDWARD ELDRIDGE.</p><p>Pomfret, March 1834.</p><p></p>"
 scholarlyNotes: '</p><p>This lacks bibliographic details</p><p>Edward, son of James
   Eldredge, was born in Brooklyn, Connecticut, October 18, 1794; died September 8,
   1847, in Pomfret, Connecticut. When a young man he went to South America, and for

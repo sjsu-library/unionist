@@ -2,10 +2,10 @@
 pid: unionist--image-0213
 title: King Andrew I
 bibliographicCitation: https://teva.contentdm.oclc.org/digital/collection/p15138coll33/id/289/
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1832'
+dateCreated: '1832'
 description: '"Political cartoon depicting Andrew Jackson as a despotic monarch. He
   tramples on the Constitution and the coat of arms of Pennsylvania, the location
   of the United States Bank. A book titled the Judiciary of the United States appears
@@ -22,8 +22,8 @@ rights: Public Domain
 source: https://teva.contentdm.oclc.org/digital/collection/p15138coll33/id/289/
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

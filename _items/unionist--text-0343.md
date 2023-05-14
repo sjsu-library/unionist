@@ -2,10 +2,10 @@
 pid: unionist--text-0343
 title: Blank Cards
 bibliographicCitation: "<em>The Unionist</em> 1834-04-10"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1834-04-10 p.03.43
 creator: 
-date.created: '1834-04-10'
+dateCreated: '1834-04-10'
 description: Advertisement for printing at the Unionist
 language: English
 publisher: The Unionist
@@ -15,10 +15,10 @@ source: "<em>The Unionist</em> 1834-04-10"
 subject: Advertisements; The Unionist; Miscellaneous Filler
 type: Text
 category: Unionist full issue 1834-04-10
-article.type: 
+articleType: 
 volume: '1'
 issue: '36'
-transcription: BLANK CARDS<br>
+transcription: BLANK CARDS <br>
 scholarlyNotes: 
 commentary: Once again, self-advertising at the foot of a column!
 relatedPeople: 

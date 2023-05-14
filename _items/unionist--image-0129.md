@@ -3,10 +3,10 @@ pid: unionist--image-0129
 title: Lectures on Slavery and Its Remedy Phelps
 bibliographicCitation: 'Amos Phelps, <em>Lectures on Slavery, and Its Remedy</em>
   (Boston: New-England Anti-Slavery Society, 1834)'
-bibliographicCitation.republished: https://play.google.com/books/reader?id=gwMxK1sHL90C&pg=GBS.PP22&hl=en
+bibliographicCitationRepublished: https://play.google.com/books/reader?id=gwMxK1sHL90C&pg=GBS.PP22&hl=en
 fullIssueSequenceNumber: 
 creator: Amos Phelps
-date.created: '1834'
+dateCreated: '1834'
 description: Title page of Amos Phelps, <em>Lectures on Slavery, and Its Remedy</em>
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: 'Amos Phelps, <em>Lectures on Slavery, and Its Remedy</em> (Boston: New-
   Anti-Slavery Society, 1834)'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

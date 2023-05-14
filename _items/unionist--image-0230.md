@@ -3,10 +3,10 @@ pid: unionist--image-0230
 title: Alvan Fisher, <em>A General View of the Falls of Niagara</em> (1820)
 bibliographicCitation: By Alvan Fisher - I, Daderot took this photograph, Taken in 7
   April 2011, 15:53:16, Public Domain, https://commons.wikimedia.org/w/index.php?curid=14868202
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1820'
+dateCreated: '1820'
 description: Alvan Fisher, <em>A General View of the Falls of Niagara</em> (1820)
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: By Alvan Fisher - I, Daderot took this photograph, Taken in 7 April 201
   15:53:16, Public Domain, https://commons.wikimedia.org/w/index.php?curid=14868202
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0272
 title: Public Debate Cartoon
 bibliographicCitation: 'Adobe Stock Image 309923377, '
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Public Debate Cartoon
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Education License - Standard Image
 source: 'AdobeStock_309923377, '
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

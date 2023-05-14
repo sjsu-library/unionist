@@ -2,13 +2,13 @@
 pid: unionist--image-0200
 title: Photographic portrait of Amos Beman (1812-1872)
 bibliographicCitation: https://commons.wikimedia.org/w/index.php?curid=32346965
-bibliographicCitation.republished: http://beinecke.library.yale.edu/collections/highlights/amos-beman-scrapbooks
+bibliographicCitationRepublished: http://beinecke.library.yale.edu/collections/highlights/amos-beman-scrapbooks
   Amos Beman Scrapbooks I-IV. James Weldon Johnson Collection in the American Literature
   Collection, Beinecke Rare Book and Manuscript Library, Yale University, Public Domain,
   https://commons.wikimedia.org/w/index.php?curid=32346965
 fullIssueSequenceNumber: 
 creator: 
-date.created: ca. 1845
+dateCreated: ca. 1845
 description: Photographic portrait of Amos Beman (1812-1872)
 language: English
 publisher: 
@@ -17,8 +17,8 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=32346965
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

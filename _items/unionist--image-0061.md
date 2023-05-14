@@ -5,10 +5,10 @@ bibliographicCitation: '"An Interview between the Rev. Ray Potter and the Devil!
   anonymous pamphlet, n.d, n.p., from the collection of the Rhode Island Historical
   Society; included as the frontispiece in <em>Rhode Island History</em> 30:1 (February
   1971). '
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: anonymous
-date.created: '1837'
+dateCreated: '1837'
 description: 'Cover picture of a pamplet, showing the Devil as an African-man-beast
   in conversation with Ray Potter. '
 language: English
@@ -20,8 +20,8 @@ source: '"An Interview between the Rev. Ray Potter and the Devil!" anonymous pam
   as the frontispiece in <em>Rhode Island History</em> 30:1 (February 1971). '
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0020
 title: Prospectus for <em>The Unionist</em>
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08 (1:2:2)"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Charles C. Burleigh
-date.created: '1833'
+dateCreated: '1833'
 description: "<em>The Unionist</em> introduces itself to the world!"
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Unionist</em> 1833-08-08 (1:2:2)"
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

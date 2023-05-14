@@ -3,10 +3,10 @@ pid: unionist--image-0037
 title: Jonathan Dymond
 bibliographicCitation: 'Charles William Dymond, Memoir, Letters and Poems of Jonathan
   Dymond, with Bibliographical Supplements (Bristol: John Wright and Sons, 1911)'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1911'
+dateCreated: '1911'
 description: 'Portrait of Jonathan Dymond (1796-1828), English Quaker linen-draper
   and philosopher. Important in the development of the Quaker Peace Testimony '
 language: English
@@ -17,8 +17,8 @@ source: 'Charles William Dymond, Memoir, Letters and Poems of Jonathan Dymond, w
   Bibliographical Supplements (Bristol: John Wright and Sons, 1911)'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0299
 title: Hands Applauding
 bibliographicCitation: AdobeStock_108297205
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Hands Applauding
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Education License - Standard Image
 source: 
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

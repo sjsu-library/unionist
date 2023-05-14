@@ -3,10 +3,10 @@ pid: unionist--image-0010
 title: Appearance of the Wreck of the Steamboat New England
 bibliographicCitation: "<em>Steamboat Disasters and Railroad Accidents in the United
   States</em>, Revised and Improved (Worcester: Warren Lazell, 1846)"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1846'
+dateCreated: '1846'
 description: Appearance of the Wreck of the Steamboat New England
 language: English
 publisher: Warren Lazell
@@ -15,8 +15,8 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: 
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -1,12 +1,12 @@
 ---
 pid: unionist--image-0351
 title: March 13 1834 Unionist page 3 NYHS
-bibliographicCitation: "<em>The Unionist</em> 1:22 (August 13 1834)"
-bibliographicCitation.republished: 
+bibliographicCitation: "<em>The Unionist</em> 1:32 (March 13 1834)"
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Charles C. Burleigh; William H. Burleigh
-date.created: '1834'
-description: Page Three of <em>The Unionist</em> 1:22, 1834-03-013
+dateCreated: '1834'
+description: Page Three of <em>The Unionist</em> 1:32, 1834-03-013
 language: English
 publisher: 
 IsPartOf: 
@@ -15,7 +15,7 @@ source: New York Historical Society
 subject: 
 type: image
 category: Image
-article.type: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -3,10 +3,10 @@ pid: unionist--image-0265
 title: '"Colored Schools Broken Up, In Free States"'
 bibliographicCitation: "<em>American Anti-Slavery Society, American Anti-Slavery Almanac,
   for 1839</em> (New York: S. W. Benedict, 1839), p. 15."
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1839'
+dateCreated: '1839'
 description: 'Illustration for the Anti-Slavery Almanac for 1839: "Colored Schools
   Broken Up, In Free States"'
 language: English
@@ -17,8 +17,8 @@ source: "<em>American Anti-Slavery Society, American Anti-Slavery Almanac, for 1
   (New York: S. W. Benedict, 1839), p. 15."
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0298
 title: Tin Roof Building in Bodie, California
 bibliographicCitation: https://www.flickr.com/photos/dpom12/9593389795/
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Donna Pomeroy
-date.created: '2013'
+dateCreated: '2013'
 description: Tin Roof Building in Bodie, California
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Used with Permission of Photographer
 source: https://www.flickr.com/photos/dpom12/9593389795/
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--text-0323
 title: Pennsylvania
 bibliographicCitation: "<em>The Unionist</em> 1834-04-10"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1834-04-10 p.03.23
 creator: 
-date.created: '1834-04-10'
+dateCreated: '1834-04-10'
 description: Pennsylvania State Senator Petriken was a Jacksonian who diverged from
   the President over the issue of the bank.
 language: English
@@ -16,11 +16,11 @@ source: "<em>The Unionist</em> 1834-04-10"
 subject: National News
 type: Text
 category: Unionist full issue 1834-04-10
-article.type: 
+articleType: 
 volume: '1'
 issue: '36'
 transcription: "<em>Pennsylvania.—</em>Petriken’s resolutions against the Bank, have
-  been carried in the Senate of<br>Pennsylvania, by a majority of four votes.<br>"
+  been carried in the Senate of <br>Pennsylvania, by a majority of four votes. <br>"
 scholarlyNotes: The Unionist spells his name Petriken, Wikipedia as Petrikin
 commentary: 'Henry Petrikin (d. 1851) represented Lycoming county in the Pennsylvania
   Senate. There is corroboration of this vote in the <em>Alexandria Gazette</em>,

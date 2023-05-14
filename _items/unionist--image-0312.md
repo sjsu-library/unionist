@@ -4,10 +4,10 @@ title: 'Cover to <em>The Tree of Hate</em> by Philip Wayne Powell '
 bibliographicCitation: 'Philip Wayne Powell, <em>Tree of Hate: Propaganda and Prejudices
   Affecting United States Relations with the Hispanic World</em> (University of New
   Mexico Press, 2008)'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Philip Wayne Powell
-date.created: '2008'
+dateCreated: '2008'
 description: Cover to <em>The Tree of Hate</em> by Philip Wayne Powell, one of the
   most important books to cover the so-called "Black Legend" of Spanish cruelty.
 language: English
@@ -17,8 +17,8 @@ rights:
 source: 
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

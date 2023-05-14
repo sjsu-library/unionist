@@ -1,11 +1,11 @@
 ---
 pid: unionist--text-0015
-title: "[Masthead and Title]"
+title: Masthead and Title
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-08-08 p01.01
 creator: Charles C. Burleigh
-date.created: '1833-08-08'
+dateCreated: '1833-08-08'
 description: Masthead and Title
 language: English
 publisher: The Unionist
@@ -15,7 +15,7 @@ source: The Unionist
 subject: Titles and Information
 type: Text
 category: Unionist full issue 1833-08-08
-article.type: original
+articleType: original
 volume: '1'
 issue: '2'
 transcription: <p align="center"><strong>THE UNIONIST</strong></p><p align="center">PUBLISHED

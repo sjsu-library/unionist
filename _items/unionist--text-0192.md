@@ -2,10 +2,10 @@
 pid: unionist--text-0192
 title: Notice
 bibliographicCitation: "<em>The Unionist</em> 1833-12-19"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-12-19 p.03.38
 creator: 
-date.created: '1833-12-19'
+dateCreated: '1833-12-19'
 description: Sale of an Estate
 language: English
 publisher: The Unionist
@@ -15,15 +15,15 @@ source: The Unionist
 subject: Legal Notices
 type: Text
 category: Unionist full issue 1833-12-19
-article.type: 
+articleType: 
 volume: '1'
 issue: '20'
 transcription: "<p>NOTICE.</p><p>  The sale of the real estate of Ephraim Ingals,
-  Esq. late of Pomfret deceased,<br>  stands adjourned to the 25<sup>th</sup>  day
-  of December next at 12 o’clock.<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ GEORGE SHARPE. <br></p><p>  Pomfret, Arlington Society&nbsp;&nbsp;&nbsp;&nbsp;
-  Nov.<br>  18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ 17<br></p><p></p>"
+  Esq. late of Pomfret deceased, <br>  stands adjourned to the 25<sup>th</sup>  day
+  of December next at 12 o’clock. <br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br>  GEORGE SHARPE.  <br></p><p>  Pomfret, Arlington Society&nbsp;&nbsp;&nbsp;&nbsp;
+  Nov. <br>  18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br>  17 <br></p><p></p>"
 scholarlyNotes: 
 commentary: Col. Ephraim Ingals of Pomfret (1764-1831) was father of Dr. Ephraim Inglas
   who was a leader in the medical community in Chicago in the last quarter of the

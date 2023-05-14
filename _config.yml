@@ -110,7 +110,7 @@ menu:
   - label: 'Explore'
     sub:
       - label: 'Issues'
-        link: '/explore/issues/'
+        link: '/explore/issues/?issue=2'
       - label: 'Categories'
         link: '/explore/categories/'
       - label: 'All Items'
@@ -119,6 +119,8 @@ menu:
     sub:
       - label: 'Setting and Context'
         link: '/essays/setting-and-context/'
+      - label: 'Content Analysis'
+        link: '/essays/trial-coverage/'
   - label: 'Search'
     link: '/search/'
     img: 'img/icons/search.png'
@@ -148,6 +150,11 @@ footer:
       link: 'https://library.sjsu.edu/'
     - img: '/img/humanities-and-arts.png'
       link: 'https://www.sjsu.edu/humanitiesandarts/'
+    - img: '/img/icsc-logo.png'
+      link: 'https://www.sitesofconscience.org/'
+    - img: '/img/ct-logo.png'
+      link: 'https://portal.ct.gov/DECD/Services/Historic-Preservation'
+
 
 
 

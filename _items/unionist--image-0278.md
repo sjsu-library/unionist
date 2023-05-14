@@ -2,10 +2,10 @@
 pid: unionist--image-0278
 title: Cat Meme about Math
 bibliographicCitation: https://cheezburger.com/6629056768/the-math-it-burns
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: kittahmonster
-date.created: 
+dateCreated: 
 description: Cat Meme about Math
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: No Known restrictions
 source: https://cheezburger.com/6629056768/the-math-it-burns
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

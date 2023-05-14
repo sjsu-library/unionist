@@ -2,10 +2,10 @@
 pid: unionist--image-0033
 title: Daughter's Own Book
 bibliographicCitation: "<em>Daughter's Own Book</em>, https://ia902705.us.archive.org/19/items/daughtersownboo01compgoog/daughtersownboo01compgoog.pdf"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833'
+dateCreated: '1833'
 description: Title page to <em>Daughter's Own Book</em>
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>Daughter's Own Book</em>, https://ia902705.us.archive.org/19/items/daughtersownboo01compgoog/daughtersownboo01compgoog.pdf"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

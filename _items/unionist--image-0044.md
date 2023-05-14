@@ -2,10 +2,10 @@
 pid: unionist--image-0044
 title: 'Daniel Lambert '
 bibliographicCitation: https://en.wikipedia.org/wiki/Daniel_Lambert
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Benjamin Marshall (1768-1835)
-date.created: '1806'
+dateCreated: '1806'
 description: Mr. Pritchard is here compared to Daniel Lambert (1770-1809), a gargantuan
   man who was exhibited as a curiosity in the first decade of the nineteenth century
   in England. His name spawned a number of phrases that referred to large size.
@@ -16,8 +16,8 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/Daniel_Lambert
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

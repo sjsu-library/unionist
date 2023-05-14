@@ -2,10 +2,10 @@
 pid: unionist--image-0258
 title: Portrait of Henry Edwards, Governor of Connecticut
 bibliographicCitation: " https://commons.wikimedia.org/w/index.php?curid=123857334"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Portrait of Henry Edwards, Governor of Connecticut
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=123857334
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

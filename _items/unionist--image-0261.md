@@ -2,10 +2,10 @@
 pid: unionist--image-0261
 title: Canon
 bibliographicCitation: AdobeStock_119883833
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Bernard Girardin
-date.created: 
+dateCreated: 
 description: Canon
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Education License - Standard Image
 source: AdobeStock_119883833
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

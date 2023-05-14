@@ -4,10 +4,10 @@ title: Map of New York City showing William Grey's Free Produce Store on Sulliva
   Street
 bibliographicCitation: '"City of New York," in <em>Tanner''s Universal Atlas</em>,
   Philadelphia: 1835'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Henry Schenk Tanner
-date.created: '1835'
+dateCreated: '1835'
 description: Map of New York City showing William Grey's Free Produce Store on Sullivan
   Street
 language: English
@@ -18,8 +18,8 @@ source: '"City of New York," in <em>Tanner''s Universal Atlas</em>, Philadelphia
   1835'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -4,10 +4,10 @@ title: Panorama de Constantinople pris de la tour de Calata (Panorama of Constan
   from the tower of Galata)
 bibliographicCitation: Sébah & Joaillier, <em>Panorama de Constantinople pris de la
   tour de Calata</em>, 1878.
-bibliographicCitation.republished: http://hdl.handle.net/10020/96r14ref9222_qui
+bibliographicCitationRepublished: http://hdl.handle.net/10020/96r14ref9222_qui
 fullIssueSequenceNumber: 
 creator: Sébah & Joaillier
-date.created: '1878'
+dateCreated: '1878'
 description: photograph of Constantinople in 1878
 language: French
 publisher: 
@@ -16,8 +16,8 @@ rights: Public Domain
 source: http://hdl.handle.net/10020/96r14ref9222_qui
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--text-0307
 title: "[Masthead and Title]"
 bibliographicCitation: "<em>The Unionist</em> 1834-04-10"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1834-04-10 p.02.07
 creator: Charles C Burleigh; William H. Burleigh
-date.created: '1834-04-10'
+dateCreated: '1834-04-10'
 description: Masthead and Title
 language: English
 publisher: The Unionist
@@ -15,7 +15,7 @@ source: "<em>The Unionist</em> 1834-04-10"
 subject: Titles and Information
 type: Text
 category: Unionist full issue 1834-04-10
-article.type: 
+articleType: 
 volume: '1'
 issue: '36'
 transcription: "<p>Masthead “The Tyrants Foe. The Peoples Friend”</p><p>The Unionist.</p><p>Brooklyn,

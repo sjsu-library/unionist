@@ -2,10 +2,10 @@
 pid: unionist--image-0254
 title: First installment of Frederick Olney Trial Transcripts in <em>The Unionist</em>
 bibliographicCitation: "<em>The Unionist</em> 1834-03-13 v. 1, n. 32, p. 2"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1834'
+dateCreated: '1834'
 description: First installment of Frederick Olney Trial Transcripts in <em>The Unionist</em>
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>The Unionist</em> 1834-03-13 v. 1, n. 32, p. 2"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

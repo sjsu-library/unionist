@@ -3,10 +3,10 @@ pid: unionist--image-0249
 title: Excerpt from a letter that Henry Petrikin sent to President Andrew Jackson
   in 1830.
 bibliographicCitation: Henry Petrikin to Andrew Jackson, 1830-04-02
-bibliographicCitation.republished: https://picryl.com/media/henry-petrikin-to-andrew-jackson-april-2-1830-2
+bibliographicCitationRepublished: https://picryl.com/media/henry-petrikin-to-andrew-jackson-april-2-1830-2
 fullIssueSequenceNumber: 
 creator: Henry Petrikin
-date.created: '1830'
+dateCreated: '1830'
 description: Excerpt from a letter that Henry Petrikin sent to President Andrew Jackson
   in 1830.
 language: English
@@ -16,8 +16,8 @@ rights: Public Domain
 source: Henry Petrikin to Andrew Jackson, 1830-04-02
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

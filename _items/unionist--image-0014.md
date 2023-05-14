@@ -2,16 +2,16 @@
 pid: unionist--image-0014
 title: Declaration of First AA-SS meeting.Detail.ENGRAVING
 bibliographicCitation: "<span>  [Philadelphia:] Merrihew &amp; Gunn, Printers, No.
-  7 Carter’s Alley, [1833].<br></span>Illustrated broadside on silk, 18.25” x 12”,
+  7 Carter’s Alley, [1833]. <br></span>Illustrated broadside on silk, 18.25” x 12”,
   plus margins."
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833'
+dateCreated: '1833'
 description: Garrison, William Lloyd, and American Anti-Slavery Society. <em>Declaration
   of the Anti-Slavery Convention</em>. Assembled in Philadelphia, December 4, 1833.<span>  [Philadelphia:]
-  Merrihew &amp; Gunn, Printers, No. 7 Carter’s Alley, [1833].<br></span>Illustrated
-  broadside on silk, 18.25” x 12”, plus margins.<br>
+  Merrihew &amp; Gunn, Printers, No. 7 Carter’s Alley, [1833]. <br></span>Illustrated
+  broadside on silk, 18.25” x 12”, plus margins. <br>
 language: English
 publisher: 
 IsPartOf: 
@@ -19,8 +19,8 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: 
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

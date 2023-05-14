@@ -3,10 +3,10 @@ pid: unionist--image-0105
 title: A Voice from Boston 1831-03-12 p.17
 bibliographicCitation: 'William Lloyd Garrison, <em>Thoughts on African Colonization</em>
   (Boston: Garrison and Knapp, 1832), part II, page 17'
-bibliographicCitation.republished: https://repository.wellesley.edu/object/wellesley30861
+bibliographicCitationRepublished: https://repository.wellesley.edu/object/wellesley30861
 fullIssueSequenceNumber: 
 creator: James G. Barbadoes
-date.created: '1831'
+dateCreated: '1831'
 description: Opening paragraph of the Anti-Colonization meeting held by the Free Blacks
   of Boston March 12, 1831. James G. Barbadoes was the Secretary.
 language: English
@@ -17,8 +17,8 @@ source: 'William Lloyd Garrison, <em>Thoughts on African Colonization</em> (Bost
   Garrison and Knapp, 1832), part II, page 17'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

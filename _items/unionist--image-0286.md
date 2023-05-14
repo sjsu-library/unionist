@@ -2,10 +2,10 @@
 pid: unionist--image-0286
 title: Preamble to the Connecticut Constitution of 1818
 bibliographicCitation: https://ctstatelibrary.org/constitution-of-1818/
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1818'
+dateCreated: '1818'
 description: Preamble to the Connecticut Constitution of 1818
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: Preamble to the Connecticut Constitution of 1818
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

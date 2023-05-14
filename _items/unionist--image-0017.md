@@ -2,10 +2,10 @@
 pid: unionist--image-0017
 title: Roger B. Taney
 bibliographicCitation: cwpbh 00789 https://hdl.loc.gov/loc.pnp/cwpbh.00789
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Mathew Brady (1823?-1896)
-date.created: 
+dateCreated: 
 description: Portrait of Chief Justice Roger Taney by Mathew Brady
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: cwpbh 00789 https://hdl.loc.gov/loc.pnp/cwpbh.00789
 source: https://www.loc.gov/pictures/item/2017896009/
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

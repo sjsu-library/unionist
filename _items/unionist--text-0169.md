@@ -2,10 +2,10 @@
 pid: unionist--text-0169
 title: "[Secretary Taney's report]"
 bibliographicCitation: "<em>The Unionist</em> 1833-12-19"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-12-19 p.02.15
 creator: Charles C. Burleigh; William H. Burleigh
-date.created: '1833-12-19'
+dateCreated: '1833-12-19'
 description: Taney's Bank Report
 language: English
 publisher: The Unionist
@@ -15,11 +15,11 @@ source: The Unionist
 subject: National News
 type: Text
 category: Unionist full issue 1833-12-19
-article.type: 
+articleType: 
 volume: '1'
 issue: '20'
 transcription: Our acknowledgements are due to the Hon. Ebenezer Young, for a copy
-  of Secretary<br>Taney’s Bank Report.<br>
+  of Secretary <br>Taney’s Bank Report. <br>
 scholarlyNotes: 
 commentary: 'This is the same Roger B. Taney (1777-1864)  who wrote the infamous Dred
   Scott decision when he was the Chief Justice of the Supreme Court of the United

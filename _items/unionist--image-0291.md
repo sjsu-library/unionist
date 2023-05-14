@@ -6,10 +6,10 @@ bibliographicCitation: "<em>Minutes and Proceedings of the Second Annual Convent
   for the Improvement of the Free People of Color in these United States, Held by
   Adjournments in the City of Philadelphia, from the 4th to the 13th of June, inclusive</em>.
   Philadelphia: Martin and Boden, 1832, 55-56."
-bibliographicCitation.republished: https://omeka.coloredconventions.org/files/original/8d604da70a1c2f01ad867bbd5dcefd88.pdf
+bibliographicCitationRepublished: https://omeka.coloredconventions.org/files/original/8d604da70a1c2f01ad867bbd5dcefd88.pdf
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1832'
+dateCreated: '1832'
 description: Page from <em>Second Annual Convention, for the Improvement of the Free
   People of Color</em>
 language: English
@@ -19,8 +19,8 @@ rights: 'Public Domain '
 source: https://omeka.coloredconventions.org/files/original/8d604da70a1c2f01ad867bbd5dcefd88.pdf
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

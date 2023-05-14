@@ -2,10 +2,10 @@
 pid: unionist--image-0128
 title: Powdrell and Alexander Mill Danielson
 bibliographicCitation: https://www.killinglyhistorical.org/home
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: The Powdrell and Alexander Mill
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Will ask
 source: https://www.killinglyhistorical.org/home
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

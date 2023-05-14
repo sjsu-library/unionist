@@ -2,10 +2,10 @@
 pid: unionist--image-0178
 title: Family Devotion -- Morning
 bibliographicCitation: http://emuseum.chs.org/emuseum/objects/2809/family-devotion--morning?#
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Kelloggs and Comstock
-date.created: 1848-1850
+dateCreated: 1848-1850
 description: Family Devotion -- Morning
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: http://emuseum.chs.org/emuseum/objects/2809/family-devotion--morning?#
 subject: 
 type: 
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

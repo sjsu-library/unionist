@@ -2,10 +2,10 @@
 pid: unionist--image-0068
 title: LafayetteSFoster
 bibliographicCitation: https://commons.wikimedia.org/w/index.php?curid=123854612
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Matthew Brady
-date.created: ca. 1860-65
+dateCreated: ca. 1860-65
 description: Photograph of Senator La Fayette S. Foster (1806-1880)
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=123854612
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

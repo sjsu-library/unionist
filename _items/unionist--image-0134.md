@@ -2,10 +2,10 @@
 pid: unionist--image-0134
 title: 'Lowell PeoplesMag 1.26.201 1834-03-08 '
 bibliographicCitation: "<em>The People's Magazine</em> 1.26.201 1834-03-08"
-bibliographicCitation.republished: https://catalog.hathitrust.org/api/volumes/oclc/6497679.html
+bibliographicCitationRepublished: https://catalog.hathitrust.org/api/volumes/oclc/6497679.html
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1834'
+dateCreated: '1834'
 description: Engraving of Lowell, Massachusetts
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>The People's Magazine</em> 1.26.201 1834-03-08"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

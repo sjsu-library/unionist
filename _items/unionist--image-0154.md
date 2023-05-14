@@ -2,10 +2,10 @@
 pid: unionist--image-0154
 title: Masthead of <em>The Christian Watchman</em>, parent to the <em>Juvenile Watchman</em>
 bibliographicCitation: "<em>Christian Watchman</em> 1830-12-31: v. 11, n. 53"
-bibliographicCitation.republished: https://archive.org/details/sim_watchman-examiner_1830-12-31_11_53
+bibliographicCitationRepublished: https://archive.org/details/sim_watchman-examiner_1830-12-31_11_53
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1830'
+dateCreated: '1830'
 description: Masthead of <em>The Christian Watchman</em>, parent to the <em>Juvenile
   Watchman</em>
 language: English
@@ -15,8 +15,8 @@ rights: Public Domain
 source: https://archive.org/details/sim_watchman-examiner_1830-12-31_11_53
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

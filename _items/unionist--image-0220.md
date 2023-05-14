@@ -2,10 +2,10 @@
 pid: unionist--image-0220
 title: Stack of Letters
 bibliographicCitation: https://news.liverpool.ac.uk/2018/02/14/victorian-love-letters-from-the-archives/
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Stack of Letters
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: No Known restrictions
 source: https://news.liverpool.ac.uk/2018/02/14/victorian-love-letters-from-the-archives/
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

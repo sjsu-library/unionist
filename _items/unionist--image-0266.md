@@ -3,10 +3,10 @@ pid: unionist--image-0266
 title: Illustration of power loom weaving
 bibliographicCitation: By Illustrator T. Allom, Engraver J. Tingle - History of the
   cotton manufacture in Great Britain by Sir Edward Baines,, Public Domain, https://commons.wikimedia.org/w/index.php?curid=9430141
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: T, Allon, J. Tingle
-date.created: '1835'
+dateCreated: '1835'
 description: Illustration of power loom weaving
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: By Illustrator T. Allom, Engraver J. Tingle - History of the cotton manu
   in Great Britain by Sir Edward Baines,, Public Domain, https://commons.wikimedia.org/w/index.php?curid=9430141
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

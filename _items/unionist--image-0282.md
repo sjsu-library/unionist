@@ -3,10 +3,10 @@ pid: unionist--image-0282
 title: Crandall in Prison
 bibliographicCitation: 'Elizabeth Yates, <em>Prudence Crandall: Woman of Courage</em>
   (New York: Aladdin Books, 1955), p. 135.'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Nora S. Unwin (1907-1982)
-date.created: '1955'
+dateCreated: '1955'
 description: Imaginative drawing of Crandall's night in prison
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: 'Elizabeth Yates, <em>Prudence Crandall: Woman of Courage</em> (New York
   Aladdin Books, 1955), p. 135; illustration by Nora S. Unwin'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

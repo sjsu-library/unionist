@@ -2,10 +2,10 @@
 pid: unionist--image-0301
 title: Old Barn
 bibliographicCitation: AdobeStock_83742278
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: purdue1988
-date.created: 
+dateCreated: 
 description: Old Barn
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Education License - Standard Image
 source: 
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

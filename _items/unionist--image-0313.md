@@ -3,10 +3,10 @@ pid: unionist--image-0313
 title: Major Jack Downing
 bibliographicCitation: 'Seba Smith, <em>Letters of Major Jack Downing, of the Downingville
   Militia</em>Third Edition (New York: Van Evrie, Horton and Co., 1866)'
-bibliographicCitation.republished: https://www.gutenberg.org/files/36175/36175-h/36175-h.htm
+bibliographicCitationRepublished: https://www.gutenberg.org/files/36175/36175-h/36175-h.htm
 fullIssueSequenceNumber: 
 creator: Seba Smith
-date.created: '1866'
+dateCreated: '1866'
 description: Major Jack Downing
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: 'Seba Smith, <em>Letters of Major Jack Downing, of the Downingville Mili
   Edition (New York: Van Evrie, Horton and Co., 1866)'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -3,10 +3,10 @@ pid: unionist--image-0082
 title: The Tales of Peter Parley on Africa
 bibliographicCitation: "<em>The Tales of Peter Parley about Africa</em>, Philadelphia:
   Charles deSilver, 1859"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Samuel Goodrich
-date.created: '1859'
+dateCreated: '1859'
 description: A page about the Hottentot's from a Peter Parley book
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: "<em>The Tales of Peter Parley about Africa</em>, Philadelphia: Charles 
   1859"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

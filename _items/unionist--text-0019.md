@@ -2,10 +2,10 @@
 pid: unionist--text-0019
 title: Popular Education, Politically Considered
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-08-08 p01.05
 creator: unknown
-date.created: '1833-08-08'
+dateCreated: '1833-08-08'
 description: Popular Education, Politically Considered
 language: English
 publisher: The Unionist
@@ -15,7 +15,7 @@ source: The Unionist
 subject: Allied Reform Movements - education
 type: Text
 category: Unionist full issue 1833-08-08
-article.type: source unclear
+articleType: source unclear
 volume: '1'
 issue: '2'
 transcription: <p align="center">POPULAR EDUCATION,</p><p align="center">POLITICALLY

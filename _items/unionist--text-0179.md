@@ -2,10 +2,10 @@
 pid: unionist--text-0179
 title: Advertisement for Young Man's Guide
 bibliographicCitation: "<em>The Unionist</em> 1833-12-19"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-12-19 p.03.25
 creator: 
-date.created: '1833-12-19'
+dateCreated: '1833-12-19'
 description: Advertisement for Young Man's Guide book
 language: English
 publisher: The Unionist
@@ -15,17 +15,17 @@ source: The Unionist
 subject: Advertisements
 type: Text
 category: Unionist full issue 1833-12-19
-article.type: 
+articleType: 
 volume: '1'
 issue: '20'
 transcription: "<p>THE YOUNG MAN’S GUIDE.</p><p>  A VOLUME of 320 pages, designed
-  as a cheap manual for Young Men, though it is<br>  believed to embrace much useful
-  information to persons in every description;<br>  especially parents. It is divided
-  into seven chapters; to which are prefixed a<br>  very full table of contents and
-  an introduction. The great object of the<br>  author of the work, who has had much
-  experience with youth, is to stimulate<br>  them to aim at a high standard of character,
-  and to make the mental, social,<br>  and moral improvement of themselves and those
-  around them,&nbsp; a governing<br>  purpose of their lives.<br></p>"
+  as a cheap manual for Young Men, though it is <br>  believed to embrace much useful
+  information to persons in every description; <br>  especially parents. It is divided
+  into seven chapters; to which are prefixed a <br>  very full table of contents and
+  an introduction. The great object of the <br>  author of the work, who has had much
+  experience with youth, is to stimulate <br>  them to aim at a high standard of character,
+  and to make the mental, social, <br>  and moral improvement of themselves and those
+  around them,&nbsp; a governing <br>  purpose of their lives. <br></p>"
 scholarlyNotes: 
 commentary: 'A notice of the first edition of William Alcott''s perpetual best-seller,
   <em>The Young Man''s Guide</em>. Alcott (1798-1859) was a noted education reformer,

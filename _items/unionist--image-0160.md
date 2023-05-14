@@ -2,10 +2,10 @@
 pid: unionist--image-0160
 title: Bishop Richard Watson Lord Bishop of Landaff
 bibliographicCitation: https://en.wikipedia.org/wiki/Richard_Watson_%28bishop_of_Llandaff%29#/media/File:Portrait_of_Richard_Watson,_D.D._Lord_Bishop_of_Landaff_(4672127).jpg
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Henry Hoppner Mayer (1780-1847)
-date.created: ca. 1815
+dateCreated: ca. 1815
 description: Bishop Richard Watson Lord Bishop of Landaff
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/Richard_Watson_%28bishop_of_Llandaff%29#/media/File:Portrait_of_Richard_Watson,_D.D._Lord_Bishop_of_Landaff_(4672127).jpg
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -5,10 +5,10 @@ title: Transcribed title page of the 1850 edition of the <em>Narrative of Sojour
 bibliographicCitation: 'Sojourner Truth, The Narrative of Sojourner Truth, Dictated
   by Sojourner Truth (ca.1797-1883); edited by Olive Gilbert. Boston: The Author,
   1850.'
-bibliographicCitation.republished: https://digital.library.upenn.edu/women/truth/1850/1850.html
+bibliographicCitationRepublished: https://digital.library.upenn.edu/women/truth/1850/1850.html
 fullIssueSequenceNumber: 
 creator: Sojourner Truth
-date.created: '1850'
+dateCreated: '1850'
 description: Transcribed title page of the 1850 edition of the <em>Narrative of Sojourner
   Truth, a Northern Slave</em>
 language: English
@@ -18,8 +18,8 @@ rights: Public Domain
 source: https://digital.library.upenn.edu/women/truth/1850/1850.html
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

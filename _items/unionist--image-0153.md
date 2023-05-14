@@ -2,11 +2,11 @@
 pid: unionist--image-0153
 title: Cover Page to the first volume of <em>The Chinese Repository</em>
 bibliographicCitation: https://commons.wikimedia.org/w/index.php?curid=50595301
-bibliographicCitation.republished: "<em>The Chinese Repository</em> v. 1, May 1832
+bibliographicCitationRepublished: "<em>The Chinese Repository</em> v. 1, May 1832
   - April 1833"
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833'
+dateCreated: '1833'
 description: Cover Page to the first volume of <em>The Chinese Repository</em>
 language: English
 publisher: 
@@ -15,8 +15,8 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=50595301
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

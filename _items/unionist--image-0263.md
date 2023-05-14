@@ -3,11 +3,11 @@ pid: unionist--image-0263
 title: Charles Stuart, shown in a detail from Benjamin Robert Haydon's depiction of
   the 1840 Anti-Slavery Convention in London
 bibliographicCitation: Public Domain, https://commons.wikimedia.org/w/index.php?curid=12212643
-bibliographicCitation.republished: 'By The_Anti-Slavery_Society_Convention,_1840_by_Benjamin_Robert_Haydon.jpg:
+bibliographicCitationRepublished: 'By The_Anti-Slavery_Society_Convention,_1840_by_Benjamin_Robert_Haydon.jpg:
   Benjamin Robert Haydon (died 1846)derivative work: Victuallers (talk) - The_Anti-Slavery_Society_Convention,_1840_by_Benjamin_Robert_Haydon.jpg,'
 fullIssueSequenceNumber: 
 creator: Benjamin Robert Haydon
-date.created: '1840'
+dateCreated: '1840'
 description: Detail showing Charles Stuart
 language: English
 publisher: 
@@ -16,8 +16,8 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=12212643
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

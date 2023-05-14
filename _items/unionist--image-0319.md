@@ -5,10 +5,10 @@ bibliographicCitation: "<em>Constitution of the United States</em>, Philadelphia
   Dunlap &amp; Claypoole, 1787. This image from the American Memory Collections is
   available from the United States Library of Congress Rare Book and Special Collections
   Division, under the digital ID bdsdcc.n003001. https://commons.wikimedia.org/w/index.php?curid=112689122"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1787'
+dateCreated: '1787'
 description: Detail of the Preamble to the United States Constitution
 language: English
 publisher: 
@@ -20,8 +20,8 @@ source: "<em>Constitution of the United States</em>, Philadelphia: Dunlap &amp; 
   digital ID bdsdcc.n003001. https://commons.wikimedia.org/w/index.php?curid=112689122"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

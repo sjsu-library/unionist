@@ -2,10 +2,10 @@
 pid: unionist--image-0219
 title: Last Will and Testament
 bibliographicCitation: https://www.andlaw.com/is-it-legal-to-write-your-own-will/
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Last Will and Testament
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: No restrictions listed
 source: https://www.andlaw.com/is-it-legal-to-write-your-own-will/
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

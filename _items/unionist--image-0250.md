@@ -2,10 +2,10 @@
 pid: unionist--image-0250
 title: Oliver Evans horizontal cylinder steam engine of the 1830s
 bibliographicCitation: http://saltofamerica.com/contents/displayArticle.aspx?19_512
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Oliver Evans
-date.created: 1830s
+dateCreated: 1830s
 description: Oliver Evans horizontal cylinder steam engine of the 1830s
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: http://saltofamerica.com/contents/displayArticle.aspx?19_512
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

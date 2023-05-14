@@ -2,10 +2,10 @@
 pid: unionist--image-0287
 title: Drunkard's Death
 bibliographicCitation: https://victorianweb.org/art/illustration/darley/34.html
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Fred Barnard
-date.created: '1876'
+dateCreated: '1876'
 description: Drunkard's Death
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://victorianweb.org/art/illustration/darley/34.html
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

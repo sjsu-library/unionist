@@ -2,10 +2,10 @@
 pid: unionist--image-0253
 title: Title page of <em>The Unionist</em> with subscriber name, 1833-09-05
 bibliographicCitation: "<em>The Unionist</em> 1833-09-05, v. 1 n. 6 p. 1"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Charles C. Burleigh
-date.created: '1833'
+dateCreated: '1833'
 description: Title page of <em>The Unionist</em> with subscriber name, 1833-09-05
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>The Unionist</em> 1833-09-05, v. 1 n. 6 p. 1"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

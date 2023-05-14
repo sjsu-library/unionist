@@ -2,10 +2,10 @@
 pid: unionist--image-0001
 title: William_Bainbridge
 bibliographicCitation: https://en.wikipedia.org/wiki/William_Bainbridge
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Portrait of Naval Captain
 language: 
 publisher: 
@@ -15,8 +15,8 @@ rights: By John Wesley Jarvis - https://www.history.navy.mil/our-collections/pho
 source: 
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

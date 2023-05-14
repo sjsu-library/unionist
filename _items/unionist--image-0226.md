@@ -2,10 +2,10 @@
 pid: unionist--image-0226
 title: Thought bubble with word "Litigious"
 bibliographicCitation: https://www.farrellfritz.com/rss-post/suing-on-behalf-of-people-youre-suing-can-sink-a-derivative-lawsuit-especially-if-you-have-a-litigious-nature/
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Thought bubble with word "Litigious"
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: unsure
 source: https://www.farrellfritz.com/rss-post/suing-on-behalf-of-people-youre-suing-can-sink-a-derivative-lawsuit-especially-if-you-have-a-litigious-nature/
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

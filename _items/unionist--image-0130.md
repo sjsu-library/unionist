@@ -3,10 +3,10 @@ pid: unionist--image-0130
 title: Lectures on Slavery and Its Remedy Phelps 28-29
 bibliographicCitation: 'Amos Phelps, <em>Lectures on Slavery, and Its Remedy</em>
   (Boston: New-England Anti-Slavery Society, 1834), 28-29'
-bibliographicCitation.republished: https://play.google.com/books/reader?id=gwMxK1sHL90C&pg=GBS.PP22&hl=en
+bibliographicCitationRepublished: https://play.google.com/books/reader?id=gwMxK1sHL90C&pg=GBS.PP22&hl=en
 fullIssueSequenceNumber: 
 creator: Amos Phelps
-date.created: '1834'
+dateCreated: '1834'
 description: An internal page of Amos Phelps, <em>Lectures on Slavery, and Its Remedy</em>,
   containing a direct reference to the Canterbury Female Academy. He even repeats
   the language of respect for the African-American students as "Misses."
@@ -18,8 +18,8 @@ source: 'Amos Phelps, <em>Lectures on Slavery, and Its Remedy</em> (Boston: New-
   Anti-Slavery Society, 1834), 28-29'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

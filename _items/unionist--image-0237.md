@@ -3,10 +3,10 @@ pid: unionist--image-0237
 title: 'Masthead of <em>The American</em>(Middlebury, VT), including the poem "The
   Evening Cloud." '
 bibliographicCitation: Masthead of <em>The American</em>(Middlebury, VT), 1834-08-26
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1834'
+dateCreated: '1834'
 description: Masthead of <em>The American</em>(Middlebury, VT), 1834-08-26
 language: English
 publisher: 
@@ -15,8 +15,8 @@ rights: Public Domain
 source: Masthead of <em>The American</em>(Middlebury, VT), 1834-08-26
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

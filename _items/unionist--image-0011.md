@@ -2,10 +2,10 @@
 pid: unionist--image-0011
 title: Masthead of the <em>Norwich Courier</em>
 bibliographicCitation: "<em>Norwich Courier</em> 1833"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: "<em>Norwich Courier</em>"
-date.created: '1833'
+dateCreated: '1833'
 description: Masthead of the <em>Norwich Courier</em> in 1833
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: 
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

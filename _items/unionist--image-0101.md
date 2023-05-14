@@ -2,10 +2,10 @@
 pid: unionist--image-0101
 title: London_Leather,_Hide_and_Wool_Exchange_Public_House,_Bermondsey_(03)
 bibliographicCitation: 
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Ethan Doyle White
-date.created: '2021'
+dateCreated: '2021'
 description: Exterior of London's Leather, Hide and Wool Exchange
 language: Engiish
 publisher: 
@@ -14,8 +14,8 @@ rights: Wikimedia Commons
 source: https://commons.wikimedia.org/wiki/File:London_Leather,_Hide_and_Wool_Exchange_Public_House,_Bermondsey_%2803%29.jpg
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 
@@ -29,7 +29,7 @@ relatedText: unionist--text-0066
 relatedTextIssue: 1833-08-08 p04.52
 filename: 
 caption: Exterior of London's Leather, Hide and Wool Exchange. Benson and Chace in
-  their advertisement anticipsted the name of this major center!
+  their advertisement anticipated the name of this major center!
 order: '512'
 layout: items_item
 collection: items

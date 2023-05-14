@@ -2,10 +2,10 @@
 pid: unionist--image-0056
 title: Samuel_Johnson_by_Joshua_Reynolds_2
 bibliographicCitation: https://en.wikipedia.org/wiki/File:Samuel_Johnson_by_Joshua_Reynolds_2.png#/media/File:Samuel_Johnson_by_Joshua_Reynolds_2.png
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Joshua Reynolds (1723-1792)
-date.created: '1775'
+dateCreated: '1775'
 description: 'By Joshua Reynolds - Originally in English Wikipedia, uploaded 21:07,
   2005 June 14 by w:User:GeogreScanned from: Rogers, Pat (2001). The Oxford Illustrated
   History of English Literature. Oxford University Press, p. 241. ISBN 1435295811,
@@ -17,8 +17,8 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/File:Samuel_Johnson_by_Joshua_Reynolds_2.png#/media/File:Samuel_Johnson_by_Joshua_Reynolds_2.png
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

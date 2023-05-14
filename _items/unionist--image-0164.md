@@ -4,10 +4,10 @@ title: Captain Paul Cuffee (1759-1817)
 bibliographicCitation: Engraved for Abraham. L. Pennock by Mason &amp; Maas., from
   a drawing by John Pole, M.D., of Bristol, England. - Library of Congress, Public
   Domain
-bibliographicCitation.republished: https://commons.wikimedia.org/w/index.php?curid=5963709
+bibliographicCitationRepublished: https://commons.wikimedia.org/w/index.php?curid=5963709
 fullIssueSequenceNumber: 
 creator: John Pole
-date.created: '1812'
+dateCreated: '1812'
 description: Captain Paul Cuffee (1759-1817)
 language: English
 publisher: 
@@ -16,8 +16,8 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=5963709
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

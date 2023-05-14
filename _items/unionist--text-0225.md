@@ -2,10 +2,10 @@
 pid: unionist--text-0225
 title: Blanks
 bibliographicCitation: "<em>The Unionist</em> 1833-12-19"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-12-19 p.04.71
 creator: 
-date.created: '1833-12-19'
+dateCreated: '1833-12-19'
 description: Printing services offered at Unionist office
 language: English
 publisher: The Unionist
@@ -15,7 +15,7 @@ source: The Unionist
 subject: Advertisements
 type: Text
 category: Unionist full issue 1833-12-19
-article.type: 
+articleType: 
 volume: '1'
 issue: '20'
 transcription: <p align="center">BLANKS</p><p align="center"><em>FOR SALE AT THIS

@@ -3,10 +3,10 @@ pid: unionist--image-0320
 title: Portrait of the older William H. Burleigh
 bibliographicCitation: 'William H. Burleigh, <em>Poems</em>, with a Sketch of His
   Life by Celia Burleigh. (New York: Hurd and Houghton, 1871)'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1871'
+dateCreated: '1871'
 description: Portrait of the older William H. Burleigh
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: 'William H. Burleigh, <em>Poems</em>, with a Sketch of His Life by Celia
   (New York: Hurd and Houghton, 1871)'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -3,10 +3,10 @@ pid: unionist--text-0406
 title: Prospectus of The Unionist as an Advertisement
 bibliographicCitation: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em>
   1833-09-25, v. 4, n.12"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Charles C. Burleigh
-date.created: '1833-08-01'
+dateCreated: '1833-08-01'
 description: Prospectus of <em>The Unionist</em> functioning as an advertisement
 language: English
 publisher: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em> 1833-09-25,
@@ -18,7 +18,7 @@ source: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em> 1
 subject: The Unionist
 type: Text
 category: Unionist content
-article.type: original
+articleType: original
 volume: '1'
 issue: '1'
 transcription: THE UNIONIST, published every Thursday morning, Brooklyn, Con. Charles
@@ -47,7 +47,7 @@ transcription: THE UNIONIST, published every Thursday morning, Brooklyn, Con. Ch
   It will also contain items of general intelligence, literary selections and the
   usual variety of miscellaneous matter, and no effort will be spared on the part
   of the editor to make it worthy of the public favor. How far his efforts will succeed,
-  the future course of the paper will determine.</p> <br><p>TERMS. - -Mail subscribers,
+  the future course of the paper will determine.</p>  <br><p>TERMS. - -Mail subscribers,
   $2, in advance. Delivered by stage, or post, one dollar and seventy-five cents.
   Those taken at the office, one dollar and fifty cents</p>
 scholarlyNotes: 

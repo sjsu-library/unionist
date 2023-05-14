@@ -4,10 +4,10 @@ title: Title page of <em>The New-England Anti-Masonic Alamanac for the Year of O
   Lord 1835</em>
 bibliographicCitation: "<em>The New-England Anti-Masonic Alamanac for the Year of
   Our Lord 1835</em> (Boston: John Marsh, 1835)"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: John Marsh
-date.created: '1835'
+dateCreated: '1835'
 description: Title page of <em>The New-England Anti-Masonic Alamanac for the Year
   of Our Lord 1835</em>
 language: English
@@ -18,8 +18,8 @@ source: "<em>The New-England Anti-Masonic Alamanac for the Year of Our Lord 1835
   (Boston: John Marsh, 1835)"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

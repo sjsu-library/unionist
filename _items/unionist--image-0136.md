@@ -3,10 +3,10 @@ pid: unionist--image-0136
 title: Charles_Stanhope
 bibliographicCitation: http://www.npg.org.uk/live/search/portrait.asp?LinkID=mp10809&amp;rNo=1&amp;role=sit,
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=4266975
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Robert Dighton Jr
-date.created: '1804'
+dateCreated: '1804'
 description: Sketch of Lord Petersham
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: http://www.npg.org.uk/live/search/portrait.asp?LinkID=mp10809&amp;rNo=1&
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=4266975
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0252
 title: Masthead with Concluding section of Frederick Olney trial transcripts
 bibliographicCitation: "<em>The Unionist</em>, 1834-04-10, v. 1, n. 36. p. 2"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Charles C. Burleigh
-date.created: '1834'
+dateCreated: '1834'
 description: Masthead with Concluding section of Frederick Olney trial transcripts
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>The Unionist</em>, 1834-04-10, v. 1, n. 36. p. 2"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

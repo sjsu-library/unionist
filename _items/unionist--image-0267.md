@@ -3,10 +3,10 @@ pid: unionist--image-0267
 title: Article II of the Amherst College Anti-Slavery Society Constitution
 bibliographicCitation: Mariah Leavitt, "Amherst College Anti-Slavery Society" (2012);
   https://consecratedeminence.wordpress.com/2012/08/03/anti-slavery-society/
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1834'
+dateCreated: '1834'
 description: Article II of the Amherst College Anti-Slavery Society Constitution
 language: English
 publisher: 
@@ -15,8 +15,8 @@ rights: No Known restrictions
 source: Mariah Leavitt, "Amherst College Anti-Slavery Society" (2012); https://consecratedeminence.wordpress.com/2012/08/03/anti-slavery-society/
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

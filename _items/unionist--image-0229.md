@@ -3,10 +3,10 @@ pid: unionist--image-0229
 title: Past Due Stamp
 bibliographicCitation: https://stock.adobe.com/images/past-due-stamp/58651264?asset_id=58651264
   - Education License - Standard Image
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Balint Radu
-date.created: 
+dateCreated: 
 description: Past Due Stamp
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: https://stock.adobe.com/images/past-due-stamp/58651264?asset_id=58651264
   Education License - Standard Image
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

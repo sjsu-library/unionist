@@ -2,10 +2,10 @@
 pid: unionist--image-0152
 title: Insulated Mercury and Alcohol Thermometer, 1830-1840
 bibliographicCitation: https://collection.sciencemuseumgroup.org.uk/objects/co8058258/insulated-mercury-and-alcohol-thermometer-1830-1840-thermometer-mercury-thermometer-alcohol
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Tagliabue & Casella
-date.created: 1830-1840
+dateCreated: 1830-1840
 description: Insulated Mercury and Alcohol Thermometer, 1830-1840
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: CC BY-NC-SA 4.0
 source: "© The Board of Trustees of the Science Museum"
 subject: https://collection.sciencemuseumgroup.org.uk/objects/co8058258/insulated-mercury-and-alcohol-thermometer-1830-1840-thermometer-mercury-thermometer-alcohol
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

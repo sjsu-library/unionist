@@ -2,10 +2,10 @@
 pid: unionist--image-0026
 title: How to use this Magazine
 bibliographicCitation: Parley's Magazine (vol. 2, p. 41); at https://digitalcollections.lib.washington.edu/digital/collection/childrens/id/460/rec/9
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Samuel Griswold Goodrich (1793-1860)
-date.created: '1834'
+dateCreated: '1834'
 description: Page from Parley's Magazine
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: Parley's Magazine (vol. 2, p. 41); at https://digitalcollections.lib.washington.edu/digital/collection/childrens/id/460/rec/9
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

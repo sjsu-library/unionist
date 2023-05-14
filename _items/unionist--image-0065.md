@@ -4,10 +4,10 @@ title: WilliamLeeteStone
 bibliographicCitation: By Jacques Reich (undoubtedly based on an earlier work by another
   artist) - Appletons&#039; Cyclopædia of American Biography, v. 5, 1900, p. 705,
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=13266462
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Jacques Reich
-date.created: '1890'
+dateCreated: '1890'
 description: Drawing of William Leete Stone
 language: English
 publisher: 
@@ -18,8 +18,8 @@ source: By Jacques Reich (undoubtedly based on an earlier work by another artist
   https://commons.wikimedia.org/w/index.php?curid=13266462
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

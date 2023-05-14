@@ -2,10 +2,10 @@
 pid: unionist--text-0186
 title: Rankin's Letters
 bibliographicCitation: "<em>The Unionist</em> 1833-12-19"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-12-19 p.03.32
 creator: 
-date.created: '1833-12-19'
+dateCreated: '1833-12-19'
 description: Advertisement for John Rankin's Letters
 language: English
 publisher: The Unionist
@@ -15,15 +15,15 @@ source: The Unionist
 subject: Advertisement with Abolitionist theme
 type: Text
 category: Unionist full issue 1833-12-19
-article.type: 
+articleType: 
 volume: '1'
 issue: '20'
 transcription: RANKIN’S LETTERS. Just published at the office of the Liberator, by
-  request of<br>the Providence Anti-Slavery Society, a new edition of ‘Letters on
-  Slavery,<br>addressed to Mr. Thomas Rankin, Merchant at Middlebrook, Augusta Co.,
-  Va.—By<br>John Rankin, Pastor of the Presbyterian Churches of Ripley and Strait
-  Creek,<br>Brown County, Ohio. Price $18 per hundred—25 cents single. Boston, Sept.
-  7,<br>1833.<br>
+  request of <br>the Providence Anti-Slavery Society, a new edition of ‘Letters on
+  Slavery, <br>addressed to Mr. Thomas Rankin, Merchant at Middlebrook, Augusta Co.,
+  Va.—By <br>John Rankin, Pastor of the Presbyterian Churches of Ripley and Strait
+  Creek, <br>Brown County, Ohio. Price $18 per hundred—25 cents single. Boston, Sept.
+  7, <br>1833. <br>
 scholarlyNotes: 
 commentary: Another important text that almost certainly found its way inside the
   Canterbury Female Academy. Rankin became one of the most fearless and successful

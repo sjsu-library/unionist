@@ -2,10 +2,10 @@
 pid: unionist--image-0055
 title: WhiteMulberryTreeiNat
 bibliographicCitation: https://www.inaturalist.org/photos/206030733
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: tonyg1022
-date.created: '2022'
+dateCreated: '2022'
 description: A white mulberry tree (Morus alba) in Windsor Locks, Connecticut, June
   14, 2022
 language: English
@@ -15,8 +15,8 @@ rights: cc by-nc 4.0
 source: https://www.inaturalist.org/photos/206030733
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

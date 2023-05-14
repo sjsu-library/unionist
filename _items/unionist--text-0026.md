@@ -2,10 +2,10 @@
 pid: unionist--text-0026
 title: We confess having spoken without sufficient reflection
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-08-08 p02.12
 creator: Charles C. Burleigh
-date.created: '1833-08-08'
+dateCreated: '1833-08-08'
 description: Debate with Windham Advertiser
 language: English
 publisher: The Unionist
@@ -15,7 +15,7 @@ source: The Unionist
 subject: Journalistic Debate
 type: Text
 category: Unionist full issue 1833-08-08
-article.type: 
+articleType: 
 volume: '1'
 issue: '2'
 transcription: We confess having spoken without sufficient reflection, in saying that

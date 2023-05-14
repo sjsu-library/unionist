@@ -2,10 +2,10 @@
 pid: unionist--image-0174
 title: Grave of Thomas Backus
 bibliographicCitation: https://www.findagrave.com/memorial/77485041/thomas-backus
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: JC - https://www.findagrave.com/user/profile/48553576
-date.created: 2016-2022
+dateCreated: 2016-2022
 description: Grave of Thomas Backus
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: no restrictions
 source: https://www.findagrave.com/memorial/77485041/thomas-backus
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0334
 title: Sunset, Lake George, New York
 bibliographicCitation: https://emuseum.nyhistory.org/objects/21221/sunset-lake-george-new-york
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Jasper Francis Cropsey (1823-1900)
-date.created: '1867'
+dateCreated: '1867'
 description: Sunset, Lake George, New York
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://emuseum.nyhistory.org/objects/21221/sunset-lake-george-new-york
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

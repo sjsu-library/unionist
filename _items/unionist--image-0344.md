@@ -2,10 +2,10 @@
 pid: unionist--image-0344
 title: Exclusion of African-Americans from Schools
 bibliographicCitation: https://commons.wikimedia.org/w/index.php?curid=51897607
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1839'
+dateCreated: '1839'
 description: '"1839 Illustration in the Anti-Slavery Almanac of Black students excluded
   from school, with quote from Reverend Mr. Converse: "If the free colored people
   were taught to read, it would be an inducement for them to stay in the country.
@@ -17,8 +17,8 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=51897607
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

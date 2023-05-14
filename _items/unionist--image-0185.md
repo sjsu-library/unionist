@@ -2,10 +2,10 @@
 pid: unionist--image-0185
 title: Dog delivers Dad joke
 bibliographicCitation: https://www.facebook.com/kcci8/photos/its-a-day-to-celebrate-dads-even-with-their-dad-jokeswhats-your-favorite-dad-jok/10155429109615079/?paipv=0&eav=AfZTAKqNFQa4nRLBaWG0hWJ5dnpq6S1bQqENxw95ZcT7UF9gE8D53Ldqsf-AvotRRvk&_rdr
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '2018'
+dateCreated: '2018'
 description: Dog delivers Dad joke
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: no restrictions
 source: https://www.facebook.com/kcci8/photos/its-a-day-to-celebrate-dads-even-with-their-dad-jokeswhats-your-favorite-dad-jok/10155429109615079/?paipv=0&eav=AfZTAKqNFQa4nRLBaWG0hWJ5dnpq6S1bQqENxw95ZcT7UF9gE8D53Ldqsf-AvotRRvk&_rdr
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

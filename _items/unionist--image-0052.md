@@ -2,10 +2,10 @@
 pid: unionist--image-0052
 title: George Benson Sr. Gravestone
 bibliographicCitation: 
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Beth Hurd
-date.created: '2023'
+dateCreated: '2023'
 description: Gravestone of George Benson Sr. (1752-1836)
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: unsure
 source: https://www.ancestry.com/mediaui-viewer/collection/1030/tree/9618201/person/192418388400/media/d3ec20ab-0f96-461e-97aa-a476b0918557?_phsrc=ZOy738&_phstart=successSource
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

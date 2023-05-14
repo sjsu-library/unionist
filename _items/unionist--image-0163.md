@@ -2,10 +2,10 @@
 pid: unionist--image-0163
 title: Very True Meme
 bibliographicCitation: https://imgflip.com/i/ny75e
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Anonymous
-date.created: '2015'
+dateCreated: '2015'
 description: Meme of dog affirming truth
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: no restrictions
 source: https://imgflip.com/i/ny75e
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

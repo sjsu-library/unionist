@@ -2,10 +2,10 @@
 pid: unionist--image-0060
 title: Broken Glass found in archeological dig Canterbury Female Academy 2020-2022
 bibliographicCitation: 
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '2023'
+dateCreated: '2023'
 description: Shards of broken glass from the Canterbury Female Academy
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Own Work; courtesy of Prudence Crandall Museum
 source: own work
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

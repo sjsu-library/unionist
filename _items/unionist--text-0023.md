@@ -2,10 +2,10 @@
 pid: unionist--text-0023
 title: '"The Advertiser has taken us to task"'
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-08-08 p02.09
 creator: Charles C. Burleigh
-date.created: '1833-08-08'
+dateCreated: '1833-08-08'
 description: Debate with Windham Advertiser
 language: English
 publisher: The Unionist
@@ -15,10 +15,10 @@ source: The Unionist
 subject: Journalistic Debate
 type: Text
 category: Unionist full issue 1833-08-08
-article.type: 
+articleType: 
 volume: '1'
 issue: '2'
-transcription: <p align="center">THE UNIONIST.</p> <br><p align="center">BROOKLYN,
+transcription: <p align="center">THE UNIONIST.</p>  <br><p align="center">BROOKLYN,
   AUGUST 8, 1833.</p><p>The Advertiser has taken us to task quite severely, for what,
   with his moral accuracy, he calls our “false pretences” or “gross inconsistency.”
   The irresistible reasoning, by which he arrives at a conclusion so unfavorable to

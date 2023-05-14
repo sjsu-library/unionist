@@ -2,10 +2,10 @@
 pid: unionist--image-0329
 title: Solomon in Old Age
 bibliographicCitation: By Yitzilitt - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107310587
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Gustave Doré (1832-1883)
-date.created: '1866'
+dateCreated: '1866'
 description: Solomon in Old Age
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: CC BY-SA 4.0
 source: By Yitzilitt - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107310587
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

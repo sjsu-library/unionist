@@ -2,10 +2,10 @@
 pid: unionist--image-0214
 title: Fire
 bibliographicCitation: own work
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Jennifer Rycenga
-date.created: '2023'
+dateCreated: '2023'
 description: iconic representation of fire
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: No restrictions
 source: own work
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

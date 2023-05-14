@@ -2,10 +2,10 @@
 pid: unionist--image-0036
 title: Myron Holley
 bibliographicCitation: https://en.wikipedia.org/wiki/Myron_Holley
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Portrait of Myron Holley (1789-1841), reformer and politician who helped
   the construction of the Erie Canal.
 language: English
@@ -15,8 +15,8 @@ rights: PD-US, https://en.wikipedia.org/w/index.php?curid=18390406
 source: https://en.wikipedia.org/wiki/Myron_Holley
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

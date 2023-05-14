@@ -3,10 +3,10 @@ pid: unionist--image-0284
 title: Thomas Jefferson quote about anger
 bibliographicCitation: '"Thomas Jefferson Quotes." BrainyQuote.com. BrainyMedia Inc,
   2023. 2 May 2023. https://www.brainyquote.com/quotes/thomas_jefferson_132201'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Thomas Jefferson
-date.created: 
+dateCreated: 
 description: Thomas Jefferson quote on anger
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: '"Thomas Jefferson Quotes." BrainyQuote.com. BrainyMedia Inc, 2023. 2 Ma
   2023. https://www.brainyquote.com/quotes/thomas_jefferson_132201'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0173
 title: Probate Court sign
 bibliographicCitation: https://www.southbury-ct.org/probatecourt
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Probate Court sign
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: no restrictions
 source: https://www.southbury-ct.org/probatecourt
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0104
 title: DressWoolandSilkca.1843
 bibliographicCitation: https://www.metmuseum.org/art/collection/search/158960
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Metropolitan Museum of Art
-date.created: '1843'
+dateCreated: '1843'
 description: A dress in the collection of the Brooklyn Museum Costume Collection at
   The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Brooklyn Museum
   Collection
@@ -16,8 +16,8 @@ rights: Public Domain
 source: https://www.metmuseum.org/art/collection/search/158960
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -117,6 +117,37 @@ header & nav bar
   }
 }
 
+/* essays nav */
+
+
+.section-nav-wrapper {
+      padding: 0.25rem 1rem;
+      margin-bottom: 20px;
+
+.section-nav {
+  background-color: $bg-color;
+  border: 1px solid $accent-light;
+  border-radius: 5px;
+
+    h4 {
+      width: 100%;
+      background-color: $accent-light;
+      color: $bg-color;
+      padding: 10px;
+    }
+
+    .nav-pills {
+      padding:10px;
+
+      .nav-link.active  {
+        background-color: $accent-light !important;
+    }
+    }
+
+}
+}
+
+
 /*
 
 content section
@@ -183,7 +214,7 @@ content section
     min-height: 70vh;
 
     .exhibit-meta {
-      margin-bottom: $super-margin;
+      margin-bottom: $more-margin;
       background-color:$accent-dark;
       color: $neutral;
       padding: 20px 1.5rem 10px 1.5rem;
@@ -279,12 +310,12 @@ content section
   }
 
   .footer-logos {
-    margin: $margin 0 $margin 0;
+    margin: $margin 0 0 0;
     a {
       text-decoration: none;
     }
     img {
-      height: 35px;
+      height: 40px;
       margin:0 10px 10px 0;
     }
   }
@@ -586,8 +617,11 @@ search box
     }
     .active{
       @extend .facet;
-      background-color: $text-color;
+      background-color: $accent-dark !important;
       color: $bg-color;
+    }
+    :hover {
+      background-color: $feature5 !important;
     }
   }
   .show-full {
@@ -614,6 +648,17 @@ search box
       width:100%;
       margin: .5rem;
     }
+    .gallery-category h4 {
+      width: 100%;
+      background-color: $accent-light;
+      padding: 12px 25px;
+      margin: 0.5rem;
+      color: white;
+      border-radius: 25px;
+      border: 5px solid $feature2;
+      border-width: 5px 1px;
+    }
+
     .gallery-category-head {
       width:100%;
     }
@@ -772,7 +817,7 @@ search box
       }
 
       .excerpt_text::after {
-      background-image: url(/unionist/img/icons/star.png);
+      background-image: url(/unionist/img/icons/star-filled.png);
       background-size: 80px 80px;
       position: absolute;
       top: 5px;
@@ -1065,7 +1110,7 @@ search box
     }
 
     .card-text {
-      padding:10px;
+      padding: 0.75rem 1.25rem;
       position: relative;
 
     }

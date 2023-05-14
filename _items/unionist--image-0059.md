@@ -2,10 +2,10 @@
 pid: unionist--image-0059
 title: Eggs from the collection of Rycenga
 bibliographicCitation: Eggs, picture by Jennifer Rycenga
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Jennifer Rycenga
-date.created: '2023'
+dateCreated: '2023'
 description: Eggs
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Own Work
 source: 
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

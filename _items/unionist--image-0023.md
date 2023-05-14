@@ -2,10 +2,10 @@
 pid: unionist--image-0023
 title: Signature of Joseph Beale
 bibliographicCitation: https://vermonthistory.org/client_media/files/Learn/YoursInTheCause20ed.pdf
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Joseph Beale
-date.created: '1844'
+dateCreated: '1844'
 description: Salutation and signature of Joseph Beale, from a letter to his friend
   Rowland Robinson in Vermont, held in the collection of the Rokeby Museum, reproduced
   in https://vermonthistory.org/client_media/files/Learn/YoursInTheCause20ed.pdf
@@ -16,8 +16,8 @@ rights: https://vermonthistory.org/client_media/files/Learn/YoursInTheCause20ed.
 source: https://vermonthistory.org/client_media/files/Learn/YoursInTheCause20ed.pdf
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -3,10 +3,10 @@ pid: unionist--image-0146
 title: Map of New York City showing Joseph Beale’s Free Produce Store on Fulton Street
 bibliographicCitation: '"City of New York," in <em>Tanner''s Universal Atlas</em>,
   Philadelphia: 1835'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Henry Schenk Tanner
-date.created: '1835'
+dateCreated: '1835'
 description: Map of New York City showing Joseph Beale’s Free Produce Store on Fulton
   Street
 language: English
@@ -16,8 +16,8 @@ rights: Public Domain
 source: Map of New York City showing Joseph Beale’s Free Produce Store on Fulton Street
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

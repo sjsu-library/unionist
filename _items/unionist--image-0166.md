@@ -2,10 +2,10 @@
 pid: unionist--image-0166
 title: Cato's Letter and Petition to the Pennsylvania Assembly
 bibliographicCitation: https://www.pbs.org/wgbh/aia/part2/2h73.html
-bibliographicCitation.republished: The Historical Society of Pennsylvania
+bibliographicCitationRepublished: The Historical Society of Pennsylvania
 fullIssueSequenceNumber: 
 creator: 'Cato '
-date.created: '1781'
+dateCreated: '1781'
 description: Cato's Letter and Petition to the Pennsylvania Assembly
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://www.pbs.org/wgbh/aia/part2/2h73.html
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

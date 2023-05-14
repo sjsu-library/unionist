@@ -6,10 +6,10 @@ title: "<em>The Code of 1650, Being a Compilation of the Earliest Laws and Order
   which is added, Some Extracts from the Laws and Judicial Proceedings of New-Haven
   Colony, Commonly Called Blue Laws. </em> "
 bibliographicCitation: https://www.libertymagazine.org/article/the-beginning-of-connecticuts-blue-laws
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1825'
+dateCreated: '1825'
 description: Title Page to 1825 book about the Blue Laws of Connecticut
 language: English
 publisher: 
@@ -18,8 +18,8 @@ rights: Public Domain
 source: https://www.libertymagazine.org/article/the-beginning-of-connecticuts-blue-laws
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0297
 title: Printing of Every Kind
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08, v. 1 n. 2 p. 4"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Charles C. Burleigh
-date.created: '1833'
+dateCreated: '1833'
 description: Printing of Every Kind (advertisement)
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>The Unionist</em> 1833-08-08, v. 1 n. 2 p. 4"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

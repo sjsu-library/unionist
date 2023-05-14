@@ -2,10 +2,10 @@
 pid: unionist--image-0035
 title: Major Jack Downing
 bibliographicCitation: 
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Joseph T. Harris
-date.created: '1833'
+dateCreated: '1833'
 description: Portrait of the fictional Major Jack Downing, with a picture of Andrew
   Jackson on the wall, from the book advertised in <em>The Unionist</em>
 language: English
@@ -15,8 +15,8 @@ rights: Public Domain
 source: https://lccn.loc.gov/2003689250
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

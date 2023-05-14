@@ -2,10 +2,10 @@
 pid: unionist--image-0328
 title: Pigeons discussing synonyms
 bibliographicCitation: https://thesaurus.plus/synonyms/inveterate_liar
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: thesaurus.plus
-date.created: 
+dateCreated: 
 description: A standard meme with Thesaurus.plus, in which two pigeons assist each
   other in listing synonyms
 language: English
@@ -15,8 +15,8 @@ rights: No known restrictions
 source: https://thesaurus.plus/synonyms/inveterate_liar
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

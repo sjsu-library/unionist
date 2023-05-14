@@ -2,10 +2,10 @@
 pid: unionist--text-0025
 title: '"Who pays," asks the Advertiser'
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-08-08 p02.11
 creator: Charles C. Burleigh
-date.created: '1833-08-08'
+dateCreated: '1833-08-08'
 description: Debate with Windham Advertiser
 language: English
 publisher: The Unionist
@@ -15,7 +15,7 @@ source: The Unionist
 subject: Journalistic Debate
 type: Text
 category: Unionist full issue 1833-08-08
-article.type: 
+articleType: 
 volume: '1'
 issue: '2'
 transcription: "“Who pays?” asks the Advertiser. We of course feel deeply sensible

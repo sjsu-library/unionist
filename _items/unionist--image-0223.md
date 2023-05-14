@@ -3,10 +3,10 @@ pid: unionist--image-0223
 title: Masthead of the Genius of Temperance
 bibliographicCitation: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em>
   1833-08-07, v. 4, n.5"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: William Goodell
-date.created: '1833'
+dateCreated: '1833'
 description: Masthead of the Genius of Temperance
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em> 1
   v. 4, n.5"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

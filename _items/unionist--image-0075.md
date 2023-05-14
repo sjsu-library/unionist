@@ -6,10 +6,10 @@ bibliographicCitation: By Carol M. Highsmith - This image is available from the 
   ID highsm.11604.This tag does not indicate the copyright status of the attached
   work. A normal copyright tag is still required. See Commons:Licensing for more information.,
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=15709590
-bibliographicCitation.republished: https://en.wikipedia.org/wiki/File:LOC_Main_Reading_Room_Highsmith.jpg#/media/File:LOC_Main_Reading_Room_Highsmith.jpg
+bibliographicCitationRepublished: https://en.wikipedia.org/wiki/File:LOC_Main_Reading_Room_Highsmith.jpg#/media/File:LOC_Main_Reading_Room_Highsmith.jpg
 fullIssueSequenceNumber: 
 creator: Carol M. Highsmith
-date.created: '2009'
+dateCreated: '2009'
 description: The main reading room of the Library of Congress
 language: English
 publisher: 
@@ -18,8 +18,8 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/File:LOC_Main_Reading_Room_Highsmith.jpg#/media/File:LOC_Main_Reading_Room_Highsmith.jpg
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,11 +2,11 @@
 pid: unionist--image-0150
 title: Cover of Hannah More's <em>The Shepherd of Salisbury Plain</em>
 bibliographicCitation: https://en.wikipedia.org/wiki/Shepherd_of_Salisbury_Plain#/media/File:MoreShepherd.png
-bibliographicCitation.republished: 'Hannah More, <The Shepherd of Salisbury Plain,
+bibliographicCitationRepublished: 'Hannah More, <The Shepherd of Salisbury Plain,
   Part 2</em>. London: 1795.'
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1795'
+dateCreated: '1795'
 description: Cover of Hannah More's <em>The Shepherd of Salisbury Plain</em>
 language: English
 publisher: 
@@ -15,8 +15,8 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/Shepherd_of_Salisbury_Plain#/media/File:MoreShepherd.png
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

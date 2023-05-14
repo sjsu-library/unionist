@@ -2,10 +2,10 @@
 pid: unionist--image-0336
 title: Frederick Douglass and Text Excerpts from his Fourth of July speech
 bibliographicCitation: https://uvivoice.org/what-to-the-slave-is-the-fourth-of-july-a-contemporary-analysis
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Jada Roberts, Dahlia Ferrol, and Sabina Ferrol
-date.created: '2020'
+dateCreated: '2020'
 description: Frederick Douglass and Text Excerpts from his Fourth of July speech
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://uvivoice.org/what-to-the-slave-is-the-fourth-of-july-a-contemporary-analysis
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

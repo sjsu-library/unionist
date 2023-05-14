@@ -4,10 +4,10 @@ title: Horse lost maybe McGuffey 1863
 bibliographicCitation: 'William H. McGuffey, <em>McGuffey''s New First Eclectic Reader,
   for Young Learners</em>, Eclectic Educational Series. (Cincinnati and New York:
   Van Antwerp, Bragg and Co,, 1863), p. 69'
-bibliographicCitation.republished: https://library.indstate.edu/about/units/rbsc/floyd/mcguffey.html
+bibliographicCitationRepublished: https://library.indstate.edu/about/units/rbsc/floyd/mcguffey.html
 fullIssueSequenceNumber: 
 creator: William H. McGuffey
-date.created: '1863'
+dateCreated: '1863'
 description: An illustration of a horse, from a McGuffey Reader
 language: English
 publisher: 
@@ -18,8 +18,8 @@ source: 'William H. McGuffey, <em>McGuffey''s New First Eclectic Reader, for You
   Bragg and Co,, 1863), p. 69'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

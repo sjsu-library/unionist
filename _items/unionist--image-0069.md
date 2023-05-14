@@ -2,10 +2,10 @@
 pid: unionist--image-0069
 title: Hester_Thrale
 bibliographicCitation: https://commons.wikimedia.org/w/index.php?curid=4606080
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Joshua Reynolds
-date.created: '1777'
+dateCreated: '1777'
 description: Portrait of Hester Thrale and her daughter Hester
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=4606080
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

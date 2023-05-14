@@ -2,10 +2,10 @@
 pid: unionist--text-0006
 title: Negative Reception for The Unionist
 bibliographicCitation: "<em>Columbian Register</em> (New Haven), August 24, 1833"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: '"Andover"'
-date.created: '1833-08-24'
+dateCreated: '1833-08-24'
 description: Negative Reception for The Unionist
 language: English
 publisher: Columbian Register
@@ -15,7 +15,7 @@ source: Columbian Register
 subject: Criticism of The Unionist
 type: Text
 category: Negative notice
-article.type: 
+articleType: 
 volume: 
 issue: 
 transcription: " <p>“FOR THE REGISTER”</p><p>“THE UNIONIST” </p><p>“A Distinguished

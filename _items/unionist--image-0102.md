@@ -2,12 +2,12 @@
 pid: unionist--image-0102
 title: Leathertools
 bibliographicCitation: https://en.wikipedia.org/wiki/Leather#/media/File:Leathertools.jpg
-bibliographicCitation.republished: By Scott Bauer - This image was released by the
+bibliographicCitationRepublished: By Scott Bauer - This image was released by the
   Agricultural Research Service, the research agency of the United States Department
   of Agriculture, with the ID K7224-2 (next)., Public Domain, https://commons.wikimedia.org/w/index.php?curid=504542
 fullIssueSequenceNumber: 
 creator: Scott Bauer
-date.created: '2012'
+dateCreated: '2012'
 description: A variety of leather products and leather-working tools
 language: English
 publisher: 
@@ -16,8 +16,8 @@ rights: Wikimedia Commons
 source: https://en.wikipedia.org/wiki/Leather#/media/File:Leathertools.jpg
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

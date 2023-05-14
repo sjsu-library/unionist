@@ -2,10 +2,10 @@
 pid: unionist--image-0071
 title: BarberPlainfield
 bibliographicCitation: http://connecticuthistory.org/plainfield-academy-grooming-connecticut-scholars-in-the-18th-and-19th-centuries/
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: John Warner Barber (1798-1885)
-date.created: ca. 1836
+dateCreated: ca. 1836
 description: Engraving of Plainfield, Connecticut ca. 1836
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: http://connecticuthistory.org/plainfield-academy-grooming-connecticut-sc
 source: http://connecticuthistory.org/plainfield-academy-grooming-connecticut-scholars-in-the-18th-and-19th-centuries/
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

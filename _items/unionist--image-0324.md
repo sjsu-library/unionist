@@ -2,10 +2,10 @@
 pid: unionist--image-0324
 title: Title Page for <em>The Unionist</em> 1833-03-13, v.1, n.32, p.1
 bibliographicCitation: "<em>The Unionist</em> 1833-03-13, v.1, n.32, p.1"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Charles C. Burleigh
-date.created: '1834'
+dateCreated: '1834'
 description: Title Page for <em>The Unionist</em> 1833-03-13, v.1, n.32, p.1
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>The Unionist</em> 1833-03-13, v.1, n.32, p.1"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

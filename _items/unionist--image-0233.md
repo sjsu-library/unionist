@@ -2,10 +2,10 @@
 pid: unionist--image-0233
 title: Masthead of <em>The Liberator</em>
 bibliographicCitation: "<em>The Liberator</em> 1833-08-03"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833'
+dateCreated: '1833'
 description: "<em>The Liberator</em> 1833-08-03"
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>The Liberator</em> August 3, 1833"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

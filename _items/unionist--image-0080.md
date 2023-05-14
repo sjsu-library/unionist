@@ -3,10 +3,10 @@ pid: unionist--image-0080
 title: Lord Byron in Early Youth Godey's 1833-09
 bibliographicCitation: "<em>The Lady's Book: A Magazine of Fashion and the Arts</em>.
   Volume 6. Philadelphia: L.A. Godey and Company, 1833."
-bibliographicCitation.republished: https://archive.org/details/godeys-1833-v-7/mode/2up
+bibliographicCitationRepublished: https://archive.org/details/godeys-1833-v-7/mode/2up
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833'
+dateCreated: '1833'
 description: Portrait of the young Lord Byron
 language: English
 publisher: 
@@ -15,8 +15,8 @@ rights: Public Domain
 source: https://archive.org/details/godeys-1833-v-7/mode/2up
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

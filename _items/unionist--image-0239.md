@@ -3,10 +3,10 @@ pid: unionist--image-0239
 title: 6 shot .36 caliber percussion pepperbox by Allen & Thurber (Worcester). Barrel
   flute bears 1837 patent date, hammer is marked "Allen's Patent"
 bibliographicCitation: By Hatchetfish - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1982891
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Hatchetfish
-date.created: '1837'
+dateCreated: '1837'
 description: Pistol, 1837
 language: English
 publisher: 
@@ -15,8 +15,8 @@ rights: CC BY-SA 3.0
 source: By Hatchetfish - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1982891
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

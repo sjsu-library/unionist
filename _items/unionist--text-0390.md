@@ -2,10 +2,10 @@
 pid: unionist--text-0390
 title: Reference to a series of articles against Masonry in <em>The Unionist</em>
 bibliographicCitation: "<em>Anti-Masonic Intelligencer</em> 1834-05-06"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1834-05-06'
+dateCreated: '1834-05-06'
 description: Applauds Anti-Masonic content in <em>The Unionist</em>
 language: English
 publisher: "<em>Anti-Masonic Intelligencer</em> 1834-05-06"
@@ -15,12 +15,12 @@ source: "<em>Anti-Masonic Intelligencer</em> 1834-05-06"
 subject: Allied Reform Movements - Anti-Masonry; The Unionist
 type: Text
 category: Positive notice
-article.type: 
+articleType: 
 volume: 
 issue: 
 transcription: We are glad to see, in “The Unionist,” of Windham County, the second
-  of a series<br>of numbers well written, and designed to expose the corruptions of
-  Freemasonry.<br>This is candid, just and patriotic. Let it go on.<br>
+  of a series <br>of numbers well written, and designed to expose the corruptions
+  of Freemasonry. <br>This is candid, just and patriotic. Let it go on. <br>
 scholarlyNotes: 
 commentary: My educated guess is that this (at least) two-part series on Anti-Masonry
   would have appeared in the latter issues in April, such as April 17 (1:37) and April

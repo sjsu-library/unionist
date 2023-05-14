@@ -2,10 +2,10 @@
 pid: unionist--text-0245
 title: News Item about Bank Crisis
 bibliographicCitation: "<em>The Unionist</em> 1834-03-13"
-bibliographicCitation.republished: "<em>Boston Atlas</em>"
+bibliographicCitationRepublished: "<em>Boston Atlas</em>"
 fullIssueSequenceNumber: 1834-03-13 p.02.09
 creator: "<em>Boston Atlas</em>"
-date.created: '1834-03-13'
+dateCreated: '1834-03-13'
 description: Petulant behavior from Andrew Jackson during Banking crisis
 language: English
 publisher: The Unionist
@@ -15,13 +15,13 @@ source: "<em>The Unionist</em>"
 subject: National News
 type: Text
 category: Unionist full issue 1834-03-13
-article.type: 
+articleType: 
 volume: '1'
 issue: '32'
 transcription: Letters from Washington state that the President will not nominate
-  any new Bank<br>Directors to the Senate, and also, that in consequence of the rejection
-  of the<br>directors, nominated, he will not submit the appointment of Mr. Taney
-  to the<br>consideration of the Senate.—<br><em>Boston Atlas.</em>
+  any new Bank <br>Directors to the Senate, and also, that in consequence of the rejection
+  of the <br>directors, nominated, he will not submit the appointment of Mr. Taney
+  to the <br>consideration of the Senate.— <br><em>Boston Atlas.</em>
 scholarlyNotes: 
 commentary: Chief Justice Roger B. Taney, photograph by Mathew Brady. Author of the
   infamous Dred Scott decision, and a life-long advocate of colonizationism.

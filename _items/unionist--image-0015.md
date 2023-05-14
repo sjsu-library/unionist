@@ -2,10 +2,10 @@
 pid: unionist--image-0015
 title: John Greenleaf Whittier
 bibliographicCitation: https://www.nps.gov/people/john-greenleaf-whittier.htm
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: ca. 1835
+dateCreated: ca. 1835
 description: Drawing of the young John Greenlead Whittier (1807-1892)
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://www.nps.gov/people/john-greenleaf-whittier.htm
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

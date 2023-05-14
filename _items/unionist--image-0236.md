@@ -3,10 +3,10 @@ pid: unionist--image-0236
 title: Masthead of <em>The Connecticut Courant</em>
 bibliographicCitation: Masthead of <em>The Connecticut Courant</em>, 1833-09-02, v.
   69, n. 3580
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833'
+dateCreated: '1833'
 description: Masthead of <em>The Connecticut Courant</em>, 1833-09-02, v. 69, n. 3580
 language: English
 publisher: 
@@ -15,8 +15,8 @@ rights: Public Domain
 source: Masthead of <em>The Connecticut Courant</em>, 1833-09-02, v. 69, n. 3580
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0323
 title: Battle of Cape St. Vincent
 bibliographicCitation: By Antoine Léon Morel-Fatio, https://commons.wikimedia.org/w/index.php?curid=4369505
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Antoine Léon Morel-Fatio (1810-1871)
-date.created: '1842'
+dateCreated: '1842'
 description: Naval victory for Liberal forces in the Portuguese Civil War, known as
   the War of the Two Brothers (Guerra dos Dois Irmãos)
 language: English
@@ -15,8 +15,8 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=4369505
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

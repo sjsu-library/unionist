@@ -3,10 +3,10 @@ pid: unionist--image-0019
 title: George Benson
 bibliographicCitation: 'Charles A. Sheffield, editor <em>History of Florence, Massachusetts</em>,
   Florence MA: Published by editor, 1895. p. 68; http://scua.library.umass.edu/exhibits/hudson/Northampton.html'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1845'
+dateCreated: '1845'
 description: 'George W. Benson was one of the endorsors of the Canterbury Female Academy,
   and most famous as the co-founder of the Northampton Association. He was a brother-in-law
   of William Lloyd Garrison. '
@@ -18,8 +18,8 @@ source: 'Charles A. Sheffield, editor <em>History of Florence, Massachusetts</em
   Florence MA: Published by editor, 1895. p. 68; http://scua.library.umass.edu/exhibits/hudson/Northampton.html'
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -3,10 +3,10 @@ pid: unionist--image-0158
 title: '"<em>Enterprise</em> on her fast trip to Louisville, 1815"'
 bibliographicCitation: "<em>Lloyd&#039;s steamboat directory, and disasters on the
   western waters</em> (Philadelphia: Jasper Harding, 1856), p. 46."
-bibliographicCitation.republished: https://commons.wikimedia.org/w/index.php?curid=1060577988
+bibliographicCitationRepublished: https://commons.wikimedia.org/w/index.php?curid=1060577988
 fullIssueSequenceNumber: 
 creator: James T. Lloyd
-date.created: '1856'
+dateCreated: '1856'
 description: '"<em>Enterprise</em> on her fast trip to Louisville, 1815"'
 language: English
 publisher: 
@@ -15,8 +15,8 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=1060577988
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

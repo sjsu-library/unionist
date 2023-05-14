@@ -2,10 +2,10 @@
 pid: unionist--image-0088
 title: December 19 Unionist page 2 Lib of Cong
 bibliographicCitation: "<em>The Unionist</em> 1:20 (December 19 1833)"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Charles C. Burleigh; William H. Burleigh
-date.created: '1833'
+dateCreated: '1833'
 description: Page Two of <em>The Unionist</em> 1:20, 1833-12-19
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: Library of Congress
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

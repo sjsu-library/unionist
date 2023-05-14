@@ -3,11 +3,11 @@ pid: unionist--image-0201
 title: 'Enameled container and lid with anti-slavery slogan: "May the Enemies of Liberty,
   Feel the Evils of Slavery"'
 bibliographicCitation: https://collections.si.edu/search/record/ark:/65665/fd5c9c8c487349c439da88eb4093c00eacd
-bibliographicCitation.republished: Collection of the Smithsonian National Museum of
+bibliographicCitationRepublished: Collection of the Smithsonian National Museum of
   African American History and Culture; Object number 2011.155.286ab
 fullIssueSequenceNumber: 
 creator: 
-date.created: 1775-1791
+dateCreated: 1775-1791
 description: 'Enameled container and lid with anti-slavery slogan: "May the Enemies
   of Liberty, Feel the Evils of Slavery"'
 language: English
@@ -17,8 +17,8 @@ rights: No known restrictions
 source: https://collections.si.edu/search/record/ark:/65665/fd5c9c8c487349c439da88eb4093c00eacd
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

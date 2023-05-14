@@ -3,10 +3,10 @@ pid: unionist--text-0410
 title: Anti-Slavery Meeting at Abingdon in Pomfret
 bibliographicCitation: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em>
   1833-10-30, v. 4, n.17"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833-10-30'
+dateCreated: '1833-10-30'
 description: Anti-Slavery Meeting at Abingdon in Pomfret
 language: English
 publisher: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em> 1833-10-30,
@@ -18,7 +18,7 @@ source: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em> 1
 subject: Abolition
 type: Text
 category: Unionist content
-article.type: 
+articleType: 
 volume: '1'
 issue: '13'
 transcription: The Anti-Slavery cause seems to be gaining ground in the region adjacent

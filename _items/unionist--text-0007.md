@@ -2,10 +2,10 @@
 pid: unionist--text-0007
 title: Positive Reception for The Unionist
 bibliographicCitation: "<em>The Liberator</em> August 3, 1833"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Liberator
-date.created: '1833-08-03'
+dateCreated: '1833-08-03'
 description: Positive Reception for The Unionist
 language: English
 publisher: The Liberator
@@ -15,7 +15,7 @@ source: The Liberator
 subject: The Unionist
 type: Text
 category: Positive notice
-article.type: original
+articleType: original
 volume: 
 issue: 
 transcription: The Unionist.’ Such is the title of a new paper just established in

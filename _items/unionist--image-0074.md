@@ -2,10 +2,10 @@
 pid: unionist--image-0074
 title: LibraryOfCongressCapitolBuilding1853
 bibliographicCitation: https://www.loc.gov/pictures/item/2010649528/
-bibliographicCitation.republished: https://en.wikipedia.org/wiki/Library_of_Congress#/media/File:The_Library_of_Congress_in_the_U.S._Capitol_Building_LCCN2010649528.jpg
+bibliographicCitationRepublished: https://en.wikipedia.org/wiki/Library_of_Congress#/media/File:The_Library_of_Congress_in_the_U.S._Capitol_Building_LCCN2010649528.jpg
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1853'
+dateCreated: '1853'
 description: A sketch of the Library of Congress when it was still housed in the U.S.
   Capitol Building
 language: English
@@ -15,8 +15,8 @@ rights: Public Domain
 source: https://www.loc.gov/pictures/item/2010649528/
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

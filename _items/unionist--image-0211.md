@@ -3,10 +3,10 @@ pid: unionist--image-0211
 title: Anti-Masonic Almanac for the Year 1833
 bibliographicCitation: 'Edward Giddins, <em>Anti Masonic Almanac for the Year 1833</em>
   (Utica: William Williams, 1832)'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Edward Giddins
-date.created: '1832'
+dateCreated: '1832'
 description: Anti-Masonic Almanac for the Year 1833
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: 'Edward Giddins, <em>Anti Masonic Almanac for the Year 1833</em> (Utica:
   Williams, 1832)'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

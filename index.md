@@ -45,11 +45,11 @@ show_title: false
     </a>
 
 
-    <a class='card-link' href="explore/">
+    <a class='card-link' href="map/">
       <div class="feature-card">
-        <h3 class="card-header">Featured Content</h3>
+        <h3 class="card-header">Map <em>The Unionist's</em> Influence</h3>
           <p class="card-text">
-          Featured content, edited in index.md
+          Newspapers from Philadelphia to Vermont reprinted articles from <em>The Unionist</em> for their readers. Follow the spread of Unionist content throughout the Northeast.
           </p>
         </div>
       </a>

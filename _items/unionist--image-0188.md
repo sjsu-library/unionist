@@ -4,10 +4,10 @@ title: 1838 woodcut of the kidnapping of a free black woman to be sold into slav
 bibliographicCitation: "<em>The American Anti-Slavery Almanac for 1838</em>, v. 1,
   n. 3 (Boston: The American Anti-Slavery Society, Isaac Knapp. printer, 1838), p.
   7."
-bibliographicCitation.republished: https://publicdomainreview.org/collection/the-american-anti-slavery-almanac-for-1838
+bibliographicCitationRepublished: https://publicdomainreview.org/collection/the-american-anti-slavery-almanac-for-1838
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1838'
+dateCreated: '1838'
 description: 1838 woodcut of the kidnapping of a free black woman to be sold into
   slavery.
 language: English
@@ -17,8 +17,8 @@ rights: Public Domain
 source: https://publicdomainreview.org/collection/the-american-anti-slavery-almanac-for-1838
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

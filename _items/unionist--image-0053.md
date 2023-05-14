@@ -2,10 +2,10 @@
 pid: unionist--image-0053
 title: Avery's Rotary Engine.Sc.Am.1894-03-17 p.175
 bibliographicCitation: Scientific American, 1894-03-17 p.175
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1894'
+dateCreated: '1894'
 description: A schematic drawing of William Avery's most important invention, his
   rotary engine
 language: English
@@ -15,8 +15,8 @@ rights: unsure
 source: Scientific American
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0058
 title: June 21 Liberator
 bibliographicCitation: "<em>The Liberator</em> 4:25:100, June 21, 1834"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1834'
+dateCreated: '1834'
 description: Narrow Masthead
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>The Liberator</em> 4:25:100, June 21, 1834"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

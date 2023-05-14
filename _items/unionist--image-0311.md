@@ -4,10 +4,10 @@ title: Old Hickory
 bibliographicCitation: By James Akin - Library of Congress Prints and Photographs
   Division Washington, D.C. 20540 USA / https://www.loc.gov/pictures/item/2002708979/,
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=19202055
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: James Akins
-date.created: '1824'
+dateCreated: '1824'
 description: One of the iconic images of Jackson as "Old Hickory"
 language: English
 publisher: 
@@ -16,8 +16,8 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=19202055
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

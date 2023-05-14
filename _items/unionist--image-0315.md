@@ -3,10 +3,10 @@ pid: unionist--image-0315
 title: Brief Biography of James Holbrook
 bibliographicCitation: 'Appletons'' Cyclopedia of American Biography; Volume: Vol.
   III, p. 231'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1888'
+dateCreated: '1888'
 description: Brief Biography of James Holbrook
 language: English
 publisher: 
@@ -15,8 +15,8 @@ rights: Public Domain
 source: 'Appletons'' Cyclopedia of American Biography; Volume: Vol. III, p. 231'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

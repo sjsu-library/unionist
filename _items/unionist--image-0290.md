@@ -3,10 +3,10 @@ pid: unionist--image-0290
 title: Portrait of Thomas Campbell (1777-1844)
 bibliographicCitation: Portrait of Thomas Campbell, Sir Thomas Lawrence, Public Domain,
   https://commons.wikimedia.org/w/index.php?curid=6370830
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Thomas Lawrence (1769-1830)
-date.created: '1810'
+dateCreated: '1810'
 description: Portrait of the poet Thomas Campbell (1777-1844)
 language: English
 publisher: 
@@ -15,8 +15,8 @@ rights: Public Domain
 source: Portrait of Thomas Campbell, Sir Thomas Lawrence, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6370830
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

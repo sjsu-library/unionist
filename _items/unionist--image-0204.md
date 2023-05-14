@@ -2,10 +2,10 @@
 pid: unionist--image-0204
 title: Grave of Rufus Adams (1774-1840)
 bibliographicCitation: https://www.findagrave.com/memorial/19017449/rufus-adams
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Carolyn Rockel
-date.created: '2007'
+dateCreated: '2007'
 description: Grave of Rufus Adams (1774-1840)
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: No known restrictions
 source: https://www.findagrave.com/memorial/19017449/rufus-adams
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0246
 title: Gravestone of William H. Putnam and Eliza Day Putnam
 bibliographicCitation: https://www.findagrave.com/memorial/23071776/william-h.-putnam?_gl=1*1w66wsp*_ga*MTUyMjQxNDg5NS4xNjU5NTYyOTE2*_ga_4QT8FMEX30*MGNkZGYyMmUtMzNiYS00ZmJhLTkxMDEtZDZiODBhYzczMWMyLjUxLjEuMTY4MjU2NDcyMS4yMi4wLjA.
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Nate Bramlett
-date.created: '1889'
+dateCreated: '1889'
 description: Gravestone of William H. Putnam and Eliza Day Putnam
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Permission Granted
 source: https://www.findagrave.com/memorial/23071776/william-h.-putnam?_gl=1*1w66wsp*_ga*MTUyMjQxNDg5NS4xNjU5NTYyOTE2*_ga_4QT8FMEX30*MGNkZGYyMmUtMzNiYS00ZmJhLTkxMDEtZDZiODBhYzczMWMyLjUxLjEuMTY4MjU2NDcyMS4yMi4wLjA.
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

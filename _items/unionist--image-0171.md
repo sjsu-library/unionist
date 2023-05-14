@@ -3,10 +3,10 @@ pid: unionist--image-0171
 title: 1830 Census page showing Daniel Bennett
 bibliographicCitation: 'Ancestry.com. 1830 United States Federal Census [database
   on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2010.'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1830'
+dateCreated: '1830'
 description: Page from 1830 Census showing Daniel Bennett
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: 'Ancestry.com. 1830 United States Federal Census [database on-line]. Pro
   UT, USA: Ancestry.com Operations, Inc., 2010.'
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

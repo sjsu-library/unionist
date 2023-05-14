@@ -2,10 +2,10 @@
 pid: unionist--text-0176
 title: Married
 bibliographicCitation: "<em>The Unionist</em> 1833-12-19"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-12-19 p.03.22
 creator: 
-date.created: '1833-12-19'
+dateCreated: '1833-12-19'
 description: Wedding of George W. Benson and Catherine Stetson
 language: English
 publisher: The Unionist
@@ -15,11 +15,11 @@ source: The Unionist
 subject: Abolition; Canterbury Female Academy
 type: Text
 category: Unionist full issue 1833-12-19
-article.type: 
+articleType: 
 volume: '1'
 issue: '20'
 transcription: MARRIED, At Waltham, Mass., on Tuesday morning 16<sup>th</sup>inst.
-  by Rev. Bernard Whitman; Mr. Geo. W. Benson, of Providence, R.I., to Miss<br>Catharine
+  by Rev. Bernard Whitman; Mr. Geo. W. Benson, of Providence, R.I., to Miss <br>Catharine
   Stetson, of the former place.
 scholarlyNotes: 
 commentary: George W. Benson was one of the endorsors of the Canterbury Female Academy,

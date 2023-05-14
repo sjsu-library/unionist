@@ -11,10 +11,10 @@ bibliographicCitation: 'By &lt;a href=&quot;https://en.wikipedia.org/wiki/en:Joh
   &lt;a rel=&quot;nofollow&quot; class=&quot;external text&quot; href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;CC-BY-4.0&lt;/a&gt;,
   <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution
   4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=36374692">Link</a>'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: John Chester Buttre (1821-1893)
-date.created: 
+dateCreated: 
 description: Engraving of William Alexander Alcott, by John Chester Buttre
 language: English
 publisher: 
@@ -32,8 +32,8 @@ rights: 'By &lt;a href=&quot;https://en.wikipedia.org/wiki/en:John_Chester_Buttr
 source: 
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--text-0205
 title: 'Wanted: 50 Cords of Oak Bark'
 bibliographicCitation: "<em>The Unionist</em> 1833-12-19"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-12-19 p.03.51
 creator: 
-date.created: '1833-12-19'
+dateCreated: '1833-12-19'
 description: Advertisement for Benson and Chace
 language: English
 publisher: The Unionist
@@ -15,12 +15,13 @@ source: The Unionist
 subject: Advertisements
 type: Text
 category: Unionist full issue 1833-12-19
-article.type: 
+articleType: 
 volume: '1'
 issue: '20'
 transcription: <p align="center">WANTED,</p><p align="center">50 CORDS OF OAK BARK.</p><p>  BENSON
-  &amp; CHACE, will pay cash and the market price for oak bark delivered<br>  at their
-  manufactory in North Providence, one mile north-east of<br>  Olneyville.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  1<br></p>
+  &amp; CHACE, will pay cash and the market price for oak bark delivered <br>  at
+  their manufactory in North Providence, one mile north-east of <br>  Olneyville.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br>  1 <br></p>
 scholarlyNotes: 
 commentary: 
 relatedPeople: George Benson, Jr; William Chace

@@ -5,10 +5,10 @@ bibliographicCitation: 'Henry Ross Gall and William George Jordan, <em>One Hundr
   Years of Fire Insurance: Being a History of the Ætna Insurance Company, Hartford,
   Connecticut, 1819-1919</em> (Hartford: Ætna Insurance Company, 1919), facing p.
   74'
-bibliographicCitation.republished: https://play.google.com/store/books/details?id=5LvvzIWmySMC&rdid=book-5LvvzIWmySMC&rdot=1
+bibliographicCitationRepublished: https://play.google.com/store/books/details?id=5LvvzIWmySMC&rdid=book-5LvvzIWmySMC&rdot=1
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1819'
+dateCreated: '1819'
 description: 1819 Ætna Symbol
 language: English
 publisher: 
@@ -19,8 +19,8 @@ source: 'Henry Ross Gall and William George Jordan, <em>One Hundred Years of Fir
   1819-1919</em> (Hartford: Ætna Insurance Company, 1919), facing p. 74'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

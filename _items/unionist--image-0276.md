@@ -7,10 +7,10 @@ bibliographicCitation: 'Zerah Colburn, <em>A memoir of Zerah Colburn: written by
   patronage; his return to this country, and the causes which led him to his present
   profession; with his peculiar methods of calculation</em> (Springfield: G. and C.
   Merriam, 1833).'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Zerah Colburn
-date.created: '1833'
+dateCreated: '1833'
 description: Title Page of Zerah Colburn’s <em>Memoirs</em>
 language: English
 publisher: 
@@ -23,8 +23,8 @@ source: 'Zerah Colburn, <em>A memoir of Zerah Colburn: written by himself. Conta
   with his peculiar methods of calculation</em> (Springfield: G. and C. Merriam, 1833).'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

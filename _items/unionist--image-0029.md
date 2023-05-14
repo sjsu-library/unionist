@@ -2,10 +2,10 @@
 pid: unionist--image-0029
 title: Stray Steer
 bibliographicCitation: https://idahonews.com/news/local/stray-steer-shows-up-in-eagle-neighborhood
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Eagle, Idaho Police Department
-date.created: '2022'
+dateCreated: '2022'
 description: A stray steer is not just an olde tyme problem
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: https://idahonews.com/news/local/stray-steer-shows-up-in-eagle-neighborh
 source: https://idahonews.com/news/local/stray-steer-shows-up-in-eagle-neighborhood
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

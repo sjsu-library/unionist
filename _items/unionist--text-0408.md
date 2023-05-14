@@ -3,10 +3,10 @@ pid: unionist--text-0408
 title: Concerning the legal arguments of William Jay
 bibliographicCitation: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em>
   1833-10-16, v. 4, n.15"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833-10-16'
+dateCreated: '1833-10-16'
 description: Concerning the legal arguments of William Jay
 language: English
 publisher: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em> 1833-10-16,
@@ -18,7 +18,7 @@ source: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em> 1
 subject: Prudence Crandall; Black Law; Canterbury Female Academy
 type: Text
 category: Unionist content
-article.type: 
+articleType: 
 volume: 
 issue: 
 transcription: The Unionist contains a letter of Rev. S.J. May, enclosing a communication

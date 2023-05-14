@@ -2,10 +2,10 @@
 pid: unionist--text-0029
 title: The Unionist will be taken, (says our neighbor,) by all the ladies in the county.
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-08-08 p02.15
 creator: Charles C. Burleigh
-date.created: '1833-08-08'
+dateCreated: '1833-08-08'
 description: Debate with Windham Advertiser
 language: English
 publisher: The Unionist
@@ -15,7 +15,7 @@ source: The Unionist
 subject: Journalistic Debate; Allied Reform Movements - Feminism
 type: Text
 category: Unionist full issue 1833-08-08
-article.type: 
+articleType: 
 volume: '1'
 issue: '2'
 transcription: The Unionist will be taken, (says our neighbor,) by all the ladies

@@ -2,10 +2,10 @@
 pid: unionist--image-0346
 title: August 8 1833 Unionist page 2 NYHS
 bibliographicCitation: "<em>The Unionist</em> 1:2 (August 8 1833)"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Charles C. Burleigh; William H. Burleigh
-date.created: '1833'
+dateCreated: '1833'
 description: Page Two of <em>The Unionist</em> 1:2, 1833-08-09
 language: English
 publisher: 
@@ -15,7 +15,7 @@ source: New York Historical Society
 subject: 
 type: image
 category: Image
-article.type: 
+articleType: 
 volume: 
 issue: 
 transcription: 

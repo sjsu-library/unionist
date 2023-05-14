@@ -5,10 +5,10 @@ bibliographicCitation: Shick, Tom W. “A Quantitative Analysis of Liberian Colo
   from 1820 to 1843 with Special Reference to Mortality.” <em>The Journal of African
   History</em>, vol. 12, no. 1, 1971, pp. 45–59. JSTOR, http://www.jstor.org/stable/180566.
   Accessed 4 May 2023., p. 47
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Tom W. Shick
-date.created: '1971'
+dateCreated: '1971'
 description: Table showing the very slow rate of emigration to Liberia under the auspices
   of the American Colonization Society
 language: English
@@ -21,8 +21,8 @@ source: Shick, Tom W. “A Quantitative Analysis of Liberian Colonization from 1
   4 May 2023., p. 47
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

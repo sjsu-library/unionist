@@ -2,10 +2,10 @@
 pid: unionist--image-0281
 title: Winding River
 bibliographicCitation: By Louis Aston Knight - the-athenaeum.org, Public Domain, https://commons.wikimedia.org/w/index.php?curid=75946266
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Louis Aston Knight (1873-1948)
-date.created: ca. 1910
+dateCreated: ca. 1910
 description: Painting of a rustic winding river
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: By Louis Aston Knight - the-athenaeum.org, Public Domain, https://commons.wikimedia.org/w/index.php?curid=75946266
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

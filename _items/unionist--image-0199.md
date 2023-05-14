@@ -3,10 +3,10 @@ pid: unionist--image-0199
 title: Portrait of William Lloyd Garrison, by African-American artist Robert Douglass,
   Jr.
 bibliographicCitation: https://www.theliberatorfiles.com/
-bibliographicCitation.republished: Historical Society of Pennsylvania
+bibliographicCitationRepublished: Historical Society of Pennsylvania
 fullIssueSequenceNumber: 
 creator: Robert Douglass, Jr.
-date.created: '1835'
+dateCreated: '1835'
 description: Portrait of William Lloyd Garrison, by African-American artist Robert
   Douglass, Jr., from 1835
 language: English
@@ -16,8 +16,8 @@ rights: Public Domain
 source: https://www.theliberatorfiles.com/
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

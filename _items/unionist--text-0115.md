@@ -2,10 +2,10 @@
 pid: unionist--text-0115
 title: Treatment of the Sun in London
 bibliographicCitation: "<em>The Unionist</em> 1833-09-05"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-09-05 p.04.41
 creator: 
-date.created: '1833-09-05'
+dateCreated: '1833-09-05'
 description: Mistreatment of the sun in a dark place like London
 language: English
 publisher: The Unionist
@@ -15,12 +15,13 @@ source: The Unionist
 subject: Miscellaneous Filler; Humor
 type: Text
 category: Unionist full issue 1833-09-05
-article.type: 
+articleType: 
 volume: '1'
 issue: '6'
 transcription: TREATMENT OF THE SUN IN LONDON.—Mr. Matthews says ”no wonder that the
-  sun seldom<br>deigns to shine in town, while there is no place in the world where
-  he is so<br>ill-treated; for even when he rises there is nobody up to receive him.”<br>
+  sun seldom deigns to shine in town, while there is no place in the world where he
+  is so <br>ill-treated; for even when he rises there is nobody up to receive him.”
+  <br>
 scholarlyNotes: 
 commentary: 
 relatedPeople: 

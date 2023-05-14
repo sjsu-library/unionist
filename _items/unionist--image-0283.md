@@ -4,11 +4,11 @@ title: Uncle Tom and Eva in the Garden
 bibliographicCitation: 'Harriet Beecher Stowe, <em>Uncle Tom''s Cabin; or, Life Among
   the Lowly</em>. Illustrated Edition. Complete in One Volume. Original Designs by
   Billings; Engraved by Baker and Smith. (Boston: John P. Jewett and Company, 1853)'
-bibliographicCitation.republished: 'Jo-Ann Morgan, <em>Illustrating</em> Uncle Tom''s
+bibliographicCitationRepublished: 'Jo-Ann Morgan, <em>Illustrating</em> Uncle Tom''s
   Cabin; Digital Humanities project accessible here: http://utc.iath.virginia.edu/interpret/exhibits/morgan/morgan.html'
 fullIssueSequenceNumber: 
 creator: Hammatt Billings
-date.created: '1852'
+dateCreated: '1852'
 description: Uncle Tom and Eva in the Garden
 language: English
 publisher: 
@@ -19,8 +19,8 @@ source: 'Harriet Beecher Stowe, <em>Uncle Tom''s Cabin; or, Life Among the Lowly
   by Baker and Smith. (Boston: John P. Jewett and Company, 1853)'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

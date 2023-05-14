@@ -66,7 +66,7 @@
 
 
       {%- capture item_div_no_thumb -%}
-        "<div class='gallery-item no-thumb {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect container'><div class ='gallery_excerpt row'><div class ='col-4 excerpt-image'><img class='text-thumb' src={{tn}}></div><div class='col-8 excerpt_text'><h3></h3><p class='description'></p></div></div><div class='overlay'><p class='info'></p></div></div></a></div>"
+        "<div class='gallery-item no-thumb {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect container'><div class ='gallery_excerpt row'><div class ='col-sm-4 excerpt-image'><img class='text-thumb' src={{tn}}></div><div class='col-sm-8 excerpt_text'><h3></h3><p class='description'></p></div></div><div class='overlay'><p class='info'></p></div></div></a></div>"
       {%- endcapture -%}
       var title = '{{ item.title | escape }}'
       var titleFixed = title.replaceAll('&lt;', '<').replaceAll('&gt;', '>');

@@ -3,10 +3,10 @@ pid: unionist--image-0235
 title: Masthead of <em>The Schenectady Cabinet</em>
 bibliographicCitation: 'Masthead of <em>The Schenectady Cabinet</em>, 1833-08-07,
   v. 23, n. 1204 (old series); v. 4, n.175 (new series) '
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833'
+dateCreated: '1833'
 description: 'Masthead of <em>The Schenectady Cabinet</em>, 1833-08-07, v. 23, n.
   1204 (old series); v. 4, n.175 (new series) '
 language: English
@@ -17,8 +17,8 @@ source: 'Masthead of <em>The Schenectady Cabinet</em>, 1833-08-07, v. 23, n. 120
   (old series); v. 4, n.175 (new series) '
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

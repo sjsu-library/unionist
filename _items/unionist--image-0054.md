@@ -2,10 +2,10 @@
 pid: unionist--image-0054
 title: IsaacMcKimRembrandtPeale
 bibliographicCitation: By Rembrandt Peale - Find a Grave, Public Domain, https://commons.wikimedia.org/w/index.php?curid=23184516
-bibliographicCitation.republished: https://en.wikipedia.org/wiki/Isaac_McKim#/media/File:IsaacMcKim.jpg
+bibliographicCitationRepublished: https://en.wikipedia.org/wiki/Isaac_McKim#/media/File:IsaacMcKim.jpg
 fullIssueSequenceNumber: 
 creator: Rembrandt Peale (1778-1860)
-date.created: '1833'
+dateCreated: '1833'
 description: A portrait from the 1830s of Isaac McKim
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/Isaac_McKim#/media/File:IsaacMcKim.jpg
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

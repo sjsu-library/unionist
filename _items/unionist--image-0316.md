@@ -4,10 +4,10 @@ title: Illustration of a man on horseback losing his balance
 bibliographicCitation: 'James Holbrook, <em>Ten Years Among the Mail Bags: Or, Notes
   from the Diary of a Special Agent of the Post-Office Department. New York: Loomis
   National Library Association, 1888.'
-bibliographicCitation.republished: https://play.google.com/store/books/details?id=mqxLAAAAYAAJ&rdid=book-mqxLAAAAYAAJ&rdot=1
+bibliographicCitationRepublished: https://play.google.com/store/books/details?id=mqxLAAAAYAAJ&rdid=book-mqxLAAAAYAAJ&rdot=1
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1888'
+dateCreated: '1888'
 description: 'Illustration of a man on horseback losing his balance, from James Holbrook,
   <em>Ten Years Among the Mail Bags: Or, Notes from the Diary of a Special Agent of
   the Post-Office Department. New York: Loomis National Library Association, 1888.'
@@ -20,8 +20,8 @@ source: 'James Holbrook, <em>Ten Years Among the Mail Bags: Or, Notes from the D
   Association, 1888.'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

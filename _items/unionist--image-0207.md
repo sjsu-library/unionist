@@ -3,10 +3,10 @@ pid: unionist--image-0207
 title: 'The Drunkard''s Progress: from the first glass to the grave'
 bibliographicCitation: Nathaniel Currier, <em>The Drunkard's Progress</em>, Lithograph,
   held by The Library of Congress, 1846.  https://commons.wikimedia.org/w/index.php?curid=4174669
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Nathaniel Currier
-date.created: '1846'
+dateCreated: '1846'
 description: 'The Drunkard''s Progress: from the first glass to the grave'
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: Nathaniel Currier, <em>The Drunkard's Progress</em>, Lithograph, held by
   Library of Congress, 1846.  https://commons.wikimedia.org/w/index.php?curid=4174669
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0147
 title: Judge's Gavel
 bibliographicCitation: https://federalcriminallawcenter.com/2016/02/recent-inmates-death-raises-questions-police-restraint-techniques/gavel-law-concept/
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '2020'
+dateCreated: '2020'
 description: Judge's Gavel
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights:
 source: https://federalcriminallawcenter.com/2016/02/recent-inmates-death-raises-questions-police-restraint-techniques/gavel-law-concept/
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

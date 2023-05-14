@@ -2,10 +2,10 @@
 pid: unionist--image-0042
 title: 'William Jackson '
 bibliographicCitation: https://www.newtonma.gov/home/showpublisheddocument/65268/637477796719100000
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: William Jackson (1783-1855), Congressman from Massachusetts, and eager
   supporter of reform causes
 language: English
@@ -15,8 +15,8 @@ rights: https://www.newtonma.gov/home/showpublisheddocument/65268/63747779671910
 source: https://www.newtonma.gov/home/showpublisheddocument/65268/637477796719100000
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

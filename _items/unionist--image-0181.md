@@ -2,10 +2,10 @@
 pid: unionist--image-0181
 title: Squirrel talks to Buddha
 bibliographicCitation: http://www.quickmeme.com/meme/3psj65
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 2010s
+dateCreated: 2010s
 description: Squirrel talks to Buddha about Wisdom
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: no restrictions
 source: http://www.quickmeme.com/meme/3psj65
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

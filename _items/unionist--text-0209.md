@@ -2,10 +2,10 @@
 pid: unionist--text-0209
 title: Pamphlets, Cards and Blanks
 bibliographicCitation: "<em>The Unionist</em> 1833-12-19"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-12-19 p.04.55
 creator: 
-date.created: '1833-12-19'
+dateCreated: '1833-12-19'
 description: Printing services offered at Unionist office
 language: English
 publisher: The Unionist
@@ -15,11 +15,11 @@ source: The Unionist
 subject: Advertisements
 type: Text
 category: Unionist full issue 1833-12-19
-article.type: 
+articleType: 
 volume: '1'
 issue: '20'
 transcription: "<p>  <strong>PAMPHLETS, CARDS AND</strong>  <em>BLANKS</em>  <em>OF
-  EVERY DESCRIPTION neatly printed at this office.</em></p><p>  ☞<br>  <em>An assortment
+  EVERY DESCRIPTION neatly printed at this office.</em></p><p>  ☞ <br>  <em>An assortment
   of Blank Cards for sale.”</em></p>"
 scholarlyNotes: 
 commentary: "<em>The Unionist</em> was hardly a strong advertisement for printing

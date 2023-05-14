@@ -2,10 +2,10 @@
 pid: unionist--image-0293
 title: '"The Sublime Mysteries of Noodleism"'
 bibliographicCitation: "<em>1830 Vermont Anti-Masonic Almanac</em>, Woodstock, VT"
-bibliographicCitation.republished: https://vtdigger.org/2022/01/23/then-again-antimasonry-rose-up-to-oppose-the-power-of-masons/
+bibliographicCitationRepublished: https://vtdigger.org/2022/01/23/then-again-antimasonry-rose-up-to-oppose-the-power-of-masons/
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1830'
+dateCreated: '1830'
 description: Detail of cover of the <em>1830 Vermont Anti-Masonic Almanac</em>, showing
   an initiation, derisively called "The Sublime Mysteries of Noodleism"
 language: English
@@ -15,8 +15,8 @@ rights: Public Domain
 source: "<em>1830 Vermont Anti-Masonic Almanac</em>, Woodstock, VT, at https://vtdigger.org/2022/01/23/then-again-antimasonry-rose-up-to-oppose-the-power-of-masons/"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

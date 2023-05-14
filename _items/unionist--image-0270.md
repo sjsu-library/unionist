@@ -2,10 +2,10 @@
 pid: unionist--image-0270
 title: Out of Space
 bibliographicCitation: https://cheezburger.com/9615430656/no-theres-definitely-no-space-for-you
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Patblo
-date.created: 
+dateCreated: 
 description: Cat meme
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: No Known restrictions
 source: https://cheezburger.com/9615430656/no-theres-definitely-no-space-for-you
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

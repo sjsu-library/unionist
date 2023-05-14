@@ -5,10 +5,10 @@ bibliographicCitation: 'By This mediaUnknown authorOriginal workEllen Rankin Cop
   (1853–1901) - &quot;The Underground Railroad from Slavery to Freedom&quot;By Wilbur
   Henry Siebert, Albert Bushnell HartEdition: 2Published by Macmillan, 1898, pg. 306
   [1], Public Domain, https://commons.wikimedia.org/w/index.php?curid=64035982'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Ellen Rankin Copp (1853-1901)
-date.created: '1898'
+dateCreated: '1898'
 description: 'Bust of John Rankin (1793-1886) by his grand-daughter, noted sculptor
   Ellen Rankin Copp (1853-1901). '
 language: English
@@ -21,8 +21,8 @@ source: 'By This mediaUnknown authorOriginal workEllen Rankin Copp (1853–1901)
   https://commons.wikimedia.org/w/index.php?curid=64035982'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

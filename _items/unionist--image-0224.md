@@ -2,10 +2,10 @@
 pid: unionist--image-0224
 title: Prudence Crandall Museum in Fall
 bibliographicCitation: Joan DiMartino, Prudence Crandall Museum
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Joan DiMartino
-date.created: '2022'
+dateCreated: '2022'
 description: Prudence Crandall Museum, site of the Canterbury Female Academy, in Fall
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Used with Permission
 source: Prudence Crandall Museum
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

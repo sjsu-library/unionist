@@ -2,10 +2,10 @@
 pid: unionist--image-0099
 title: North American Literary Review Jan 1834
 bibliographicCitation: "<em>North American Review</em> 38:82:1 (January 1834)"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1834'
+dateCreated: '1834'
 description: "<em>North American Review</em> 38:82:1 (January 1834)"
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>North American Review</em> 38:82:1 (January 1834)"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

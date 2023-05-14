@@ -3,10 +3,10 @@ pid: unionist--image-0162
 title: The Life and Age of Woman
 bibliographicCitation: '"The life & age of woman. Stages of woman''s life from the
   cradle to the grave," Kelloggs and Comstock, N.Y. and Hartford, Conn'
-bibliographicCitation.republished: https://commons.wikimedia.org/wiki/File:11-stages-womanhood-1840s.jpg#/media/File:11-stages-womanhood-1840s.jpg
+bibliographicCitationRepublished: https://commons.wikimedia.org/wiki/File:11-stages-womanhood-1840s.jpg#/media/File:11-stages-womanhood-1840s.jpg
 fullIssueSequenceNumber: 
 creator: Kelloggs and Comstock
-date.created: '1849'
+dateCreated: '1849'
 description: The Life and Age of Woman
 language: English
 publisher: 
@@ -15,8 +15,8 @@ rights: Public Domain
 source: https://commons.wikimedia.org/wiki/File:11-stages-womanhood-1840s.jpg#/media/File:11-stages-womanhood-1840s.jpg
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

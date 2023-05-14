@@ -2,10 +2,10 @@
 pid: unionist--image-0305
 title: Celia Burleigh
 bibliographicCitation: Syracuse library, Public Domain, https://commons.wikimedia.org/w/index.php?curid=65855300
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1875'
+dateCreated: '1875'
 description: Photograph of Celia Burleigh
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domian
 source: By Unknown author - Syracuse library, Public Domain, https://commons.wikimedia.org/w/index.php?curid=65855300
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

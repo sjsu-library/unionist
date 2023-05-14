@@ -2,10 +2,10 @@
 pid: unionist--image-0066
 title: FourdrinierMachine
 bibliographicCitation: Ballou's Pictorial, https://americanantiquarian.org/millgirls/items/show/70.
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1855'
+dateCreated: '1855'
 description: Mill Girls using a Fourdrinier Machine
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Unsigned, “Fourdrinier Machine,” Mill Girls in Nineteenth-Century Pr
 source: https://americanantiquarian.org/millgirls/items/show/70
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

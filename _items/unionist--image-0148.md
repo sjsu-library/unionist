@@ -2,10 +2,10 @@
 pid: unionist--image-0148
 title: Six Burleigh Brothers
 bibliographicCitation: http://clipart-library.com/clipart/1913604.htm
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Cut-out figures of the Burleigh brothers
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights:
 source: http://clipart-library.com/clipart/1913604.htm
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

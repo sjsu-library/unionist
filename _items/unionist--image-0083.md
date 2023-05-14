@@ -2,11 +2,11 @@
 pid: unionist--image-0083
 title: peterparley-768x953
 bibliographicCitation: https://blogs.loc.gov/inside_adams/2019/08/peterparley/
-bibliographicCitation.republished: Samuel G. Goodrich portrait by Matthew Brady Studio.
+bibliographicCitationRepublished: Samuel G. Goodrich portrait by Matthew Brady Studio.
   Daguerreotype Collection, Prints and Photographs, Library of Congress //lccn.loc.gov/2004663964
 fullIssueSequenceNumber: 
 creator: Matthew Brady
-date.created: ca. 1850
+dateCreated: ca. 1850
 description: A daguerrotype of Samuel Goodrich, author of the Peter Parley series
   of children's books
 language: English
@@ -16,8 +16,8 @@ rights: Public Domain
 source: https://blogs.loc.gov/inside_adams/2019/08/peterparley/
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

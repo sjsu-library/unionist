@@ -2,10 +2,10 @@
 pid: unionist--image-0027
 title: Woodstock Academy Seal
 bibliographicCitation: https://www.woodstockacademy.org/about/history
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: The seal of Woodstock Academy, proudly sporting their long existence
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: https://www.woodstockacademy.org/about/history
 source: https://www.woodstockacademy.org/about/history
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

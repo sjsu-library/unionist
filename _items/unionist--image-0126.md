@@ -3,10 +3,10 @@ pid: unionist--image-0126
 title: A Treatise on Bread Sylvester Graham
 bibliographicCitation: 'Sylvester Graham, <em>A Treatise on Bread and Bread-Making</em>
   (Boston: Light and Stearns, 1837)'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Sylvester Graham
-date.created: '1837'
+dateCreated: '1837'
 description: Title page of <em>A Treatise on Bread</em> by Sylvester Graham (1794-1851)
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: 'Sylvester Graham, <em>A Treatise on Bread and Bread-Making</em> (Boston
   Light and Stearns, 1837)'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

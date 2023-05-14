@@ -2,10 +2,10 @@
 pid: unionist--image-0016
 title: GeorgeJeffreyTillotson
 bibliographicCitation: "<em>The American Missionary</em> v. 65 p. 85 (May, 1911)"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Portrait of George Jeffrey Tillotson, date and source not stated
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>The American Missionary</em> v. 65 p. 85 (May, 1911)"
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

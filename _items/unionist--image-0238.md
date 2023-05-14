@@ -2,10 +2,10 @@
 pid: unionist--image-0238
 title: Tombstones of Ebenezer and Lydia Griffin
 bibliographicCitation: https://www.findagrave.com/memorial/80076348/ebenezer-griffin?_gl=1*1tr32lz*_ga*MTUyMjQxNDg5NS4xNjU5NTYyOTE2*_ga_4QT8FMEX30*MGNkZGYyMmUtMzNiYS00ZmJhLTkxMDEtZDZiODBhYzczMWMyLjQ3LjEuMTY4MjU0NjIzNS4xNC4wLjA.
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Nate Bramlett
-date.created: '1860'
+dateCreated: '1860'
 description: Tombstones of Ebenezer and Lydia Griffin
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Permission Granted
 source: https://www.findagrave.com/memorial/80076348/ebenezer-griffin?_gl=1*1tr32lz*_ga*MTUyMjQxNDg5NS4xNjU5NTYyOTE2*_ga_4QT8FMEX30*MGNkZGYyMmUtMzNiYS00ZmJhLTkxMDEtZDZiODBhYzczMWMyLjQ3LjEuMTY4MjU0NjIzNS4xNC4wLjA.
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

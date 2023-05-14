@@ -2,10 +2,10 @@
 pid: unionist--image-0007
 title: Revd. Calvin Colton, A.M.
 bibliographicCitation: British Museum - 1938 1222.13
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: James Andrews (1801-1876), illustrator and botanical draughtsman
-date.created: before 1835
+dateCreated: before 1835
 description: Portrait of Calvin Colton, half-length to right, looking towards the
   viewer, with bald pate; vignette; illustration to the 'Evangelical Magazine'.
 language: English
@@ -15,8 +15,8 @@ rights: https://creativecommons.org/licenses/by-nc-sa/4.0/
 source: 
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

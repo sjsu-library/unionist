@@ -2,10 +2,10 @@
 pid: unionist--text-0264
 title: Died
 bibliographicCitation: "<em>The Unionist</em> 1834-03-13"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1834-03-13 p.03.28
 creator: 
-date.created: '1834-03-13'
+dateCreated: '1834-03-13'
 description: Two deaths recorded
 language: English
 publisher: The Unionist
@@ -15,12 +15,12 @@ source: "<em>The Unionist</em>"
 subject: Miscellaneous Filler
 type: Text
 category: Unionist full issue 1834-03-13
-article.type: 
+articleType: 
 volume: '1'
 issue: '32'
 transcription: "<p>DIED,</p><p>At Windham on Saturday last, Mr. Shubael Fitch, aged
   84.</p><p>  At Chaplin, suddenly, on the 27<sup>th</sup>  ult. Mrs. Freelove Geer,
-  wife of Mr. Amos Geer, aged 71 years.<br></p>"
+  wife of Mr. Amos Geer, aged 71 years. <br></p>"
 scholarlyNotes: I have not researched these folks
 commentary: 
 relatedPeople: Shubael Fitch; Freelove Geer; Amos Geer

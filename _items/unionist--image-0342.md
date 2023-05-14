@@ -2,10 +2,10 @@
 pid: unionist--image-0342
 title: Witches being hung
 bibliographicCitation: https://connecticuthistory.org/witchcraft-in-connecticut/
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1655'
+dateCreated: '1655'
 description: Detail from the book, England's grievance discovered, in relation to
   the coal-trade... by Ralph Gardiner, 1655, "Many poor women imprisoned and hanged
   for witches"
@@ -16,8 +16,8 @@ rights: Public Domain
 source: https://connecticuthistory.org/witchcraft-in-connecticut/
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

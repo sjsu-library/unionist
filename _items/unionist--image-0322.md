@@ -2,10 +2,10 @@
 pid: unionist--image-0322
 title: Mary and Emily Edmonson, sisters escaped from enslavement
 bibliographicCitation: https://commons.wikimedia.org/w/index.php?curid=97602674
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: ca. 1850
+dateCreated: ca. 1850
 description: Mary and Emily Edmonson, sisters escaped from enslavement
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=97602674
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

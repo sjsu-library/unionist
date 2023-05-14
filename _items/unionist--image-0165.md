@@ -3,10 +3,10 @@ pid: unionist--image-0165
 title: Tea Cup and Saucer
 bibliographicCitation: Wildfeuer, Tea Cup and Saucer, Self-photographed, CC BY 2.5,
   https://commons.wikimedia.org/w/index.php?curid=1279855
-bibliographicCitation.republished: https://commons.wikimedia.org/w/index.php?curid=1279855
+bibliographicCitationRepublished: https://commons.wikimedia.org/w/index.php?curid=1279855
 fullIssueSequenceNumber: 
 creator: Wildfeuer
-date.created: '2006'
+dateCreated: '2006'
 description: Porcelain Tea Cup and Saucer
 language: English
 publisher: 
@@ -15,8 +15,8 @@ rights: CC BY 2.5
 source: https://commons.wikimedia.org/w/index.php?curid=1279855
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

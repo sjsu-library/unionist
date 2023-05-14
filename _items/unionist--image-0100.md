@@ -2,10 +2,10 @@
 pid: unionist--image-0100
 title: Sculpture London Leather Wool Exchange
 bibliographicCitation: https://historicengland.org.uk/listing/the-list/list-entry/1386047
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Charles Watson
-date.created: '1995'
+dateCreated: '1995'
 description: Relief sculpture from the London Leather, Hide and Wool Exchnage
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://historicengland.org.uk/listing/the-list/list-entry/1386047
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -3,10 +3,10 @@ pid: unionist--image-0161
 title: Earl of Shaftsbury, Anthony Ashley Cooper, with his brother Maurice, by John
   Closterman, 1702
 bibliographicCitation: https://en.wikipedia.org/wiki/Anthony_Ashley-Cooper,_3rd_Earl_of_Shaftesbury#/media/File:Maurice_Ashley-Cooper;_Anthony_Ashley-Cooper,_3rd_Earl_of_Shaftesbury_by_John_Closterman.jpg
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: John Closterman (d. 1711)
-date.created: '1702'
+dateCreated: '1702'
 description: Earl of Shaftsbury, Anthony Ashley Cooper, with his brother Maurice,
   by John Closterman, 1702
 language: English
@@ -16,8 +16,8 @@ rights: Public Domian
 source: https://en.wikipedia.org/wiki/Anthony_Ashley-Cooper,_3rd_Earl_of_Shaftesbury#/media/File:Maurice_Ashley-Cooper;_Anthony_Ashley-Cooper,_3rd_Earl_of_Shaftesbury_by_John_Closterman.jpg
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

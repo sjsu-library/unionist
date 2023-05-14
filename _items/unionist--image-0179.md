@@ -2,10 +2,10 @@
 pid: unionist--image-0179
 title: Title Page to <em>The Christian Advocate</em>, July 1833
 bibliographicCitation: "<em>The Christian Advocate</em>, July 1833"
-bibliographicCitation.republished: https://books.google.com/books?id=wN42AAAAMAAJ&dq=Miszer+Wekaiesi&source=gbs_navlinks_s
+bibliographicCitationRepublished: https://books.google.com/books?id=wN42AAAAMAAJ&dq=Miszer+Wekaiesi&source=gbs_navlinks_s
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833'
+dateCreated: '1833'
 description: Title Page to <em>The Christian Advocate</em>, July 1833
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>The Christian Advocate</em>, July 1833"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--text-0013
 title: Negative Reception for The Unionist
 bibliographicCitation: "<em>Norwich Republican</em> 7 August 1833"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Norwich Republican
-date.created: '1833-08-07'
+dateCreated: '1833-08-07'
 description: Negative Reception for The Unionist
 language: English
 publisher: Norwich Republican
@@ -15,7 +15,7 @@ source: Norwich Republican
 subject: The Unionist
 type: Text
 category: Positive notice
-article.type: original
+articleType: original
 volume: 
 issue: 
 transcription: "“THE UNIONIST.”—This is the title of a new paper lately established
@@ -32,8 +32,8 @@ transcription: "“THE UNIONIST.”—This is the title of a new paper lately es
   to “advocate temperance, virtue and sound morality,” we must earnestly wish him
   success in the undertaking."
 scholarlyNotes: 
-commentary: This is a rather balanced assessment of The Unionist and its chances for
-  long-term success.
+commentary: This is a rather balanced assessment of <em>The Unionist</em> and its
+  chances for long-term success.
 relatedPeople: Charles C. Burleigh; Andrew Judson; Prudence Crandall
 featured: 
 repeated: 

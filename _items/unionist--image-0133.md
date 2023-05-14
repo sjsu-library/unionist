@@ -2,10 +2,10 @@
 pid: unionist--image-0133
 title: 'PeoplesMag 1.6.64 1833-06-24-1833 '
 bibliographicCitation: "<em>The People's Magazine</em> 1.8.64 1833-06-24"
-bibliographicCitation.republished: https://catalog.hathitrust.org/api/volumes/oclc/6497679.html
+bibliographicCitationRepublished: https://catalog.hathitrust.org/api/volumes/oclc/6497679.html
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833'
+dateCreated: '1833'
 description: Publication information for <em>The People's Magazine</em>
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>The People's Magazine</em> 1.8.64 1833-06-24"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

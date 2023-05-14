@@ -4,10 +4,10 @@ title: Title Page of Goold Brown's <em>The First Lines of English Grammar</em>
 bibliographicCitation: 'Goold Brown <em>The First Lines of English Grammar, being
   a Brief Abstract of the Author''s Larger Work, Designed for Young Learners</em>
   (New York: Samuel S. and William Wood, 1857).'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Goold Brown
-date.created: '1857'
+dateCreated: '1857'
 description: Title Page of Goold Brown's <em>The First Lines of English Grammar</em>
 language: English
 publisher: 
@@ -18,8 +18,8 @@ source: 'Goold Brown <em>The First Lines of English Grammar, being a Brief Abstr
   S. and William Wood, 1857).'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

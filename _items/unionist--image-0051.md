@@ -2,10 +2,10 @@
 pid: unionist--image-0051
 title: Peter the Great (1672-1725)
 bibliographicCitation: https://en.wikipedia.org/wiki/Peter_the_Great#/media/File:Peter_I_by_Carel_de_Moor.jpeg
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Carel de Moor (1655-1738)
-date.created: '1717'
+dateCreated: '1717'
 description: Peter I
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/Peter_the_Great#/media/File:Peter_I_by_Carel_de_Moor.jpeg
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

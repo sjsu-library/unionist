@@ -2,10 +2,10 @@
 pid: unionist--image-0341
 title: Samuel Worcester
 bibliographicCitation: https://www.bu.edu/missiology/missionary-biography/w-x-y-z/worcester-samuel-austin-1798-1859/#:~:text=Missionary%20to%20the%20Cherokee%20Indians,mission%20station%20in%20eastern%20Tennessee.
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Portrait of Samuel Worcester, missionary to the Cherokee who stood up
   for their civil rights and educational opportunities, and was imprisoned for doing
   so.
@@ -16,8 +16,8 @@ rights: Public Domain
 source: https://www.bu.edu/missiology/missionary-biography/w-x-y-z/worcester-samuel-austin-1798-1859/#:~:text=Missionary%20to%20the%20Cherokee%20Indians,mission%20station%20in%20eastern%20Tennessee.
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

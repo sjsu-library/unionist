@@ -2,10 +2,10 @@
 pid: unionist--image-0155
 title: Iron Bars
 bibliographicCitation: Thomas Quine, Iron Bars, https://commons.wikimedia.org/w/index.php?curid=51955042
-bibliographicCitation.republished: https://commons.wikimedia.org/wiki/File:Iron_Bars_%284848605792%29.jpg#/media/File:Iron_Bars_(4848605792).jpg
+bibliographicCitationRepublished: https://commons.wikimedia.org/wiki/File:Iron_Bars_%284848605792%29.jpg#/media/File:Iron_Bars_(4848605792).jpg
 fullIssueSequenceNumber: 
 creator: Thomas Quine
-date.created: '2010'
+dateCreated: '2010'
 description: Iron Bars without holes
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: CC BY-SA 2.0
 source: https://commons.wikimedia.org/wiki/File:Iron_Bars_%284848605792%29.jpg#/media/File:Iron_Bars_(4848605792).jpg
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

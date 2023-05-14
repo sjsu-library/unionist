@@ -2,10 +2,10 @@
 pid: unionist--image-0034
 title: Seba Smith
 bibliographicCitation: https://www.mainememory.net/artifact/1510
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Kimball, New York
-date.created: ca. 1860
+dateCreated: ca. 1860
 description: Photographic portrait of Seba Smith, creator of the character Major Jack
   Downing.
 language: English
@@ -15,8 +15,8 @@ rights: https://www.mainememory.net/artifact/1510
 source: https://www.mainememory.net/artifact/1510
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

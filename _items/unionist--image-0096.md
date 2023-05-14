@@ -2,10 +2,10 @@
 pid: unionist--image-0096
 title: A Cord of Wood Logsplitters
 bibliographicCitation: https://www.logsplittersdirect.com/stories/739-Log-Rack-and-Firewood-101.html
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '2023'
+dateCreated: '2023'
 description: A cord of wood
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: unknown
 source: https://www.logsplittersdirect.com/stories/739-Log-Rack-and-Firewood-101.html
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

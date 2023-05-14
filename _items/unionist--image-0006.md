@@ -2,10 +2,10 @@
 pid: unionist--image-0006
 title: New Theory of Terrestrial Magnetism
 bibliographicCitation: https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t7zk56r4f&view=1up&seq=5
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Samuel Metcalfe
-date.created: '1833'
+dateCreated: '1833'
 description: Title Page of the book <em>A New Theory of Terrestrial Magnetism</em>
 language: 
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t7zk56r4f&view=1up&seq=5
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

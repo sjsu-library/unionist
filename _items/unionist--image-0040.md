@@ -2,10 +2,10 @@
 pid: unionist--image-0040
 title: Lord Grenville
 bibliographicCitation: https://en.wikipedia.org/wiki/William_Grenville,_1st_Baron_Grenville#/media/File:1st_Baron_Grenville-cropped.jpg
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: John Hoppner (1758-1810)
-date.created: '1800'
+dateCreated: '1800'
 description: Portrait of Lord Grenville (1759-1834), Prime Minister of England and
   instrumental in legal end of slavery in British Empire
 language: English
@@ -15,8 +15,8 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/William_Grenville,_1st_Baron_Grenville#/media/File:1st_Baron_Grenville-cropped.jpg
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

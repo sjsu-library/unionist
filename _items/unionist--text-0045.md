@@ -2,10 +2,10 @@
 pid: unionist--text-0045
 title: Response to the Black Law
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
-bibliographicCitation.republished: "<em>Worcester Yeoman</em> (not researched)"
+bibliographicCitationRepublished: "<em>Worcester Yeoman</em> (not researched)"
 fullIssueSequenceNumber: 1833-08-08 p03.31
 creator: Worcester Yeoman
-date.created: '1833-08-08'
+dateCreated: '1833-08-08'
 description: Outrage at persecution of Crandall
 language: English
 publisher: The Unionist
@@ -15,14 +15,14 @@ source: Worcester Yeoman
 subject: Canterbury Female Academy; Black Law
 type: Text
 category: Unionist full issue 1833-08-08
-article.type: 
+articleType: 
 volume: '1'
 issue: '2'
 transcription: "“The Blue Laws of Connecticut have become Black. We learn from the
-  Norwich<br>Courier, that Miss Prudence Crandall was arrested on Thursday for the
-  heinous<br>offence, in the eye of the Connecticut law-givers, of instructing a few
-  colored<br>girls not belonging to the State. Not obtaining bonds, she was committed
-  to<br>jail.”—<br><em>Worcester Yeoman.</em>"
+  Norwich <br>Courier, that Miss Prudence Crandall was arrested on Thursday for the
+  heinous <br>offence, in the eye of the Connecticut law-givers, of instructing a
+  few colored <br>girls not belonging to the State. Not obtaining bonds, she was committed
+  to <br>jail.”— <br><em>Worcester Yeoman.</em>"
 scholarlyNotes: 
 commentary: The Blue Laws were restrictions to activity on the Sabbath. Lists of the
   Connecticut Blue Laws were often exaggerated or outright invented. However, as a

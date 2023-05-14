@@ -2,10 +2,10 @@
 pid: unionist--text-0290
 title: Wool, Leather and Hides
 bibliographicCitation: "<em>The Unionist</em> 1834-03-13"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1834-03-13 p.04.54
 creator: 
-date.created: '1834-03-13'
+dateCreated: '1834-03-13'
 description: Advertisement for Buffum and Chace
 language: English
 publisher: The Unionist
@@ -15,11 +15,11 @@ source: "<em>The Unionist</em>"
 subject: Advertisements
 type: Text
 category: Unionist full issue 1834-03-13
-article.type: 
+articleType: 
 volume: '1'
 issue: '32'
 transcription: "<p>WOOL, LEATHER AND HIDES.</p><p>  For sale by BENSON &amp; CHACE,
-  No 12 Westminster-street, Providence, R.I.<br></p>"
+  No 12 Westminster-street, Providence, R.I. <br></p>"
 scholarlyNotes: 
 commentary: 
 relatedPeople: George Benson Jr.; William Chace

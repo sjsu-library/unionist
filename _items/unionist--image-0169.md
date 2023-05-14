@@ -3,10 +3,10 @@ pid: unionist--image-0169
 title: Arthur Tappan
 bibliographicCitation: 'Lewis Tappan, <em>The Life of Arthur Tappan</em> (Westport
   CT: Negro Universities Press, 1970; reprint from 1871)'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1871'
+dateCreated: '1871'
 description: Portrait of Arthur Tappan, who financed <em>The Unionist</em>
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: 'Lewis Tappan, <em>The Life of Arthur Tappan</em> (Westport CT: Negro Un
   Press, 1970; reprint from 1871)'
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

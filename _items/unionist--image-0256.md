@@ -3,10 +3,10 @@ pid: unionist--image-0256
 title: The Liberty Bell
 bibliographicCitation: By William Zhang - https://www.flickr.com/photos/willzhang05/33650671514/,
   CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=96282122
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: William Zhang
-date.created: '2017'
+dateCreated: '2017'
 description: The Liberty Bell, in Philadelphia
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: By William Zhang - https://www.flickr.com/photos/willzhang05/33650671514
   CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=96282122
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

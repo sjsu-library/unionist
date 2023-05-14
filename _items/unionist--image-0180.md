@@ -2,10 +2,10 @@
 pid: unionist--image-0180
 title: Mr Hélies' rolling rods, c.1830s
 bibliographicCitation: https://www.whipplemuseum.cam.ac.uk/explore-whipple-collections/calculating-devices/brief-history-calculating-devices
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 1830s
+dateCreated: 1830s
 description: An early calculation device, Mr Hélies' rolling rods, c.1830s
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://www.whipplemuseum.cam.ac.uk/explore-whipple-collections/calculating-devices/brief-history-calculating-devices
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

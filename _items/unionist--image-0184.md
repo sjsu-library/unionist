@@ -2,10 +2,10 @@
 pid: unionist--image-0184
 title: Coonskin Hat, made popular by Davy Crockett
 bibliographicCitation: https://commons.wikimedia.org/w/index.php?curid=733451
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '2006'
+dateCreated: '2006'
 description: Coonskin Hat, made popular by Davy Crockett
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: CC BY-SA 2.5
 source: https://commons.wikimedia.org/w/index.php?curid=733451
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

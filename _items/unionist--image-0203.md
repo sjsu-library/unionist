@@ -4,10 +4,10 @@ title: American Anti-Slavery Society Broadside against Slavery in the District o
   Columbia
 bibliographicCitation: https://tile.loc.gov/storage-services/master/pnp/ppmsca/19700/19705u.tif,
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=105221631
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: American Anti-Slavery Society
-date.created: '1836'
+dateCreated: '1836'
 description: American Anti-Slavery Society Broadside against Slavery in the District
   of Columbia
 language: English
@@ -18,8 +18,8 @@ source: https://tile.loc.gov/storage-services/master/pnp/ppmsca/19700/19705u.tif
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=105221631
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

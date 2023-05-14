@@ -2,10 +2,10 @@
 pid: unionist--image-0167
 title: Massachusetts Militia Notice
 bibliographicCitation: https://slate.com/human-interest/2015/02/history-of-the-early-american-militia-muster-notices-calling-members-to-parade.html
-bibliographicCitation.republished: https://www.sheaff-ephemera.com/list/militia_notices.html
+bibliographicCitationRepublished: https://www.sheaff-ephemera.com/list/militia_notices.html
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1829'
+dateCreated: '1829'
 description: Massachusetts Militia Notice
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://slate.com/human-interest/2015/02/history-of-the-early-american-militia-muster-notices-calling-members-to-parade.html
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

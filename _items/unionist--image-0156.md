@@ -5,10 +5,10 @@ title: Gützlaff's <em>Journal of a Residence in Siam, and of a Voyage along the
   Repository</em>
 bibliographicCitation: 'Charles Gützlaff<em>Journal of a Residence in Siam, and of
   a Voyage along the Coast of China to Mantchou Tartary</em> (Canton, China, 1832). '
-bibliographicCitation.republished: https://babel.hathitrust.org/cgi/pt?id=ucw.ark:/13960/t1rf6c42z&view=1up&seq=1
+bibliographicCitationRepublished: https://babel.hathitrust.org/cgi/pt?id=ucw.ark:/13960/t1rf6c42z&view=1up&seq=1
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Author and Credit to the <em>Chinese Repository</em>, the Protestant
   missionary periodical mentioned earlier in this issue
 language: English
@@ -18,8 +18,8 @@ rights: Public Domain
 source: https://babel.hathitrust.org/cgi/pt?id=ucw.ark:/13960/t1rf6c42z&view=1up&seq=1
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

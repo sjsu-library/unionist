@@ -2,10 +2,10 @@
 pid: unionist--image-0182
 title: Buckingham Palace on a Cloudy Day
 bibliographicCitation: 'By Paolo ıɹɐƃɹɐW from Lecce, Italy '
-bibliographicCitation.republished: https://en.wikipedia.org/wiki/File:Buckingham_Palace_on_a_cloudy_day.jpg#/media/File:Buckingham_Palace_on_a_cloudy_day.jpg
+bibliographicCitationRepublished: https://en.wikipedia.org/wiki/File:Buckingham_Palace_on_a_cloudy_day.jpg#/media/File:Buckingham_Palace_on_a_cloudy_day.jpg
 fullIssueSequenceNumber: 
 creator: Paolo ıɹɐƃɹɐW
-date.created: '2007'
+dateCreated: '2007'
 description: Buckingham Palace on a Cloudy London day
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: CC BY-SA 2.0
 source: https://en.wikipedia.org/wiki/File:Buckingham_Palace_on_a_cloudy_day.jpg#/media/File:Buckingham_Palace_on_a_cloudy_day.jpg
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

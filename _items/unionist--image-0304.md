@@ -2,10 +2,10 @@
 pid: unionist--image-0304
 title: Gravestone of Frederick Olney and Olive Harris Olney
 bibliographicCitation: https://www.findagrave.com/memorial/31759917/olive-smith-olney
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: JC
-date.created: '1869'
+dateCreated: '1869'
 description: Gravestone of Frederick Olney and Olive Harris Olney
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Permission Pending
 source: https://www.findagrave.com/memorial/31759917/olive-smith-olney
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

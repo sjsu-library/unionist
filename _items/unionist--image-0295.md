@@ -2,10 +2,10 @@
 pid: unionist--image-0295
 title: Pferd, Stute, Fohlen (Horse, Mare, Foal)
 bibliographicCitation: AdobeStock_40680550
-bibliographicCitation.republished: https://stock.adobe.com/search?k=%22blood+horse%22&asset_id=40680550
+bibliographicCitationRepublished: https://stock.adobe.com/search?k=%22blood+horse%22&asset_id=40680550
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: A Blood Horse mare with her foal.
 language: German
 publisher: 
@@ -14,8 +14,8 @@ rights: Education License - Standard Image
 source: AdobeStock_40680550
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--text-0334
 title: Died
 bibliographicCitation: "<em>The Unionist</em> 1834-04-10"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1834-04-10 p.03.34
 creator: 
-date.created: '1834-04-10'
+dateCreated: '1834-04-10'
 description: Deaths in the area
 language: English
 publisher: The Unionist
@@ -15,13 +15,13 @@ source: "<em>The Unionist</em> 1834-04-10"
 subject: Miscellaneous Filler
 type: Text
 category: Unionist full issue 1834-04-10
-article.type: 
+articleType: 
 volume: '1'
 issue: '36'
 transcription: "<p>DIED,</p><p>  In this town on Saturday last, Mrs. _____ Barrett,
-  wife of Mr. Wm. Barrett,<br>  aged 81.<br></p><p>  On Monday morning, 7<sup>th</sup>
-  \ inst. Mr. Gordis (sic) Kies, a Printer, aged 22<br></p><p>  At Hingham, Mass.
-  on the 2<sup>nd</sup>  inst. Miss Mary Ann N. Williams, aged 28.<br></p>"
+  wife of Mr. Wm. Barrett, <br>  aged 81. <br></p><p>  On Monday morning, 7<sup>th</sup>
+  \ inst. Mr. Gordis (sic) Kies, a Printer, aged 22 <br></p><p>  At Hingham, Mass.
+  on the 2<sup>nd</sup>  inst. Miss Mary Ann N. Williams, aged 28. <br></p>"
 scholarlyNotes: This is one of the saddest erasures of a woman I've found. Even in
   death she has no name
 commentary: 

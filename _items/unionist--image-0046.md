@@ -2,10 +2,10 @@
 pid: unionist--image-0046
 title: Title page from Orin Fowler's <em>A Disquisition on the Evils of Using Tobacco</em>
 bibliographicCitation: https://www.gutenberg.org/files/24366/24366-h/24366-h.htm
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1843'
+dateCreated: '1843'
 description: Title page from Orin Fowler's <em>A Disquisition on the Evils of Using
   Tobacco</em>
 language: English
@@ -15,8 +15,8 @@ rights: Public Domain
 source: https://www.gutenberg.org/files/24366/24366-h/24366-h.htm
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

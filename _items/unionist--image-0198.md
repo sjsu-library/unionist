@@ -3,10 +3,10 @@ pid: unionist--image-0198
 title: Title Page of William Jay's <em>War and Peace</em>
 bibliographicCitation: 'William Jay, <em>War and peace: the evils of the first and
   a plan for preserving the last</em>, 1919 reprint of 1842 original. '
-bibliographicCitation.republished: https://archive.org/details/warpeaceevilsoff00jaywiala/page/n5/mode/2up
+bibliographicCitationRepublished: https://archive.org/details/warpeaceevilsoff00jaywiala/page/n5/mode/2up
 fullIssueSequenceNumber: 
 creator: William Jay
-date.created: '1842'
+dateCreated: '1842'
 description: Title Page of William Jay's <em>War and Peace</em>
 language: English
 publisher: 
@@ -15,8 +15,8 @@ rights: Public Domain
 source: https://archive.org/details/warpeaceevilsoff00jaywiala/page/n5/mode/2up
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

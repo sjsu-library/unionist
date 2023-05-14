@@ -2,10 +2,10 @@
 pid: unionist--image-0303
 title: Black man in silhoutte
 bibliographicCitation: AdobeStock_565405733
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: muhammad
-date.created: 
+dateCreated: 
 description: Black man in silhoutte
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Education License - Standard Image
 source: 
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

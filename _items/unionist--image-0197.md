@@ -2,12 +2,12 @@
 pid: unionist--image-0197
 title: Crayon drawing of William Jay
 bibliographicCitation: https://en.wikipedia.org/wiki/William_Jay_%28jurist%29#/media/File:William_Jay,_crayon_portrait_by_Martin.png
-bibliographicCitation.republished: 'Bayard Tuckerman, <em>William Jay, and the constitutional
+bibliographicCitationRepublished: 'Bayard Tuckerman, <em>William Jay, and the constitutional
   movement for the abolition of slavery</em> (New York: Dodd, Mead and Company, 1894),
   frontispiece'
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1894'
+dateCreated: '1894'
 description: Crayon drawing of William Jay
 language: English
 publisher: 
@@ -16,8 +16,8 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/William_Jay_%28jurist%29#/media/File:William_Jay,_crayon_portrait_by_Martin.png
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

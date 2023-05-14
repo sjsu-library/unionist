@@ -3,10 +3,10 @@ pid: unionist--image-0111
 title: LMChild Title Page
 bibliographicCitation: 'Lydia Maria Child, <em>An Appeal in Favor of that Class of
   Americans called Africans</em> (Boston: Allen and Ticknor, 1833).'
-bibliographicCitation.republished: https://play.google.com/store/books/details?id=-QITAAAAIAAJ
+bibliographicCitationRepublished: https://play.google.com/store/books/details?id=-QITAAAAIAAJ
 fullIssueSequenceNumber: 
 creator: Lydia Maria Child
-date.created: '1833'
+dateCreated: '1833'
 description: 'The title page to Lydia Maria Child''s <em>An Appeal in Favor of that
   Class of Americans called Africans</em>. '
 language: English
@@ -16,8 +16,8 @@ rights: Public Domain
 source: https://play.google.com/store/books/details?id=-QITAAAAIAAJ
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

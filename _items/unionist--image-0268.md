@@ -3,10 +3,10 @@ pid: unionist--image-0268
 title: Highways in the United States around 1825
 bibliographicCitation: 'Johnson, Allen (1915). Union and Democracy. Cambridge, Massachusetts:
   Houghton Mifflin Company., Public Domain, https://commons.wikimedia.org/w/index.php?curid=1988478'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Allen Johnson
-date.created: '1915'
+dateCreated: '1915'
 description: 'By Allen Johnson - Johnson, Allen (1915). Union and Democracy. Cambridge,
   Massachusetts: Houghton Mifflin Company., Public Domain, https://commons.wikimedia.org/w/index.php?curid=1988478'
 language: English
@@ -17,8 +17,8 @@ source: 'Johnson, Allen (1915). Union and Democracy. Cambridge, Massachusetts: H
   Mifflin Company., Public Domain, https://commons.wikimedia.org/w/index.php?curid=1988478'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

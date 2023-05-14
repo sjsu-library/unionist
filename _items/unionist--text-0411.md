@@ -3,10 +3,10 @@ pid: unionist--text-0411
 title: December 1833 Arrest of Prudence and Almira Crandall
 bibliographicCitation: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em>
   1833-12-19, v. 4, n.24"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Charles C. Burleigh
-date.created: 1833-12
+dateCreated: 1833-12
 description: December 1833 Arrest of Prudence and Almira Crandall
 language: English
 publisher: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em> 1833-12-19,
@@ -18,7 +18,7 @@ source: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em> 1
 subject: Black Law; Prudence Crandall; Canterbury Female Academy
 type: Text
 category: Unionist content
-article.type: 
+articleType: 
 volume: '1'
 issue: '19'
 transcription: 'ANOTHER PROSECUTION.—Miss Crandall and her sister were on Saturday

@@ -13,6 +13,8 @@
         <div class='show-all'>Showing full issues only <a href="#">Show all issues</a></div>
         <div class='show-full'>Showing all issues <a href="#">Show full issues only</a></div>
     </div>
+    <hr>
+    <div id='issue-number-header'><h3 class='issue-number'></h3><a href='' class='scan-link'>View scanned issue</a></div>
     <div id="wax-gallery-{{ include.collection }}" class="wax-gallery">
         <div class='gallery-featured gallery-category'>
           <h4 class='gallery-category-head-featured'>Featured Items</h4>
@@ -73,7 +75,7 @@
 
 
       {%- capture item_div_no_thumb -%}
-        "<div class='gallery-item no-thumb {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect container'><div class ='gallery_excerpt row'><div class ='col-4 excerpt-image'><img class='text-thumb' src={{tn}}></div><div class='col-8 excerpt_text'><h3></h3><p class='description'></p></div></div><div class='overlay'><p class='info'></p></div></div></a></div>"
+        "<div class='gallery-item no-thumb {{ item[include.facet_by] | slugify }} all'><a href='{{ item.url | absolute_url }}'><div class='hovereffect container'><div class ='gallery_excerpt row'><div class ='col-sm-4 excerpt-image'><img class='text-thumb' src={{tn}}></div><div class='col-sm-8 excerpt_text'><h3></h3><p class='description'></p></div></div><div class='overlay'><p class='info'></p></div></div></a></div>"
       {%- endcapture -%}
       var title = '{{ item.title | escape }}'
       var titleFixed = title.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
@@ -128,8 +130,19 @@
             var filterValue = $(this).attr('data-filter');
             $('.facet').removeClass('active');
             $(this).addClass('active');
-            if(filterValue == 'all') { $('.all').show('slow'); }
-            else { $('.all').hide(); $(`.${filterValue}`).show('slow'); }
+            if(filterValue == 'all') { $('.all').show('slow');
+                $('#issue-number-header h3').text('All Unionist Articles');
+                $('a.scan-link').hide();
+              }
+            else { $('.all').hide(); $(`.${filterValue}`).show('slow');
+              $('#issue-number-header h3').text('The Unionist Issue '+ filterValue);
+              if ($(this).hasClass('full-issue')) {
+                $('a.scan-link').attr('href', '/unionist/scanned-issues/issue-'+ filterValue).show();
+              }
+              else {
+              $('a.scan-link').hide();
+              }
+            }
             //hide empty gallery sections
             $('.gallery-category h4').show();
             //if there are no featured items hide both headers
@@ -150,13 +163,24 @@
 
           });
 
-        if(loadedIssue > 0) {
+        if(loadedIssue) {
           var filterValue = loadedIssue;
           var facetValue = '.facet-'+filterValue
           $('.facet').removeClass('active');
           $(facetValue).addClass('active');
-          if(filterValue == 'all') { $('.all').show('slow'); }
-          else { $('.all').hide(); $(`.${filterValue}`).show('slow'); }
+          if(filterValue == 'all') { $('.all').show('slow');
+              $('#issue-number-header h3').text('All Unionist Articles');
+              $('a.scan-link').hide();
+            }
+          else { $('.all').hide(); $(`.${filterValue}`).show('slow');
+            $('#issue-number-header h3').text('The Unionist Issue '+ filterValue);
+            if ($('button.facet-'+filterValue).hasClass('full-issue')) {
+              $('a.scan-link').attr('href', '/unionist/scanned-issues/issue-'+ filterValue).show();
+            }
+            else {
+            $('a.scan-link').hide();
+            }
+          }
           //hide empty gallery sections
           $('.gallery-category h4').show();
           //if there are no featured items hide both headers
@@ -168,18 +192,23 @@
             $('.gallery-category-head-notFeatured').hide();
           };
         }
+        else {
+          $('.all').show('slow');
+             $('#issue-number-header h3').text('All Unionist Articles');
+             $('a.scan-link').hide();
+        }
 
         $('.show-all a').click(function() {
             event.preventDefault();
-            $('.partial-issue').show();
-            $('.show-all').hide();
-            $('.show-full').show();
+            $('.partial-issue').show('slow');
+            $('.show-all').hide('slow');
+            $('.show-full').show('slow');
         });
         $('.show-full a').click(function() {
             event.preventDefault();
-            $('.partial-issue').hide();
-            $('.show-all').show();
-            $('.show-full').hide();
+            $('.partial-issue').hide('slow');
+            $('.show-all').show('slow');
+            $('.show-full').hide('slow');
         });
 
 

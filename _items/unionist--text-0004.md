@@ -2,10 +2,10 @@
 pid: unionist--text-0004
 title: Charles C. Burleigh in the <em>Genius of Temperance</em> May 1833
 bibliographicCitation: "<em>The Genius of Temperance</em>"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Charles C. Burleigh
-date.created: '1833-05-15'
+dateCreated: '1833-05-15'
 description: Editorial by Charles Burleigh
 language: English
 publisher: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em> 3:45
@@ -17,7 +17,7 @@ source: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em> 3
 subject: Canterbury Female Academy; White Opposition
 type: text
 category: Positive notice
-article.type: 
+articleType: 
 volume: 
 issue: 
 transcription: "<p>THE CANTERBURY AFFAIR. – Some of the people of Canterbury are still

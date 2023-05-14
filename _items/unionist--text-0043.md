@@ -3,10 +3,10 @@ pid: unionist--text-0043
 title: Public Sentiment, Respecting the Black Law of Connecticut and the persecution
   of Miss Crandall
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-08-08 p03.29
 creator: Charles C. Burleigh
-date.created: '1833-08-08'
+dateCreated: '1833-08-08'
 description: Compilation of newspaper coverage of Canterbury
 language: English
 publisher: The Unionist
@@ -16,7 +16,7 @@ source: The Unionist
 subject: Canterbury Female Academy; Journalistic Debates; Black Law
 type: Text
 category: Unionist full issue 1833-08-08
-article.type: 
+articleType: 
 volume: '1'
 issue: '2'
 transcription: Public Sentiment, Respecting the Black Law of Connecticut and the persecution

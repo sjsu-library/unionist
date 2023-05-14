@@ -5,10 +5,10 @@ bibliographicCitation: "<em>The Report and Proceedings of the First Annual Meeti
   of the Providence Anti-slavery Society, With a Brief Exposition of the Principles
   and Purposes of the Abolitionists</em> (Providence: Providence Anti-Slavery Society,
   1833), p. 12 - https://www.google.com/books/edition/The_Report_and_Proceedings_of_the_First/VGJBAQAAMAAJ?hl=en&gbpv=0"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833'
+dateCreated: '1833'
 description: Roster of Officers of the Providence Anti-Slavery Society in 1833
 language: English
 publisher: 
@@ -20,8 +20,8 @@ source: "<em>The Report and Proceedings of the First Annual Meeting of the Provi
   - https://www.google.com/books/edition/The_Report_and_Proceedings_of_the_First/VGJBAQAAMAAJ?hl=en&gbpv=0"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

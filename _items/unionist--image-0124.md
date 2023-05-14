@@ -5,10 +5,10 @@ bibliographicCitation: 'Oliver Angell, <em>The select reader, or, Union no. 6 : 
   for the higher classes in academies and schools : being the sixth of a series of
   common-school classics</em>, Revised Stereotype Edition (Philadelphia: W. Marshall
   and Co., 1836), p. 34-35.'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Oliver Angell
-date.created: '1836'
+dateCreated: '1836'
 description: A page dealing with the tragedy of intemperance, from <em>Angell's Select
   Reader Union No. 6</em>
 language: English
@@ -21,8 +21,8 @@ source: 'Oliver Angell, <em>The select reader, or, Union no. 6 : designed for th
   p. 34-35.'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

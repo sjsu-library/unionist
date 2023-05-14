@@ -2,10 +2,10 @@
 pid: unionist--image-0338
 title: Wreck of the Ship John Minturn
 bibliographicCitation: https://forbesandclark.mused.org/en/items/9230/wreck-of-the-ship-john-minturn
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Nathaniel Currier
-date.created: '1846'
+dateCreated: '1846'
 description: The Wreck of the Ship John Minturn off the coast of New Jersey in 1846.
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://forbesandclark.mused.org/en/items/9230/wreck-of-the-ship-john-minturn
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--text-0010
 title: Positive Reception for The Unionist
 bibliographicCitation: "<em>Boston Traveler</em>, 10 September 1833"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Boston Traveler
-date.created: '1833-09-10'
+dateCreated: '1833-09-10'
 description: Positive Reception for The Unionist
 language: English
 publisher: Boston Traveler
@@ -15,7 +15,7 @@ source: Boston Traveler
 subject: The Unionist
 type: Text
 category: Positive notice
-article.type: original
+articleType: original
 volume: 
 issue: 
 transcription: THE UNIONIST.—A new paper, with this title, has been commenced, within

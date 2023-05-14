@@ -2,10 +2,10 @@
 pid: unionist--text-0009
 title: Positive Reception for The Unionist
 bibliographicCitation: "<em>Schenectady Cabinet</em> , 7 August 1833"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Schenectady Cabinet
-date.created: '1833-08-07'
+dateCreated: '1833-08-07'
 description: Positive Reception for The Unionist
 language: English
 publisher: Schenectady Cabinet
@@ -15,7 +15,7 @@ source: Schenectady Cabinet
 subject: The Unionist
 type: Text
 category: Positive notice
-article.type: original
+articleType: original
 volume: 
 issue: 
 transcription: THE UNIONIST.—This is the title of a new paper just commenced at Brooklyn,

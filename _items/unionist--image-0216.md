@@ -2,10 +2,10 @@
 pid: unionist--image-0216
 title: 'Expulsion from Jackson County '
 bibliographicCitation: https://www.churchofjesuschrist.org/study/manual/church-history-in-the-fulness-of-times/chapter-eleven?lang=eng
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: C. C. A. Christensen
-date.created: 
+dateCreated: 
 description: Expulsion of Mormons from Jackson County, Missouri, 1833-34
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://www.churchofjesuschrist.org/study/manual/church-history-in-the-fulness-of-times/chapter-eleven?lang=eng
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--text-0121
 title: Proverb concerning non-resistance
 bibliographicCitation: "<em>The Unionist</em> 1833-09-05"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-09-05 p.04.47
 creator: 
-date.created: '1833-09-05'
+dateCreated: '1833-09-05'
 description: Proverb concerning non-resistance
 language: English
 publisher: The Unionist
@@ -15,10 +15,10 @@ source: The Unionist
 subject: Miscellaneous Filler; Allied Reform Movements - Peace
 type: Text
 category: Unionist full issue 1833-09-05
-article.type: 
+articleType: 
 volume: '1'
 issue: '6'
-transcription: It is better to suffer wrong than to do wrong.<br>
+transcription: It is better to suffer wrong than to do wrong. <br>
 scholarlyNotes: 
 commentary: This epigram has deep New Testament and Socratic roots. It had also been
   recently restated by Samuel Johnson in a 1750 entry in ["The Rambler"] (https://www.johnsonessays.com/the-rambler/suspicious-justly-suspected/)

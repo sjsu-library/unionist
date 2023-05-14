@@ -4,10 +4,10 @@ title: Li Shigong (far left) and Chen Laoyi translating the Bible as Robert Morr
   (1782-1834) looks on, an engraving after George Chinnery's now-lost c. 1828 original
 bibliographicCitation: 'Eliza Morrison, <em>Memoirs of the Life and Labours Robert
   Morrison</em>, v. 1 (London: Longman, Orme, Brown, Green, and Longmans, 1839).'
-bibliographicCitation.republished: https://commons.wikimedia.org/w/index.php?curid=6762240
+bibliographicCitationRepublished: https://commons.wikimedia.org/w/index.php?curid=6762240
 fullIssueSequenceNumber: 
 creator: George Chinnery (1774–1852)
-date.created: '1839'
+dateCreated: '1839'
 description: Li Shigong (far left) and Chen Laoyi translating the Bible as Robert
   Morrison looks on, an engraving after George Chinnery's now-lost c. 1828 original
 language: English
@@ -18,8 +18,8 @@ source: 'Eliza Morrison, <em>Memoirs of the Life and Labours Robert Morrison</em
   v. 1 (London: Longman, Orme, Brown, Green, and Longmans, 1839).'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

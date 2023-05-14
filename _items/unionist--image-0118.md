@@ -2,10 +2,10 @@
 pid: unionist--image-0118
 title: PastDueAccount
 bibliographicCitation: https://www.labelvalue.com/account-past-due-labels-p-989.html
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: LabelValue.com
-date.created: '2023'
+dateCreated: '2023'
 description: Polite Past Due notice
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: unsure; can ask
 source: https://www.labelvalue.com/account-past-due-labels-p-989.html
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0280
 title: Political cartoon showing African-Americans as the Manipulative Cause of Dis-Union
 bibliographicCitation: "\\AdobeStock_192413224"
-bibliographicCitation.republished: "<em>Punch</em> v. 30, 1856-11-08"
+bibliographicCitationRepublished: "<em>Punch</em> v. 30, 1856-11-08"
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1856'
+dateCreated: '1856'
 description: Political cartoon showing African-Americans as the Manipulative Cause
   of Dis-Union
 language: English
@@ -15,8 +15,8 @@ rights: Education License - Standard Image
 source: AdobeStock_192413224, <em>Punch</em> v. 30, 1856-11-08
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

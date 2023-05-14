@@ -2,10 +2,10 @@
 pid: unionist--image-0139
 title: Dinner Knife from a set of Sheffield cutlery
 bibliographicCitation: https://americanhistory.si.edu/collections/search/object/nmah_323832
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Sleigh Rowland
-date.created: ca. 1830-1850
+dateCreated: ca. 1830-1850
 description: Dinner Knife from a set of Sheffield cutlery
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: CC0
 source: The National Museum of American History, The Smithsonian Institute
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0024
 title: Lydia Maria Child
 bibliographicCitation: https://nmaahc.si.edu/object/nmaahc_2017.30.21
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: John Adams Whipple (1822-1891)
-date.created: '1865'
+dateCreated: '1865'
 description: Lydia Maria Child's carte-de-visite from 1865.
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain https://nmaahc.si.edu/object/nmaahc_2017.30.21
 source: https://nmaahc.si.edu/object/nmaahc_2017.30.21
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

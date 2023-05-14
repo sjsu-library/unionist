@@ -2,10 +2,10 @@
 pid: unionist--text-0339
 title: Blank Cards
 bibliographicCitation: "<em>The Unionist</em> 1834-04-10"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1834-04-10 p.03.39
 creator: Charles C. Burleigh; William H. Burleigh
-date.created: '1834-04-10'
+dateCreated: '1834-04-10'
 description: Advertisement for printing at the Unionist
 language: English
 publisher: The Unionist
@@ -15,7 +15,7 @@ source: "<em>The Unionist</em> 1834-04-10"
 subject: Advertisements; The Unionist; Miscellaneous Filler
 type: Text
 category: Unionist full issue 1834-04-10
-article.type: 
+articleType: 
 volume: '1'
 issue: '36'
 transcription: BLANK DEEDS.

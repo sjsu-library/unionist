@@ -2,10 +2,10 @@
 pid: unionist--image-0244
 title: Uriel Winchell's posthumous Probate Court heaing
 bibliographicCitation: 'Suffield Probate Court, 1835, Case # 1255'
-bibliographicCitation.republished: https://www.ancestry.com/mediaui-viewer/collection/1030/tree/11373887/person/132057162260/media/662edda7-5cf8-4c8d-be2e-e734404b2fc1?_phsrc=ZOy851&usePUBJs=true&galleryindex=7&sort=-created
+bibliographicCitationRepublished: https://www.ancestry.com/mediaui-viewer/collection/1030/tree/11373887/person/132057162260/media/662edda7-5cf8-4c8d-be2e-e734404b2fc1?_phsrc=ZOy851&usePUBJs=true&galleryindex=7&sort=-created
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1835'
+dateCreated: '1835'
 description: Uriel Winchell's posthumous Probate Court heaing
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://www.ancestry.com/mediaui-viewer/collection/1030/tree/11373887/person/132057162260/media/662edda7-5cf8-4c8d-be2e-e734404b2fc1?_phsrc=ZOy851&usePUBJs=true&galleryindex=7&sort=-created
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

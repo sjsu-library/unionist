@@ -2,10 +2,10 @@
 pid: unionist--image-0140
 title: Dinner Knife and Fork
 bibliographicCitation: https://www.metmuseum.org/art/collection/search/190591
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: ca. 1790-1800
+dateCreated: ca. 1790-1800
 description: Dinner Knife and Fork
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: CC0
 source: The Metropolitan Museum of Art
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

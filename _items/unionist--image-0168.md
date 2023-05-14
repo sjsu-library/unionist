@@ -6,10 +6,10 @@ bibliographicCitation: 'Frederick Calvin Norton, <em>The Governors of Connecticu
   Biographies of the Chief Executives of the Commonwealth that Gave to the World the
   First Written Constitution Known to History</em> (Connecticut Magazine Company,
   1905), p. 182'
-bibliographicCitation.republished: https://play.google.com/books/reader?id=cyQWAAAAYAAJ&pg=GBS.PA180-IA2&hl=en
+bibliographicCitationRepublished: https://play.google.com/books/reader?id=cyQWAAAAYAAJ&pg=GBS.PA180-IA2&hl=en
 fullIssueSequenceNumber: 
 creator: George F. Wright (conjectural)
-date.created: '1905'
+dateCreated: '1905'
 description: Portrait of William Wolcott Ellsworth (1791-1868)
 language: English
 publisher: 
@@ -20,8 +20,8 @@ source: 'Frederick Calvin Norton, <em>The Governors of Connecticut: Biographies 
   Constitution Known to History</em> (Connecticut Magazine Company, 1905), p. 182'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

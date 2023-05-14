@@ -2,10 +2,10 @@
 pid: unionist--text-0100
 title: Announcement of the death of William Wilberforce
 bibliographicCitation: "<em>The Unionist</em> 1833-09-05"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-09-05 p03.26
 creator: 
-date.created: '1833-09-05'
+dateCreated: '1833-09-05'
 description: Announcement of the death of William Wilberforce
 language: English
 publisher: The Unionist
@@ -15,11 +15,11 @@ source: The Unionist
 subject: Abolition; Foreign News
 type: Text
 category: Unionist full issue 1833-09-05
-article.type: 
+articleType: 
 volume: '1'
 issue: '6'
 transcription: "<strong>☞</strong><strong>  THE VENERABLE WILBERFORCE, THE WARM PHILANTHROPIST,
-  THE ZEALOUS FRIEND OF THE<br>  BLACKS IS DEAD<br></strong>"
+  THE ZEALOUS FRIEND OF THE <br>  BLACKS IS DEAD <br></strong>"
 scholarlyNotes: 
 commentary: Wilberforce was an important exemplar among American Abolitionists.
 relatedPeople: William Wilberforce

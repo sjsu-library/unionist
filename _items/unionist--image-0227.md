@@ -2,10 +2,10 @@
 pid: unionist--image-0227
 title: 19th Century Irish school
 bibliographicCitation: https://blogs.shu.edu/archives/2016/03/early-irish-education-nineteenth-century-how-to-guide-books/
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: 19th Century Irish school
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://blogs.shu.edu/archives/2016/03/early-irish-education-nineteenth-century-how-to-guide-books/
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

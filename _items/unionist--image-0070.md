@@ -2,10 +2,10 @@
 pid: unionist--image-0070
 title: WilliamGoodellMHS
 bibliographicCitation: https://en.wikipedia.org/wiki/William_Goodell_%28abolitionist%29#/media/File:William-Goodell(Cropped).png
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Portraits of American Abolitionists
-date.created: ca. 1860
+dateCreated: ca. 1860
 description: Portrait of William Goodell
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: https://www.masshist.org/database/viewer.php?item_id=1136
 source: https://en.wikipedia.org/wiki/William_Goodell_%28abolitionist%29#/media/File:William-Goodell(Cropped).png
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

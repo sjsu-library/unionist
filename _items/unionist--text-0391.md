@@ -2,10 +2,10 @@
 pid: unionist--text-0391
 title: A Volley of Addled Eggs
 bibliographicCitation: "<em>The Unionist</em> 1834-06-12"
-bibliographicCitation.republished: "<em>The Liberator</em> 1834-06-14 (4:24:95)"
+bibliographicCitationRepublished: "<em>The Liberator</em> 1834-06-14 (4:24:95)"
 fullIssueSequenceNumber: 
 creator: William H. Burleigh
-date.created: '1834-06-12'
+dateCreated: '1834-06-12'
 description: William Burleigh being attacked with addled eggs
 language: English
 publisher: The Unionist
@@ -15,13 +15,13 @@ source: "<em>The Liberator</em> 1834-06-14 (4:24:95)"
 subject: Canterbury Female Academy; Vigilante Violence; Abolition
 type: Text
 category: Unionist content
-article.type: 
+articleType: 
 volume: '1'
 issue: '45'
 transcription: We learn by the last Unionist, printed in Brooklyn, Ct., that its junior
-  editor,<br>Mr. William H. Burleigh, who has for several weeks past been engaged
-  as an<br>instructor in Miss Crandall’s school, was on Tuesday evening last saluted
-  by a<br>volley of addled eggs by some of the polite Canterburians.<br>
+  editor, <br>Mr. William H. Burleigh, who has for several weeks past been engaged
+  as an <br>instructor in Miss Crandall’s school, was on Tuesday evening last saluted
+  by a <br>volley of addled eggs by some of the polite Canterburians. <br>
 scholarlyNotes: 
 commentary: This brief notice forms a teaser to the longer letter written by William
   H. Burleigh, that was included in the June 21st 1834 issue of the Liberator. It

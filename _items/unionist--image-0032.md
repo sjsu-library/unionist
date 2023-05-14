@@ -3,10 +3,10 @@ pid: unionist--image-0032
 title: Sixth Report of the American Temperance Society
 bibliographicCitation: "<em>Sixth Report of the American Temperance Society, May,
   1833</em>, (Boston: Seth Bliss, 1833)"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: American Temperance Society
-date.created: '1833'
+dateCreated: '1833'
 description: Title page to the <em>Sixth Report of the American Temperance Society,
   May, 1833</em>
 language: English
@@ -17,8 +17,8 @@ source: "<em>Sixth Report of the American Temperance Society, May, 1833</em>, (B
   Seth Bliss, 1833), online here https://dl.mospace.umsystem.edu/umsl/islandora/object/umsl%3A202880#page/1/mode/2up"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0131
 title: PumaPeoplesMag 1.5.35 1833-05-18
 bibliographicCitation: "<em>The People's Magazine</em> 1.5.35 1833-05-18"
-bibliographicCitation.republished: https://catalog.hathitrust.org/api/volumes/oclc/6497679.html
+bibliographicCitationRepublished: https://catalog.hathitrust.org/api/volumes/oclc/6497679.html
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833'
+dateCreated: '1833'
 description: An article on the Mountain Lion, a.k.a. The Puma.
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>The People's Magazine</em> 1.5.35 1833-05-18"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

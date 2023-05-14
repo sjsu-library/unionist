@@ -2,10 +2,10 @@
 pid: unionist--image-0002
 title: Portrait and signature of Elizur Wright
 bibliographicCitation: nypl.digitalcollections.4af3ad00-2983-0133-477f-58d385a7b928.001.w.jpg
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Portrait and signature of Elizur Wright
 language: 
 publisher: 
@@ -14,8 +14,8 @@ rights: NYPL
 source: 
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

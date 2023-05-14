@@ -2,10 +2,10 @@
 pid: unionist--image-0273
 title: Masthead of <em>The Unionist</em> with Prospectus title
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08, v.1, n.2, p.1"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Charles C. Burleigh
-date.created: '1833'
+dateCreated: '1833'
 description: Masthead of <em>The Unionist</em> with Prospectus title
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>The Unionist</em> 1833-08-08, v.1, n.2, p.1"
 subject: 
 type: image
-category: Image
-article.type: "`"
+category: 
+articleType: "`"
 volume: 
 issue: 
 transcription: 

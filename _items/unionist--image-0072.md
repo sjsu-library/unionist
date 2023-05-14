@@ -2,10 +2,10 @@
 pid: unionist--image-0072
 title: SamuelPriceCarson
 bibliographicCitation: https://en.wikipedia.org/wiki/Samuel_Price_Carson#/media/File:SamuelPriceCarson.jpg
-bibliographicCitation.republished: https://en.wikipedia.org/wiki/Samuel_Price_Carson#/media/File:SamuelPriceCarson.jpg
+bibliographicCitationRepublished: https://en.wikipedia.org/wiki/Samuel_Price_Carson#/media/File:SamuelPriceCarson.jpg
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: 'Sketch of Cong. Samuel Price Carson '
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/Samuel_Price_Carson#/media/File:SamuelPriceCarson.jpg
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

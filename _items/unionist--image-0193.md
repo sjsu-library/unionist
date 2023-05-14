@@ -2,10 +2,10 @@
 pid: unionist--image-0193
 title: Earliest known view of the city of Columbus, Ohio
 bibliographicCitation: https://www.dispatch.com/story/news/2021/08/09/columbus-grew-major-transportation-routes-arrived-1830-s/5457101001/
-bibliographicCitation.republished: Columbus Metropolitan Library
+bibliographicCitationRepublished: Columbus Metropolitan Library
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1832'
+dateCreated: '1832'
 description: Earliest known view of the city of Columbus, Ohio
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>Columbus Dispatch</em> 2021-08-09 ; https://www.dispatch.com/story/news/2021/08/09/columbus-grew-major-transportation-routes-arrived-1830-s/5457101001/"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -6,10 +6,10 @@ title: 'Oliver Angell, <em>The select reader, or, Union no. 6 : designed for the
 bibliographicCitation: "<em>Windham Connecticut probate district records, Volume 1
   (1719-1734)</em>, George Waller editor (Westminster, Maryland: Heritage Books, Inc.,
   2006)."
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: An 18th century illustration of a New England court scene
 language: English
 publisher: 
@@ -19,8 +19,8 @@ source: "<em>Windham Connecticut probate district records, Volume 1 (1719-1734)<
   George Waller editor (Westminster, Maryland: Heritage Books, Inc., 2006)."
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

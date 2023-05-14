@@ -2,12 +2,12 @@
 pid: unionist--image-0149
 title: Portrait of Toussaint Louverture in military garb
 bibliographicCitation: https://en.wikipedia.org/wiki/File:Toussaint-Louverture.jpg#/media/File:Toussaint-Louverture.jpg
-bibliographicCitation.republished: 'Antoine Marie Thérèse Métral, <em>Histoire de
-  l''expédition des Français à Saint-Domingue sous le consulat de Napoléon Bonaparte</em>
-  (Paris: Fanjat aîné et Renouard, 1825).'
+bibliographicCitationRepublished: 'Antoine Marie Thérèse Métral, <em>Histoire de l''expédition
+  des Français à Saint-Domingue sous le consulat de Napoléon Bonaparte</em> (Paris:
+  Fanjat aîné et Renouard, 1825).'
 fullIssueSequenceNumber: 
 creator: Françoise-Elisabeth, dite Eugénie, Tripier Lefranc, née Le Brun (1797-1872)
-date.created: '1825'
+dateCreated: '1825'
 description: Portrait of Toussaint Louverture in military garb
 language: French
 publisher: 
@@ -16,8 +16,8 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/File:Toussaint-Louverture.jpg#/media/File:Toussaint-Louverture.jpg
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

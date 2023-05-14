@@ -2,10 +2,10 @@
 pid: unionist--image-0257
 title: 'Portrait of Arnold Buffum, seated. '
 bibliographicCitation: https://riheritagehalloffame.com/Arnold-Buffum/
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Portrait of Arnold Buffum, Seated
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://riheritagehalloffame.com/Arnold-Buffum/
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

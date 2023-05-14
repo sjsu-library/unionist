@@ -2,10 +2,10 @@
 pid: unionist--text-0193
 title: Journeyman Shoemaker Wanted
 bibliographicCitation: "<em>The Unionist</em> 1833-12-19"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-12-19 p.03.39
 creator: 
-date.created: '1833-12-19'
+dateCreated: '1833-12-19'
 description: Journeyman Shoemaker Wanted
 language: English
 publisher: The Unionist
@@ -15,14 +15,14 @@ source: The Unionist
 subject: Advertisements
 type: Text
 category: Unionist full issue 1833-12-19
-article.type: 
+articleType: 
 volume: '1'
 issue: '20'
 transcription: "<p>  WANTED immediately, one Journeyman Shoemaker, to work by the
-  month or job. A<br>  single man will be preferred.<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ WELCOM W. BUCK<br></p><p>  Killingly, (Danielson’s Village) Nov. 4<sup>th</sup>
-  \ ,<br>  1833&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ 14<br></p><p></p>"
+  month or job. A <br>  single man will be preferred. <br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br>  WELCOM W. BUCK <br></p><p>  Killingly, (Danielson’s Village) Nov. 4<sup>th</sup>
+  \ , <br>  1833&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br>  14 <br></p><p></p>"
 scholarlyNotes: An unmarried man preferred - did they cost less in wages?
 commentary: 
 relatedPeople: Welcom W. Buck

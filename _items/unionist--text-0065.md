@@ -2,10 +2,10 @@
 pid: unionist--text-0065
 title: Printing of Every Kind
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-08-08 p04.51
 creator: Charles C. Burleigh
-date.created: '1833-08-08'
+dateCreated: '1833-08-08'
 description: Advertisement for printing services at <em>The Unionist</em> offices
 language: English
 publisher: The Unionist
@@ -15,7 +15,7 @@ source: The Unionist
 subject: Advertisements
 type: Text
 category: Unionist full issue 1833-08-08
-article.type: 
+articleType: 
 volume: '1'
 issue: '2'
 transcription: "<p><em>PRINTING OF EVERY</em></p><p><em>Description neatly executed

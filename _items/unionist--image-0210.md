@@ -2,10 +2,10 @@
 pid: unionist--image-0210
 title: Institute for Somehow Managing to Hold It All Together
 bibliographicCitation: https://www.theonion.com/everything-falling-apart-reports-institute-for-somehow-1819569822
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: The Onion
-date.created: '2008'
+dateCreated: '2008'
 description: The overly busy and cramped sign of the fictional Institute for Somehow
   Managing to Hold It All Together
 language: English
@@ -15,8 +15,8 @@ rights: Shareable Social Media
 source: https://www.theonion.com/everything-falling-apart-reports-institute-for-somehow-1819569822
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

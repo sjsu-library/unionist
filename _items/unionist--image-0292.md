@@ -4,10 +4,10 @@ title: Wood engraving of the November 1837 pro-slavery riot in Alton, Illinois, 
   which Elijah Lovejoy, Abolitionist editor, was killed
 bibliographicCitation: By Unknown author - http://www.state.il.us/HPA/lib/Images/LovejoyPaper.JPG,
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=3579768
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: ca. 1838
+dateCreated: ca. 1838
 description: Wood engraving of the November 1837 pro-slavery riot in Alton, Illinois,
   in which Elijah Lovejoy, Abolitionist editor, was killed
 language: English
@@ -18,8 +18,8 @@ source: By Unknown author - http://www.state.il.us/HPA/lib/Images/LovejoyPaper.J
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=3579768
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

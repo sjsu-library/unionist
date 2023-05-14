@@ -3,10 +3,10 @@ pid: unionist--image-0205
 title: Seal of the United States Department of War
 bibliographicCitation: By United States Army - US Army Institute of Heraldry, Public
   Domain, https://commons.wikimedia.org/w/index.php?curid=9481092
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: United States Department of War
-date.created: 
+dateCreated: 
 description: Seal of the United States Department of War
 language: English
 publisher: 
@@ -15,8 +15,8 @@ rights: Public Domain
 source: By United States Army - US Army Institute of Heraldry, Public Domain, https://commons.wikimedia.org/w/index.php?curid=9481092
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -3,10 +3,10 @@ pid: unionist--text-0014
 title: Prospectus of The Unionist as an Advertisement
 bibliographicCitation: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em>
   1833-08-21, v. 4, n.7"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Charles C. Burleigh
-date.created: '1833-08-21'
+dateCreated: '1833-08-21'
 description: Prospectus of <em>The Unionist</em> functioning as an advertisement
 language: English
 publisher: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em> 1833-08-21,
@@ -18,7 +18,7 @@ source: "<em>Genius of Temperance, Philanthropist and People’s Advocate</em> 1
 subject: The Unionist
 type: Text
 category: Unionist content
-article.type: original
+articleType: original
 volume: '1'
 issue: '1'
 transcription: THE UNIONIST, published every Thursday morning, Brooklyn, Con. Charles
@@ -47,12 +47,12 @@ transcription: THE UNIONIST, published every Thursday morning, Brooklyn, Con. Ch
   It will also contain items of general intelligence, literary selections and the
   usual variety of miscellaneous matter, and no effort will be spared on the part
   of the editor to make it worthy of the public favor. How far his efforts will succeed,
-  the future course of the paper will determine.</p> <br><p>TERMS. - -Mail subscribers,
+  the future course of the paper will determine.</p>  <br><p>TERMS. - -Mail subscribers,
   $2, in advance. Delivered by stage, or post, one dollar and seventy-five cents.
   Those taken at the office, one dollar and fifty cents</p><p>No paper will be discontinued
   till arrearages are paid, except at the discretion of the publisher.</p><p>Advertisements
   inserted at the usual prices.</p><p>All communications addressed to the editor,
-  post-paid.</p><p><em>Brooklyn,</em>, August 1, 1833.</p> <br>
+  post-paid.</p><p><em>Brooklyn,</em>, August 1, 1833.</p>  <br>
 scholarlyNotes: 
 commentary: 'The prospectus for <em>The Unionist</em> is used here within the confines
   of a friendly paper, as an advertisement for subscribers. Its date, August 1, indicates

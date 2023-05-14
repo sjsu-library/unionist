@@ -3,10 +3,10 @@ pid: unionist--image-0192
 title: 'Block printer and tierer or ‘tear girl’ (above, left). Children as young as
   six worked for twelve hours or more helping block printers. '
 bibliographicCitation: Charles Knight’s Pictorial Gallery of Arts Vol. I, (c.1862).
-bibliographicCitation.republished: https://suewilkes.blogspot.com/2014/09/calico-print-workers.html
+bibliographicCitationRepublished: https://suewilkes.blogspot.com/2014/09/calico-print-workers.html
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1862'
+dateCreated: '1862'
 description: Block printer and tierer or ‘tear girl’ (above, left). Children as young
   as six worked for twelve hours or more helping block printers.
 language: English
@@ -16,8 +16,8 @@ rights: Public Domain
 source: Charles Knight’s Pictorial Gallery of Arts Vol. I, (c.1862).
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

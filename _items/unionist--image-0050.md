@@ -6,10 +6,10 @@ bibliographicCitation: James Barton Longacre (1794-1869) - engraver. - This imag
   division under the digital ID cph.3b37500. This tag does not indicate the copyright
   status of the attached work. A normal copyright tag is still required. See Commons:Licensing
   for more information.
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: James Barton Longacre, engraver (1794-1869)
-date.created: 
+dateCreated: 
 description: Engraving of William Wirt, Attorney General of the United States
 language: English
 publisher: 
@@ -18,8 +18,8 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/William_Wirt_(Attorney_General)#/media/File:Attorney_General_William_Wirt.jpg
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

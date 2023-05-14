@@ -2,10 +2,10 @@
 pid: unionist--image-0135
 title: BankOfTheU.S. PeoplesMag 1.6.41 1833-06-01
 bibliographicCitation: "<em>The People's Magazine</em> 1.06:41 1833-06-01"
-bibliographicCitation.republished: https://catalog.hathitrust.org/api/volumes/oclc/6497679.html
+bibliographicCitationRepublished: https://catalog.hathitrust.org/api/volumes/oclc/6497679.html
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833'
+dateCreated: '1833'
 description: Engraving of The Bank of the United States
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>The People's Magazine</em> 1.06:41 1833-06-01"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

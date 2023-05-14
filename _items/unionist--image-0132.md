@@ -2,10 +2,10 @@
 pid: unionist--image-0132
 title: 'Animal Associations PeoplesMag 1.9.71 1833-07-13 '
 bibliographicCitation: "<em>The People's Magazine</em> 1.9.71 1833-07-13"
-bibliographicCitation.republished: https://catalog.hathitrust.org/api/volumes/oclc/6497679.html
+bibliographicCitationRepublished: https://catalog.hathitrust.org/api/volumes/oclc/6497679.html
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833'
+dateCreated: '1833'
 description: Engraving of "Animal Associations" to accompany an article on cross-species
   relationships in <em>The People's Magazine</em>
 language: English
@@ -15,8 +15,8 @@ rights: Public Domain
 source: "<em>The People's Magazine</em> 1.9.71 1833-07-13"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

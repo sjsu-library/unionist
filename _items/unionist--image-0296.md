@@ -2,10 +2,10 @@
 pid: unionist--image-0296
 title: Illustration of Matthew 5:44, the admonition to pray for one's persecutors
 bibliographicCitation: https://olps.sg/praying-our-enemies-2098
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Celine Fook
-date.created: '2020'
+dateCreated: '2020'
 description: Illustration of Matthew 5:44, the admonition to pray for one's persecutors
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: No Known restrictions
 source: https://olps.sg/praying-our-enemies-2098
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

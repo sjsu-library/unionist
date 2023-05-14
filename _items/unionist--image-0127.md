@@ -6,10 +6,10 @@ bibliographicCitation: 'John Warner Barber, <em>Connecticut Historical Collectio
   Anecdotes, &c., Relating to the History and Antiquities of Every Town in Connecticut,
   with Geographical Descriptions</em>  New Haven: Durrie and Peck and J.W. Barber,
   1836), p. 433'
-bibliographicCitation.republished: https://play.google.com/store/books/details?id=zQwWAAAAYAAJ
+bibliographicCitationRepublished: https://play.google.com/store/books/details?id=zQwWAAAAYAAJ
 fullIssueSequenceNumber: 
 creator: John Warner Barber
-date.created: '1836'
+dateCreated: '1836'
 description: John Warner Barber's view of the manufacturing area of Killingsley, known
   as Danielsonville
 language: English
@@ -23,8 +23,8 @@ source: 'John Warner Barber, <em>Connecticut Historical Collections: Containing 
   p. 433'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

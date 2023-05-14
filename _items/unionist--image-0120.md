@@ -3,10 +3,10 @@ pid: unionist--image-0120
 title: Rinaldo Burleigh Daguerreotype History of Woodstock
 bibliographicCitation: 'Clarence Winthrop Bowen, <em>The History of Woodstock Connecticut</em>
   (Norwood, Massachusetts: The Plimpton Press, 1926). 377.'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: ca. 1850
+dateCreated: ca. 1850
 description: Daguerretype of Rinaldo Burleigh (1774-1863)
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: 'Clarence Winthrop Bowen, <em>The History of Woodstock Connecticut</em> 
   Massachusetts: The Plimpton Press, 1926). 377.'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

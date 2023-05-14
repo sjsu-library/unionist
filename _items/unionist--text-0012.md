@@ -2,10 +2,10 @@
 pid: unionist--text-0012
 title: Negative Reception for The Unionist
 bibliographicCitation: "<em>Columbian Register</em> 10 August 1833"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Columbian Register
-date.created: '1833-08-10'
+dateCreated: '1833-08-10'
 description: Negative Reception for The Unionist
 language: English
 publisher: Columbian Register
@@ -15,7 +15,7 @@ source: Columbian Register
 subject: The Unionist
 type: Text
 category: Negative notice
-article.type: original
+articleType: original
 volume: 
 issue: 
 transcription: "“A paper has just been established at Brooklyn, Windham Co. called

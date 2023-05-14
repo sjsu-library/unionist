@@ -2,10 +2,10 @@
 pid: unionist--image-0330
 title: 'Child''s plate: "The Drunkard Shall Not Enter The Kingdom Of Heaven"'
 bibliographicCitation: http://dishynews.blogspot.com/2014/06/the-temperance-movement-on-transferware.html
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Judie Siddall
-date.created: ca. 1850
+dateCreated: ca. 1850
 description: 'Small circular plate with an Angel holding a shield that reads: "Intemperance
   is Ireland''s Bane, England''s Curse, and Scotland''s Woe"'
 language: English
@@ -15,8 +15,8 @@ rights: Fair Use
 source: http://dishynews.blogspot.com/2014/06/the-temperance-movement-on-transferware.html
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

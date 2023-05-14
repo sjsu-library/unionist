@@ -2,10 +2,10 @@
 pid: unionist--text-0157
 title: Steamer New-England
 bibliographicCitation: "<em>The Unionist</em> 1833-12-19"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-12-19 p.01.03
 creator: 
-date.created: '1833-12-19'
+dateCreated: '1833-12-19'
 description: Findings of blame for Steamboat New-England disaster
 language: English
 publisher: The Unionist
@@ -15,14 +15,14 @@ source: The Unionist
 subject: Miscellaneous Filler; National News
 type: Text
 category: Unionist full issue 1833-12-19
-article.type: 
+articleType: 
 volume: '1'
 issue: '20'
 transcription: "<p>  STEAMER NEW-ENGLAND.—The board of examiners, at the head of which
-  was<br>  Professor Siliman, appointed to investigate the causes of the destruction
-  of<br>  that boat, have reported that the sole cause of the bursting of her boilers<br>
-  \ was the immense pressure of steam to which they were subjected through the<br>
-  \ <em>negligence</em>  of the engineer.<br></p><p></p>"
+  was <br>  Professor Siliman, appointed to investigate the causes of the destruction
+  of <br>  that boat, have reported that the sole cause of the bursting of her boilers
+  <br>  was the immense pressure of steam to which they were subjected through the
+  <br>  <em>negligence</em>  of the engineer. <br></p><p></p>"
 scholarlyNotes: Brief bio of Silliman - https://silliman.yalecollege.yale.edu/about-silliman/history
 commentary: The Steamboat New-England disaster occured on October 8, 1833. Thirteen
   people perished in the explosion off of Essex, Connecticut (about 50 miles south/southeast

@@ -2,10 +2,10 @@
 pid: unionist--image-0030
 title: Red Roan Mare and Colt
 bibliographicCitation: https://netposse.com/tag.asp?id=2603
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '2019'
+dateCreated: '2019'
 description: Missing horses are not a phenomenon of the past
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: https://netposse.com/tag.asp?id=2603
 source: https://netposse.com/tag.asp?id=2603
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

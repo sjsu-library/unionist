@@ -2,10 +2,10 @@
 pid: unionist--text-0398
 title: Metamorphosis
 bibliographicCitation: "<em>Boston Recorder</em>1834-08-29"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: "<em>Boston Recorder</em>1834-08-29"
-date.created: '1834-08-29'
+dateCreated: '1834-08-29'
 description: Reputedly announcing the demise of <em>The Unionist</em>
 language: English
 publisher: "<em>Boston Recorder</em>1834-08-29"
@@ -15,13 +15,13 @@ source: "<em>Boston Recorder</em>1834-08-29"
 subject: The Unionist
 type: Text
 category: Negative notice
-article.type: 
+articleType: 
 volume: 
 issue: 
 transcription: "<em>Metamorphosis.</em>—The paper formerly called “the Unionist,”
-  published at Brookline, Ct. [sic]<br>comes out under the name of “Windham County
-  Whig,” and says it is to be devoted<br>principally to politics. It was established
-  to support Miss Prudence Crandall’s<br>school, and to oppose her opposers.<br>"
+  published at Brookline, Ct. [sic] <br>comes out under the name of “Windham County
+  Whig,” and says it is to be devoted <br>principally to politics. It was established
+  to support Miss Prudence Crandall’s <br>school, and to oppose her opposers. <br>"
 scholarlyNotes: I feel this is incorrect, as Garrison and others make reference to
   issues of <em>The Unionist</em> much later than this.
 commentary: I feel this is incorrect, as Garrison and others make reference to issues

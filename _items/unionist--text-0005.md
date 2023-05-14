@@ -2,11 +2,11 @@
 pid: unionist--text-0005
 title: O! SHAME! SHAME!!
 bibliographicCitation: "<em>The Unionist</em> 1:7 (September 12, 1833)"
-bibliographicCitation.republished: "<em>The Liberator</em>, September 21, 1833, p.
+bibliographicCitationRepublished: "<em>The Liberator</em>, September 21, 1833, p.
   151 (3:38:151)"
 fullIssueSequenceNumber: 
 creator: Charles C. Burleigh
-date.created: '1833-09-12'
+dateCreated: '1833-09-12'
 description: Cow Dung in the Water Well
 language: English
 publisher: The Liberator
@@ -15,17 +15,18 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Canterbury Female Academy; African-American Students; Vigilante VIolence
 type: Text
-category: Unionist content republished
-article.type: 
+category: Unionist content
+articleType: 
 volume: '1'
 issue: '7'
-transcription: "<p>O! SHAME! SHAME!!”</p><p>☞ “The following paragraph is<br>  extracted
-  from the Unionist of last week” <br></p><p>  “’The laudable efforts of the Canterbury
-  worthies to drive Miss Crandall from<br>  her purpose, by withholding from her the
-  necessaries of life, will have the<br>  effect to perpetuate their own well earned
-  fame, if not to attain its primary<br>  object. The latest measure which we have
-  heard of their adopting, is the<br>  FILLING MISS C’S WELL WITH MANURE FROM THE
-  BARNYARD,<br>  <em>and then refusing to give her water from their own wells.’”</em></p>"
+transcription: "<p>O! SHAME! SHAME!!”</p><p>☞ “The following paragraph is <br>  extracted
+  from the Unionist of last week”  <br></p><p>  “’The laudable efforts of the Canterbury
+  worthies to drive Miss Crandall from <br>  her purpose, by withholding from her
+  the necessaries of life, will have the <br>  effect to perpetuate their own well
+  earned fame, if not to attain its primary <br>  object. The latest measure which
+  we have heard of their adopting, is the <br>  FILLING MISS C’S WELL WITH MANURE
+  FROM THE BARNYARD, <br>  <em>and then refusing to give her water from their own
+  wells.’”</em></p>"
 scholarlyNotes: 
 commentary: The vigilante violence and harassment of the Canterbury Female Academy
   was continuous, malicious, and often crudely immature, as in this instance. Putting

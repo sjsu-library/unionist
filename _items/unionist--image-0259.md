@@ -2,10 +2,10 @@
 pid: unionist--image-0259
 title: Gravestone of Shubael Fitch (1750-1834)
 bibliographicCitation: https://www.findagrave.com/memorial/37957383/shubael-fitch?_gl=1*1xnucph*_ga*MTUyMjQxNDg5NS4xNjU5NTYyOTE2*_ga_4QT8FMEX30*MTM3NTNjNDMtZDgxMS00YzRiLWI2NmEtYjAxYTA2ZjRjMzRiLjUzLjEuMTY4MjY1NTYxMy41OC4wLjA.
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Sue
-date.created: '1834'
+dateCreated: '1834'
 description: Gravestone of Shubael Fitch (1750-1834)
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: awaiting permission
 source: https://www.findagrave.com/memorial/37957383/shubael-fitch?_gl=1*1xnucph*_ga*MTUyMjQxNDg5NS4xNjU5NTYyOTE2*_ga_4QT8FMEX30*MTM3NTNjNDMtZDgxMS00YzRiLWI2NmEtYjAxYTA2ZjRjMzRiLjUzLjEuMTY4MjY1NTYxMy41OC4wLjA.
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

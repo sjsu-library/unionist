@@ -2,10 +2,10 @@
 pid: unionist--image-0176
 title: Royal Belfast Academical Institution Profile Picture
 bibliographicCitation: https://www.facebook.com/photo/?fbid=509146947885008&set=a.509146887885014
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Royal Belfast Academical Institution
-date.created: 
+dateCreated: 
 description: Royal Belfast Academical Institution Profile Picture
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights:
 source: https://www.facebook.com/photo/?fbid=509146947885008&set=a.509146887885014
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

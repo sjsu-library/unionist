@@ -3,10 +3,10 @@ pid: unionist--image-0231
 title: John Newton
 bibliographicCitation: By Contemporary portrait - http://100megsfree4.com/dictionary/theology/tdicn.htm,
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=4252108
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: John Newton
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: By Contemporary portrait - http://100megsfree4.com/dictionary/theology/t
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=4252108
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

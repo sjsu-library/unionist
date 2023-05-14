@@ -2,10 +2,10 @@
 pid: unionist--image-0277
 title: Man reading from Speech on Paper
 bibliographicCitation: AdobeStock_95352604
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Man reading from Speech on Paper
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Education License - Standard Image
 source: AdobeStock_95352604
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

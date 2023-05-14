@@ -2,10 +2,10 @@
 pid: unionist--image-0187
 title: Front Page, June 12, 1750 issue of Samuel Johnson's <em>The Rambler</em>
 bibliographicCitation: "<em>The Rambler</em> 1750-06-12, n. 25"
-bibliographicCitation.republished: https://carsonparkdesign.com/lasting-ephemera-samuel-johnsons-the-rambler/
+bibliographicCitationRepublished: https://carsonparkdesign.com/lasting-ephemera-samuel-johnsons-the-rambler/
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1750'
+dateCreated: '1750'
 description: Front Page, June 12, 1750 issue of Samuel Johnson's <em>The Rambler</em>
 language: English; Latin
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>The Rambler</em> 1750-06-12, n. 25"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

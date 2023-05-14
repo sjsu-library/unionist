@@ -2,10 +2,10 @@
 pid: unionist--text-0008
 title: Positive Reception for The Unionist
 bibliographicCitation: "<em>Haverhill Gazette</em> 03 August 1833"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833-08-03'
+dateCreated: '1833-08-03'
 description: Positive Reception for The Unionist
 language: English
 publisher: Haverhill Gazette
@@ -15,7 +15,7 @@ source: Haverhill Gazette
 subject: The Unionist
 type: Text
 category: Positive notice
-article.type: original
+articleType: original
 volume: 
 issue: 
 transcription: "<em>“The Unionist”</em> is the title of a paper just established at

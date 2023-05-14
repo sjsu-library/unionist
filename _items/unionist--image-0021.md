@@ -3,10 +3,10 @@ pid: unionist--image-0021
 title: Title Page of the <em>Young Man's Guide</em>
 bibliographicCitation: 'William A. Alcott, <em>The Young Man''s Guide</em>. Second
   Edition (Boston: Lilly, Wait, Colman and Holden, 1834) - Google eBook here https://books.google.com/books?id=ey9WAAAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=true'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1834'
+dateCreated: '1834'
 description: Title Page of the second edition of Alcott's <em>Young Man's Guide</em>
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: 'William A. Alcott, <em>The Young Man''s Guide</em>. Second Edition (Bos
   Lilly, Wait, Colman and Holden, 1834) - Google eBook here https://books.google.com/books?id=ey9WAAAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=true'
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

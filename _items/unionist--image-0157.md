@@ -2,10 +2,10 @@
 pid: unionist--image-0157
 title: Obituary of Lydia Bradford Burleigh
 bibliographicCitation: "<em>Liberator</em> 2.4.1853 v.23.n.5.p.19"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: William Lloyd Garrison; Charles C. Burleigh
-date.created: '1853'
+dateCreated: '1853'
 description: Obituary of Lydia Bradford Burleigh
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: "<em>Liberator</em> 2.4.1853 v.23.n.5.p.19"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0306
 title: Illustration of a group of farmers
 bibliographicCitation: AdobeStock_191071421
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: elenabsi
-date.created: 
+dateCreated: 
 description: Illustration of a group of farmers
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Education License - Standard Image
 source: 
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0326
 title: Colley Cibber playing Lord Foppington
 bibliographicCitation: https://commons.wikimedia.org/w/index.php?curid=53951607
-bibliographicCitation.republished: http://grubstreetproject.net/people/colleycibber/images/1696_grisoni.php
+bibliographicCitationRepublished: http://grubstreetproject.net/people/colleycibber/images/1696_grisoni.php
 fullIssueSequenceNumber: 
 creator: Giuseppe Grisoni
-date.created: '1696'
+dateCreated: '1696'
 description: The actor, playwright, and dandy Colley Cibber in the Restoration comedy
   "The Relapse," playing Lord Foppington
 language: English
@@ -15,8 +15,8 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=53951607
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0045
 title: Amos A. Phelps
 bibliographicCitation: https://www.masshist.org/database/viewer.php?item_id=1361&img_step=1&mode=large#page1
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Amos A. Phelps (1805-1847), Abolitionist, and an endorser of the Canterbury
   Female Academy
 language: English
@@ -15,8 +15,8 @@ rights: https://www.masshist.org/database/viewer.php?item_id=1361&img_step=1&mod
 source: https://www.masshist.org/database/viewer.php?item_id=1361&img_step=1&mode=large#page1
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

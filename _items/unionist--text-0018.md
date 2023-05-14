@@ -2,10 +2,10 @@
 pid: unionist--text-0018
 title: The Spirit of Reform
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-08-08 p01.04
 creator: unknown
-date.created: '1833-08-08'
+dateCreated: '1833-08-08'
 description: The Spirit of Reform
 language: English
 publisher: The Unionist
@@ -15,7 +15,7 @@ source: The Unionist
 subject: Allied Reform Movements - general
 type: Text
 category: Unionist full issue 1833-08-08
-article.type: source unclear
+articleType: source unclear
 volume: '1'
 issue: '2'
 transcription: <p align="center">THE SPIRIT OF REFORM.</p><p>What is the spirit of

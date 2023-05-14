@@ -2,10 +2,10 @@
 pid: unionist--image-0339
 title: A Blank Letter
 bibliographicCitation: AdobeStock_133721720
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: ifriday
-date.created: 
+dateCreated: 
 description: A blank letter in a white woman's hands
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Education License - Standard Image
 source: AdobeStock_133721720
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

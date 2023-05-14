@@ -2,10 +2,10 @@
 pid: unionist--image-0103
 title: Royal_Winter_Fair_Wool_2
 bibliographicCitation: By Rob - Sheeps Wool, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=8463983
-bibliographicCitation.republished: https://en.wikipedia.org/wiki/Wool#/media/File:Royal_Winter_Fair_Wool_2.jpg
+bibliographicCitationRepublished: https://en.wikipedia.org/wiki/Wool#/media/File:Royal_Winter_Fair_Wool_2.jpg
 fullIssueSequenceNumber: 
 creator: Rob
-date.created: '2009'
+dateCreated: '2009'
 description: Wool before processing
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: CC BY 2.0
 source: https://en.wikipedia.org/wiki/Wool#/media/File:Royal_Winter_Fair_Wool_2.jpg
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

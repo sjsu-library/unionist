@@ -2,10 +2,10 @@
 pid: unionist--image-0170
 title: Samuel J. May
 bibliographicCitation: https://www.theliberatorfiles.com/liberator-photo-gallery/
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: ca. 1847
+dateCreated: ca. 1847
 description: Samuel J. May (1797-1871)
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://www.theliberatorfiles.com/liberator-photo-gallery/
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

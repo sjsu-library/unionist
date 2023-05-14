@@ -2,11 +2,11 @@
 pid: unionist--image-0318
 title: Helen Eliza Benson Garrison
 bibliographicCitation: https://commons.wikimedia.org/wiki/File:Helen_Eliza_Benson_Garrison.png
-bibliographicCitation.republished: Archibald H. Grimke. Anti-Slavery in Boston. New
+bibliographicCitationRepublished: Archibald H. Grimke. Anti-Slavery in Boston. New
   England Magazine. Dec. 1890
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1890'
+dateCreated: '1890'
 description: Photograph of Helen Eliza Benson Garrison (1811-1876)
 language: English
 publisher: 
@@ -15,8 +15,8 @@ rights: Public Domain
 source: https://commons.wikimedia.org/wiki/File:Helen_Eliza_Benson_Garrison.png
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

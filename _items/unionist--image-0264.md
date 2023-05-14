@@ -3,10 +3,10 @@ pid: unionist--image-0264
 title: 'J.P. Peaslee, <em>The Political Mirror: or, Review of Jacksonism</em>'
 bibliographicCitation: 'J.P. Peaslee, <em>The Political Mirror: or, Review of Jacksonism</em>
   (New York: D. Fanshawe, 1835)'
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: J. P. Peaslee
-date.created: '1835'
+dateCreated: '1835'
 description: 'Cover of J.P. Peaslee, <em>The Political Mirror: or, Review of Jacksonism</em>'
 language: English
 publisher: 
@@ -16,8 +16,8 @@ source: 'J.P. Peaslee, <em>The Political Mirror: or, Review of Jacksonism</em> (
   York: D. Fanshawe, 1835)'
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

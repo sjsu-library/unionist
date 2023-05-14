@@ -2,10 +2,10 @@
 pid: unionist--image-0340
 title: '"Our Countrymen in Chains"'
 bibliographicCitation: https://www.nps.gov/articles/connecticut-abolitionists.htm
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: John Greenleaf Whittier
-date.created: '1838'
+dateCreated: '1838'
 description: Broadside of "Our Countrymen in Chains" by John Greenlead Whittier
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://www.nps.gov/articles/connecticut-abolitionists.htm
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0048
 title: The Ivimey Lectures
 bibliographicCitation: https://openlibrary.org/works/OL15642570W/The_utter_extinction_of_slavery_an_object_of_scripture_prophecy?edition=ia%3Autterextinctiono01ivim
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1832'
+dateCreated: '1832'
 description: Title page of the Ivimey Lectures
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://openlibrary.org/works/OL15642570W/The_utter_extinction_of_slavery_an_object_of_scripture_prophecy?edition=ia%3Autterextinctiono01ivim
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

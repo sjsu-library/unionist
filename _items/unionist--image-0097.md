@@ -2,10 +2,10 @@
 pid: unionist--image-0097
 title: Dengarden Cord
 bibliographicCitation: https://dengarden.com/landscaping/Five-Types-of-Hardwood-for-Firewood
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '2022'
+dateCreated: '2022'
 description: A cord of wood
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: unknown
 source: https://dengarden.com/landscaping/Five-Types-of-Hardwood-for-Firewood
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--text-0358
 title: The Convict Ship
 bibliographicCitation: "<em>The Unionist</em> 1834-04-10"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1834-04-10 p.04.58
 creator: 
-date.created: '1834-04-10'
+dateCreated: '1834-04-10'
 description: Poem by Amherst Anti-Slavery Society student leader T.K. Hervey
 language: English
 publisher: The Unionist
@@ -15,11 +15,11 @@ source: "<em>The Unionist</em> 1834-04-10"
 subject: Poetry
 type: Text
 category: Unionist full issue 1834-04-10
-article.type: 
+articleType: 
 volume: '1'
 issue: '36'
-transcription: "<p>THE CONVICT SHIP.</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ By T.K. HERVEY<br></p><p>Morn on the waters! and purple and bright</p><p>Bursts
+transcription: "<p>THE CONVICT SHIP.</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br>  By T.K. HERVEY <br></p><p>Morn on the waters! and purple and bright</p><p>Bursts
   on the billows the flashing of light;</p><p>O’er the glad waves, like a child of
   the sun,</p><p>See the tall vessel goes gallantly on;</p><p>Full to the breeze she
   unbosoms her sail—</p><p>And her pennons stream onward, like Hope, in the gale;</p><p>The

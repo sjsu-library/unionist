@@ -2,10 +2,10 @@
 pid: unionist--image-0092
 title: April 10 1834 Unionist page 2 Lib of Cong
 bibliographicCitation: "<em>The Unionist</em> 1:36 (April 10 1834)"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Charles C. Burleigh; William H. Burleigh
-date.created: '1834'
+dateCreated: '1834'
 description: Page Two of <em>The Unionist</em> 1:36, 1834-04-10
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: Library of Congress
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

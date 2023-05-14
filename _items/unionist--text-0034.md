@@ -2,10 +2,10 @@
 pid: unionist--text-0034
 title: The Canterbury Affair
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
-bibliographicCitation.republished: "<em>The Emancipator</em>; <em>Vermont Chronicle</em>"
+bibliographicCitationRepublished: "<em>The Emancipator</em>; <em>Vermont Chronicle</em>"
 fullIssueSequenceNumber: 1833-08-08 p02.20
 creator: Charles C. Burleigh
-date.created: '1833-08-08'
+dateCreated: '1833-08-08'
 description: The Canterbury Affair
 language: English
 publisher: The Unionist
@@ -15,7 +15,7 @@ source: The Unionist
 subject: Journalistic Debate; Canterbury Female Academy
 type: Text
 category: Unionist full issue 1833-08-08
-article.type: 
+articleType: 
 volume: '1'
 issue: '2'
 transcription: "<p>THE CANTERBURY AFFAIR. The Emancipator asserts on the authority

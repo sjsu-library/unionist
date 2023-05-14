@@ -2,10 +2,10 @@
 pid: unionist--image-0196
 title: David Daggett (1764-1851)
 bibliographicCitation: https://commons.wikimedia.org/w/index.php?curid=3964014
-bibliographicCitation.republished: Library of Congress, http://bioguide.congress.gov/scripts/guidedisplay.pl?index=D000002
+bibliographicCitationRepublished: Library of Congress, http://bioguide.congress.gov/scripts/guidedisplay.pl?index=D000002
 fullIssueSequenceNumber: 
 creator: 
-date.created: ca. 1845
+dateCreated: ca. 1845
 description: David Daggett
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=3964014
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

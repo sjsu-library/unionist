@@ -2,10 +2,10 @@
 pid: unionist--image-0064
 title: ThomasJeffersonStatue
 bibliographicCitation: https://news.artnet.com/art-world/thomas-jefferson-statue-headed-new-york-historical-society-2035662
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Pierre-Jean David d’Angers
-date.created: '1833'
+dateCreated: '1833'
 description: Statue of Thomas Jefferson
 language: English
 publisher: 
@@ -16,8 +16,8 @@ rights: Pierre-Jean David d’Angers, Thomas Jefferson (1833), plaster model. Ph
 source: https://news.artnet.com/art-world/thomas-jefferson-statue-headed-new-york-historical-society-2035662
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

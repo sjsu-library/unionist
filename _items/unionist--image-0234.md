@@ -3,10 +3,10 @@ pid: unionist--image-0234
 title: Masthead of the <em>Haverhill Gazette and Essex Patriot</em>
 bibliographicCitation: Masthead of the <em>Haverhill Gazette and Essex Patriot</em>,
   1823-02-15. Collection of American Antiquarian Society
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1823'
+dateCreated: '1823'
 description: Masthead of the <em>Haverhill Gazette and Essex Patriot</em>, 1823-02-15.
   Collection of American Antiquarian Society
 language: English
@@ -17,8 +17,8 @@ source: Masthead of the <em>Haverhill Gazette and Essex Patriot</em>, 1823-02-15
   Collection of American Antiquarian Society
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

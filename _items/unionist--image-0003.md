@@ -3,10 +3,10 @@ pid: unionist--image-0003
 title: Illustration from Sir Walter Scott's <em>The Monastery</em>
 bibliographicCitation: 'Walter Scott, <em>The Monastery</em>, in an undated nineteenth-century
   edition of the complete Waverly Novels, uploaded to Project Gutenberg '
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Mary Avenal and Mysie Happer, from <em>The Monastery</em>. Mary Avenal's
   religiousity is what is addressed in this extended quote.
 language: English
@@ -16,8 +16,8 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: https://www.gutenberg.org/cache/epub/6406/pg6406-images.html
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

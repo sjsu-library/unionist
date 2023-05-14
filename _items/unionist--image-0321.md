@@ -2,10 +2,10 @@
 pid: unionist--image-0321
 title: 1907 Postcard of the Old Trinity Church, Brooklyn
 bibliographicCitation: https://www.wikiwand.com/en/Brooklyn,_Connecticut
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1907'
+dateCreated: '1907'
 description: 1907 Postcard of the Old Trinity Church, Brooklyn
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://www.wikiwand.com/en/Brooklyn,_Connecticut
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

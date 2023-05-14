@@ -2,10 +2,10 @@
 pid: unionist--text-0170
 title: "[Trial of Garrison]"
 bibliographicCitation: "<em>The Unionist</em> 1833-12-19"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-12-19 p.02.16
 creator: Charles C. Burleigh; William H. Burleigh
-date.created: '1833-12-19'
+dateCreated: '1833-12-19'
 description: Delay in Garrison's local trial
 language: English
 publisher: The Unionist
@@ -15,11 +15,11 @@ source: The Unionist
 subject: Abolition; Canterbury Female Academy; Legal Notices
 type: Text
 category: Unionist full issue 1833-12-19
-article.type: 
+articleType: 
 volume: '1'
 issue: '20'
 transcription: "<p>  The trial of Mr. Garrison has been put off to the March session
-  of the County<br>  Court.<br></p><p></p>"
+  of the County <br>  Court. <br></p><p></p>"
 scholarlyNotes: 
 commentary: Garrison faced charges of libel. The trial was never held. Garrison was
   imprisoned once in Baltimore, and was put under lock and key for his own safety

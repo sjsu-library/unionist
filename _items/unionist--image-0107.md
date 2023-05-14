@@ -4,10 +4,10 @@ title: Apostle Paul p254 epistles from prison
 bibliographicCitation: "<em>The Life and Travels of the Apostle Paul, Prepared with
   Questions for the Use of Sunday Schools, with a Map</em>, no author given (Boston:
   Lilly, Wait, Colman and Holden, 1833), p.254. online at https://play.google.com/store/books/details?id=AzwAAAAAYAAJ&rdid=book-AzwAAAAAYAAJ&rdot=1"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1833'
+dateCreated: '1833'
 description: 'A page about Paul writing his epistles from prison, in <em>The Life
   and Travels of the Apostle Paul</em>. '
 language: English
@@ -19,8 +19,8 @@ source: "<em>The Life and Travels of the Apostle Paul, Prepared with Questions f
   Colman and Holden, 1833), p.254. online at https://play.google.com/store/books/details?id=AzwAAAAAYAAJ&rdid=book-AzwAAAAAYAAJ&rdot=1"
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--text-0404
 title: Third trial Transcripts
 bibliographicCitation: "<em>The Liberator</em> 1834-09-27; 1834-10-11"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: '1834-09-27'
+dateCreated: '1834-09-27'
 description: Supreme Court of Errors decision
 language: English
 publisher: "<em>The Liberator</em> 1834-09-27; 1834-10-11"
@@ -14,8 +14,8 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Liberator</em> 1834-09-27; 1834-10-11"
 subject: 
 type: Text
-category: Unionist content LIKELY
-article.type: 
+category: Unionist content
+articleType: 
 volume: 
 issue: 
 transcription: 

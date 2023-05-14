@@ -3,10 +3,10 @@ pid: unionist--image-0018
 title: Ephraim Kingsbury Avery
 bibliographicCitation: By Ephraim Kingsbury Avery, unknown illustrator - Find a grave,
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=4016238
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: E. K. Avery was the accused, later acquited, in a notorious murder trial
   in Fall River
 language: English
@@ -17,8 +17,8 @@ rights: By Ephraim Kingsbury Avery, unknown illustrator - Find a grave, Public D
 source: 
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

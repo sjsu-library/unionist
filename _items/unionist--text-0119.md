@@ -2,10 +2,10 @@
 pid: unionist--text-0119
 title: Can a Leopard change his spots?
 bibliographicCitation: "<em>The Unionist</em> 1833-09-05"
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-09-05 p.04.45
 creator: 
-date.created: '1833-09-05'
+dateCreated: '1833-09-05'
 description: Joke
 language: English
 publisher: The Unionist
@@ -15,11 +15,11 @@ source: The Unionist
 subject: Miscellaneous Filler; Humor
 type: Text
 category: Unionist full issue 1833-09-05
-article.type: 
+articleType: 
 volume: '1'
 issue: '6'
 transcription: Can a Leopard change his spots? —Yes, if he does not like one spot,
-  he can go to<br>another.<br>
+  he can go to <br>another. <br>
 scholarlyNotes: 
 commentary: Dad jokes in 1833
 relatedPeople: 

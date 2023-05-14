@@ -2,10 +2,10 @@
 pid: unionist--image-0057
 title: WhiteCloverSeed
 bibliographicCitation: https://dancingbeeequipment.com/products/seed-white-dutch-clover
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-date.created: 
+dateCreated: 
 description: Pile of white clover seeds
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: unsure
 source: https://dancingbeeequipment.com/products/seed-white-dutch-clover
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

@@ -2,10 +2,10 @@
 pid: unionist--image-0279
 title: Signature of Andrew Judson
 bibliographicCitation: https://research.mysticseaport.org/item/l028635/l028635-b01-f01/
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Andrew Judson
-date.created: '1840'
+dateCreated: '1840'
 description: Signature of Andrew Judson
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Public Domain
 source: https://research.mysticseaport.org/item/l028635/l028635-b01-f01/
 subject: 
 type: image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 

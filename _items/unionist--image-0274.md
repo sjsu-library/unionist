@@ -2,10 +2,10 @@
 pid: unionist--image-0274
 title: image of saving a drowning person
 bibliographicCitation: AdobeStock_218368808
-bibliographicCitation.republished: 
+bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Kevin Carden
-date.created: 
+dateCreated: 
 description: image of saving a drowning person
 language: English
 publisher: 
@@ -14,8 +14,8 @@ rights: Education License - Standard Image
 source: AdobeStock_218368808
 subject: 
 type: Image
-category: Image
-article.type: 
+category: 
+articleType: 
 volume: 
 issue: 
 transcription: 
