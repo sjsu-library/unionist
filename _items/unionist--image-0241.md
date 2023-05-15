@@ -15,7 +15,7 @@ rights: No known restrictions
 source: https://www.digitalcommonwealth.org/search/commonwealth:dv142x87k
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0241/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0241/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0241/full/1140,/0/default.jpg"
+proofed JR: 
 ---

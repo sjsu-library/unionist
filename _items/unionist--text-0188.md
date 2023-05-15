@@ -15,17 +15,16 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Advertisement with Abolitionist theme
 type: Text
-category: Unionist full issue 1833-12-19
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
 transcription: <p align="center">WANTED,</p><p>  A SMART, active Colored Boy from
-  the Country, from ten to fifteen years of <br>  age, of good character, in a Clothing
-  Store, where he will be liberally <br>  compensated for his services, and find a
-  permanent situation. Any person <br>  having such a boy, will please to forward
-  a line, post paid to the subscriber, <br>  stating his terms, which will receive
-  immediate attention, (No. 26, <br>  Brattle-street, Boston.) <br></p><p>JAMES G.
-  BARBADOES</p>
+  the Country, from ten to fifteen years of<br>  age, of good character, in a Clothing
+  Store, where he will be liberally<br>  compensated for his services, and find a
+  permanent situation. Any person<br>  having such a boy, will please to forward a
+  line, post paid to the subscriber,<br>  stating his terms, which will receive immediate
+  attention, (No. 26,<br>  Brattle-street, Boston.)<br></p><p>JAMES G. BARBADOES</p>
 scholarlyNotes: Add a Peter Hinks reference here
 commentary: James Barbadoes (1796-1841) was a major figure in Boston's Black community,
   a friend to David Walker, Maria Stewart, and William Lloyd Garrison, among many
@@ -41,7 +40,8 @@ caption:
 order: '187'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://openlibrary.org/works/OL15642570W/The_utter_extinction_of_slavery_an_object_of_scripture_prophecy?edition=ia%3Autterextinctiono01ivim
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -36,4 +36,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0048/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0048/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0048/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0048/full/1140,/0/default.jpg"
 ---

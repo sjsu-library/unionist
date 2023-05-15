@@ -16,7 +16,7 @@ source: https://stock.adobe.com/images/past-due-stamp/58651264?asset_id=58651264
   Education License - Standard Image
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0229/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0229/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0229/full/1140,/0/default.jpg"
+proofed JR: 
 ---

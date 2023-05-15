@@ -14,18 +14,18 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Unionist</em> 1834-04-10"
 subject: Advertisemenst
 type: Text
-category: Unionist full issue 1834-04-10
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
 transcription: "<p>THE YOUNG MAN’S GUIDE.</p><p>  A VOLUME of 320 pages, designed
-  as a cheap manual for Young Men, though it is <br>  believed to embrace much useful
-  information to persons in every description; <br>  especially parents. It is divided
-  into seven chapters; to which are prefixed a <br>  very full table o contents and
-  an introduction. The great object of the author <br>  of the work, who has had much
-  experience with youth, is to stimulate them to <br>  aim at a high standard of character,
-  and to make the mental, social, and moral <br>  improvement o themselves and those
-  around them, a governing purpose of their <br>  lives. <br></p>"
+  as a cheap manual for Young Men, though it is<br>  believed to embrace much useful
+  information to persons in every description;<br>  especially parents. It is divided
+  into seven chapters; to which are prefixed a<br>  very full table o contents and
+  an introduction. The great object of the author<br>  of the work, who has had much
+  experience with youth, is to stimulate them to<br>  aim at a high standard of character,
+  and to make the mental, social, and moral<br>  improvement o themselves and those
+  around them, a governing purpose of their<br>  lives.<br></p>"
 scholarlyNotes: 
 commentary: 
 relatedPeople: 
@@ -39,7 +39,8 @@ caption:
 order: '373'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

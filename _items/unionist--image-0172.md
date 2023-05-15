@@ -19,7 +19,7 @@ source: 'Henry Ross Gall and William George Jordan, <em>One Hundred Years of Fir
   1819-1919</em> (Hartford: Ætna Insurance Company, 1919), facing p. 74'
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -40,4 +40,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0172/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0172/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0172/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0172/full/1140,/0/default.jpg"
 ---

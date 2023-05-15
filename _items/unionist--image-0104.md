@@ -16,7 +16,7 @@ rights: Public Domain
 source: https://www.metmuseum.org/art/collection/search/158960
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0104/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0104/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0104/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0104/full/1140,/0/default.jpg"
 ---

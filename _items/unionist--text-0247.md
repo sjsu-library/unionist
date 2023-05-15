@@ -15,24 +15,24 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Unionist</em>"
 subject: National News
 type: Text
-category: Unionist full issue 1834-03-13
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
 transcription: <p align="center">HIGHLY IMPORTANT.</p><p>  A letter from Louisville,
-  Kentucky, received in this city, yesterday, states <br>  that on the day it was
-  written, Committee of Directors of the Louisville Bank, <br>  which has hitherto
-  been a depository of the Government funds, called at the <br>  Branch Bank and laid
-  upon the counter about $100,000 of specie and notes <br>  belonging to the Government.
-  They accompanied this movement by an explanation <br>  that their Bank had resolved
-  to touch no more the Treasury Funds—that the sum <br>  brought was all they then
-  held—and from that time their connection with the <br>  Government must cease. <br></p><p>  They
-  remarked also, that they should leave the money in the branch, hoping <br>  they
-  would consent to take care of it, for that upon no consideration would <br>  they
-  permit it to return to their vaults. So much for the glorious experiment. <br>  “By
-  St Paul, the work goes bravely on,” The people have said no to the <br>  experiment,
-  and now even the pet banks begin to denounce the folly and <br>  impotence of the
-  greatest and best.— <br>  <em>Star-spangled-Banner.</em></p>
+  Kentucky, received in this city, yesterday, states<br>  that on the day it was written,
+  Committee of Directors of the Louisville Bank,<br>  which has hitherto been a depository
+  of the Government funds, called at the<br>  Branch Bank and laid upon the counter
+  about $100,000 of specie and notes<br>  belonging to the Government. They accompanied
+  this movement by an explanation<br>  that their Bank had resolved to touch no more
+  the Treasury Funds—that the sum<br>  brought was all they then held—and from that
+  time their connection with the<br>  Government must cease.<br></p><p>  They remarked
+  also, that they should leave the money in the branch, hoping<br>  they would consent
+  to take care of it, for that upon no consideration would<br>  they permit it to
+  return to their vaults. So much for the glorious experiment.<br>  “By St Paul, the
+  work goes bravely on,” The people have said no to the<br>  experiment, and now even
+  the pet banks begin to denounce the folly and<br>  impotence of the greatest and
+  best.—<br>  <em>Star-spangled-Banner.</em></p>
 scholarlyNotes: 
 commentary: The phrase “By St Paul, the work goes bravely on" is credited to English
   actor, Poet Laureate, and fop Colley Cibber (1671-1757), from his play <em>Richard
@@ -50,7 +50,8 @@ caption:
 order: '246'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

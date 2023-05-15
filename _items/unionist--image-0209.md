@@ -18,7 +18,7 @@ source: 'By African American Photographs Assembled for 1900 Paris Exposition - L
   url: http://hdl.loc.gov/loc.pnp/cph.3b11189, Public Domain, https://commons.wikimedia.org/w/index.php?curid=32262226'
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -40,4 +40,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0209/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0209/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0209/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0209/full/1140,/0/default.jpg"
 ---

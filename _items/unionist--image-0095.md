@@ -15,7 +15,7 @@ rights: Public Domain
 source: "<em>The Liberator</em> 3:9:35 (1833-03-02)"
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -36,4 +36,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0095/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0095/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0095/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0095/full/1140,/0/default.jpg"
 ---

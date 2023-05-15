@@ -16,7 +16,7 @@ source: 'J.P. Peaslee, <em>The Political Mirror: or, Review of Jacksonism</em> (
   York: D. Fanshawe, 1835)'
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0264/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0264/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0264/full/1140,/0/default.jpg"
+proofed JR: 
 ---

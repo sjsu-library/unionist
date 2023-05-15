@@ -16,7 +16,7 @@ rights: CC BY-SA 4.0
 source: By Cogslegham - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47118011
 subject: 
 type: image
-category: image
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -40,5 +40,6 @@ layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0371/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0371/manifest.json"
-full: 
+full: "/img/derivatives/iiif/images/unionist--image-0371/full/1140,/0/default.jpg"
+proofed JR: 
 ---

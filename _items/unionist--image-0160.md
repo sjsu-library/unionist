@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/Richard_Watson_%28bishop_of_Llandaff%29#/media/File:Portrait_of_Richard_Watson,_D.D._Lord_Bishop_of_Landaff_(4672127).jpg
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0160/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0160/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0160/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0160/full/1140,/0/default.jpg"
 ---

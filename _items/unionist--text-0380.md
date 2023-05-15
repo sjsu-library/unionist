@@ -15,14 +15,13 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Unionist</em> 1834-04-10"
 subject: Advertisement with Abolitionist theme
 type: Text
-category: Unionist full issue 1834-04-10
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
 transcription: A FEW copies of Mrs. Child’s “Appeal in behalf of that class of Americans
-  called <br>Africans.” Just received and for sale at this <br>office.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; March <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br>6 <br>
+  called<br>Africans.” Just received and for sale at this<br>office.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  March<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6<br>
 scholarlyNotes: 
 commentary: 
 relatedPeople: Lydia Maria Child
@@ -36,7 +35,8 @@ caption:
 order: '379'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

@@ -14,15 +14,15 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Unionist</em> 1834-04-10"
 subject: Advertisement with Abolitionist theme
 type: Text
-category: Unionist full issue 1834-04-10
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
 transcription: "<p>RANKIN’S LETTERS.</p><p>  JUST published at the office of the Liberator,
-  by request of the Providence <br>  Anti-Slavery Society, a new edition of ‘Letters
-  on Slavery, addressed to Mr. <br>  Thomas Rankin, Merchant at Middlebrook, Augusta
-  Co., Va.—By John Rankin, <br>  Pastor of the Presbyterian Churches of Ripley and
-  Strait Creek, Brown County, <br>  Ohio. Price $18 per hundred—25 cents single. <br></p><p>Boston,
+  by request of the Providence<br>  Anti-Slavery Society, a new edition of ‘Letters
+  on Slavery, addressed to Mr.<br>  Thomas Rankin, Merchant at Middlebrook, Augusta
+  Co., Va.—By John Rankin,<br>  Pastor of the Presbyterian Churches of Ripley and
+  Strait Creek, Brown County,<br>  Ohio. Price $18 per hundred—25 cents single.<br></p><p>Boston,
   Sept. 7, 1833</p>"
 scholarlyNotes: 
 commentary: 
@@ -37,7 +37,8 @@ caption:
 order: '384'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

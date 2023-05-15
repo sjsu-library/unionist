@@ -14,15 +14,15 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Unionist</em> 1834-04-10"
 subject: National News
 type: Text
-category: Unionist full issue 1834-04-10
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
 transcription: "<p>Baltimore, April 1</p><p>  We understand that a clear majority
   of the whole voters of the 5<sup>th</sup>  Congressional District, have signed the
-  instructions to Mr. Isaac McKim, <br>  requiring him either to vote for the future
-  deposits of the public money in <br>  the Bank of the United&nbsp; States, or to
-  resign his seat.— <br>  <em>Nat. Int.</em></p>"
+  instructions to Mr. Isaac McKim,<br>  requiring him either to vote for the future
+  deposits of the public money in<br>  the Bank of the United&nbsp; States, or to
+  resign his seat.—<br>  <em>Nat. Int.</em></p>"
 scholarlyNotes: 
 commentary: 'Isaac McKim (1775-1838), in addition to serving a number of terms as
   a Congressional representative from Maryland, was also part of extensive transportation
@@ -39,7 +39,8 @@ caption:
 order: '328'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

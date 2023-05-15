@@ -14,13 +14,13 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Unionist</em> 1834-04-10"
 subject: Advertisements
 type: Text
-category: Unionist full issue 1834-04-10
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
 transcription: "<p>  S. BARROWS, Tailor, RESPECTFULLY solicits those of his customers
-  who are <br>  indebted to him for work to give him a call soon, as it is <br>  <em>absolutely
-  necessary</em>  that his accounts should be settled immediately. <br></p><p>Brooklyn,
+  who are<br>  indebted to him for work to give him a call soon, as it is<br>  <em>absolutely
+  necessary</em>  that his accounts should be settled immediately.<br></p><p>Brooklyn,
   January 9, 1834.</p>"
 scholarlyNotes: 
 commentary: 
@@ -35,7 +35,8 @@ caption:
 order: '372'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

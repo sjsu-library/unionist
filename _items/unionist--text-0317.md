@@ -14,14 +14,14 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Unionist</em> 1834-04-10"
 subject: Miscellaneous Filler; Humor
 type: Text
-category: Unionist full issue 1834-04-10
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
 transcription: "<em>A Mathematical Toast.—</em>The fair daughters of Columbia, May
-  they add virtue to beauty, <br><em>subtract</em>envy from friendship, multiply amiable
-  accomplishments by sweetness of temper, <br><em>divide</em>time by sociability and
-  economy, and <br><em>reduce</em>scandal to its lowest denominations. <br>"
+  they add virtue to beauty,<br><em>subtract</em>envy from friendship, multiply amiable
+  accomplishments by sweetness of temper,<br><em>divide</em>time by sociability and
+  economy, and<br><em>reduce</em>scandal to its lowest denominations.<br>"
 scholarlyNotes: 
 commentary: 
 relatedPeople: 
@@ -35,7 +35,8 @@ caption:
 order: '316'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

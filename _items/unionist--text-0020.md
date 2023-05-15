@@ -14,7 +14,7 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: London New Monthly Magazine
 subject: Anti-Slavery
 type: Text
-category: Unionist full issue 1833-08-08
+category: Unionist content
 articleType: republished material from London New Monthly Magazine
 volume: '1'
 issue: '2'
@@ -48,7 +48,8 @@ caption:
 order: '19'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

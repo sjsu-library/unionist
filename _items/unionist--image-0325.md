@@ -28,7 +28,7 @@ source: 'James Holbrook, <em>Ten Years Among the Mail Bags: Or, Notes from the D
   Association, 1888.'
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -54,4 +54,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0325/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0325/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0325/full/1140,/0/default.jpg"
+proofed JR: 
 ---

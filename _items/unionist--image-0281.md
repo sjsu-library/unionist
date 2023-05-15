@@ -14,7 +14,7 @@ rights: Public Domain
 source: By Louis Aston Knight - the-athenaeum.org, Public Domain, https://commons.wikimedia.org/w/index.php?curid=75946266
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -36,4 +36,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0281/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0281/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0281/full/1140,/0/default.jpg"
+proofed JR: 
 ---

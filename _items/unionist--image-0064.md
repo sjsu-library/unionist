@@ -16,7 +16,7 @@ rights: Pierre-Jean David d’Angers, Thomas Jefferson (1833), plaster model. Ph
 source: https://news.artnet.com/art-world/thomas-jefferson-statue-headed-new-york-historical-society-2035662
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0064/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0064/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0064/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0064/full/1140,/0/default.jpg"
 ---

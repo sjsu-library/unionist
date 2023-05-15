@@ -2,10 +2,9 @@
 pid: unionist--text-0133
 title: A New Theory
 bibliographicCitation: "<em>The Unionist</em> 1833-09-05"
-bibliographicCitationRepublished: "<em>New York Baptist Register</em> (not yet researched)
-  <br>"
+bibliographicCitationRepublished: "<em>New York Baptist Register</em> (not yet researched)<br>"
 fullIssueSequenceNumber: 1833-09-05 p.04.59
-creator: "<em>New York Baptist Register</em>  <br>"
+creator: "<em>New York Baptist Register</em> <br>"
 dateCreated: '1833-09-05'
 description: New Electromagnetic research
 language: English
@@ -15,16 +14,16 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Science; Miscellaneous Filler
 type: Text
-category: Unionist full issue 1833-09-05
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
 transcription: "<em>A New Theory.</em>—Dr. S.M. Metcalf has just published a work
-  in which he endeavors to show, that <br>terrestrial magnetism and electricity are
-  the same; and that “most striking <br>analogies of caloric and electricity shew
-  that they are radically the same <br>subtle, imponderable, and all pervading element;
-  that its unequal distribution <br>thro’-out nature, is the cause of all the various
-  attractions of ponderable <br>matter.”— <br><em>N.Y. Bap. Reg.</em>"
+  in which he endeavors to show, that<br>terrestrial magnetism and electricity are
+  the same; and that “most striking<br>analogies of caloric and electricity shew that
+  they are radically the same<br>subtle, imponderable, and all pervading element;
+  that its unequal distribution<br>thro’-out nature, is the cause of all the various
+  attractions of ponderable<br>matter.”—<br><em>N.Y. Bap. Reg.</em>"
 scholarlyNotes: Find-a-grave page for Metcalfe here https://www.findagrave.com/memorial/30068747/samuel-l-metcalfe?_gl=1*1s6bsl9*_ga*MTUyMjQxNDg5NS4xNjU5NTYyOTE2*_ga_B2YGR3SSMB*NDE3NjUyZjMtMTQ5NC00YzNmLThkZTUtOTUzMjNmNTk0OGE1LjcuMS4xNjc4OTE2NTgwLjQxLjAuMA..*_ga_4QT8FMEX30*MTY3ODkxNjM2Ni42LjEuMTY3ODkxNjU4MS40MC4wLjA.
 commentary: 'Samuel Littler Metcalfe (1798-1856) was the author of the 1833 volume
   <em>A New Theory of Terrestrial Magnetism</em>. There is an old short article about
@@ -41,7 +40,8 @@ caption:
 order: '132'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: '2023-05-14'
 ---

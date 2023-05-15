@@ -16,7 +16,7 @@ source: By William Zhang - https://www.flickr.com/photos/willzhang05/33650671514
   CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=96282122
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0256/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0256/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0256/full/1140,/0/default.jpg"
+proofed JR: 
 ---

@@ -17,7 +17,7 @@ source: 'Johnson, Allen (1915). Union and Democracy. Cambridge, Massachusetts: H
   Mifflin Company., Public Domain, https://commons.wikimedia.org/w/index.php?curid=1988478'
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0268/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0268/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0268/full/1140,/0/default.jpg"
+proofed JR: 
 ---

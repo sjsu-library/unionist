@@ -14,20 +14,20 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Miscellaneous Filler; Science
 type: Text
-category: Unionist full issue 1833-09-05
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
 transcription: "<em>Ten miles of Paper.</em>—Paper used to be sold by the sheet, the
-  quire, or the ream;&nbsp; but in “the <br>march of improvement,” stationary will
-  not remain stationary, and so it is now <br>sold by measure. The following order
-  was received from a pottery firm the other <br>day. The writer, it will be observed,
-  gives his orders with as much indifference <br>as though they were not at all extraordinary:—“Gentlemen—Please
-  to send us ten <br>miles of your best printing tissue paper, in length; 6 miles
-  to be 30 inches <br>broad, 4 miles 22 inches broad—to be wrapped on wooden rollers,
-  according to the <br>plan given to Mr. George Fourdrinier.” The object of having
-  the paper of such <br>great length is that it may be printed from engraved cylinders,
-  in the same way <br>as calicoes, &amp;c. <br>"
+  quire, or the ream;&nbsp; but in “the<br>march of improvement,” stationary will
+  not remain stationary, and so it is now<br>sold by measure. The following order
+  was received from a pottery firm the other<br>day. The writer, it will be observed,
+  gives his orders with as much indifference<br>as though they were not at all extraordinary:—“Gentlemen—Please
+  to send us ten<br>miles of your best printing tissue paper, in length; 6 miles to
+  be 30 inches<br>broad, 4 miles 22 inches broad—to be wrapped on wooden rollers,
+  according to the<br>plan given to Mr. George Fourdrinier.” The object of having
+  the paper of such<br>great length is that it may be printed from engraved cylinders,
+  in the same way<br>as calicoes, &amp;c.<br>"
 scholarlyNotes: 
 commentary: George Spafford and James Phelps in Windham in the 1830s were among the
   first Americans to use the [Fourdrinier machine.] (https://paper.gatech.edu/advent-paper-machine)
@@ -44,7 +44,8 @@ caption:
 order: '125'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: '2023-05-14'
 ---

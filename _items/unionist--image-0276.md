@@ -23,7 +23,7 @@ source: 'Zerah Colburn, <em>A memoir of Zerah Colburn: written by himself. Conta
   with his peculiar methods of calculation</em> (Springfield: G. and C. Merriam, 1833).'
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -44,4 +44,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0276/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0276/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0276/full/1140,/0/default.jpg"
+proofed JR: 
 ---

@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://slate.com/human-interest/2015/02/history-of-the-early-american-militia-muster-notices-calling-members-to-parade.html
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0167/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0167/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0167/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0167/full/1140,/0/default.jpg"
 ---

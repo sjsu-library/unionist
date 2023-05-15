@@ -14,7 +14,7 @@ rights: Permission granted
 source: https://www.findagrave.com/memorial/78275551/james-holbrook?_gl=1*5ihim4*_ga*MTUyMjQxNDg5NS4xNjU5NTYyOTE2*_ga_4QT8FMEX30*ZDk1MTk0N2YtYWM4OC00MWEwLWFkY2QtOTIyNTg3MTFmNjkxLjU5LjEuMTY4MzE2MTE5NS4zMS4wLjA.
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -40,4 +40,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0314/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0314/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0314/full/1140,/0/default.jpg"
+proofed JR: 
 ---

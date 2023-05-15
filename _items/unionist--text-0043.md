@@ -15,7 +15,7 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Canterbury Female Academy; Journalistic Debates; Black Law
 type: Text
-category: Unionist full issue 1833-08-08
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
@@ -36,7 +36,8 @@ caption:
 order: '42'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

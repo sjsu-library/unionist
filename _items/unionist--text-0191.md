@@ -14,14 +14,14 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Advertisements
 type: Text
-category: Unionist full issue 1833-12-19
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
 transcription: "<p>  FASHIONABLE Hats, and Towels (??) may be obtained at Miss Lee’s
-  Millinery <br>  shop.—ALSO, Bonnet, silks, and ribbons. <br></p><p>  Brooklyn, Nov,
-  <br>  21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br>  17 <br></p><p></p>"
+  Millinery<br>  shop.—ALSO, Bonnet, silks, and ribbons.<br></p><p>  Brooklyn, Nov,<br>
+  \ 21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+  \ 17<br></p><p></p>"
 scholarlyNotes: not sure if this is Brooklyn CT or NY
 commentary: 
 relatedPeople: 
@@ -35,7 +35,8 @@ caption:
 order: '190'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

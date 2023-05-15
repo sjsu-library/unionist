@@ -8,6 +8,7 @@ banner:
   pid: unionist--image-0037
   height: '300px'
   label: true
+  y: 25%
 permalink: /essays/philosophic-content/
 ---
 

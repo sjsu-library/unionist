@@ -14,15 +14,15 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Abolition
 type: Text
-category: Unionist full issue 1833-09-05
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
 transcription: A meeting of the “Anti-Slavery Society of Plainfield and its vicinity,”
-  will be <br>holden at the Central Factory school house in Plainfield on WEDNESDAY
-  the 11st <br>inst., at half past six, P.M.&nbsp; An address is expected from <br>Rev.
-  S.J. MAY. Ladies and gentlemen who feel an interest in the cause, are <br>respectfully
-  invited to attend. <br>
+  will be<br>holden at the Central Factory school house in Plainfield on WEDNESDAY
+  the 11st<br>inst., at half past six, P.M.&nbsp; An address is expected from<br>Rev.
+  S.J. MAY. Ladies and gentlemen who feel an interest in the cause, are<br>respectfully
+  invited to attend.<br>
 scholarlyNotes: 
 commentary: 
 relatedPeople: Samuel J. May
@@ -36,7 +36,8 @@ caption:
 order: '98'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

@@ -14,7 +14,7 @@ rights: Public Domain
 source: "<em>The Columbian Register</em>, 1833-03-02, v. 21, n. 1058"
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0232/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0232/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0232/full/1140,/0/default.jpg"
+proofed JR: 
 ---

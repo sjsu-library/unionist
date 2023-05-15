@@ -17,7 +17,7 @@ rights: By Ephraim Kingsbury Avery, unknown illustrator - Find a grave, Public D
 source: 
 subject: 
 type: Image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: '""'
 manifest: '""'
 full: '""'
+proofed JR: 
 ---

@@ -18,7 +18,7 @@ source: "<em>The New-England Anti-Masonic Alamanac for the Year of Our Lord 1835
   (Boston: John Marsh, 1835)"
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -40,4 +40,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0248/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0248/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0248/full/1140,/0/default.jpg"
+proofed JR: 
 ---

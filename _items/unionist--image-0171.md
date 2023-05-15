@@ -16,7 +16,7 @@ source: 'Ancestry.com. 1830 United States Federal Census [database on-line]. Pro
   UT, USA: Ancestry.com Operations, Inc., 2010.'
 subject: 
 type: Image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0171/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0171/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0171/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0171/full/1140,/0/default.jpg"
 ---

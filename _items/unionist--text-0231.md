@@ -19,12 +19,12 @@ articleType:
 volume: '1'
 issue: '26'
 transcription: On Tuesday afternoon, about 2 o’clock, the House of Miss Crandall,
-  in <br>Canterbury, was discovered to be on Fire, in a place and under circumstances
-  <br>which render the origin of it inexplicable. The smoke and flame burst out from
-  <br>between the plastering and outer covering, in the corner of one of the front
-  <br>rooms, farthest from the fire place. The inmates of the dwelling were very much
-  <br>terrified, but with the assistance of the inhabitants of the village, soon <br>extinguished
-  the flames.— <br><em>Unionist</em>. <br>
+  in<br>Canterbury, was discovered to be on Fire, in a place and under circumstances<br>which
+  render the origin of it inexplicable. The smoke and flame burst out from<br>between
+  the plastering and outer covering, in the corner of one of the front<br>rooms, farthest
+  from the fire place. The inmates of the dwelling were very much<br>terrified, but
+  with the assistance of the inhabitants of the village, soon<br>extinguished the
+  flames.—<br><em>Unionist</em>.<br>
 scholarlyNotes: 
 commentary: It is interesting that the <em>Norwich Courier</em> publisehd <em>The
   Unionist</em> account of the fire at the academy in January 1834.
@@ -39,7 +39,8 @@ caption:
 order: '230'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

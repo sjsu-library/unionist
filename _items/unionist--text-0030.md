@@ -14,7 +14,7 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Journalistic Debate
 type: Text
-category: Unionist full issue 1833-08-08
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
@@ -34,7 +34,8 @@ caption:
 order: '29'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

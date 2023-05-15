@@ -15,7 +15,7 @@ rights: CC BY-SA 3.0
 source: By Hatchetfish - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1982891
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0239/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0239/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0239/full/1140,/0/default.jpg"
+proofed JR: 
 ---

@@ -14,13 +14,13 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Advertisements
 type: Text
-category: Unionist full issue 1833-08-08
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
 transcription: <p align="center">WANTED,</p><p align="center">50 CORDS OF OAK BARK.</p><p>  Benson
-  &amp; Chace, will pay cash and the market price for oak bark delivered <br>  at
-  their manufactory in North Providence, one mile north-east of Olneyville <br></p>
+  &amp; Chace, will pay cash and the market price for oak bark delivered<br>  at their
+  manufactory in North Providence, one mile north-east of Olneyville<br></p>
 scholarlyNotes: 
 commentary: Benson and Chace were both Abolitionists.
 relatedPeople: George Benson Jr.; William Chace
@@ -34,7 +34,8 @@ caption:
 order: '66'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

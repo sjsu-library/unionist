@@ -15,7 +15,7 @@ rights: Public Domain
 source: By United States Army - US Army Institute of Heraldry, Public Domain, https://commons.wikimedia.org/w/index.php?curid=9481092
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: '""'
 manifest: '""'
 full: '""'
+proofed JR: 
 ---

@@ -19,9 +19,9 @@ articleType:
 volume: '1'
 issue: '45'
 transcription: We learn by the last Unionist, printed in Brooklyn, Ct., that its junior
-  editor, <br>Mr. William H. Burleigh, who has for several weeks past been engaged
-  as an <br>instructor in Miss Crandall’s school, was on Tuesday evening last saluted
-  by a <br>volley of addled eggs by some of the polite Canterburians. <br>
+  editor,<br>Mr. William H. Burleigh, who has for several weeks past been engaged
+  as an<br>instructor in Miss Crandall’s school, was on Tuesday evening last saluted
+  by a<br>volley of addled eggs by some of the polite Canterburians.<br>
 scholarlyNotes: 
 commentary: This brief notice forms a teaser to the longer letter written by William
   H. Burleigh, that was included in the June 21st 1834 issue of the Liberator. It
@@ -39,7 +39,8 @@ caption:
 order: '390'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

@@ -15,7 +15,7 @@ rights: Education License - Standard Image
 source: AdobeStock_192413224, <em>Punch</em> v. 30, 1856-11-08
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -39,4 +39,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0280/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0280/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0280/full/1140,/0/default.jpg"
+proofed JR: 
 ---

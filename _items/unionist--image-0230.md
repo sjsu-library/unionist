@@ -16,7 +16,7 @@ source: By Alvan Fisher - I, Daderot took this photograph, Taken in 7 April 201
   15:53:16, Public Domain, https://commons.wikimedia.org/w/index.php?curid=14868202
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -39,4 +39,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0230/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0230/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0230/full/1140,/0/default.jpg"
+proofed JR: 
 ---

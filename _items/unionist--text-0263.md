@@ -14,12 +14,12 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Unionist</em>"
 subject: Miscellaneous Filler
 type: Text
-category: Unionist full issue 1834-03-13
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: MARRIED. <br> <br>On Wednesday last, at the Episcopal Church, by Rev.
-  Mr. Kellogg, Mr. William Putman, to Miss Eliza Day, both of this town. <br> <br>In
+transcription: MARRIED.<br><br>On Wednesday last, at the Episcopal Church, by Rev.
+  Mr. Kellogg, Mr. William Putman, to Miss Eliza Day, both of this town.<br><br>In
   Windham, on the 11th inst., by Rev. Mr; Gregory, Mr. —— Jespon, of Springfield Mass.,
   to Miss Eliza Hebbard, of Windham.
 scholarlyNotes: I have not researched these folks
@@ -40,7 +40,8 @@ caption:
 order: '262'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

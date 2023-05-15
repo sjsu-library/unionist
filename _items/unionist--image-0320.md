@@ -16,7 +16,7 @@ source: 'William H. Burleigh, <em>Poems</em>, with a Sketch of His Life by Celia
   (New York: Hurd and Houghton, 1871)'
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0320/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0320/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0320/full/1140,/0/default.jpg"
+proofed JR: 
 ---

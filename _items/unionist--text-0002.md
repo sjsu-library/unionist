@@ -20,13 +20,13 @@ articleType:
 volume: '1'
 issue: '7'
 transcription: "<p>  “The Unionist of August 29, gives an account of a meeting in
-  Plainfield, Ct. <br>  at which the <em>‘Anti-Slavery Society of Plainfield, and
-  its vicinity,’</em>  was organized. An address was delivered by Mr. Andrew Rockwell,
-  and a <br>  constitution adopted. Forty three persons then became members of the
-  Society. <br>  The following persons were then chosen officers. <br></p><p>  Dea.
-  Rinaldo Burleigh, <br>  <em>President</em></p><p>  Samuel L. Hough, George Sharpe,
-  <br>  <em>Vice Presidents</em></p><p>  Edwin Tucker, <br>  <em>Rec. Secretary.</em></p><p>
-  \ Rev. S.J. May, <br>  <em>Cor. Secretary.”</em></p><p></p>"
+  Plainfield, Ct.<br>  at which the <em>‘Anti-Slavery Society of Plainfield, and its
+  vicinity,’</em>  was organized. An address was delivered by Mr. Andrew Rockwell,
+  and a<br>  constitution adopted. Forty three persons then became members of the
+  Society.<br>  The following persons were then chosen officers.<br></p><p>  Dea.
+  Rinaldo Burleigh,<br>  <em>President</em></p><p>  Samuel L. Hough, George Sharpe,<br>
+  \ <em>Vice Presidents</em></p><p>  Edwin Tucker,<br>  <em>Rec. Secretary.</em></p><p>
+  \ Rev. S.J. May,<br>  <em>Cor. Secretary.”</em></p><p></p>"
 scholarlyNotes: 
 commentary: Samuel L. Hough (1785-1865) was a prominent white man in Canterbury, working
   as an axe manufactorer. He had enrolled two daughters in the First Academy, and
@@ -46,7 +46,8 @@ caption:
 order: '1'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: '2023-05-14'
 ---

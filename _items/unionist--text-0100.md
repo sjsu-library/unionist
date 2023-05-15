@@ -14,12 +14,12 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Abolition; Foreign News
 type: Text
-category: Unionist full issue 1833-09-05
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
 transcription: "<strong>☞</strong><strong>  THE VENERABLE WILBERFORCE, THE WARM PHILANTHROPIST,
-  THE ZEALOUS FRIEND OF THE <br>  BLACKS IS DEAD <br></strong>"
+  THE ZEALOUS FRIEND OF THE<br>  BLACKS IS DEAD<br></strong>"
 scholarlyNotes: 
 commentary: Wilberforce was an important exemplar among American Abolitionists.
 relatedPeople: William Wilberforce
@@ -33,7 +33,8 @@ caption:
 order: '99'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

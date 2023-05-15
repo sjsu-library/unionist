@@ -14,24 +14,23 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Advertisements; Canterbury Female Academy
 type: Text
-category: Unionist full issue 1833-08-08
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
 transcription: <p align="center"><strong>Prudence Crandall</strong></p><p align="center">  Principal
-  of the Canterbury, (Con.) Female Boarding School. <br></p><p>  RETURNS her most
-  sincere thanks for those who have patronized her School, and <br>  would give information
-  that on the first Monday of April next, her School will <br>  be opened for the
-  reception of young Ladies and little Misses of color.&nbsp; <br>  The branches taught
-  are as follows:—Reading, Writing, Arithmetic, English <br>  Grammar, Geography,
-  History, Natural and Moral Philosophy, Chemistry, <br>  Astronomy, Drawing and Painting,
-  Music on the Piano, together with the French <br>  language. <br></p><p>  ☞The terms,
-  including <br>  <em>board, washing</em>  , and tuition, are $25 per quarter, one
-  half paid in advance. <br></p><p>☞Books and Stationary will be furnished on the
-  most reasonable terms.</p><p>  For information respecting the School, reference
-  may be made to the following <br>  gentlemen, viz.— <br></p><p>Arthur Tappan, Esq.
-  - N. York City</p><p>Rev. Peter Williams, ( - N. York City)</p><p>Rev. Theodore
-  Raymond, ( - N. York City)</p><p>Rev. Theodore Wright, ( - N. York City)</p><p>Rev.
+  of the Canterbury, (Con.) Female Boarding School.<br></p><p>  RETURNS her most sincere
+  thanks for those who have patronized her School, and<br>  would give information
+  that on the first Monday of April next, her School will<br>  be opened for the reception
+  of young Ladies and little Misses of color.&nbsp;<br>  The branches taught are as
+  follows:—Reading, Writing, Arithmetic, English<br>  Grammar, Geography, History,
+  Natural and Moral Philosophy, Chemistry,<br>  Astronomy, Drawing and Painting, Music
+  on the Piano, together with the French<br>  language.<br></p><p>  ☞The terms, including<br>  <em>board,
+  washing</em>  , and tuition, are $25 per quarter, one half paid in advance.<br></p><p>☞Books
+  and Stationary will be furnished on the most reasonable terms.</p><p>  For information
+  respecting the School, reference may be made to the following<br>  gentlemen, viz.—<br></p><p>Arthur
+  Tappan, Esq. - N. York City</p><p>Rev. Peter Williams, ( - N. York City)</p><p>Rev.
+  Theodore Raymond, ( - N. York City)</p><p>Rev. Theodore Wright, ( - N. York City)</p><p>Rev.
   Samuel C. Cornish, ( - N. York City)</p><p>Rev. George Bourne, ( - N. York City)</p><p>Rev.
   Mr. Hayborn, ( - N. York City)</p><p>Mr. James Forten, - Philadelphia</p><p>Rev.
   Joseph Cassey, ( - Philadelphia)</p><p>Rev. S.J. May,—Brooklyn, Ct.</p><p>Rev. Mr.
@@ -45,10 +44,10 @@ commentary: This ad ran continuously in <em>The Liberator</em> starting in March
   "outsiders" who were interfering with a local matter, have been dropped from the
   list of endorsers, in favor of Amos Phelps and Samuel Sewall. The “Rev.” in front
   of Cassey’s name a misprint. It is surprising that this ad is not reprinted in the
-  later copies of <em>The Unionist</em>. <br>
+  later copies of <em>The Unionist</em>.<br>
 relatedPeople: 'Prudence Crandall; Arthur Tappan; Peter Williams, Jr;  Theodore Raymond;
-  Theodore Wright; <br>Samuel C. Cornish; George Bourne; James Hayborn; James Forten;
-  Joseph Cassey; Samuel J. May; Jehiel Beman; <br>Simeon Jocelyn; George Benson Jr.;
+  Theodore Wright;<br>Samuel C. Cornish; George Bourne; James Hayborn; James Forten;
+  Joseph Cassey; Samuel J. May; Jehiel Beman;<br>Simeon Jocelyn; George Benson Jr.;
   Samuel E. Sewall; Amos A. Phelps. '
 featured: 
 repeated: 
@@ -60,7 +59,8 @@ caption:
 order: '71'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

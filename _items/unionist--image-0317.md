@@ -15,7 +15,7 @@ rights: Public Domain
 source: "<em>WIndham County Advertiser</em> v. 7 n. 39, whole number 351, 1833-05-09"
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0317/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0317/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0317/full/1140,/0/default.jpg"
+proofed JR: 
 ---

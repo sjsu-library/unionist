@@ -14,20 +14,20 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Unionist</em> 1834-04-10"
 subject: Humor; Miscellaneous Filler
 type: Text
-category: Unionist full issue 1834-04-10
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: An Irish servant lad, going along the passage, and singing rather <br>inharmoniously,
-  was asked by his master what horrid noise he was making? “I have <br>not made any
-  noise, sir,” he replied. “Why, you were singing, and a confounded <br>noise it was.”
-  “Oh, perhaps it was the singing of my ears your honor heard.” <br>This reminds us
-  of a dialogue between two ministers of the gude kirk of <br>Scotland. One complained
-  that he had got a ringing in his head. “Do ye ken the <br>reason o’ that?” asked
-  his worthy crony. “Na!” “I’ll tell ye; ‘tis because it’s <br>empty!” “And have ye
-  never a ringing in your head?” quoth the other. “Na, <br>never.” “And do ye ken
-  the reason?,’ “Na.” “It’s because it’s cracked!” was the <br>retort; and the truth
-  was not very far off. <br>
+transcription: An Irish servant lad, going along the passage, and singing rather<br>inharmoniously,
+  was asked by his master what horrid noise he was making? “I have<br>not made any
+  noise, sir,” he replied. “Why, you were singing, and a confounded<br>noise it was.”
+  “Oh, perhaps it was the singing of my ears your honor heard.”<br>This reminds us
+  of a dialogue between two ministers of the gude kirk of<br>Scotland. One complained
+  that he had got a ringing in his head. “Do ye ken the<br>reason o’ that?” asked
+  his worthy crony. “Na!” “I’ll tell ye; ‘tis because it’s<br>empty!” “And have ye
+  never a ringing in your head?” quoth the other. “Na,<br>never.” “And do ye ken the
+  reason?,’ “Na.” “It’s because it’s cracked!” was the<br>retort; and the truth was
+  not very far off.<br>
 scholarlyNotes: 
 commentary: Humor based on ethnic stereotypes and denigration is, as usual, prevelant
   in the human condition but not our best feature. However, the reference to things
@@ -49,7 +49,8 @@ caption:
 order: '358'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

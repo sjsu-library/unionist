@@ -35,11 +35,11 @@ show_title: false
 </div>
 
 <div class="feature-cards-container">
-<a class='card-link' href="explore/">
+<a class='card-link' href="essays/frederick-olney/">
   <div class="feature-card">
-    <h3 class="card-header">Featured Content</h3>
+    <h3 class="card-header">The Trial of Frederick Olney</h3>
       <p class="card-text">
-      Featured content, edited in index.md
+      A Black man framed for arson - but exonerated because of the Black students and their parents. This may be the single most important document in <em>The Unionist</em>.
       </p>
     </div>
     </a>
@@ -47,7 +47,7 @@ show_title: false
 
     <a class='card-link' href="map/">
       <div class="feature-card">
-        <h3 class="card-header">Map <em>The Unionist's</em> Influence</h3>
+        <h3 class="card-header">Map The Unionist's Influence</h3>
           <p class="card-text">
           Newspapers from Philadelphia to Vermont reprinted articles from <em>The Unionist</em> for their readers. Follow the spread of Unionist content throughout the Northeast.
           </p>
@@ -78,8 +78,8 @@ October 1834 forward, and both Charles and William Burleigh had left the area by
 
 <p>The full contents of <em>The Unionist</em>, and various contemporaneous commentary about <em>The Unionist</em> are present in this project. They are divided into five categories. These are </p>
  <ol>
-  <li>Trial Transcripts and Outstanding Content from <em>The Unionist</em></li>
-  <li>Complete Issues of <em>The Unionist</em></li>
-  <li>Republished <em>Unionist</em> content</li>
-  <li>Positive Notice of <em>The Unionist</em></li>
-  <li>Critical Notice of <em>The Unionist</em></li>
+  <li><a href="/unionist/collection/">Trial Transcripts and Outstanding Content from <em>The Unionist</em></a></li>
+  <li><a href="/unionist/explore/issues/?issue=2">Complete Issues of <em>The Unionist</em></a></li>
+  <li><a href="/unionist/explore/categories/?category=unionist-content">Republished <em>Unionist</em> content</a></li>
+  <li><a href="/unionist/explore/categories/?category=positive-notice">Positive Notice of <em>The Unionist</em></a></li>
+  <li><a href="/unionist/explore/categories/?category=negative-notice">Critical Notice of <em>The Unionist</em></a></li>

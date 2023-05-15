@@ -14,7 +14,7 @@ rights: Public Domain
 source: "<em>Columbus Dispatch</em> 2021-08-09 ; https://www.dispatch.com/story/news/2021/08/09/columbus-grew-major-transportation-routes-arrived-1830-s/5457101001/"
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0193/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0193/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0193/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0193/full/1140,/0/default.jpg"
 ---

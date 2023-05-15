@@ -14,7 +14,7 @@ rights: Unsigned, “Fourdrinier Machine,” Mill Girls in Nineteenth-Century Pr
 source: https://americanantiquarian.org/millgirls/items/show/70
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0066/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0066/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0066/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0066/full/1140,/0/default.jpg"
 ---

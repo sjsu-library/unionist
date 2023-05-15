@@ -16,7 +16,7 @@ source: 'Thomas Weston, History of the Town of Middleboro Massachusetts, Boston:
   Mifflin and Company, 1906, p. 232'
 subject: 
 type: image
-category: image
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -37,5 +37,6 @@ layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0361/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0361/manifest.json"
-full: 
+full: "/img/derivatives/iiif/images/unionist--image-0361/full/1140,/0/default.jpg"
+proofed JR: 
 ---

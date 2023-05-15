@@ -14,7 +14,7 @@ rights: Education License - Standard Image
 source: https://stock.adobe.com/search/images?k=folded+greeting+card&asset_id=203180881
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0243/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0243/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0243/full/1140,/0/default.jpg"
+proofed JR: 
 ---

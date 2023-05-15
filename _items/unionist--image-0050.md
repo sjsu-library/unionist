@@ -18,7 +18,7 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/William_Wirt_(Attorney_General)#/media/File:Attorney_General_William_Wirt.jpg
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -39,4 +39,5 @@ collection: items
 thumbnail: '""'
 manifest: '""'
 full: '""'
+proofed JR: 
 ---

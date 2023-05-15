@@ -16,7 +16,7 @@ source: http://www.ctfreedomtrail.org/trail/underground-railroad/sites/?_escaped
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=41980943
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -39,4 +39,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0308/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0308/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0308/full/1140,/0/default.jpg"
+proofed JR: 
 ---

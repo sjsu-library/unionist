@@ -14,7 +14,7 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Unionist</em> 1833-08-08 (1:2:2)"
 subject: 
 type: Image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0020/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0020/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0020/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0020/full/1140,/0/default.jpg"
 ---

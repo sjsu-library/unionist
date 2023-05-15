@@ -14,7 +14,7 @@ rights: No Known restrictions
 source: https://olps.sg/praying-our-enemies-2098
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -40,4 +40,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0296/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0296/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0296/full/1140,/0/default.jpg"
+proofed JR: 
 ---

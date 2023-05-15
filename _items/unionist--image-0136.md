@@ -16,7 +16,7 @@ source: http://www.npg.org.uk/live/search/portrait.asp?LinkID=mp10809&amp;rNo=1&
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=4266975
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0136/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0136/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0136/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0136/full/1140,/0/default.jpg"
 ---

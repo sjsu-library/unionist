@@ -14,18 +14,18 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Unionist</em>"
 subject: Advertisements
 type: Text
-category: Unionist full issue 1834-03-13
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
 transcription: "<p>  A FARM FOR SALE, situated on the turnpike between Plainfield
-  and Windham, one <br>  mile southeast from Westminster meeting house, containing
-  50 acres of good <br>  land, well proportioned for mowing, ploughing and pasturing,
-  about 13 acres of <br>  woodland, a new dwelling house and a good barn standing
-  thereon. For further <br>  particulars enquire of the <br>  subscriber.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br>  JOSEPH BOND. <br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Canterbury, <br>  Jan. 30<sup>th</sup>  , <br>  1834.—w5*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br>  26 <br></p><p></p>"
+  and Windham, one<br>  mile southeast from Westminster meeting house, containing
+  50 acres of good<br>  land, well proportioned for mowing, ploughing and pasturing,
+  about 13 acres of<br>  woodland, a new dwelling house and a good barn standing thereon.
+  For further<br>  particulars enquire of the<br>  subscriber.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+  \ JOSEPH BOND.<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Canterbury,<br>  Jan. 30<sup>th</sup>  ,<br>  1834.—w5*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+  \ 26<br></p><p></p>"
 scholarlyNotes: 
 commentary: 
 relatedPeople: Joseph Bond
@@ -39,7 +39,8 @@ caption:
 order: '284'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

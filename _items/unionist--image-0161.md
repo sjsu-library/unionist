@@ -16,7 +16,7 @@ rights: Public Domian
 source: https://en.wikipedia.org/wiki/Anthony_Ashley-Cooper,_3rd_Earl_of_Shaftesbury#/media/File:Maurice_Ashley-Cooper;_Anthony_Ashley-Cooper,_3rd_Earl_of_Shaftesbury_by_John_Closterman.jpg
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -39,4 +39,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0161/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0161/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0161/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0161/full/1140,/0/default.jpg"
 ---

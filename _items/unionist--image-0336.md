@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://uvivoice.org/what-to-the-slave-is-the-fourth-of-july-a-contemporary-analysis
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -39,4 +39,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0336/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0336/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0336/full/1140,/0/default.jpg"
+proofed JR: 
 ---

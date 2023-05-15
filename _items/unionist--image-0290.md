@@ -15,7 +15,7 @@ rights: Public Domain
 source: Portrait of Thomas Campbell, Sir Thomas Lawrence, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6370830
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0290/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0290/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0290/full/1140,/0/default.jpg"
+proofed JR: 
 ---

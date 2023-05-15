@@ -45,7 +45,8 @@ caption:
 order: '12'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: '2023-05-14'
 ---

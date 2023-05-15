@@ -14,7 +14,7 @@ rights: Public Domain
 source: Parley's Magazine (vol. 2, p. 41); at https://digitalcollections.lib.washington.edu/digital/collection/childrens/id/460/rec/9
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0026/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0026/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0026/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0026/full/1140,/0/default.jpg"
 ---

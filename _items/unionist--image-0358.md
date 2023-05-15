@@ -14,7 +14,7 @@ rights: Public Domain
 source: 
 subject: 
 type: image
-category: image
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,5 +35,6 @@ layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0358/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0358/manifest.json"
-full: 
+full: "/img/derivatives/iiif/images/unionist--image-0358/full/1140,/0/default.jpg"
+proofed JR: 
 ---

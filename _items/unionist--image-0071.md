@@ -14,7 +14,7 @@ rights: http://connecticuthistory.org/plainfield-academy-grooming-connecticut-sc
 source: http://connecticuthistory.org/plainfield-academy-grooming-connecticut-scholars-in-the-18th-and-19th-centuries/
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -36,4 +36,5 @@ collection: items
 thumbnail: '""'
 manifest: '""'
 full: '""'
+proofed JR: 
 ---

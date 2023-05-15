@@ -18,15 +18,14 @@ category: Negative notice
 articleType: 
 volume: 
 issue: 
-transcription: "“The editor of the “Unionist” must bear the disappointment with pious
-  <br>resignation. His good intentions towards us are duly appreciated—but he has
-  <br>failed of his object entirely. We cannot, particularly with the thermometer
-  at <br>95, be drawn into a controversy with <br><em>him</em>on the subject of anti-ism.
-  We have asserted nothing of that pestilent doctrine <br>which is not abundantly
-  borne out by facts—besides, any thing about “falsehood <br>and ignorance” comes
-  with a very ill grace from that quarter. We shall have <br>Satan, by and bye, ringing
-  the parish bell and reproving sin with as much zeal <br>as if he had no part nor
-  lot in the matter.” <br>"
+transcription: "“The editor of the “Unionist” must bear the disappointment with pious<br>resignation.
+  His good intentions towards us are duly appreciated—but he has<br>failed of his
+  object entirely. We cannot, particularly with the thermometer at<br>95, be drawn
+  into a controversy with<br><em>him</em>on the subject of anti-ism. We have asserted
+  nothing of that pestilent doctrine<br>which is not abundantly borne out by facts—besides,
+  any thing about “falsehood<br>and ignorance” comes with a very ill grace from that
+  quarter. We shall have<br>Satan, by and bye, ringing the parish bell and reproving
+  sin with as much zeal<br>as if he had no part nor lot in the matter.”<br>"
 scholarlyNotes: 
 commentary: 
 relatedPeople: Charles C. Burleigh (inferred)
@@ -40,7 +39,8 @@ caption:
 order: '393'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

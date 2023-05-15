@@ -15,12 +15,12 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Unionist</em> 1834-04-10"
 subject: National News
 type: Text
-category: Unionist full issue 1834-04-10
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
 transcription: "<em>Pennsylvania.—</em>Petriken’s resolutions against the Bank, have
-  been carried in the Senate of <br>Pennsylvania, by a majority of four votes. <br>"
+  been carried in the Senate of<br>Pennsylvania, by a majority of four votes.<br>"
 scholarlyNotes: The Unionist spells his name Petriken, Wikipedia as Petrikin
 commentary: 'Henry Petrikin (d. 1851) represented Lycoming county in the Pennsylvania
   Senate. There is corroboration of this vote in the <em>Alexandria Gazette</em>,
@@ -36,7 +36,8 @@ caption:
 order: '322'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

@@ -14,22 +14,22 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Miscellaneous Filler
 type: Text
-category: Unionist full issue 1833-09-05
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
 transcription: THE SENSES FALLIBLE WITNESSES.—When we bathe in the sea, or in a cold
-  bath, we <br>are accustomed to consider the water as colder than the air, and the
-  air colder <br>than the clothes which surround us. Now all these objects are, in
-  fact, the same <br>temperature. A thermometer surrounded by the cloth of our coat
-  or suspended in <br>the atmosphere, or immersed in the sea, will stand at the same
-  temperature. A <br>linen shirt, when first put on, will feel colder than a cotton
-  one, and a <br>flannel shirt will actually feel warm; yet all these have the same
-  temperature. <br>The sheets of the bed feel cold, and the blankets warm; the blankets
-  and sheets, <br>however, are equally warm. A still, calm atmosphere in summer, feels
-  warm, but <br>if a wind arises the same atmosphere feels cool. Now, a thermometer
-  suspended <br>under shelter, and in a calm place, will indicate exactly the same
-  temperature <br>as a thermometer on which the wind blows.
+  bath, we<br>are accustomed to consider the water as colder than the air, and the
+  air colder<br>than the clothes which surround us. Now all these objects are, in
+  fact, the same<br>temperature. A thermometer surrounded by the cloth of our coat
+  or suspended in<br>the atmosphere, or immersed in the sea, will stand at the same
+  temperature. A<br>linen shirt, when first put on, will feel colder than a cotton
+  one, and a<br>flannel shirt will actually feel warm; yet all these have the same
+  temperature.<br>The sheets of the bed feel cold, and the blankets warm; the blankets
+  and sheets,<br>however, are equally warm. A still, calm atmosphere in summer, feels
+  warm, but<br>if a wind arises the same atmosphere feels cool. Now, a thermometer
+  suspended<br>under shelter, and in a calm place, will indicate exactly the same
+  temperature<br>as a thermometer on which the wind blows.
 scholarlyNotes: 
 commentary: But can we trust the thermometers?
 relatedPeople: 
@@ -43,7 +43,8 @@ caption:
 order: '78'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

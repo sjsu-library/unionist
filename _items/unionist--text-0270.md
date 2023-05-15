@@ -14,14 +14,14 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Unionist</em>"
 subject: Advertisements; Allied Reform Movements - Anti-Tobacco
 type: Text
-category: Unionist full issue 1834-03-13
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
 transcription: "<p>  DISQUISTION on the evils of using Tobacco, By Orin Fowler, A.M.
-  Pastor of the <br>  first Congregational Church in Fall River, Mass. For sale at
-  this <br>  office.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br>  March, 1834. <br></p><p></p>"
+  Pastor of the<br>  first Congregational Church in Fall River, Mass. For sale at
+  this<br>  office.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+  \ March, 1834.<br></p><p></p>"
 scholarlyNotes: 
 commentary: 
 relatedPeople: Orin Fowler
@@ -35,7 +35,8 @@ caption:
 order: '269'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

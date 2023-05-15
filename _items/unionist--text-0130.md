@@ -14,16 +14,16 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Miscellaneous Filler
 type: Text
-category: Unionist full issue 1833-09-05
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
 transcription: "<p>  It is stated by a gentleman in Ohio, who had every opportunity
-  and anxiety to <br>  be correctly informed on the subject, that the emigrants into
-  that State <br>  during the last year were possessed of money to the amount of between
-  six and <br>  eight millions of dollars. A few years more of such emigration and
-  Ohio will <br>  be one of the most wealthy and prosperous States of the Union.—
-  <br>  <em>S.C. Gaz.</em></p><p></p>"
+  and anxiety to<br>  be correctly informed on the subject, that the emigrants into
+  that State<br>  during the last year were possessed of money to the amount of between
+  six and<br>  eight millions of dollars. A few years more of such emigration and
+  Ohio will<br>  be one of the most wealthy and prosperous States of the Union.—<br>
+  \ <em>S.C. Gaz.</em></p><p></p>"
 scholarlyNotes: Interesting that this comes from South Carolina
 commentary: 'Many folks from eastern Connecticut – including famously the Cleveland
   family — were among the migrants to Ohio. '
@@ -38,7 +38,8 @@ caption:
 order: '129'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: '2023-05-14'
 ---

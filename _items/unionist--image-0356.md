@@ -18,7 +18,7 @@ source: 1856 Map of Windham County, Connecticut, showing town boundaries. Gerris
   Connecticut. [S.l] [Map] Retrieved from the Library of Congress, https://www.loc.gov/item/2001620487/.
 subject: 
 type: image
-category: image
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -40,5 +40,6 @@ layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0356/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0356/manifest.json"
-full: 
+full: "/img/derivatives/iiif/images/unionist--image-0356/full/1140,/0/default.jpg"
+proofed JR: 
 ---

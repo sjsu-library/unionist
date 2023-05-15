@@ -18,7 +18,7 @@ source: 'Charles A. Sheffield, editor <em>History of Florence, Massachusetts</em
   Florence MA: Published by editor, 1895. p. 68; http://scua.library.umass.edu/exhibits/hudson/Northampton.html'
 subject: 
 type: Image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -39,4 +39,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0019/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0019/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0019/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0019/full/1140,/0/default.jpg"
 ---

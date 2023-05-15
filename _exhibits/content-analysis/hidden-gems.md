@@ -8,6 +8,7 @@ banner:
   pid: unionist--image-0166
   height: '300px'
   label: true
+  y: 0%
 permalink: /essays/hidden-gems/
 ---
 

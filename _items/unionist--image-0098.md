@@ -18,7 +18,7 @@ source: 'William H. McGuffey, <em>McGuffey''s New First Eclectic Reader, for You
   Bragg and Co,, 1863), p. 69'
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -39,4 +39,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0098/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0098/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0098/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0098/full/1140,/0/default.jpg"
 ---

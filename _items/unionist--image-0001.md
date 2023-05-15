@@ -15,7 +15,7 @@ rights: By John Wesley Jarvis - https://www.history.navy.mil/our-collections/pho
 source: 
 subject: 
 type: Image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -36,4 +36,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0001/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0001/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0001/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0001/full/1140,/0/default.jpg"
 ---

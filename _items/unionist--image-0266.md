@@ -16,7 +16,7 @@ source: By Illustrator T. Allom, Engraver J. Tingle - History of the cotton manu
   in Great Britain by Sir Edward Baines,, Public Domain, https://commons.wikimedia.org/w/index.php?curid=9430141
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0266/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0266/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0266/full/1140,/0/default.jpg"
+proofed JR: 
 ---

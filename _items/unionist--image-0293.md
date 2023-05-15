@@ -15,7 +15,7 @@ rights: Public Domain
 source: "<em>1830 Vermont Anti-Masonic Almanac</em>, Woodstock, VT, at https://vtdigger.org/2022/01/23/then-again-antimasonry-rose-up-to-oppose-the-power-of-masons/"
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0293/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0293/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0293/full/1140,/0/default.jpg"
+proofed JR: 
 ---

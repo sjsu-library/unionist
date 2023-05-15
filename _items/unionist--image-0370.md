@@ -14,7 +14,7 @@ rights: Public Domain
 source: "<em>The Unionist</em> 1833-12-19"
 subject: 
 type: image
-category: image
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -34,5 +34,6 @@ layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0370/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0370/manifest.json"
-full: 
+full: "/img/derivatives/iiif/images/unionist--image-0370/full/1140,/0/default.jpg"
+proofed JR: 
 ---

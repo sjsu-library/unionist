@@ -14,12 +14,12 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Advertisements
 type: Text
-category: Unionist full issue 1833-12-19
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
 transcription: "<p>  <strong>PAMPHLETS, CARDS AND</strong>  <em>BLANKS</em>  <em>OF
-  EVERY DESCRIPTION neatly printed at this office.</em></p><p>  ☞ <br>  <em>An assortment
+  EVERY DESCRIPTION neatly printed at this office.</em></p><p>  ☞<br>  <em>An assortment
   of Blank Cards for sale.”</em></p>"
 scholarlyNotes: 
 commentary: "<em>The Unionist</em> was hardly a strong advertisement for printing
@@ -36,7 +36,8 @@ caption:
 order: '208'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

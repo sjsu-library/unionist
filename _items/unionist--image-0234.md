@@ -17,7 +17,7 @@ source: Masthead of the <em>Haverhill Gazette and Essex Patriot</em>, 1823-02-15
   Collection of American Antiquarian Society
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -41,4 +41,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0234/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0234/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0234/full/1140,/0/default.jpg"
+proofed JR: 
 ---

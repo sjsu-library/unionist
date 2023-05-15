@@ -20,7 +20,7 @@ rights: Public Domain
 source: https://archive.org/details/earlytobedandea00frangoog/page/n4/mode/2up?view=theater
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -43,4 +43,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0186/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0186/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0186/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0186/full/1140,/0/default.jpg"
 ---

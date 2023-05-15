@@ -14,22 +14,20 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Advertisement with Abolitionist theme
 type: Text
-category: Unionist full issue 1833-12-19
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: <p align="center">LYDIA WHITE</p><p align="center">  <em>No.</em>  42,
-  <br>  <em>North Fourth Street,</em></p><p>  CONTINUES to give her attention to the
-  sale of goods exclusively, which are <br>  exempt from slave labor. She has a supply
-  of domestic fabrics, recently <br>  manufactured from cotton, cultivated by remunerated
-  labor, viz; Bleached, <br>  unbleached and colored Muslins; Cotton Flannels, Table
-  Diaper; Knitting <br>  Cotton, Cords; Plaid; Bed-ticking; Wadding; Cords; Apron
-  and Furniture Check; <br>  Plaid; Bed-Ticking; Laps, &amp;c. which she has the satisfaction
-  to offer at <br>  lower prices than has heretofore been practicable. <br></p><p>ALSO,</p><p>  India
-  Book, Mull and Nansook Muslins; Bengals; Seersuckers; Flannels; Worsted; <br>  Irish
-  Linens &amp;c. with a variety of other articles. <br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br>  Philadelphia, <br>  1833.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br>  14 <br></p>
+transcription: <p align="center">LYDIA WHITE</p><p align="center">  <em>No.</em>  42,<br>  <em>North
+  Fourth Street,</em></p><p>  CONTINUES to give her attention to the sale of goods
+  exclusively, which are<br>  exempt from slave labor. She has a supply of domestic
+  fabrics, recently<br>  manufactured from cotton, cultivated by remunerated labor,
+  viz; Bleached,<br>  unbleached and colored Muslins; Cotton Flannels, Table Diaper;
+  Knitting<br>  Cotton, Cords; Plaid; Bed-ticking; Wadding; Cords; Apron and Furniture
+  Check;<br>  Plaid; Bed-Ticking; Laps, &amp;c. which she has the satisfaction to
+  offer at<br>  lower prices than has heretofore been practicable.<br></p><p>ALSO,</p><p>  India
+  Book, Mull and Nansook Muslins; Bengals; Seersuckers; Flannels; Worsted;<br>  Irish
+  Linens &amp;c. with a variety of other articles.<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  Philadelphia,<br>  1833.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  14<br></p>
 scholarlyNotes: 
 commentary: Lydia White (1788-1871) was a Philadelphia-based Abolitionist and female
   entrepreneur, who maintained a Free Labor Store in Philadelphia. She visited the
@@ -46,7 +44,8 @@ caption:
 order: '184'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

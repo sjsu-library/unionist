@@ -18,7 +18,7 @@ source: By Jacques Reich (undoubtedly based on an earlier work by another artist
   https://commons.wikimedia.org/w/index.php?curid=13266462
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -41,4 +41,5 @@ collection: items
 thumbnail: '""'
 manifest: '""'
 full: '""'
+proofed JR: 
 ---

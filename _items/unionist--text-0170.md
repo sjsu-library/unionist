@@ -14,12 +14,12 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Abolition; Canterbury Female Academy; Legal Notices
 type: Text
-category: Unionist full issue 1833-12-19
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
 transcription: "<p>  The trial of Mr. Garrison has been put off to the March session
-  of the County <br>  Court. <br></p><p></p>"
+  of the County<br>  Court.<br></p><p></p>"
 scholarlyNotes: 
 commentary: Garrison faced charges of libel. The trial was never held. Garrison was
   imprisoned once in Baltimore, and was put under lock and key for his own safety
@@ -36,7 +36,8 @@ caption:
 order: '169'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

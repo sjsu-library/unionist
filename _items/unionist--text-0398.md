@@ -19,9 +19,9 @@ articleType:
 volume: 
 issue: 
 transcription: "<em>Metamorphosis.</em>—The paper formerly called “the Unionist,”
-  published at Brookline, Ct. [sic] <br>comes out under the name of “Windham County
-  Whig,” and says it is to be devoted <br>principally to politics. It was established
-  to support Miss Prudence Crandall’s <br>school, and to oppose her opposers. <br>"
+  published at Brookline, Ct. [sic]<br>comes out under the name of “Windham County
+  Whig,” and says it is to be devoted<br>principally to politics. It was established
+  to support Miss Prudence Crandall’s<br>school, and to oppose her opposers.<br>"
 scholarlyNotes: I feel this is incorrect, as Garrison and others make reference to
   issues of <em>The Unionist</em> much later than this.
 commentary: I feel this is incorrect, as Garrison and others make reference to issues
@@ -37,7 +37,8 @@ caption:
 order: '397'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

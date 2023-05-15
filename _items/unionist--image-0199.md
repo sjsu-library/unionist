@@ -16,7 +16,7 @@ rights: Public Domain
 source: https://www.theliberatorfiles.com/
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,7 +35,8 @@ caption: Portrait of the young William Lloyd Garrison, by African-American artis
 order: '611'
 layout: items_item
 collection: items
-thumbnail: "/img/derivatives/iiif/images/unionist--image-0199/full/250,/0/default.jpg"
-manifest: "/img/derivatives/iiif/unionist--image-0199/manifest.json"
-full: "/img/derivatives/iiif/images/unionist--image-0199/full/1140,/0/default.jpg"
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0200/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0200/manifest.json"
+full: "/img/derivatives/iiif/images/unionist--image-0200/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0199/full/1140,/0/default.jpg"
 ---

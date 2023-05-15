@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://historicengland.org.uk/listing/the-list/list-entry/1386047
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -36,4 +36,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0100/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0100/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0100/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0100/full/1140,/0/default.jpg"
 ---

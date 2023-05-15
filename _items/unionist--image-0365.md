@@ -19,7 +19,7 @@ source: Schomburg Center for Research in Black Culture, Photographs and Prints D
   Albro Lyons, Jr" The New York Public Library Digital Collections. 1860. https://digitalcollections.nypl.org/items/65388520-82ff-013b-1e4a-0242ac110006
 subject: 
 type: image
-category: image
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -41,5 +41,6 @@ layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0365/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0365/manifest.json"
-full: 
+full: "/img/derivatives/iiif/images/unionist--image-0365/full/1140,/0/default.jpg"
+proofed JR: 
 ---

@@ -14,13 +14,13 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Allied Reform Movements - Anti-Masonry
 type: Text
-category: Unionist full issue 1833-12-19
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
 transcription: An Anti-masonic Convention is to be holden at Hartford, on the 25<sup>th</sup>of
-  the present month, for the purpose of nominating State officers for the next <br>Spring
-  election. <br>
+  the present month, for the purpose of nominating State officers for the next<br>Spring
+  election.<br>
 scholarlyNotes: 
 commentary: Both Charles and William Burleigh were committed to an Anti-Masonic politics
   of egalitarianism.
@@ -35,7 +35,8 @@ caption:
 order: '167'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

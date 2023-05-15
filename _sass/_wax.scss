@@ -240,7 +240,7 @@ content section
     }
     }
 
-    .inline-image-reference {
+    .inline-image-reference, .transcription-inline {
       background-color: $neutral;
       margin-top: $more-margin;
       margin-bottom: $more-margin;
@@ -319,6 +319,23 @@ content section
       margin:0 10px 10px 0;
     }
   }
+}
+
+.about-logos {
+  a {
+    font-size: 2rem;
+  }
+  .logos {
+    margin: $margin 0 0 0;
+    a {
+      text-decoration: none;
+    }
+    img {
+      height: 80px;
+      margin:0 20px 20px 0;
+    }
+  }
+
 }
 
 
@@ -621,7 +638,7 @@ search box
       color: $bg-color;
     }
     :hover {
-      background-color: $feature5 !important;
+      background-color: $accent-dark !important;
     }
   }
   .show-full {
@@ -1029,7 +1046,7 @@ search box
   border: 5px  $accent-dark solid;
   border-radius: 30px;
   background-color: #ffffff;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   //scrollbar styling
 
   /* width */

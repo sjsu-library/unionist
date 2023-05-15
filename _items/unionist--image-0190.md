@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://commons.wikimedia.org/wiki/File:Canons_of_Dort.jpg
 subject: 
 type: 
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0190/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0190/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0190/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0190/full/1140,/0/default.jpg"
 ---

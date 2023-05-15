@@ -14,12 +14,12 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Advertisements
 type: Text
-category: Unionist full issue 1833-12-19
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
 transcription: "<p>WOOL, LEATHER AND HIDES.</p><p>  For sale by BENSON &amp; CHACE,
-  No 12 Westminster-street, Providence, R.I. <br></p>"
+  No 12 Westminster-street, Providence, R.I.<br></p>"
 scholarlyNotes: Benson and Chace were both Abolitionists.
 commentary: 
 relatedPeople: George Benson, Jr; William Chace
@@ -33,7 +33,8 @@ caption:
 order: '199'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

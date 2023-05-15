@@ -14,7 +14,7 @@ rights: unsure; can write
 source: https://pressofatlanticcity.com/news/local/meet-mootilda-upper-township-woman-cares-for-stray-cow/article_77d0930c-7c07-11ed-904a-f38d945873df.html
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -36,4 +36,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0113/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0113/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0113/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0113/full/1140,/0/default.jpg"
 ---

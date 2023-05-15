@@ -16,7 +16,7 @@ source: 'Seba Smith, <em>Letters of Major Jack Downing, of the Downingville Mili
   Edition (New York: Van Evrie, Horton and Co., 1866)'
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0313/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0313/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0313/full/1140,/0/default.jpg"
+proofed JR: 
 ---

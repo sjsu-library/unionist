@@ -16,7 +16,7 @@ source: "<em>The Genius of Universal Emancipation</em>, 1833-05, Third Series, v
   3, n. 7"
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0177/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0177/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0177/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0177/full/1140,/0/default.jpg"
 ---

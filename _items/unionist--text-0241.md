@@ -14,17 +14,17 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Unionist</em>"
 subject: National News; Miscellaneous Filler
 type: Text
-category: Unionist full issue 1834-03-13
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: '<p>  We have pleasure in noticing the following incident in the proceedings
-  of the <br>  Legislature of Pennsylvania, which certainly goes far to show that
-  the <br>  politics of that important State are sound at bottom: <br></p><p align="center">  HARRISBURGH
+transcription: <p>  We have pleasure in noticing the following incident in the proceedings
+  of the<br>  Legislature of Pennsylvania, which certainly goes far to show that the<br>  politics
+  of that important State are sound at bottom:<br></p><p align="center">  HARRISBURGH
   MONDAY, FEB. 24<sup>th</sup></p><p>  On Saturday last, both Houses met at 9 o’clock,
-  &amp; the Farewell Address of <br>  WASHINGTON was read, after which they immediately
-  adjourned. To-day, in the <br>  House, 1000 copies of the Address were ordered to
-  be printed for distribution. <br></p>'
+  &amp; the Farewell Address of<br>  WASHINGTON was read, after which they immediately
+  adjourned. To-day, in the<br>  House, 1000 copies of the Address were ordered to
+  be printed for distribution.<br></p>
 scholarlyNotes: 
 commentary: 'The legislature of Pennsylvania apparently made the publication of Washington''s
   Farewell Address an annual event. While I was unable to procure the 1834 edition,
@@ -46,7 +46,8 @@ caption:
 order: '240'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

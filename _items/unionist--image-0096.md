@@ -14,7 +14,7 @@ rights: unknown
 source: https://www.logsplittersdirect.com/stories/739-Log-Rack-and-Firewood-101.html
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0096/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0096/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0096/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0096/full/1140,/0/default.jpg"
 ---

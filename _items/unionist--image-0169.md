@@ -16,7 +16,7 @@ source: 'Lewis Tappan, <em>The Life of Arthur Tappan</em> (Westport CT: Negro Un
   Press, 1970; reprint from 1871)'
 subject: 
 type: Image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0169/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0169/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0169/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0169/full/1140,/0/default.jpg"
 ---

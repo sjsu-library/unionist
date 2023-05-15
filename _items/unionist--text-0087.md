@@ -14,15 +14,15 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: National News; Miscellaneous Filler
 type: Text
-category: Unionist full issue 1833-09-05
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
 transcription: At an election for Senator, in Marion and Hamilton counties, Indiana,
-  Morris and <br>Morrison were the opposing candidates—two thousand thirty-five votes
-  were <br>polled. In one county Morris had a majority of <br><em>nine</em>votes,
-  in the other county Morrison had a majority of <br><em>ten</em>votes, and of course
-  was elected by a majority of <br><em>one.</em>
+  Morris and<br>Morrison were the opposing candidates—two thousand thirty-five votes
+  were<br>polled. In one county Morris had a majority of<br><em>nine</em>votes, in
+  the other county Morrison had a majority of<br><em>ten</em>votes, and of course
+  was elected by a majority of<br><em>one.</em>
 scholarlyNotes: 
 commentary: I have yet to uncover solid evidence of this vote. Historians of the nineteenth-century
   Indiana State Senate, rescue me!
@@ -37,7 +37,8 @@ caption:
 order: '86'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

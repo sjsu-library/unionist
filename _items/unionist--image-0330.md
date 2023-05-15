@@ -15,7 +15,7 @@ rights: Fair Use
 source: http://dishynews.blogspot.com/2014/06/the-temperance-movement-on-transferware.html
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0330/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0330/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0330/full/1140,/0/default.jpg"
+proofed JR: 
 ---

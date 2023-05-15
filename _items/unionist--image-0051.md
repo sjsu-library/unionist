@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/Peter_the_Great#/media/File:Peter_I_by_Carel_de_Moor.jpeg
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: '""'
 manifest: '""'
 full: '""'
+proofed JR: 
 ---

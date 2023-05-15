@@ -14,7 +14,7 @@ rights: Permission Granted
 source: https://www.findagrave.com/memorial/80076348/ebenezer-griffin?_gl=1*1tr32lz*_ga*MTUyMjQxNDg5NS4xNjU5NTYyOTE2*_ga_4QT8FMEX30*MGNkZGYyMmUtMzNiYS00ZmJhLTkxMDEtZDZiODBhYzczMWMyLjQ3LjEuMTY4MjU0NjIzNS4xNC4wLjA.
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0238/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0238/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0238/full/1140,/0/default.jpg"
+proofed JR: 
 ---

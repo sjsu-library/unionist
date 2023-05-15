@@ -14,7 +14,7 @@ rights:
 source: https://www.facebook.com/photo/?fbid=509146947885008&set=a.509146887885014
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -36,4 +36,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0176/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0176/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0176/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0176/full/1140,/0/default.jpg"
 ---

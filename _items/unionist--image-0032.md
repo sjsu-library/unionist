@@ -17,7 +17,7 @@ source: "<em>Sixth Report of the American Temperance Society, May, 1833</em>, (B
   Seth Bliss, 1833), online here https://dl.mospace.umsystem.edu/umsl/islandora/object/umsl%3A202880#page/1/mode/2up"
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -39,4 +39,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0032/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0032/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0032/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0032/full/1140,/0/default.jpg"
 ---

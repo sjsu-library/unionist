@@ -1,9 +1,15 @@
 {% assign item  = site[include.collection] | where: 'pid', include.pid | first %}
 
 <div class="transcription-inline">
+  <h4><a href='{{ item.url | absolute_url }}'>{{ item.title }}</a></h4>
   <div class="excerpt">
     <div class="excerpt-inner">
     {{ item.transcription }}
     </div>
   </div>
+  {% if item.description %}
+  <p class='image-caption'>
+    Above: <a href='{{ item.url | absolute_url }}'>{{ item.description }}</a>
+  </p>
+  {% endif %}
 </div>

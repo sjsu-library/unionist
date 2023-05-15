@@ -14,7 +14,7 @@ rights: unclear
 source: https://www.legalzoom.com/articles/how-to-dissolve-a-business-partnership
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -36,4 +36,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0222/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0222/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0222/full/1140,/0/default.jpg"
+proofed JR: 
 ---

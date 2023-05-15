@@ -18,7 +18,7 @@ source: 'Goold Brown <em>The First Lines of English Grammar, being a Brief Abstr
   S. and William Wood, 1857).'
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -44,4 +44,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0262/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0262/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0262/full/1140,/0/default.jpg"
+proofed JR: 
 ---

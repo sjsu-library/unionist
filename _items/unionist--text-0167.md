@@ -14,14 +14,14 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Titles and Information
 type: Text
-category: Unionist full issue 1833-12-19
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
 transcription: On account of the length of the Declaration of the Anti-Slavery Convention,
-  many <br>articles prepared for this number are crowded out.—Correspondents must
-  have <br>patience—another week is coming. We are thankful for all literary favors—and
-  <br>respectfully request a continuance of them. <br>
+  many<br>articles prepared for this number are crowded out.—Correspondents must have<br>patience—another
+  week is coming. We are thankful for all literary favors—and<br>respectfully request
+  a continuance of them.<br>
 scholarlyNotes: 
 commentary: Editors either have too little material, or too much.
 relatedPeople: 
@@ -35,7 +35,8 @@ caption:
 order: '166'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

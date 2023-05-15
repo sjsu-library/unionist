@@ -16,7 +16,7 @@ source: 'Elizabeth Yates, <em>Prudence Crandall: Woman of Courage</em> (New York
   Aladdin Books, 1955), p. 135; illustration by Nora S. Unwin'
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -41,4 +41,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0282/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0282/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0282/full/1140,/0/default.jpg"
+proofed JR: 
 ---

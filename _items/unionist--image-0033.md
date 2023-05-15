@@ -14,7 +14,7 @@ rights: Public Domain
 source: "<em>Daughter's Own Book</em>, https://ia902705.us.archive.org/19/items/daughtersownboo01compgoog/daughtersownboo01compgoog.pdf"
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0033/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0033/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0033/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0033/full/1140,/0/default.jpg"
 ---

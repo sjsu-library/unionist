@@ -15,7 +15,7 @@ rights: No Known restrictions
 source: Mariah Leavitt, "Amherst College Anti-Slavery Society" (2012); https://consecratedeminence.wordpress.com/2012/08/03/anti-slavery-society/
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0267/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0267/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0267/full/1140,/0/default.jpg"
+proofed JR: 
 ---

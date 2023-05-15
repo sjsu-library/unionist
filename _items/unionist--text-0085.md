@@ -14,16 +14,16 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Miscellaneous Filler
 type: Text
-category: Unionist full issue 1833-09-05
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
 transcription: "<p>  How little do we appreciate a mother’s tenderness while living!
-  How heedless <br>  we are in youth of all her anxieties and kindness. But when she
-  is dead and <br>  gone; when the cares and coldness of the world come withering
-  to our hearts; <br>  when we find how hard it is to find true sympathy, how few
-  love us for <br>  ourselves, how few will befriend us in our misfortunes; then it
-  is we think of <br>  the mother we have lost. <br></p><p></p>"
+  How heedless<br>  we are in youth of all her anxieties and kindness. But when she
+  is dead and<br>  gone; when the cares and coldness of the world come withering to
+  our hearts;<br>  when we find how hard it is to find true sympathy, how few love
+  us for<br>  ourselves, how few will befriend us in our misfortunes; then it is we
+  think of<br>  the mother we have lost.<br></p><p></p>"
 scholarlyNotes: 
 commentary: While it would be easy to dismiss this as pious filler, it is a fact that
   Charles C. Burleigh ensured that his mother Lydia Bradford Burleigh would have a
@@ -39,7 +39,8 @@ caption:
 order: '84'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

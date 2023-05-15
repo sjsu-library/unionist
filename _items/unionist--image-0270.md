@@ -14,7 +14,7 @@ rights: No Known restrictions
 source: https://cheezburger.com/9615430656/no-theres-definitely-no-space-for-you
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -36,4 +36,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0270/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0270/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0270/full/1140,/0/default.jpg"
+proofed JR: 
 ---

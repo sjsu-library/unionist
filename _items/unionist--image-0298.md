@@ -14,7 +14,7 @@ rights: Used with Permission of Photographer
 source: https://www.flickr.com/photos/dpom12/9593389795/
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -36,4 +36,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0298/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0298/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0298/full/1140,/0/default.jpg"
+proofed JR: 
 ---

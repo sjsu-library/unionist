@@ -15,7 +15,7 @@ rights: Public Domain
 source: Masthead of the <em>Rhode Island Philanthropist</em> 1833-07-17, v. 1, n.20
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0285/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0285/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0285/full/1140,/0/default.jpg"
+proofed JR: 
 ---

@@ -14,13 +14,13 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Unionist</em> 1834-04-10"
 subject: Miscellaneous Filler; National News
 type: Text
-category: Unionist full issue 1834-04-10
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
 transcription: "<em>Lake Navigation.</em>—The Steamboat General Brady arrived at Cleaveland,
-  from Detroit, on Tuesday <br>last. We may soon expect to hear of arrivals at Buffalo.—
-  <br><em>Ohio Rev.</em>"
+  from Detroit, on Tuesday<br>last. We may soon expect to hear of arrivals at Buffalo.—<br><em>Ohio
+  Rev.</em>"
 scholarlyNotes: 
 commentary: Note spelling of Cleaveland!
 relatedPeople: 
@@ -34,7 +34,8 @@ caption:
 order: '318'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

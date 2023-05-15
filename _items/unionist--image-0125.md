@@ -14,7 +14,7 @@ rights: https://www.friesianbloodhorseregistry.com/friesians-n-motion
 source: 
 subject: 
 type: movingimage
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: '""'
 manifest: '""'
 full: '""'
+proofed JR: 
 ---

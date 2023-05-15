@@ -14,14 +14,14 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Unionist</em>"
 subject: Advertisements; The Unionist; Miscellaneous Filler
 type: Text
-category: Unionist full issue 1834-03-13
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
 transcription: BLANK DEEDS.
 scholarlyNotes: 
 commentary: 'Ironically/awkwardly, this short advertisement has an error in it: the
-  first “D” is backwards! <br>'
+  first “D” is backwards!<br>'
 relatedPeople: 
 featured: 
 repeated: 
@@ -33,7 +33,8 @@ caption:
 order: '276'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

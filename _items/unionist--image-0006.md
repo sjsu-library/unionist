@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t7zk56r4f&view=1up&seq=5
 subject: 
 type: Image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0006/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0006/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0006/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0006/full/1140,/0/default.jpg"
 ---

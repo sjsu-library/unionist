@@ -20,17 +20,17 @@ articleType:
 volume: 
 issue: 
 transcription: "<p>  “The Middletown Sentinel and Witness, contains a statement from
-  a man who says <br>  that he saw an <br>  <em>Angel</em>  at Chatham, Con.—that
-  the Angel communicated the important intelligence that <br>  Hannah Marsh and Caroline
-  Blood had experienced religion,—that somebody <br>  had turned Universalist,—and
-  that the world would pass away before the year <br>  1848.” <br></p><p>  “The Editor
-  of Brooklyn Unionist, (advocating we <br>  believe a <br>  <em>union</em>  between
-  the white and black races) in remarking on this statement, says <br>  <em>he</em>
-  \ sees half-a-dozen Angels a day with <br>  <em>pouting</em>  lips;—the man must
-  half fallen in love with “half a dozen” misses of color!” <br>  Verily, we opine
-  that he would not be united to one of the charming Philisses <br>  <em>very</em>
-  \ long, before he would become an advocate of <br>  <em>immediate emancipation.</em>
-  \ ” <br></p>"
+  a man who says<br>  that he saw an<br>  <em>Angel</em>  at Chatham, Con.—that the
+  Angel communicated the important intelligence that<br>  Hannah Marsh and Caroline
+  Blood had experienced religion,—that somebody<br>  had turned Universalist,—and
+  that the world would pass away before the year<br>  1848.”<br></p><p>  “The Editor
+  of Brooklyn Unionist, (advocating we<br>  believe a<br>  <em>union</em>  between
+  the white and black races) in remarking on this statement, says<br>  <em>he</em>
+  \ sees half-a-dozen Angels a day with<br>  <em>pouting</em>  lips;—the man must
+  half fallen in love with “half a dozen” misses of color!”<br>  Verily, we opine
+  that he would not be united to one of the charming Philisses<br>  <em>very</em>
+  \ long, before he would become an advocate of<br>  <em>immediate emancipation.</em>
+  \ ”<br></p>"
 scholarlyNotes: cross reference to unionist--text-0164
 commentary: '"Philisses" here is a cruel taunt against Black talent and intelligence,
   as it mocks the accomplishment of Phillis Wheatley, the Black woman poet of the
@@ -46,7 +46,8 @@ caption:
 order: '226'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

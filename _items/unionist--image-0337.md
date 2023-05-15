@@ -14,7 +14,7 @@ rights: Education License - Standard Image
 source: AdobeStock_75759386
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -50,4 +50,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0337/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0337/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0337/full/1140,/0/default.jpg"
+proofed JR: 
 ---

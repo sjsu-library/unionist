@@ -15,7 +15,7 @@ rights: cc by-nc 4.0
 source: https://www.inaturalist.org/photos/206030733
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0055/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0055/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0055/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0055/full/1140,/0/default.jpg"
 ---

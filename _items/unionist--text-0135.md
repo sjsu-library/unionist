@@ -14,14 +14,13 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Mischellaneous Filler; Humor
 type: Text
-category: Unionist full issue 1833-09-05
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
 transcription: A few days since a rustic stranger inquired for a letter at the post-office,
-  and <br>after paying for it, not being satisfied with its contents, deliberately
-  <br>deposited in the letter box, exclaimed, “hang the thing, it aint [sic] worth
-  <br>paying for.” <br>
+  and<br>after paying for it, not being satisfied with its contents, deliberately<br>deposited
+  in the letter box, exclaimed, “hang the thing, it aint [sic] worth<br>paying for.”<br>
 scholarlyNotes: 
 commentary: We of the 21st century know about receiving worthless mail!
 relatedPeople: 
@@ -35,7 +34,8 @@ caption:
 order: '134'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: '2023-05-14'
 ---

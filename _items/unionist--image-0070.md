@@ -14,7 +14,7 @@ rights: https://www.masshist.org/database/viewer.php?item_id=1136
 source: https://en.wikipedia.org/wiki/William_Goodell_%28abolitionist%29#/media/File:William-Goodell(Cropped).png
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: '""'
 manifest: '""'
 full: '""'
+proofed JR: 
 ---

@@ -14,7 +14,7 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Titles and Information
 type: Text
-category: Unionist full issue 1833-08-08
+category: Unionist content
 articleType: original
 volume: '1'
 issue: '2'
@@ -40,7 +40,8 @@ caption:
 order: '14'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: '2023-05-14'
 ---

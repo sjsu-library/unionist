@@ -16,7 +16,7 @@ rights: Public Domain
 source: https://www.bu.edu/missiology/missionary-biography/w-x-y-z/worcester-samuel-austin-1798-1859/#:~:text=Missionary%20to%20the%20Cherokee%20Indians,mission%20station%20in%20eastern%20Tennessee.
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0341/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0341/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0341/full/1140,/0/default.jpg"
+proofed JR: 
 ---

@@ -16,7 +16,7 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/William_Jay_%28jurist%29#/media/File:William_Jay_by_Wenzler.jpg
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,7 +38,8 @@ caption: William Jay (1789-1858) was a noted legal thinker, the son of the first
 order: '609'
 layout: items_item
 collection: items
-thumbnail: "/img/derivatives/iiif/images/unionist--image-0202/full/250,/0/default.jpg"
-manifest: "/img/derivatives/iiif/unionist--image-0202/manifest.json"
-full: "/img/derivatives/iiif/images/unionist--image-0202/full/1140,/0/default.jpg"
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0198/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0198/manifest.json"
+full: "/img/derivatives/iiif/images/unionist--image-0198/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0202/full/1140,/0/default.jpg"
 ---

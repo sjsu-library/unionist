@@ -14,18 +14,18 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Titles and Information
 type: Text
-category: Unionist full issue 1833-09-05
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
 transcription: <p align="center"><strong>The Unionist.</strong></p><p align="center">Published
   Every Thursday Morning,</p><p align="center"><strong>Brooklyn, Conn. (sic)</strong></p><p
   align="center">Charles C. Burleigh,</p><p align="center">Editor and Publisher</p><p>  TERMS.—Mail
-  Subscribers Two Dollars, in advance.&nbsp; Delivered by Stage or <br>  Post one
-  dollar and seventy-five cents.&nbsp; Those taken at the office, one <br>  dollar
-  and fifty cents. <br></p><p>  Any person becoming responsible for eight copies shall
-  receive one copy <br>  gratis. <br></p><p>  No paper will be discontinued till arrearages
-  are paid, except at the <br>  discretion of the publisher. <br></p><p>Advertisements
+  Subscribers Two Dollars, in advance.&nbsp; Delivered by Stage or<br>  Post one dollar
+  and seventy-five cents.&nbsp; Those taken at the office, one<br>  dollar and fifty
+  cents.<br></p><p>  Any person becoming responsible for eight copies shall receive
+  one copy<br>  gratis.<br></p><p>  No paper will be discontinued till arrearages
+  are paid, except at the<br>  discretion of the publisher.<br></p><p>Advertisements
   inserted at the usual prices.</p><p>All communications must be addressed to the
   Editor, post paid.</p>
 scholarlyNotes: this copy has name John McLellan at the top - possibly this John McLellan
@@ -45,7 +45,8 @@ caption:
 order: '74'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

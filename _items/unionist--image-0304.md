@@ -14,7 +14,7 @@ rights: Permission Pending
 source: https://www.findagrave.com/memorial/31759917/olive-smith-olney
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0304/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0304/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0304/full/1140,/0/default.jpg"
+proofed JR: 
 ---

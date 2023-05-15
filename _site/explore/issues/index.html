@@ -28,7 +28,7 @@
 
 
   <body>
-    <time datetime='2023-05-14 21:55'></time>
+    <time datetime='2023-05-15 06:41'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
     <a class='navbar-brand' href="http://0.0.0.0:4000/unionist/" title='Home'>
@@ -53,16 +53,18 @@
         
           
             <li class='nav-item dropdown'>
-              <a class='nav-link dropdown-toggle nav-text' href='#' id='wax-explore-dropdown' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
-                Explore
+              <a class='nav-link dropdown-toggle nav-text' href='#' id='wax-essays-dropdown' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
+                Essays
               </a>
-              <div class='dropdown-menu' aria-labelledby='wax-explore-dropdown'>
+              <div class='dropdown-menu' aria-labelledby='wax-essays-dropdown'>
                 
-                  <a class='dropdown-item' href='http://0.0.0.0:4000/unionist/explore/issues/'>Issues</a>
+                  <a class='dropdown-item' href='http://0.0.0.0:4000/unionist/essays/setting-and-context/'>Setting and Context</a>
                 
-                  <a class='dropdown-item' href='http://0.0.0.0:4000/unionist/explore/categories/'>Categories</a>
+                  <a class='dropdown-item' href='http://0.0.0.0:4000/unionist/essays/trial-coverage/'>Content Analysis</a>
                 
-                  <a class='dropdown-item' href='http://0.0.0.0:4000/unionist/collection/'>All Items</a>
+                  <a class='dropdown-item' href='http://0.0.0.0:4000/unionist/essays/frederick-olney/'>Race</a>
+                
+                  <a class='dropdown-item' href='http://0.0.0.0:4000/unionist/essays/the-burleigh-family/'>Summary</a>
                 
               </div>
             </li>
@@ -70,12 +72,16 @@
         
           
             <li class='nav-item dropdown'>
-              <a class='nav-link dropdown-toggle nav-text' href='#' id='wax-essays-dropdown' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
-                Essays
+              <a class='nav-link dropdown-toggle nav-text' href='#' id='wax-explore-dropdown' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
+                Explore
               </a>
-              <div class='dropdown-menu' aria-labelledby='wax-essays-dropdown'>
+              <div class='dropdown-menu' aria-labelledby='wax-explore-dropdown'>
                 
-                  <a class='dropdown-item' href='http://0.0.0.0:4000/unionist/essays/setting-and-context/'>Setting and Context</a>
+                  <a class='dropdown-item' href='http://0.0.0.0:4000/unionist/explore/issues/?issue=2'>Issues</a>
+                
+                  <a class='dropdown-item' href='http://0.0.0.0:4000/unionist/explore/categories/'>Categories</a>
+                
+                  <a class='dropdown-item' href='http://0.0.0.0:4000/unionist/collection/'>All Items</a>
                 
               </div>
             </li>
@@ -178,22 +184,6 @@
       $(div).find('h3').html(titleFixed);
       $(div).find('.info').html(titleFixed);
       $(div).find('.description').html(descriptionFixed);
-      gallery.find('.gallery-not-featured').append(div);var title = '[Journalistic Debate]'
-      var titleFixed = title.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
-      var description = 'Riposte to content from &lt;em&gt;The Unionist&lt;/em&gt;, with one paragraph directly from &lt;em&gt;The Unionist&lt;/em&gt;'
-      var descriptionFixed = description.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
-      var div = $($.parseHTML("<div class='gallery-item no-thumb 16 all'><a href='http://0.0.0.0:4000/unionist/items/unionist--text-0148/'><div class='hovereffect container'><div class ='gallery_excerpt row'><div class ='col-sm-4 excerpt-image'><img class='text-thumb' src=http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0201/full/250,/0/default.jpg></div><div class='col-sm-8 excerpt_text'><h3></h3><p class='description'></p></div></div><div class='overlay'><p class='info'></p></div></div></a></div>"));
-      $(div).find('h3').html(titleFixed);
-      $(div).find('.info').html(titleFixed);
-      $(div).find('.description').html(descriptionFixed);
-      gallery.find('.gallery-not-featured').append(div);var title = '[The Abolition of Slavery in the District of Columbia]'
-      var titleFixed = title.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
-      var description = 'Editorial opposed to ending slavery in the District of Columbia; references a petition published by The Unionist, presumably in mid-November of 1833.'
-      var descriptionFixed = description.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
-      var div = $($.parseHTML("<div class='gallery-item no-thumb 15 all'><a href='http://0.0.0.0:4000/unionist/items/unionist--text-0149/'><div class='hovereffect container'><div class ='gallery_excerpt row'><div class ='col-sm-4 excerpt-image'><img class='text-thumb' src=http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0203/full/250,/0/default.jpg></div><div class='col-sm-8 excerpt_text'><h3></h3><p class='description'></p></div></div><div class='overlay'><p class='info'></p></div></div></a></div>"));
-      $(div).find('h3').html(titleFixed);
-      $(div).find('.info').html(titleFixed);
-      $(div).find('.description').html(descriptionFixed);
       gallery.find('.gallery-not-featured').append(div);var title = 'December 7, 1833 arrest of Prudence and Almira Crandall '
       var titleFixed = title.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
       var description = 'Arrest of Prudence and Almira Crandall, December 7, 1833'
@@ -207,22 +197,6 @@
       var description = 'Review of Lydia Maria Child&#39;s &quot;Appeal&quot; which includes references to the Canterbury Female Academy'
       var descriptionFixed = description.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
       var div = $($.parseHTML("<div class='gallery-item no-thumb 19 all'><a href='http://0.0.0.0:4000/unionist/items/unionist--text-0152/'><div class='hovereffect container'><div class ='gallery_excerpt row'><div class ='col-sm-4 excerpt-image'><img class='text-thumb' src=http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0025/full/250,/0/default.jpg></div><div class='col-sm-8 excerpt_text'><h3></h3><p class='description'></p></div></div><div class='overlay'><p class='info'></p></div></div></a></div>"));
-      $(div).find('h3').html(titleFixed);
-      $(div).find('.info').html(titleFixed);
-      $(div).find('.description').html(descriptionFixed);
-      gallery.find('.gallery-not-featured').append(div);var title = '[Journalistic Debate]'
-      var titleFixed = title.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
-      var description = 'Riposte to content from &lt;em&gt;The Unionist&lt;/em&gt;'
-      var descriptionFixed = description.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
-      var div = $($.parseHTML("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/unionist/items/unionist--text-0153/'><div class='hovereffect container'><div class ='gallery_excerpt row'><div class ='col-sm-4 excerpt-image'><img class='text-thumb' src=http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0011/full/250,/0/default.jpg></div><div class='col-sm-8 excerpt_text'><h3></h3><p class='description'></p></div></div><div class='overlay'><p class='info'></p></div></div></a></div>"));
-      $(div).find('h3').html(titleFixed);
-      $(div).find('.info').html(titleFixed);
-      $(div).find('.description').html(descriptionFixed);
-      gallery.find('.gallery-not-featured').append(div);var title = '[Journalistic Debate]'
-      var titleFixed = title.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
-      var description = 'Riposte to content from &lt;em&gt;The Unionist&lt;/em&gt;'
-      var descriptionFixed = description.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
-      var div = $($.parseHTML("<div class='gallery-item no-thumb  all'><a href='http://0.0.0.0:4000/unionist/items/unionist--text-0154/'><div class='hovereffect container'><div class ='gallery_excerpt row'><div class ='col-sm-4 excerpt-image'><img class='text-thumb' src=http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0011/full/250,/0/default.jpg></div><div class='col-sm-8 excerpt_text'><h3></h3><p class='description'></p></div></div><div class='overlay'><p class='info'></p></div></div></a></div>"));
       $(div).find('h3').html(titleFixed);
       $(div).find('.info').html(titleFixed);
       $(div).find('.description').html(descriptionFixed);
@@ -255,14 +229,6 @@
       var description = 'Fire at the Canterbury Female Academy on January 27th.'
       var descriptionFixed = description.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
       var div = $($.parseHTML("<div class='gallery-item no-thumb 26 all'><a href='http://0.0.0.0:4000/unionist/items/unionist--text-0233/'><div class='hovereffect container'><div class ='gallery_excerpt row'><div class ='col-sm-4 excerpt-image'><img class='text-thumb' src=http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0265/full/250,/0/default.jpg></div><div class='col-sm-8 excerpt_text'><h3></h3><p class='description'></p></div></div><div class='overlay'><p class='info'></p></div></div></a></div>"));
-      $(div).find('h3').html(titleFixed);
-      $(div).find('.info').html(titleFixed);
-      $(div).find('.description').html(descriptionFixed);
-      gallery.find('.gallery-not-featured').append(div);var title = 'Acquittal of Frederick Olney'
-      var titleFixed = title.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
-      var description = 'Reflections on the acquittal of Frederick Olney'
-      var descriptionFixed = description.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
-      var div = $($.parseHTML("<div class='gallery-item no-thumb 32 all'><a href='http://0.0.0.0:4000/unionist/items/unionist--text-0299/'><div class='hovereffect container'><div class ='gallery_excerpt row'><div class ='col-sm-4 excerpt-image'><img class='text-thumb' src=http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0303/full/250,/0/default.jpg></div><div class='col-sm-8 excerpt_text'><h3></h3><p class='description'></p></div></div><div class='overlay'><p class='info'></p></div></div></a></div>"));
       $(div).find('h3').html(titleFixed);
       $(div).find('.info').html(titleFixed);
       $(div).find('.description').html(descriptionFixed);
@@ -1388,7 +1354,7 @@
       $(div).find('.description').html(descriptionFixed);
       gallery.find('.gallery-not-featured').append(div);var title = 'Advertisement for Lydia Maria Child&#39;s &lt;em&gt;Appeal&lt;/em&gt;'
       var titleFixed = title.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
-      var description = 'FOR SALE, At this office, a few copies of Mrs. Child’s “Appeal in behalf of that &lt;br&gt;class of Americans called Africans &lt;br&gt;'
+      var description = 'FOR SALE, At this office, a few copies of Mrs. Child’s “Appeal in behalf of that&lt;br&gt;class of Americans called Africans&lt;br&gt;'
       var descriptionFixed = description.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
       var div = $($.parseHTML("<div class='gallery-item no-thumb 20 all'><a href='http://0.0.0.0:4000/unionist/items/unionist--text-0182/'><div class='hovereffect container'><div class ='gallery_excerpt row'><div class ='col-sm-4 excerpt-image'><img class='text-thumb' src=http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0024/full/250,/0/default.jpg></div><div class='col-sm-8 excerpt_text'><h3></h3><p class='description'></p></div></div><div class='overlay'><p class='info'></p></div></div></a></div>"));
       $(div).find('h3').html(titleFixed);
@@ -1676,7 +1642,7 @@
       $(div).find('.description').html(descriptionFixed);
       gallery.find('.gallery-not-featured').append(div);var title = 'Advertisement for Lydia Maria Child&#39;s &lt;em&gt;Appeal&lt;/em&gt;'
       var titleFixed = title.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
-      var description = 'FOR SALE, At this office, a few copies of Mrs. Child’s “Appeal in behalf of that &lt;br&gt;class of Americans called Africans &lt;br&gt;'
+      var description = 'FOR SALE, At this office, a few copies of Mrs. Child’s “Appeal in behalf of that&lt;br&gt;class of Americans called Africans&lt;br&gt;'
       var descriptionFixed = description.replaceAll('&lt;', '<').replaceAll('&gt;', '>');
       var div = $($.parseHTML("<div class='gallery-item no-thumb 20 all'><a href='http://0.0.0.0:4000/unionist/items/unionist--text-0219/'><div class='hovereffect container'><div class ='gallery_excerpt row'><div class ='col-sm-4 excerpt-image'><img class='text-thumb' src=http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0111/full/250,/0/default.jpg></div><div class='col-sm-8 excerpt_text'><h3></h3><p class='description'></p></div></div><div class='overlay'><p class='info'></p></div></div></a></div>"));
       $(div).find('h3').html(titleFixed);

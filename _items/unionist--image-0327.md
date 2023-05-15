@@ -21,7 +21,7 @@ source: Shick, Tom W. “A Quantitative Analysis of Liberian Colonization from 1
   4 May 2023., p. 47
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -44,4 +44,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0327/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0327/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0327/full/1140,/0/default.jpg"
+proofed JR: 
 ---

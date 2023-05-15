@@ -32,7 +32,7 @@ rights: 'By &lt;a href=&quot;https://en.wikipedia.org/wiki/en:John_Chester_Buttr
 source: 
 subject: 
 type: Image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -53,4 +53,5 @@ collection: items
 thumbnail: '""'
 manifest: '""'
 full: '""'
+proofed JR: 
 ---

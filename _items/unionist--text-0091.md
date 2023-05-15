@@ -14,12 +14,12 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Miscellaneous Filler
 type: Text
-category: Unionist full issue 1833-09-05
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
 transcription: The sense to conduct is worth every other part of it; for great abilities
-  are <br>more frequently possessed, than properly applied.
+  are<br>more frequently possessed, than properly applied.
 scholarlyNotes: 
 commentary: 'An interesting reflection from a movement based in moral suasion. '
 relatedPeople: 
@@ -33,7 +33,8 @@ caption:
 order: '90'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

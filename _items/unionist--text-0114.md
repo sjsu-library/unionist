@@ -14,14 +14,13 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Miscellaneous Filler
 type: Text
-category: Unionist full issue 1833-09-05
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
 transcription: As the next thing to having wisdom ourselves, is to profit by that
-  of others, so <br>the next thing to having merit ourselves is to take care the meritorious
-  profit <br>by us; for he that rewards the deserving, makes himself one of that number.
-  <br>
+  of others, so<br>the next thing to having merit ourselves is to take care the meritorious
+  profit<br>by us; for he that rewards the deserving, makes himself one of that number.<br>
 scholarlyNotes: 
 commentary: How are the meritorious defined?
 relatedPeople: 
@@ -35,7 +34,8 @@ caption:
 order: '113'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: '2023-05-14'
 ---

@@ -14,7 +14,7 @@ rights: unsure
 source: https://www.spminiatures.com/store/index.php?main_page=product_info&products_id=5479
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0110/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0110/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0110/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0110/full/1140,/0/default.jpg"
 ---

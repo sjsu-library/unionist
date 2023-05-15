@@ -14,7 +14,7 @@ rights: Public Domain
 source: http://saltofamerica.com/contents/displayArticle.aspx?19_512
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -36,4 +36,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0250/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0250/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0250/full/1140,/0/default.jpg"
+proofed JR: 
 ---

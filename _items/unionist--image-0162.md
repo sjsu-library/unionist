@@ -15,7 +15,7 @@ rights: Public Domain
 source: https://commons.wikimedia.org/wiki/File:11-stages-womanhood-1840s.jpg#/media/File:11-stages-womanhood-1840s.jpg
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0162/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0162/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0162/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0162/full/1140,/0/default.jpg"
 ---

@@ -16,7 +16,7 @@ rights: Public Domain
 source: https://en.wikipedia.org/wiki/Swing_Riots
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: '""'
 manifest: '""'
 full: '""'
+proofed JR: 
 ---

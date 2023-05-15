@@ -52,7 +52,7 @@ permalink: /essays/associated-reform-movements/
 </ul>
 <div class="pagination-nav">
 <span class="pagination-link" id="prevlink"><a href="/unionist/essays/hidden-gems/">‹ See Previous Essay</a></span>
-<span class="pagination-link" id="nextlink"><a href="/unionist/essays/the-trial-of-frederick-olney/">See Next Essay ›</a></span> 
+<span class="pagination-link" id="nextlink"><a href="/unionist/essays/frederick-olney/">See Next Essay ›</a></span>
 </div>
 </div>
 </div>

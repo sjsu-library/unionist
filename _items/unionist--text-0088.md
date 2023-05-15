@@ -3,9 +3,9 @@ pid: unionist--text-0088
 title: Bishop Watson against War
 bibliographicCitation: "<em>The Unionist</em> 1833-09-05"
 bibliographicCitationRepublished: "<em>  Anecdotes of the Life of Richard Watson,
-  Bishop of Landaff; written by himself <br>  at different intervals, and revised
-  in 1814 <br></em>, edited by Richard Watson, His Son, LL.B., Prebendary of Landaff
-  and Wells. <br>(London: Black-Horse Court, 1817). p. 168. <br>"
+  Bishop of Landaff; written by himself<br>  at different intervals, and revised in
+  1814<br></em>, edited by Richard Watson, His Son, LL.B., Prebendary of Landaff and
+  Wells.<br>(London: Black-Horse Court, 1817). p. 168.<br>"
 fullIssueSequenceNumber: 1833-09-05 p01.14
 creator: Bishop Watson
 dateCreated: '1833-09-05'
@@ -17,14 +17,14 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Allied Reform Movements - Peace
 type: Text
-category: Unionist full issue 1833-09-05
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
 transcription: When the spirit of Christianity shall exert its proper influence over
-  the minds <br>of individuals, and especially over the minds of public men in their
-  public <br>capacities, <br><em>War</em>will cease throughout the Christian World.—
-  <br><em>Bishop Watson.</em>
+  the minds<br>of individuals, and especially over the minds of public men in their
+  public<br>capacities,<br><em>War</em>will cease throughout the Christian World.—<br><em>Bishop
+  Watson.</em>
 scholarlyNotes: 
 commentary: This quote was well-known in the Peace Movement of the early nineteenth
   century
@@ -39,7 +39,8 @@ caption:
 order: '87'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

@@ -14,14 +14,13 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Miscellaneous Filler; Humor
 type: Text
-category: Unionist full issue 1833-09-05
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
 transcription: TREATMENT OF THE SUN IN LONDON.—Mr. Matthews says ”no wonder that the
   sun seldom deigns to shine in town, while there is no place in the world where he
-  is so <br>ill-treated; for even when he rises there is nobody up to receive him.”
-  <br>
+  is so<br>ill-treated; for even when he rises there is nobody up to receive him.”<br>
 scholarlyNotes: 
 commentary: 
 relatedPeople: 
@@ -35,7 +34,8 @@ caption:
 order: '114'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: '2023-05-14'
 ---

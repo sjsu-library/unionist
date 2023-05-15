@@ -14,11 +14,11 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Journalistic Debate
 type: Text
-category: Unionist full issue 1833-08-08
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
-transcription: <p align="center">THE UNIONIST.</p>  <br><p align="center">BROOKLYN,
+transcription: <p align="center">THE UNIONIST.</p> <br><p align="center">BROOKLYN,
   AUGUST 8, 1833.</p><p>The Advertiser has taken us to task quite severely, for what,
   with his moral accuracy, he calls our “false pretences” or “gross inconsistency.”
   The irresistible reasoning, by which he arrives at a conclusion so unfavorable to
@@ -106,7 +106,8 @@ caption:
 order: '22'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

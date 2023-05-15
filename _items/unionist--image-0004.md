@@ -22,7 +22,7 @@ rights: one or more third parties have made copyright claims against Wikimedia C
 source: 
 subject: 
 type: Image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -43,4 +43,5 @@ collection: items
 thumbnail: '""'
 manifest: '""'
 full: '""'
+proofed JR: 
 ---

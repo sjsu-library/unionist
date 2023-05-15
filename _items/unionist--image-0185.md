@@ -14,7 +14,7 @@ rights: no restrictions
 source: https://www.facebook.com/kcci8/photos/its-a-day-to-celebrate-dads-even-with-their-dad-jokeswhats-your-favorite-dad-jok/10155429109615079/?paipv=0&eav=AfZTAKqNFQa4nRLBaWG0hWJ5dnpq6S1bQqENxw95ZcT7UF9gE8D53Ldqsf-AvotRRvk&_rdr
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0185/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0185/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0185/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0185/full/1140,/0/default.jpg"
 ---

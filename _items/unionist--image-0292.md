@@ -18,7 +18,7 @@ source: By Unknown author - http://www.state.il.us/HPA/lib/Images/LovejoyPaper.J
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=3579768
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -47,4 +47,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0292/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0292/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0292/full/1140,/0/default.jpg"
+proofed JR: 
 ---

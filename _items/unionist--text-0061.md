@@ -15,19 +15,17 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: New-York Commercial Advertiser
 subject: Poetry
 type: Text
-category: Unionist full issue 1833-08-08
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
 transcription: <p align="right"><em>From the New-York Com. Adv.</em></p><p align="center">“THEY
-  POURED THE RED LIBATION FORTH.”</p><p>  They pour’d the <br>  <em>red libation</em>  forth,
-  <br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  And fill’d <br>  the golden bowl; <br></p><p>I dash’d it on the famish’d earth,</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  And spurn’d <br>  its base control. <br></p><p>And said—no more my peace shall be,</p><p>A
-  victim to thy treachery!</p><p>  They wove of <br>  <em>Fame</em>  the blooming
-  wreath, <br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  My brow the <br>  chaplet twined; <br></p><p>My feet I trod the flowers beneath,</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  And gave <br>  them to the wind; <br></p><p>And said, my heart no more shall trust</p><p>To
+  POURED THE RED LIBATION FORTH.”</p><p>  They pour’d the<br>  <em>red libation</em>  forth,<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  And fill’d<br>  the golden bowl;<br></p><p>I dash’d it on the famish’d earth,</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  And spurn’d<br>  its base control.<br></p><p>And said—no more my peace shall be,</p><p>A
+  victim to thy treachery!</p><p>  They wove of<br>  <em>Fame</em>  the blooming wreath,<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  My brow the<br>  chaplet twined;<br></p><p>My feet I trod the flowers beneath,</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  And gave<br>  them to the wind;<br></p><p>And said, my heart no more shall trust</p><p>To
   that which is itself but dust!</p>
 scholarlyNotes: 
 commentary: 'The Temperance cause was understood by its advocates as a form of self-control. '
@@ -42,7 +40,8 @@ caption:
 order: '60'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

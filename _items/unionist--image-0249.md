@@ -16,7 +16,7 @@ rights: Public Domain
 source: Henry Petrikin to Andrew Jackson, 1830-04-02
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0249/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0249/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0249/full/1140,/0/default.jpg"
+proofed JR: 
 ---

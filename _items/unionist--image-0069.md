@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=4606080
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: '""'
 manifest: '""'
 full: '""'
+proofed JR: 
 ---

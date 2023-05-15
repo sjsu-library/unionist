@@ -14,7 +14,7 @@ rights: awaiting permission
 source: https://www.findagrave.com/memorial/37957383/shubael-fitch?_gl=1*1xnucph*_ga*MTUyMjQxNDg5NS4xNjU5NTYyOTE2*_ga_4QT8FMEX30*MTM3NTNjNDMtZDgxMS00YzRiLWI2NmEtYjAxYTA2ZjRjMzRiLjUzLjEuMTY4MjY1NTYxMy41OC4wLjA.
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0259/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0259/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0259/full/1140,/0/default.jpg"
+proofed JR: 
 ---

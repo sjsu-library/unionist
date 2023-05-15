@@ -16,7 +16,7 @@ source: '"Thomas Jefferson Quotes." BrainyQuote.com. BrainyMedia Inc, 2023. 2 Ma
   2023. https://www.brainyquote.com/quotes/thomas_jefferson_132201'
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -39,4 +39,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0284/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0284/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0284/full/1140,/0/default.jpg"
+proofed JR: 
 ---

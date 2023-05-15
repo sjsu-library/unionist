@@ -20,7 +20,7 @@ source: "<em>The Report and Proceedings of the First Annual Meeting of the Provi
   - https://www.google.com/books/edition/The_Report_and_Proceedings_of_the_First/VGJBAQAAMAAJ?hl=en&gbpv=0"
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -42,4 +42,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0137/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0137/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0137/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0137/full/1140,/0/default.jpg"
 ---

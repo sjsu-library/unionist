@@ -14,7 +14,7 @@ rights: Wikimedia Commons
 source: https://commons.wikimedia.org/wiki/File:London_Leather,_Hide_and_Wool_Exchange_Public_House,_Bermondsey_%2803%29.jpg
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -36,4 +36,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0101/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0101/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0101/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0101/full/1140,/0/default.jpg"
 ---

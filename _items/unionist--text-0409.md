@@ -21,11 +21,11 @@ category: Unionist content
 articleType: 
 volume: 
 issue: 
-transcription: MISS CRANDALL’S SCHOOL. <br>The Brooklyn, Con., Unionist, as we had
+transcription: MISS CRANDALL’S SCHOOL.<br>The Brooklyn, Con., Unionist, as we had
   anticipated, confirms the fact that Miss Crandall’s School at Canterbury, instead
   of being closed, is increasing. Unless put down by mob law, there is no way in which
   the school is likely to be suppressed, previous to the sitting of the Supreme Court
-  of Errors, next July. <br>The last Emancipator mentions that a minister of the gospel
+  of Errors, next July.<br>The last Emancipator mentions that a minister of the gospel
   has recently been refused the privilege of preaching in the meeting house, on Canterbury
   green, because he had visited Miss Crandall’s School. The same account mentions
   that a physician, having been called to one of the pupils, in a case of emergency,
@@ -39,7 +39,7 @@ transcription: MISS CRANDALL’S SCHOOL. <br>The Brooklyn, Con., Unionist, as we
   of sufficient malice and tyranny on the part of a <em>few</em>, to be <em>gratified</em>
   with almost any outrage, we have no idea that any thing of the kind will be seriously
   attempted. Miss Crandall is gaining too many friends, and her persecutors incurring
-  too much odium, even in that region, to admit the supposition. <br>
+  too much odium, even in that region, to admit the supposition.<br>
 scholarlyNotes: 
 commentary: 'The incidents of intimidation of those who even have business relations
   with the Canterbury Female Academy is important '
@@ -54,7 +54,8 @@ caption:
 order: '408'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

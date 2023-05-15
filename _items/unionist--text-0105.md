@@ -14,15 +14,15 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: Legal Notices; Miscellaneous Filler
 type: Text
-category: Unionist full issue 1833-09-05
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
 transcription: "<p>  TAKEN up, on the 14<sup>th</sup>  of July last, a red one year
-  old heifer, with no artificial mark. The owner is <br>  requested to call and prove
-  property, pay charges, and take her <br>  away.&nbsp;&nbsp; LORENZO LITCHFIELD.
-  <br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  West <br>  Woodstock, Aug. 12<sup>th</sup>  . 1833,&nbsp; <br></p>"
+  old heifer, with no artificial mark. The owner is<br>  requested to call and prove
+  property, pay charges, and take her<br>  away.&nbsp;&nbsp; LORENZO LITCHFIELD.<br></p><p>
+  \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; West<br>  Woodstock,
+  Aug. 12<sup>th</sup>  . 1833,&nbsp;<br></p>"
 scholarlyNotes: 
 commentary: 
 relatedPeople: Lorenzo Litchfield
@@ -36,7 +36,8 @@ caption:
 order: '104'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: '2023-05-14'
 ---

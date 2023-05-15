@@ -14,12 +14,12 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
 subject: National News
 type: Text
-category: Unionist full issue 1833-12-19
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
 transcription: Our acknowledgements are due to the Hon. Ebenezer Young, for a copy
-  of Secretary <br>Taney’s Bank Report. <br>
+  of Secretary<br>Taney’s Bank Report.<br>
 scholarlyNotes: 
 commentary: 'This is the same Roger B. Taney (1777-1864)  who wrote the infamous Dred
   Scott decision when he was the Chief Justice of the Supreme Court of the United
@@ -36,7 +36,8 @@ caption:
 order: '168'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

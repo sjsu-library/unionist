@@ -19,10 +19,10 @@ articleType:
 volume: 
 issue: 
 transcription: The “Unionist,” (so mis-called,) has expired, and in its stead [sic]
-  we have <br>received from Brooklyn a very near and well conducted paper bearing
-  the title of <br>the “Windham County Whig and Unionist,” published by Mr. C. M.
-  Halle. We trust <br>the Whig will speak the sentiments and receive the patronage
-  of the intelligent <br>yeomanry of that County. <br>
+  we have<br>received from Brooklyn a very near and well conducted paper bearing the
+  title of<br>the “Windham County Whig and Unionist,” published by Mr. C. M. Halle.
+  We trust<br>the Whig will speak the sentiments and receive the patronage of the
+  intelligent<br>yeomanry of that County.<br>
 scholarlyNotes: I feel this is incorrect, as Garrison and others make reference to
   issues of <em>The Unionist</em> much later than this.
 commentary: I feel this is incorrect, as Garrison and others make reference to issues
@@ -38,7 +38,8 @@ caption:
 order: '398'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

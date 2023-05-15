@@ -14,7 +14,7 @@ rights: Public Domain
 source: "<em>The Liberator</em> 4:25:100, June 21, 1834"
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0058/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0058/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0058/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0058/full/1140,/0/default.jpg"
 ---

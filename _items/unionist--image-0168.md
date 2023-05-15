@@ -20,7 +20,7 @@ source: 'Frederick Calvin Norton, <em>The Governors of Connecticut: Biographies 
   Constitution Known to History</em> (Connecticut Magazine Company, 1905), p. 182'
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -42,4 +42,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0168/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0168/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0168/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0168/full/1140,/0/default.jpg"
 ---

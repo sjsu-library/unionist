@@ -47,7 +47,7 @@ transcription: THE UNIONIST, published every Thursday morning, Brooklyn, Con. Ch
   It will also contain items of general intelligence, literary selections and the
   usual variety of miscellaneous matter, and no effort will be spared on the part
   of the editor to make it worthy of the public favor. How far his efforts will succeed,
-  the future course of the paper will determine.</p>  <br><p>TERMS. - -Mail subscribers,
+  the future course of the paper will determine.</p> <br><p>TERMS. - -Mail subscribers,
   $2, in advance. Delivered by stage, or post, one dollar and seventy-five cents.
   Those taken at the office, one dollar and fifty cents</p>
 scholarlyNotes: 
@@ -66,7 +66,8 @@ caption:
 order: '405'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

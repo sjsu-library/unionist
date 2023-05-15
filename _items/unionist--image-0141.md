@@ -14,7 +14,7 @@ rights: CC BY 2.0
 source: https://www.delightedcooking.com/what-are-the-pros-and-cons-of-using-plastic-wine-glasses.htm
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0141/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0141/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0141/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0141/full/1140,/0/default.jpg"
 ---

@@ -15,7 +15,7 @@ rights: cc by-sa 3.0
 source: https://en.wikipedia.org/wiki/Canterbury_Center_Historic_District#/media/File:Canterbury_Congregational_Church.JPG
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0062/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0062/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0062/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0062/full/1140,/0/default.jpg"
 ---

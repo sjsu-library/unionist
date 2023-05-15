@@ -14,7 +14,7 @@ rights: Public Domain https://nmaahc.si.edu/object/nmaahc_2017.30.21
 source: https://nmaahc.si.edu/object/nmaahc_2017.30.21
 subject: 
 type: Image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: '""'
 manifest: '""'
 full: '""'
+proofed JR: 
 ---

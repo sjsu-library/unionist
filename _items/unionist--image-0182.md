@@ -14,7 +14,7 @@ rights: CC BY-SA 2.0
 source: https://en.wikipedia.org/wiki/File:Buckingham_Palace_on_a_cloudy_day.jpg#/media/File:Buckingham_Palace_on_a_cloudy_day.jpg
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0182/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0182/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0182/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0182/full/1140,/0/default.jpg"
 ---

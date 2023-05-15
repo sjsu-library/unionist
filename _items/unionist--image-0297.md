@@ -14,7 +14,7 @@ rights: Public Domain
 source: "<em>The Unionist</em> 1833-08-08, v. 1 n. 2 p. 4"
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0297/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0297/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0297/full/1140,/0/default.jpg"
+proofed JR: 
 ---

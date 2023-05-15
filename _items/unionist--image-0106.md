@@ -18,7 +18,7 @@ source: "<em>The Life and Travels of the Apostle Paul, Prepared with Questions f
   Colman and Holden, 1833), p.127. online at https://play.google.com/store/books/details?id=AzwAAAAAYAAJ&rdid=book-AzwAAAAAYAAJ&rdot=1"
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -39,4 +39,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0106/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0106/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0106/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0106/full/1140,/0/default.jpg"
 ---

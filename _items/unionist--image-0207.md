@@ -16,7 +16,7 @@ source: Nathaniel Currier, <em>The Drunkard's Progress</em>, Lithograph, held by
   Library of Congress, 1846.  https://commons.wikimedia.org/w/index.php?curid=4174669
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0207/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0207/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0207/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0207/full/1140,/0/default.jpg"
 ---

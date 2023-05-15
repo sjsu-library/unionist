@@ -20,7 +20,7 @@ source: "<em>Constitution of the United States</em>, Philadelphia: Dunlap &amp; 
   digital ID bdsdcc.n003001. https://commons.wikimedia.org/w/index.php?curid=112689122"
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -42,4 +42,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0319/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0319/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0319/full/1140,/0/default.jpg"
+proofed JR: 
 ---

@@ -14,13 +14,13 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Genius of Temperance</em>"
 subject: Poetry
 type: Text
-category: Unionist full issue 1833-08-08
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
 transcription: '<p align="center">“A thundering wail is heard.”</p><p>  <em>Eurip.
-  Phaen. e.</em>  1054 <br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  I dreamed <br>  that on a western hill I stood— <br></p><p>A hill that watches where
+  Phaen. e.</em>  1054<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  I dreamed<br>  that on a western hill I stood—<br></p><p>A hill that watches where
   the sun goes down—</p><p>And saw the giant of the skies retiring</p><p>In glory
   to his bed‚ the western wave.</p><p>And, as he passed, I hailed the aged monarch,</p><p>And
   said, “O sun, what hast thou seen to-day?</p><p>What signs of happiness—of mis’ry
@@ -52,18 +52,17 @@ transcription: '<p align="center">“A thundering wail is heard.”</p><p>  <em>
   story,)</p><p><em>“I’ve seen the manacled and wretched slave</em></p><p>Lie down
   to take his punishment: The scourge,</p><p>Made at the shop where Patience, wearied
   sat,</p><p>And told Invention how ti braid the thongs,</p><p>Was brandished in the
-  air; The slave cried out,</p><p>  ‘Good master spare, O! <br>  <em>am I not a man&gt;’</em></p><p>But
+  air; The slave cried out,</p><p>  ‘Good master spare, O!<br>  <em>am I not a man&gt;’</em></p><p>But
   cried in vain, the whip went gaily round</p><p>‘Till ‘forty stripes save one’ were
   fully told.</p><p>A woman came:—They heard the earnest prayer</p><p>That nature
   prompted. O, stupendous mercy!</p><p>They stripped her not; but well the lashing
-  to’d</p><p>That not gratuitous might she preserve</p><p>Her last remains of right.”</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br>  “He said, and sunk <br></p><p>Beneath the troubled waves. The storm passed
-  on,</p><p>And silence reigned, and heaven seemed to hold</p><p>A consultation on
-  the affairs of men.</p><p>And gazing upward, at the bright expanse,</p><p>I heard
-  a voice—“when that fair moon is turned</p><p>To blood, when yonder stars have dropped,
-  like figs</p><p>Before the time;—the sons of Africa</p><p>Shall be remembered, and
-  their might wrongs</p><p>  Shall be <br>  redressed.”&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br>  *M.* <br></p>'
+  to’d</p><p>That not gratuitous might she preserve</p><p>Her last remains of right.”</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  “He
+  said, and sunk<br></p><p>Beneath the troubled waves. The storm passed on,</p><p>And
+  silence reigned, and heaven seemed to hold</p><p>A consultation on the affairs of
+  men.</p><p>And gazing upward, at the bright expanse,</p><p>I heard a voice—“when
+  that fair moon is turned</p><p>To blood, when yonder stars have dropped, like figs</p><p>Before
+  the time;—the sons of Africa</p><p>Shall be remembered, and their might wrongs</p><p>  Shall
+  be<br>  redressed.”&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  *M.*<br></p>'
 scholarlyNotes: 
 commentary: This is a not a strong poem, but the union of temperance and anti-slavery
   is patent in its lines.
@@ -78,7 +77,8 @@ caption:
 order: '58'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

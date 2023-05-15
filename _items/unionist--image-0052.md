@@ -14,7 +14,7 @@ rights: unsure
 source: https://www.ancestry.com/mediaui-viewer/collection/1030/tree/9618201/person/192418388400/media/d3ec20ab-0f96-461e-97aa-a476b0918557?_phsrc=ZOy738&_phstart=successSource
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -36,4 +36,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0052/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0052/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0052/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0052/full/1140,/0/default.jpg"
 ---

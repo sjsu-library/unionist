@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://commons.wikimedia.org/w/index.php?curid=123854612
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0068/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0068/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0068/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0068/full/1140,/0/default.jpg"
 ---

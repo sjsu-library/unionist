@@ -14,19 +14,19 @@ rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Unionist</em>"
 subject: Foreign News; Abolition; Education; Allied Reform Movements - Peace
 type: Text
-category: Unionist full issue 1834-03-13
+category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
 transcription: "<em>Late from England.—</em>The ship Lowell, at Boston, brings Liverpool
   dates to the 27<sup>th</sup>, and London to the 23th Jan. Advices from Spain confirm
-  the previous accounts <br>of a change in the Spanish ministry. The new ministry
-  is thoroughly <br><em>liberal</em>. The civil war in Portugal had nearly ceased
-  raging. Don Miguel had fled to <br>Abrantes. The Duke of Terceira had been, appointed
-  commander of the Pedroite <br>army and had marches with 5000 men for Oporto. The
-  celebrated Lord Greenville <br>died in England on the 17<sup>th</sup>of Jan. Lord
-  Brougham is to bring forward his plan of National Education at the <br>next session
-  of Parliament.—— <br><em>N. Bed. Press.</em>"
+  the previous accounts<br>of a change in the Spanish ministry. The new ministry is
+  thoroughly<br><em>liberal</em>. The civil war in Portugal had nearly ceased raging.
+  Don Miguel had fled to<br>Abrantes. The Duke of Terceira had been, appointed commander
+  of the Pedroite<br>army and had marches with 5000 men for Oporto. The celebrated
+  Lord Greenville<br>died in England on the 17<sup>th</sup>of Jan. Lord Brougham is
+  to bring forward his plan of National Education at the<br>next session of Parliament.——<br><em>N.
+  Bed. Press.</em>"
 scholarlyNotes: 
 commentary: There are numerous details of interest in this "telegraphed" report. None
   is more important than the notice of the death of Lord Grenville (1759-1834). Grenville
@@ -43,7 +43,8 @@ caption:
 order: '243'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

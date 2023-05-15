@@ -19,8 +19,8 @@ articleType:
 volume: 
 issue: 
 transcription: We are glad to see, in “The Unionist,” of Windham County, the second
-  of a series <br>of numbers well written, and designed to expose the corruptions
-  of Freemasonry. <br>This is candid, just and patriotic. Let it go on. <br>
+  of a series<br>of numbers well written, and designed to expose the corruptions of
+  Freemasonry.<br>This is candid, just and patriotic. Let it go on.<br>
 scholarlyNotes: 
 commentary: My educated guess is that this (at least) two-part series on Anti-Masonry
   would have appeared in the latter issues in April, such as April 17 (1:37) and April
@@ -37,7 +37,8 @@ caption:
 order: '389'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: 
+manifest: 
+full: 
+proofed JR: 
 ---

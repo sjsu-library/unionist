@@ -15,7 +15,7 @@ rights: Public Domain
 source: https://archive.org/details/warpeaceevilsoff00jaywiala/page/n5/mode/2up
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -36,7 +36,8 @@ caption: Like many Abolitionists, William Jay was also a capable advocate of Pea
 order: '610'
 layout: items_item
 collection: items
-thumbnail: "/img/derivatives/iiif/images/unionist--image-0198/full/250,/0/default.jpg"
-manifest: "/img/derivatives/iiif/unionist--image-0198/manifest.json"
-full: "/img/derivatives/iiif/images/unionist--image-0198/full/1140,/0/default.jpg"
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0199/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0199/manifest.json"
+full: "/img/derivatives/iiif/images/unionist--image-0199/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0198/full/1140,/0/default.jpg"
 ---

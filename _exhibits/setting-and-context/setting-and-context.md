@@ -55,4 +55,14 @@ permalink: /essays/setting-and-context/
 
 The year 1831 marked an important sea change in the pursuit of the Immediate Abolition of slavery in the United States. For the first time, white men were listening with respect and attention to what African-Americans were telling them about the pervasive racism affecting every dimension of life for free Blacks in the North, the searing horrors of slavery throughout the country, and the free Black community’s resistance to any forced removal – euphemistically called “colonization” – to Africa. The most important beacon of this new alliance between white and Black Abolitionists came in the pages of The Liberator, a Boston-based newspaper edited by the white editor William Lloyd Garrison. The Liberator’s subscribers and many of its key financial supporters were African-Americans (men and women); the paper was understood by Free Blacks as a community resource. Garrison not only heeded the voices and published writings by Black men, but he also amplified the voice of a Black woman speaker – the profound thinker Maria Stewart – and recruited the well-known popular white woman author, Lydia Maria Child, to the cause of Immediate Abolition. When news of Nat Turner’s Rebellion in Virginia in late August 1831 reached Boston, Garrison noted Turner’s righteous cause and bravery rather than condemning him. Stewart went even further in justifying Turner. The die was cast – Black and white, men and women, would work together to end the moral outrage of slavery, and accelerate the still-to-be-completed struggle to erase racism.
 
-{% include inline_image.html collection='items' pid='unionist--image-0354' %}
+<div class="inline-image-reference">
+  <a href="/unionist/items/unionist--image-0354/">
+    <img src="
+    /unionist/img/derivatives/iiif/images/unionist--image-0354_0/full/1140,/0/default.jpg" alt="The title page from the 1835 collected works of Maria W. Stewart. The contents came from 1831-1835. This edition helped into print by her erstwhile fellow congregants at the Baptist church in Boston, though she had moved to New York City by 1835.">
+  </a>
+
+  <p class="image-caption">
+    Above: <a href="/unionist/items/unionist--image-0354/">The title page from the 1835 collected works of Maria W. Stewart. The contents came from 1831-1835. This edition helped into print by her erstwhile fellow congregants at the Baptist church in Boston, though she had moved to New York City by 1835.</a>
+  </p>
+
+</div>

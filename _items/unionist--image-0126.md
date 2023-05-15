@@ -16,7 +16,7 @@ source: 'Sylvester Graham, <em>A Treatise on Bread and Bread-Making</em> (Boston
   Light and Stearns, 1837)'
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: '""'
 manifest: '""'
 full: '""'
+proofed JR: 
 ---

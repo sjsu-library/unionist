@@ -17,7 +17,7 @@ source: "<em>American Anti-Slavery Society, American Anti-Slavery Almanac, for 1
   (New York: S. W. Benedict, 1839), p. 15."
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -42,4 +42,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0265/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0265/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0265/full/1140,/0/default.jpg"
+proofed JR: 
 ---

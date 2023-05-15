@@ -16,7 +16,7 @@ rights: Public Domain
 source: Map of New York City showing Joseph Beale’s Free Produce Store on Fulton Street
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0146/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0146/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0146/full/1140,/0/default.jpg"
+proofed JR: "/img/derivatives/iiif/images/unionist--image-0146/full/1140,/0/default.jpg"
 ---

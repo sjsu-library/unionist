@@ -14,7 +14,7 @@ rights: Public Domain
 source: https://forbesandclark.mused.org/en/items/9230/wreck-of-the-ship-john-minturn
 subject: 
 type: image
-category: 
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0338/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0338/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0338/full/1140,/0/default.jpg"
+proofed JR: 
 ---
