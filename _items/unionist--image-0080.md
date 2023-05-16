@@ -35,8 +35,8 @@ caption: Most magazines and newspapers of the day, including <em>The Unionist</e
 order: '491'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0080/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0080/manifest.json"
+full: "/img/derivatives/iiif/images/unionist--image-0080/full/1140,/0/default.jpg"
 proofed JR: 
 ---

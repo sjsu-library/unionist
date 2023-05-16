@@ -34,8 +34,8 @@ caption: The cover of an 1833 issue of <em>Godey's Lady Book</em> that might wel
 order: '490'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0079/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0079/manifest.json"
+full: "/img/derivatives/iiif/images/unionist--image-0079/full/1140,/0/default.jpg"
 proofed JR: 
 ---

@@ -32,8 +32,8 @@ caption: Carte-de-visite of Lydia Maria Child
 order: '435'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0024/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0024/manifest.json"
 full: '""'
 proofed JR: 
 ---

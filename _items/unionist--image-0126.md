@@ -35,8 +35,8 @@ caption: Title page of <em>A Treatise on Bread</em> by Sylvester Graham (1794-18
 order: '537'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0126/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0126/manifest.json"
 full: '""'
 proofed JR: 
 ---

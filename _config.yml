@@ -93,8 +93,11 @@ search:
           - source
           - description
           - _date
-          - transcription
           - commentary
+          - relatedPeople
+          - subject
+          - transcription
+
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -144,7 +147,7 @@ footer:
     - label: 'Reuse'
       link: '/reuse/'
     - label: 'Contact'
-      link: 'mailto:nick.szydlowski@sjsu.edu'
+      link: 'mailto:jennifer.rycenga@sjsu.edu'
   logos:
     - img: '/img/humanities.png'
       link: 'https://www.sjsu.edu/hum/'

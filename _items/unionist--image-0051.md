@@ -32,8 +32,8 @@ caption: Peter the Great (1672-1725)
 order: '462'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0051/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0051/manifest.json"
 full: '""'
 proofed JR: 
 ---
