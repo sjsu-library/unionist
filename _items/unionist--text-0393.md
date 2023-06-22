@@ -1,7 +1,8 @@
 ---
 pid: unionist--text-0393
-title: 'A Heathenish Doctor: Genuine Colonization Doctrines!!<br>: Response to William
-  Hutchins'' denial of racial equality'
+title: |-
+  A Heathenish Doctor: Genuine Colonization Doctrines!!
+  : Response to William Hutchins' denial of racial equality
 bibliographicCitation: "<em>The Liberator</em> 1835-05-09 "
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -22,14 +23,14 @@ volume:
 issue: 
 transcription: "<p>  We have been requested to publish the following extract from
   an address<br>  delivered by Doct. Wm. Hutchins, before the Windham Co. Colonization
-  Society,<br>  at its anniversary held in this town on the 4<sup>th</sup>  of July
-  last. The address referred to, was delivered at a time when the<br>  community was
-  highly excited on the slavery question, and a good number of<br>  those, who professed
-  to be abolitionists, were present and heard it. And yet<br>  no attempt was made
-  at the time to overthrow its arguments, or to counteract<br>  its influence upon
-  the public mind.* [Here, WLG inserts the important footnote<br>  – “This is a wilful
-  and flagrant falsehood. The address was ably reviewed, at<br>  the time, in the
-  columns of the Brooklyn Unionist, by its intelligent editor,<br>  Mr. Burleigh,
+  Society,<br>  at its anniversary held in this town on the 4<br>  <sup>th</sup>  of
+  July last. The address referred to, was delivered at a time when the<br>  community
+  was highly excited on the slavery question, and a good number of<br>  those, who
+  professed to be abolitionists, were present and heard it. And yet<br>  no attempt
+  was made at the time to overthrow its arguments, or to counteract<br>  its influence
+  upon the public mind.* [Here, WLG inserts the important footnote<br>  – “This is
+  a wilful and flagrant falsehood. The address was ably reviewed, at<br>  the time,
+  in the columns of the Brooklyn Unionist, by its intelligent editor,<br>  Mr. Burleigh,
   who challenged the heathenish doctor to a public discussion.—ED.<br>  LIB.”]<br></p><p>
   \ It is well known that<br>  <em>equality</em>  in every respect, between our white
   and black population, is a prominent<br>  feature in the abolition creed. For a
@@ -131,5 +132,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

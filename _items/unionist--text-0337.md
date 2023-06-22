@@ -18,7 +18,7 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<p>  At a Court of Probate holden at Killingly on the 8<sup>th</sup>
+transcription: "<p>  At a Court of Probate holden at Killingly on the 8<br>  <sup>th</sup>
   \ day of March A.D. 1834.<br></p><p>Present THOMAS BACKUS Esq. Judge</p><p>  On
   motion of John Truesdell, executor of the last will and testament of<br>  Harriet
   Perrin late of Killingly within said district, deceased—This Court<br>  doth decree
@@ -45,5 +45,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

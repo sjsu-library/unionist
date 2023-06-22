@@ -51,13 +51,13 @@ transcription: <p><em>From the (Brooklyn) Unionist, August 29</em></p><p>  The l
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>  &nbsp; &nbsp; &nbsp; &nbsp; July 20, 1833.<br></p><p>&nbsp;
   &nbsp;Please inform Dr. Harris to-day.</p><p align="center">——</p><p align="right">  <em>Canterbury,
   July</em>  29, 1833.<br></p><p>TO SOLOMON PAYNE, ANDREW HARRIS, and ISAAC KNIGHT,</p><p>  &nbsp;&nbsp;
-  Gentlemen—I received a letter from you on the 27<sup>th</sup>  in which you asked
-  me to inform you soon by whose licence I have taken<br>  possession of that part
-  of the meeting house that was occupied by my colored<br>  scholars on the sabbath
+  Gentlemen—I received a letter from you on the 27<br>  <sup>th</sup>  in which you
+  asked me to inform you soon by whose licence I have taken<br>  possession of that
+  part of the meeting house that was occupied by my colored<br>  scholars on the sabbath
   previous.<br></p><p>  &nbsp;&nbsp; I can inform you that the authority, whether
   lawful or unlawful,<br>  by which I permitted my family to enter the gallery of
   your church, was<br>  permission received from two of the Society’s committee, viz.
-  Dr. Harris and<br>  Deacon Bacon.<br></p><p>  &nbsp;&nbsp; On Saturday the 6<sup>th</sup>  of
+  Dr. Harris and<br>  Deacon Bacon.<br></p><p>  &nbsp;&nbsp; On Saturday the 6<br>  <sup>th</sup>  of
   this month I sent a verbal request by Samuel L. Hough to the gentlemen whom<br>  I
   address, asking your permission to attend Divine worship with you on the<br>  sabbath.
   I asked Captain Hough to inform you that I would purchase seats<br>  sufficient
@@ -109,5 +109,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-05-14'
 ---

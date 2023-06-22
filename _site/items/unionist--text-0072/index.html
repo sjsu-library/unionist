@@ -23,12 +23,14 @@
   <link rel="shortcut icon" type="image/png" href="http://0.0.0.0:4000/unionist/img/favicon_0_0.ico">
 
   <script type='text/javascript' src="http://0.0.0.0:4000/unionist/assets/jquery-3.2.1.min.js"></script>
+  <script type='text/javascript' src="http://0.0.0.0:4000/unionist/assets/linkify/linkify.min.js"></script>
+  <script type='text/javascript' src="http://0.0.0.0:4000/unionist/assets/linkify/linkify-jquery.min.js"></script>
   <noscript><p>Please enable JavaScript in your browser.</p></noscript>
 </head>
 
 
   <body>
-    <time datetime='2023-05-16 04:38'></time>
+    <time datetime='2023-06-22 03:46'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
     <a class='navbar-brand' href="http://0.0.0.0:4000/unionist/" title='Home'>
@@ -215,7 +217,8 @@ Advertisement for the Canterbury Female Boarding School
     
     
      <h3>About this Item</h3>
-       <p>This ad ran continuously in <em>The Liberator</em> starting in March of 1833. There are two notable changes in this only known appearance in <em>The Unionist</em>. William Lloyd Garrison and Arnold Buffum, both of whom were locally well-known as "outsiders" who were interfering with a local matter, have been dropped from the list of endorsers, in favor of Amos Phelps and Samuel Sewall. The “Rev.” in front of Cassey’s name a misprint. It is surprising that this ad is not reprinted in the later copies of <em>The Unionist</em>.<br></p>
+       <p>This ad ran continuously in <em>The Liberator</em> starting in March of 1833. There are two notable changes in this only known appearance in <em>The Unionist</em>. William Lloyd Garrison and Arnold Buffum, both of whom were locally well-known as "outsiders" who were interfering with a local matter, have been dropped from the list of endorsers, in favor of Amos Phelps and Samuel Sewall. The “Rev.” in front of Cassey’s name a misprint. It is surprising that this ad is not reprinted in the later copies of <em>The Unionist</em>.
+</p>
     
   </div>
 
@@ -397,7 +400,9 @@ Advertisement for the Canterbury Female Boarding School
     
       
         <dt>Related People</dt>
-        <dd>Prudence Crandall; Arthur Tappan; Peter Williams, Jr;  Theodore Raymond; Theodore Wright;<br>Samuel C. Cornish; George Bourne; James Hayborn; James Forten; Joseph Cassey; Samuel J. May; Jehiel Beman;<br>Simeon Jocelyn; George Benson Jr.; Samuel E. Sewall; Amos A. Phelps.</dd>
+        <dd>Prudence Crandall; Arthur Tappan; Peter Williams, Jr;  Theodore Raymond; Theodore Wright;
+Samuel C. Cornish; George Bourne; James Hayborn; James Forten; Joseph Cassey; Samuel J. May; Jehiel Beman;
+Simeon Jocelyn; George Benson Jr.; Samuel E. Sewall; Amos A. Phelps.</dd>
     
   
     
@@ -489,6 +494,13 @@ Advertisement for the Canterbury Female Boarding School
     $(this).hide('slow');
     $('.metadata-full').show('slow');
   })
+
+  // add links to metadata section
+    const options = {
+  /* … */
+};
+$('.metadata-block').linkify(options);
+
 
 </script>
 

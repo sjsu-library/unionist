@@ -19,10 +19,10 @@ articleType:
 volume: '1'
 issue: '20'
 transcription: "<p>NOTICE.</p><p>  CAME into the enclosure of the subscriber in Plainfield,
-  on or about the 1<sup>st</sup>  inst., a Red Roan mare Colt, 2 years old, light
-  mane and tail with one white<br>  hind foot. The owner is desired to prove property,
-  pay charges and take her<br>  away.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ ANSON JOHNSON.<br></p><p>  Plainfield, October 9<sup>th</sup>  1833.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+  on or about the 1<br>  <sup>st</sup>  inst., a Red Roan mare Colt, 2 years old,
+  light mane and tail with one white<br>  hind foot. The owner is desired to prove
+  property, pay charges and take her<br>  away.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+  \ ANSON JOHNSON.<br></p><p>  Plainfield, October 9<br>  <sup>th</sup>  1833.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
   \ 10-<br></p>"
 scholarlyNotes: 
 commentary: An escaped horse was costly for all concerned
@@ -40,5 +40,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

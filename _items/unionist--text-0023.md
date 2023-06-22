@@ -94,7 +94,9 @@ scholarlyNotes:
 commentary: There would be much in the way of partisan posturing between Charles C.
   Burleigh and the editors of the local newspapers that opposed the Canterbury Female
   Academy. He is forthright here, and reinforces that The Unionist is not "indifferent
-  or neutral on the questions moral or political, at present agitating the community"
+  or neutral on the questions moral or political, at present agitating the community,"
+  meaning the issues around race, citizenship, women's education, and abolition raised
+  by the Canterbury Female Academy.
 relatedPeople: 
 featured: 
 repeated: 
@@ -109,5 +111,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

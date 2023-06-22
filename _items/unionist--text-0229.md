@@ -23,9 +23,9 @@ transcription: In an advertisement for <br><em>Daughter’s Own Book,<br>compris
   the final one being from<br><em>The Unionist</em>. That states “It is the most valuable
   treatise that has been<br>published, and we recommend it to every parent and daughter
   in our country.” <br><br>
-scholarlyNotes: One other review quotation of interest comes from <br><em>Zion’s Herald</em>,
-  contending that the book<br>“furnishes much excellent instruction on the culture
-  and discipline of the<br>female mind.”
+scholarlyNotes: "One other review quotation of interest comes from \n<em>Zion’s Herald</em>,
+  contending that the book\n“furnishes much excellent instruction on the culture and
+  discipline of the\nfemale mind.”"
 commentary: It is not clear that the quote from <em>The Unionist</em> is really from
   a "review" - it formed part of the copy in the advertisement for the book in the
   December 19, 1833 issue!
@@ -43,5 +43,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

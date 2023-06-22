@@ -153,13 +153,13 @@ transcription: '<p align="center"><strong>POLITICAL.</strong></p><p align="cente
   government only is great which promotes the prosperity of<br>  its own people; and
   that people only are prosperous, who are wise and happy.<br></p>'
 scholarlyNotes: 
-commentary: 'The presence of this excerpt implies that the<br><em>Unionist</em>had
-  likely published the previous essay, too, in Dymond''s work. This section forms
-  part of the articulation of the Peace<br>Testimony, which is Dymond''s most signficant
-  contribution. For more on the influence of Dymond''s thought on American Abolition
-  and the Canterbury Female Academy in particular, see Jennifer Rycenga, “The Sun
-  in its Glory: The Diffusion of Jonathan Dymond’s Works in the United States, 1831-1836.”
-  <em>Quaker Studies</em>, 26:2 (2021): 241-259. Creative Commons access at https://liverpooluniversitypress.co.uk/journals/article/66637/ '
+commentary: "The presence of this excerpt implies that the\n<em>Unionist</em>\nhad
+  likely published the previous essay, too, in Dymond's work. This section forms part
+  of the articulation of the Peace\nTestimony, which is Dymond's most signficant contribution.
+  For more on the influence of Dymond's thought on American Abolition and the Canterbury
+  Female Academy in particular, see Jennifer Rycenga, “The Sun in its Glory: The Diffusion
+  of Jonathan Dymond’s Works in the United States, 1831-1836.” <em>Quaker Studies</em>,
+  26:2 (2021): 241-259. Creative Commons access at https://liverpooluniversitypress.co.uk/journals/article/66637/ "
 relatedPeople: Jonathan Dymond
 featured: 'Yes'
 repeated: 
@@ -174,5 +174,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

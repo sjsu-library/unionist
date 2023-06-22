@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0069
-title: Hester_Thrale
+title: Hester Thrale
 bibliographicCitation: https://commons.wikimedia.org/w/index.php?curid=4606080
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -35,5 +35,4 @@ collection: items
 thumbnail: '""'
 manifest: '""'
 full: '""'
-proofed JR: 
 ---

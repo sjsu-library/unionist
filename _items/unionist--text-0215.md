@@ -21,7 +21,7 @@ issue: '20'
 transcription: "<p>  THE subscribers having been appointed by the Hon. Court of Probate
   for the<br>  district of Woodstock, Commissioners on the estate of Luther Wells
   Lyon; an<br>  insolvent debtor, of said Woodstock, hereby give notice that we will
-  meet at<br>  the house of George Bowen of said Woodstock, on the 2<sup>nd</sup>
+  meet at<br>  the house of George Bowen of said Woodstock, on the 2<br>  <sup>nd</sup>
   \ Mondays of November and April next, at 9 o’clock A. M. on each of said days,<br>
   \ to receive examine and adjust the claims of creditors against s’d estate. Six<br>
   \ months from the first publication of this order, are limited by said Court of<br>
@@ -48,5 +48,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

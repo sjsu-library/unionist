@@ -18,9 +18,9 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: "<p>  FAST.—His Excellency, Governor Edwards, has appointed the 28<sup>th</sup>
-  \ day of March, to be observed as a day of fasting and prayer, by the people of<br>
-  \ this State.<br></p><p>Governor of CT, Henry W. Edwards</p>"
+transcription: "<p>  FAST.—His Excellency, Governor Edwards, has appointed the 28<br>
+  \ <sup>th</sup>  day of March, to be observed as a day of fasting and prayer, by
+  the people of<br>  this State.<br></p><p>Governor of CT, Henry W. Edwards</p>"
 scholarlyNotes: 
 commentary: This was a common practice of the time. What is unclear is if the Burleigh
   brothers intended to point out the hypocrisy of the Connecticut officials, particularly
@@ -39,5 +39,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

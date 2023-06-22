@@ -20,7 +20,7 @@ volume: '1'
 issue: '32'
 transcription: <p>  At a meeting of antimasonic delegates from the several towns composing
   the<br>  fourteenth Senatorial District, convened at the house of Mr. Samuel Underwood,<br>  in
-  Pomfret, on the 24<sup>th</sup>  Feb. 1834,<br></p><p align="center"><strong>HON.
+  Pomfret, on the 24<br>  <sup>th</sup>  Feb. 1834,<br></p><p align="center"><strong>HON.
   JONATHAN NICHOLS,</strong></p><p>  of Thompson, was unanimously designated as a
   suitable candidate for Senator,<br>  to represent said District at the next session
   of the Legislature.<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  Certified
@@ -42,5 +42,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

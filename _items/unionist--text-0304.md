@@ -19,19 +19,19 @@ articleType:
 volume: '1'
 issue: '36'
 transcription: "<p>LAST ILLNESS OF WM. WIRT.</p><p>  The Richmond Compiler of the
-  17<sup>th</sup>  ult. contains an affecting account of the last illness of Mr. Wirt,
-  written by<br>  a gentleman who attended him through that illness. We proceed to
-  extract the<br>  principal part of it.—<br>  <em>Free Elector</em></p><p>  “On the
-  evening of Saturday, the 8<sup>th</sup>  instant, he was in playful spirits, and
-  sanguine of the success of an argument<br>  which he was to make in court on Monday.
-  He felt better satisfied with his<br>  preparation, he said, than for any he had
-  made for years before. On Sunday he<br>  walked to the Capitol to Church—it was
-  a damp, chilly day, and the<br>  Representatives’ Hall was crowded and warm. To
-  go immediately from it into the<br>  cold, damp air, and walk slowly, as he did,
-  a mile to his lodgings, might have<br>  been deemed imprudent in one whose health
-  was less precarious than his then<br>  seemed.<br></p><p>  ”That night he complained
-  of a slight indisposition, and in the family worship<br>  of the evening prayed
-  with an unusual fervor, and seemingly a foreboding<br>  spirit which he communicated
+  17<br>  <sup>th</sup>  ult. contains an affecting account of the last illness of
+  Mr. Wirt, written by<br>  a gentleman who attended him through that illness. We
+  proceed to extract the<br>  principal part of it.—<br>  <em>Free Elector</em></p><p>
+  \ “On the evening of Saturday, the 8<br>  <sup>th</sup>  instant, he was in playful
+  spirits, and sanguine of the success of an argument<br>  which he was to make in
+  court on Monday. He felt better satisfied with his<br>  preparation, he said, than
+  for any he had made for years before. On Sunday he<br>  walked to the Capitol to
+  Church—it was a damp, chilly day, and the<br>  Representatives’ Hall was crowded
+  and warm. To go immediately from it into the<br>  cold, damp air, and walk slowly,
+  as he did, a mile to his lodgings, might have<br>  been deemed imprudent in one
+  whose health was less precarious than his then<br>  seemed.<br></p><p>  ”That night
+  he complained of a slight indisposition, and in the family worship<br>  of the evening
+  prayed with an unusual fervor, and seemingly a foreboding<br>  spirit which he communicated
   not save to his God. But even this was sufficient<br>  to excite vague apprehensions
   in a family always ready to note and to dwell<br>  upon whatsoever might seem to
   bode danger or safety to a friend so dear.<br></p><p>  On Monday he was confined
@@ -120,5 +120,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

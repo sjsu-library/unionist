@@ -21,8 +21,8 @@ issue: '36'
 transcription: "<em>Something extempore from Isaac Hill.</em>—A letter from Washington,
   March 20, says “Among the most extraordinary<br>occurrences that have taken place
   here, that I have heard of, is that of Isaac<br>Hill’s being toasted at a late meeting
-  of the Typographical Society, when he<br>rose, and<br><em>pulling a written speech
-  from his pocket,</em>he began&nbsp; by reading thus, “Mr. President being unexpectedly
+  of the Typographical Society, when he<br>rose, and <em>pulling a written speech
+  from his pocket,</em>he began by reading thus, “Mr. President being unexpectedly
   called upon by<br>the toast just offered, &amp;c.”<br>"
 scholarlyNotes: 
 commentary: 
@@ -40,5 +40,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

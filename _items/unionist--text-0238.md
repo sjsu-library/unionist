@@ -140,9 +140,9 @@ transcription: <p align="center"><strong>MISCELLANY.</strong></p><p align="right
   Tale of Forgiveness.<br></p>
 scholarlyNotes: Stylistic analysis to determine who might have written this? WHB a
   likely candidate
-commentary: The author of this piece is unknown. This is the conclusion of a multi-part
-  story. There are clear parallels between<br>Emily and Prudence in terms of the piety
-  involved in conducting a school<br>
+commentary: |
+  The author of this piece is unknown. This is the conclusion of a multi-part story. There are clear parallels between
+  Emily and Prudence in terms of the piety involved in conducting a school
 relatedPeople: 
 featured: 
 repeated: 
@@ -157,5 +157,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

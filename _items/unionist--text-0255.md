@@ -19,12 +19,12 @@ articleType:
 volume: '1'
 issue: '32'
 transcription: <p align="center">COMMUNICATIONS.</p><p align="center">No. 2.</p><p
-  align="right">  WINDHAM, March 11<sup>th</sup>  , 1834<br></p><p>  <em>Mr. Burleigh</em>  —You
-  remember I promised to write again as soon as we had received another<br>  Bulletin.
-  Uncle Davy Kies seems to think they are<br>  <em>“All Hearty”</em>  but you know
-  he don’t reside at Head-Quarters now. The last orders were dated<br>  at Canterbury
-  a few rods North of Miss Crandall’s school. It was officially<br>  announced here
-  this morning by one of the recruiting officers, (the<br>  <em>gentleman</em>  who
+  align="right">  WINDHAM, March 11<br>  <sup>th</sup>  , 1834<br></p><p>  <em>Mr.
+  Burleigh</em>  —You remember I promised to write again as soon as we had received
+  another<br>  Bulletin. Uncle Davy Kies seems to think they are<br>  <em>“All Hearty”</em>  but
+  you know he don’t reside at Head-Quarters now. The last orders were dated<br>  at
+  Canterbury a few rods North of Miss Crandall’s school. It was officially<br>  announced
+  here this morning by one of the recruiting officers, (the<br>  <em>gentleman</em>  who
   ran away from Brooklyn a few years ago with some hundreds of the people’s<br>  money,
   and who, in consequence of his clamorous declamations in favor of<br>  Jackson,
   is now enjoying a considerable bite of Uncle Sam’s treasury pap,<br>  against the
@@ -73,5 +73,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

@@ -19,15 +19,15 @@ articleType:
 volume: '1'
 issue: '36'
 transcription: "<p>The Unionist</p><p>“Righteousness Exalteth a Nation.”</p><p>Vol.
-  1 No. 36</p><p>Brooklyn, Thursday Morning, April 10, 1834</p><p><em>First Column,
-  Information insert</em></p><p>The Unionist</p><p>Published Every Thursday Morning,</p><p>Brooklyn,
-  Conn.</p><p>W.H. &amp; C.C. Burleigh, Editors.</p><p>  Terms.—Mail Subscribers Two
-  Dollars in advance. Delivered by Stage or Post one<br>  dollar and seventy-five
-  cents. Those taken at the office, one dollar and fifty<br>  cents.<br></p><p>  Any
-  person becoming responsible for eight copies shall receive one copy<br>  gratis.<br></p><p>
-  \ No paper will be discontinued till arrearages are paid, except at the<br>  discretion
-  of the publisher.<br></p><p>Advertisements inserted at the usual prices.</p><p>All
-  communications must be addressed, post paid, to Wm. H. Burleigh.</p>"
+  1 No. 36</p><p>Brooklyn, Thursday Morning, April 10, 1834</p><p></p><p>The Unionist</p><p>Published
+  Every Thursday Morning,</p><p>Brooklyn, Conn.</p><p>W.H. &amp; C.C. Burleigh, Editors.</p><p>
+  \ Terms.—Mail Subscribers Two Dollars in advance. Delivered by Stage or Post one<br>
+  \ dollar and seventy-five cents. Those taken at the office, one dollar and fifty<br>
+  \ cents.<br></p><p>  Any person becoming responsible for eight copies shall receive
+  one copy<br>  gratis.<br></p><p>  No paper will be discontinued till arrearages
+  are paid, except at the<br>  discretion of the publisher.<br></p><p>Advertisements
+  inserted at the usual prices.</p><p>All communications must be addressed, post paid,
+  to Wm. H. Burleigh.</p>"
 scholarlyNotes: 
 commentary: 
 relatedPeople: Charles C. Burleigh; William H. Burleigh
@@ -44,5 +44,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

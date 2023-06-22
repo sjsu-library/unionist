@@ -1075,7 +1075,9 @@ search box
   overflow-y:scroll;
   max-height: 400px;
 
-
+  .excerpt-content {
+    padding-right: 20px;
+  }
 
 }
 

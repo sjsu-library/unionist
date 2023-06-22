@@ -21,8 +21,8 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '11'
-transcription: "<p>  “In the Brooklyn Unionist, Oct. 10<sup>th</sup>  , we find an
-  account of a second trial of Miss Crandall before the Superior Court of Connecticut,
+transcription: "<p>  “In the Brooklyn Unionist, Oct. 10<br>  <sup>th</sup>  , we find
+  an account of a second trial of Miss Crandall before the Superior Court of Connecticut,
   Judge Daggett on the bench. The charge on which she was<br>  tried was for teaching
   colored people from other states. The Judge instructed<br>  the jury that free people
   of color are not citizens, and that the law of<br>  Connecticut is, therefore, not
@@ -141,5 +141,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 2023-05-14 needs work
 ---

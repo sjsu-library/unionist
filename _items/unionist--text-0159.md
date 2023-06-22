@@ -2,8 +2,9 @@
 pid: unionist--text-0159
 title: Declaration of the National Anti-Slavery Society
 bibliographicCitation: "<em>The Unionist</em> 1833-12-19"
-bibliographicCitationRepublished: "<em>The Abolitionist</em>1:12:178-180 (December
-  1833)<br>"
+bibliographicCitationRepublished: |
+  <em>The Abolitionist</em>
+  1:12:178-180 (December 1833)
 fullIssueSequenceNumber: 1833-12-19 p.01.05
 creator: 
 dateCreated: '1833-12-19'
@@ -212,40 +213,40 @@ transcription: "<p>DECLARATION OF THE NATIONAL ANTI-SLAVERY CONVENTION.</p><p>  
   Philadelphia - Manager</p><p>  <em>The Abolitionist</em>  1:12:178-180 (December
   1833)<br></p>"
 scholarlyNotes: 
-commentary: 'There is much to add, relevant to The Unionist and the Canterbury Female
-  Academy, to this Declaration. <p>  In the same issue of <em>The Abolitionist</em>
+commentary: "There is much to add, relevant to The Unionist and the Canterbury Female
+  Academy, to this Declaration. <p>\n  In the same issue of <em>The Abolitionist</em>
   that printed the Declaration, African-American delegate Robert Purvis delivered
-  an encomium for William Lloyd Garrison:<br>  <em>The Abolitionist</em>  1:12:183
-  (December 1833)<br></p><p>In a pair of motions intimately related to the Canterbury
+  an encomium for William Lloyd Garrison:\n  <em>The Abolitionist</em>\n  1:12:183
+  (December 1833)\n</p><p>In a pair of motions intimately related to the Canterbury
   Female Academy, the convention expressed its appreciation of education in general,
-  and Canterbury in particular.</p><p>"On motion of Simeon S. Jocelyn, seconded by
-  Amos A. Phelps, it was</p><p>  Resolved.&nbsp; That the fountains of knowledge,
-  like those of salvation,<br>  should be open to every creature, and that we regard
-  those laws and prejudices<br>  which prevent or restrict the education of the people
-  of color, bond or free,<br>  as pre-eminently cruel and impious, and disgraceful
-  to a christian state or<br>  nation; and that we will seek their abolishment, both
-  in the free and slave<br>  States, if possible more earnestly than corporeal slavery
-  itself, in as much<br>  as ignorance enslaves the mind, and tends to the ruin of
-  the immortal soul.<br></p><p>On motion of John Prentice, seconded by William Goodell,
-  it was</p><p>  Resolved, That this convention highly approve of the philanthropic
-  effort of<br>  Miss Prudence Crandall of Canterbury, Conn. in her labors to instruct
-  our<br>  colored sisters; and while we deeply sympathize with her in view of the<br>  persecutions
-  she has endured in the prosecution of her pious purposes, we<br>  pledge ourselves
-  to afford her our continued countenance and assistance"<br>  <em>The Abolitionist</em>  1:12:184
-  (December 1833) Goodell was the editor of <em>The Genius of Temperance</em>; Jocelyn
-  and Phelps were both endorsers of the Canterbury Female Academy.<br></p><p>  <em>The
-  Abolitionist</em> in that same December issue also published a letter from Charles
-  Stuart to William Lloyd Garrison, that <br>  made reference also to letters from
-  Buffum and<br>  Forten: "Many hearts are beating here for the glorious Prudence<br>  Crandall.
-  Some of my young friends are working little parcels of<br>  presents for me to take
-  to her dear pupils in the Spring." (written from<br>  Liverpool)<br></p><p>  Samuel
-  Joseph May and John G. Whittier worked with the principal author, William Lloyd
-  Garrison, on the 1833 Declaration of Sentiments of the American Anti-Slavery Society.
-  The language of the Declaration, and the sense of who was behind it, demonstrates
+  and Canterbury in particular.</p>\n<p>\"On motion of Simeon S. Jocelyn, seconded
+  by Amos A. Phelps, it was</p>\n<p>\n  Resolved.&nbsp; That the fountains of knowledge,
+  like those of salvation,\n  should be open to every creature, and that we regard
+  those laws and prejudices\n  which prevent or restrict the education of the people
+  of color, bond or free,\n  as pre-eminently cruel and impious, and disgraceful to
+  a christian state or\n  nation; and that we will seek their abolishment, both in
+  the free and slave\n  States, if possible more earnestly than corporeal slavery
+  itself, in as much\n  as ignorance enslaves the mind, and tends to the ruin of the
+  immortal soul.\n</p>\n<p>On motion of John Prentice, seconded by William Goodell,
+  it was</p>\n<p>\n  Resolved, That this convention highly approve of the philanthropic
+  effort of\n  Miss Prudence Crandall of Canterbury, Conn. in her labors to instruct
+  our\n  colored sisters; and while we deeply sympathize with her in view of the\n
+  \ persecutions she has endured in the prosecution of her pious purposes, we\n  pledge
+  ourselves to afford her our continued countenance and assistance\"\n  <em>The Abolitionist</em>\n
+  \ 1:12:184 (December 1833) Goodell was the editor of <em>The Genius of Temperance</em>;
+  Jocelyn and Phelps were both endorsers of the Canterbury Female Academy.\n</p>\n<p>\n
+  \ <em>The Abolitionist</em> in that same December issue also published a letter
+  from Charles Stuart to William Lloyd Garrison, that \n  made reference also to letters
+  from Buffum and\n  Forten: \"Many hearts are beating here for the glorious Prudence\n
+  \ Crandall. Some of my young friends are working little parcels of\n  presents for
+  me to take to her dear pupils in the Spring.\" (written from\n  Liverpool)\n</p>\n<p>\n
+  \ Samuel Joseph May and John G. Whittier worked with the principal author, William
+  Lloyd Garrison, on the 1833 Declaration of Sentiments of the American Anti-Slavery
+  Society. The language of the Declaration, and the sense of who was behind it, demonstrates
   how nonviolence already held some prominence in the movement at the time of the
   Canterbruy Female Academy. Furthermore, they were working at the home of African-American
   activist and dentist James McCrummell (Benjamin Quarles, <em>Black Abolitionists</em>
-  New York: Da Capo Press, 1991; original edition 1969, p. vii-viii) <br></p>'
+  New York: Da Capo Press, 1991; original edition 1969, p. vii-viii) \n</p>\n"
 relatedPeople: David Thurston; B. Russell; Nathan Winslow; David Jones; Joseph Southwick,
   Enoch Mack, 2d.; James. F. Otis; James Loughhead; Isaac Winslow; J. McCullough;
   David Cambell; E.P. Atlee; Orson S. Murray; J.M.McKim; D.S.Southmayd; William Lloyd
@@ -271,5 +272,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

@@ -23,12 +23,14 @@
   <link rel="shortcut icon" type="image/png" href="http://0.0.0.0:4000/unionist/img/favicon_0_0.ico">
 
   <script type='text/javascript' src="http://0.0.0.0:4000/unionist/assets/jquery-3.2.1.min.js"></script>
+  <script type='text/javascript' src="http://0.0.0.0:4000/unionist/assets/linkify/linkify.min.js"></script>
+  <script type='text/javascript' src="http://0.0.0.0:4000/unionist/assets/linkify/linkify-jquery.min.js"></script>
   <noscript><p>Please enable JavaScript in your browser.</p></noscript>
 </head>
 
 
   <body>
-    <time datetime='2023-05-16 04:38'></time>
+    <time datetime='2023-06-22 03:46'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
     <a class='navbar-brand' href="http://0.0.0.0:4000/unionist/" title='Home'>
@@ -220,7 +222,30 @@ A Statue of Jefferson
     
     
      <h3>About this Item</h3>
-       <p><p>As of 2021, this statue has been removed from the City Council chamber, and sent to the New-York Historical Society, following more revelations concerning Jefferson's slave-owning past</p><p>  This is the statue in question -<br>  <a<br>    href="https://www.washingtonpost.com/history/2021/11/23/thomas-jefferson-statue-removed-nyc-slaveowner/"<br>  >    https://www.washingtonpost.com/history/2021/11/23/thomas-jefferson-statue-removed-nyc-slaveowner/<br>  </a>  - now removed (accessed 10/9/22)<br></p><p>  See also here -<br>  <a<br>    href="https://news.artnet.com/art-world/thomas-jefferson-statue-headed-new-york-historical-society-2035662"<br>  >    https://news.artnet.com/art-world/thomas-jefferson-statue-headed-new-york-historical-society-2035662<br>  </a></p><p>  The artist David d’Angers (1788-1856)<br>  <a href="https://en.wikipedia.org/wiki/David_d%27Angers">    https://en.wikipedia.org/wiki/David_d%27Angers<br>  </a></p></p>
+       <p><p>As of 2021, this statue has been removed from the City Council chamber, and sent to the New-York Historical Society, following more revelations concerning Jefferson's slave-owning past</p><p>
+  This is the statue in question -
+  <a
+    href="https://www.washingtonpost.com/history/2021/11/23/thomas-jefferson-statue-removed-nyc-slaveowner/"
+  >
+    https://www.washingtonpost.com/history/2021/11/23/thomas-jefferson-statue-removed-nyc-slaveowner/
+  </a>
+  - now removed (accessed 10/9/22)
+</p>
+<p>
+  See also here -
+  <a
+    href="https://news.artnet.com/art-world/thomas-jefferson-statue-headed-new-york-historical-society-2035662"
+  >
+    https://news.artnet.com/art-world/thomas-jefferson-statue-headed-new-york-historical-society-2035662
+  </a>
+</p>
+<p>
+  The artist David d’Angers (1788-1856)
+  <a href="https://en.wikipedia.org/wiki/David_d%27Angers">
+    https://en.wikipedia.org/wiki/David_d%27Angers
+  </a>
+</p>
+</p>
     
   </div>
 
@@ -498,6 +523,13 @@ A Statue of Jefferson
     $(this).hide('slow');
     $('.metadata-full').show('slow');
   })
+
+  // add links to metadata section
+    const options = {
+  /* … */
+};
+$('.metadata-block').linkify(options);
+
 
 </script>
 

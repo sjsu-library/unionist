@@ -23,8 +23,8 @@ transcription: <p>  CAUTION.—All persons are forbid employing John Skinner, a 
   will require<br>  any person employing said minor to account for his services. The
   said Skinner<br>  is 16 years old of a light complexion and middle size. It is expected
   said<br>  minor was enticed away from the care and employ of the subscriber on the
-  17<sup>th</sup>  inst. and that he wore away a brown linen jacket, Marseilles vest
-  and striped<br>  jean pantaloons.<br></p><p align="right">DANIEL BENNET.</p><p>Canterbury
+  17<br>  <sup>th</sup>  inst. and that he wore away a brown linen jacket, Marseilles
+  vest and striped<br>  jean pantaloons.<br></p><p align="right">DANIEL BENNET.</p><p>Canterbury
   August 30, 1833r&nbsp;</p>
 scholarlyNotes: ironic, due to similarity to runway slave language
 commentary: I could not find the definitive facts about this case, but I've included
@@ -43,5 +43,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-05-14'
 ---

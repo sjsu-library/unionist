@@ -64,7 +64,9 @@ transcription: "<p>From Zerah Colburn’s Memoirs.</p><p>A REMARKABLE INCIDENT.<
   appeared to criminate him,<br>  he had been discharged. The writer saw the unhappy
   fratricide on his way from<br>  the prison to the place of execution.<br></p>"
 scholarlyNotes: Check if you can add a picture from the link
-commentary: Original of this memoir available on line at<br>https://catalog.hathitrust.org/api/volumes/oclc/3394328.html<br>
+commentary: |
+  Original of this memoir available on line at
+  https://catalog.hathitrust.org/api/volumes/oclc/3394328.html
 relatedPeople: Zerah Colburn
 featured: 
 repeated: 
@@ -79,5 +81,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

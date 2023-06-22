@@ -18,7 +18,7 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: MARRIED, At Waltham, Mass., on Tuesday morning 16<sup>th</sup>inst.
+transcription: MARRIED, At Waltham, Mass., on Tuesday morning 16<br><sup>th</sup>inst.
   by Rev. Bernard Whitman; Mr. Geo. W. Benson, of Providence, R.I., to Miss<br>Catharine
   Stetson, of the former place.
 scholarlyNotes: 
@@ -38,5 +38,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

@@ -150,12 +150,12 @@ transcription: <p align="center">THE UNIONIST.</p><p align="center">BROOKLYN, SE
   at the pleasure of the select men;<br>  they can grant or they can prohibit.<br></p><p>  Mr
   E. now proceeded to consider the rights which citizens of each state are<br>  entitled
   to enjoy in the several states. He read from the opinion of Judge<br>  Washington,
-  as reported in the 4<sup>th</sup>  of Washington’s Circuit Court Reps. page 380,
-  which he claimed showed<br>  conclusively that the new law of Connecticut was unconstitutional.
-  He also<br>  maintained that the views he took of this law were supported by Judge
-  Story,<br>  in the third volume of his recent work on the Constitution and also
-  in<br>  Sergeant’s Constitutional law, page 385. The legislation of Congress on
-  the<br>  subject of the Missouri question, he claimed distinctly recognized blacks
+  as reported in the 4<br>  <sup>th</sup>  of Washington’s Circuit Court Reps. page
+  380, which he claimed showed<br>  conclusively that the new law of Connecticut was
+  unconstitutional. He also<br>  maintained that the views he took of this law were
+  supported by Judge Story,<br>  in the third volume of his recent work on the Constitution
+  and also in<br>  Sergeant’s Constitutional law, page 385. The legislation of Congress
+  on the<br>  subject of the Missouri question, he claimed distinctly recognized blacks
   as<br>  Citizens. The law when it says that no person shall keep a school for the<br>  instruction
   of blacks from abroad, says, in effect, that no foreign person<br>  shall come here
   and be taught—How were they to be taught without a teacher?<br>  This law would
@@ -298,38 +298,39 @@ transcription: <p align="center">THE UNIONIST.</p><p align="center">BROOKLYN, SE
   would greatly gratify his curiosity, could he get a sight of some of them.<br>  It
   was no reflection on the character of our State, that under excitement, it<br>  had
   passed an unconstitutional law—other States had done the same. Mr S. here<br>  referred
-  to the second section of the 4<sup>th</sup>  Article of the constitution, on which
-  he said he relied to prove the<br>  unconstitutionality of the law. He also read
-  from the articles o<br>  confederation, which he claimed to contain a similar provision.
-  By the<br>  adoption of the constitution, we were, said Mr S., made one people.
-  ‘Twas<br>  necessary—‘twas the principle of the proclamation of Gen. Jackson, so<br>  deservedly
-  popular throughout this section of the Country. If this principle<br>  was impugned,
-  it destroyed that which alone made our government worth<br>  anything. (Mr. S. also
-  read from Judge Story what had before been quoted by Mr<br>  Ellsworth) In ancient
-  times, continued Mr S., it was a proud boast—“I am a<br>  Roman citizen.” A citizen
-  of the United States was entitled to one no less<br>  proud—I am an American citizen.
-  We were not to say that we were citizens of<br>  Connecticut, but that we were American
-  citizens. A portion of our country men<br>  might wish to raise the Palmetto banner,
-  but the eagle and the stripes were<br>  our badge. The attorney for the prosecution
-  would improve upon the<br>  Nullification of South Carolina. That State had only
-  to pass an act excluding<br>  the standing army o the United States from her territory,
-  and the principles<br>  of the old General’s proclamation were all nullified, or
-  Mr S. was greatly<br>  mistaken. Were blacks citizens? The term “citizen” was to
-  have a technical<br>  sense. He had listened with pleasure to this remark from the
-  gentleman who<br>  opened the case, for when a word has a technical signification,
-  it was always<br>  easy to get its precise meaning. All the technics however which
-  seemed to<br>  attach to the word were that a citizen must not be colored. If colored
-  persons<br>  were not citizens, Mr S. claimed that they were not inhabitants, which<br>  conclusion
-  was manifestly absurd. Color had no connection with the question of<br>  citizenship
-  be birth, though it had in respect to naturalization. In deference<br>  to southern
-  views, the Militia laws of the nation, passed in 1792, did not<br>  include colored
-  persons—the words were, “every free white male citizen”—was<br>  not this an express
-  recognition that persons other than whites were citizens?<br>  If “citizens” meant
-  a white person only, why was this language used? (Mr S.<br>  here read from Ingersoll’s
-  digest 745, relative to the protections granted to<br>  American seamen, which,
-  he said were always given to blacks as well as<br>  whites.) The war of 1812 was
-  caused, continued Mr S., in no small degree, by<br>  the impressment of our seamen
-  who had these protections in their pockets. Our<br>  government considered the impressment
+  to the second section of the 4<br>  <sup>th</sup>  Article of the constitution,
+  on which he said he relied to prove the<br>  unconstitutionality of the law. He
+  also read from the articles o<br>  confederation, which he claimed to contain a
+  similar provision. By the<br>  adoption of the constitution, we were, said Mr S.,
+  made one people. ‘Twas<br>  necessary—‘twas the principle of the proclamation of
+  Gen. Jackson, so<br>  deservedly popular throughout this section of the Country.
+  If this principle<br>  was impugned, it destroyed that which alone made our government
+  worth<br>  anything. (Mr. S. also read from Judge Story what had before been quoted
+  by Mr<br>  Ellsworth) In ancient times, continued Mr S., it was a proud boast—“I
+  am a<br>  Roman citizen.” A citizen of the United States was entitled to one no
+  less<br>  proud—I am an American citizen. We were not to say that we were citizens
+  of<br>  Connecticut, but that we were American citizens. A portion of our country
+  men<br>  might wish to raise the Palmetto banner, but the eagle and the stripes
+  were<br>  our badge. The attorney for the prosecution would improve upon the<br>  Nullification
+  of South Carolina. That State had only to pass an act excluding<br>  the standing
+  army o the United States from her territory, and the principles<br>  of the old
+  General’s proclamation were all nullified, or Mr S. was greatly<br>  mistaken. Were
+  blacks citizens? The term “citizen” was to have a technical<br>  sense. He had listened
+  with pleasure to this remark from the gentleman who<br>  opened the case, for when
+  a word has a technical signification, it was always<br>  easy to get its precise
+  meaning. All the technics however which seemed to<br>  attach to the word were that
+  a citizen must not be colored. If colored persons<br>  were not citizens, Mr S.
+  claimed that they were not inhabitants, which<br>  conclusion was manifestly absurd.
+  Color had no connection with the question of<br>  citizenship be birth, though it
+  had in respect to naturalization. In deference<br>  to southern views, the Militia
+  laws of the nation, passed in 1792, did not<br>  include colored persons—the words
+  were, “every free white male citizen”—was<br>  not this an express recognition that
+  persons other than whites were citizens?<br>  If “citizens” meant a white person
+  only, why was this language used? (Mr S.<br>  here read from Ingersoll’s digest
+  745, relative to the protections granted to<br>  American seamen, which, he said
+  were always given to blacks as well as<br>  whites.) The war of 1812 was caused,
+  continued Mr S., in no small degree, by<br>  the impressment of our seamen who had
+  these protections in their pockets. Our<br>  government considered the impressment
   of blacks who had these protections, as<br>  standing on the same ground with the
   impressment of the whites, and the war<br>  was declared and fought as much on their
   account as on account of the whites.<br>  The law in relation to American shipping
@@ -581,5 +582,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

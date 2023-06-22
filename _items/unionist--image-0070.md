@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0070
-title: WilliamGoodellMHS
+title: William Goodell portrait, Massachusetts Historical Society
 bibliographicCitation: https://en.wikipedia.org/wiki/William_Goodell_%28abolitionist%29#/media/File:William-Goodell(Cropped).png
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -32,8 +32,7 @@ caption: Photograph of William Goodell (1792-1878), editor of <em>The Genius of 
 order: '481'
 layout: items_item
 collection: items
-thumbnail: "/img/derivatives/iiif/images/unionist--image-0070/full/250,/0/default.jpg"
-manifest: "/img/derivatives/iiif/unionist--image-0070/manifest.json"
+thumbnail: '""'
+manifest: '""'
 full: '""'
-proofed JR: 
 ---

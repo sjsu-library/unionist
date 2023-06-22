@@ -20,7 +20,7 @@ volume: '1'
 issue: '20'
 transcription: "<p>  WANTED immediately, one Journeyman Shoemaker, to work by the
   month or job. A<br>  single man will be preferred.<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ WELCOM W. BUCK<br></p><p>  Killingly, (Danielson’s Village) Nov. 4<sup>th</sup>
+  \ WELCOM W. BUCK<br></p><p>  Killingly, (Danielson’s Village) Nov. 4<br>  <sup>th</sup>
   \ ,<br>  1833&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
   \ 14<br></p><p></p>"
 scholarlyNotes: An unmarried man preferred - did they cost less in wages?
@@ -39,5 +39,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

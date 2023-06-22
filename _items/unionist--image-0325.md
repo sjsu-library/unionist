@@ -1,11 +1,6 @@
 ---
 pid: unionist--image-0325
-title: Illustration of imperfection from Holbrook's most celebrated publication, <em>Ten
-  Years Among the Mailbags</em>. He had not lost his social intolerance, though; on
-  the first page of the Introduction, he says that if every letter in the mailbag
-  "possessed the power of uttering audibly the ideas which it contains, a confusion
-  of tongues would ensue, worthy of the last stages of the tower of Babel, or of a
-  Woman's Rights convention."
+title: Illustration of Imperfection
 bibliographicCitation: 'James Holbrook, <em>Ten Years Among the Mail Bags: Or, Notes
   from the Diary of a Special Agent of the Post-Office Department. New York: Loomis
   National Library Association, 1888.'
@@ -54,5 +49,4 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0325/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0325/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0325/full/1140,/0/default.jpg"
-proofed JR: 
 ---

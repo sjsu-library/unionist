@@ -23,8 +23,8 @@ transcription: "<p>  <em>CAUTION.—A</em>  ll persons are forbid employing John
   said minor, and will require<br>  any person employing said minor to account for
   his services. The said Skinner<br>  if 16 years old of a light complexion and middle
   size. It is expected said<br>  minor<br>  <em>w</em>  as enticed away from the area
-  and employ of the subscriber on the 17<sup>th</sup>  inst. and that he wore away
-  a brown linen jacket, Marseilles vest and striped<br>  jean pantaloons.<br></p><p>
+  and employ of the subscriber on the 17<br>  <sup>th</sup>  inst. and that he wore
+  away a brown linen jacket, Marseilles vest and striped<br>  jean pantaloons.<br></p><p>
   \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
   \ DANIEL BENNET<br></p>"
 scholarlyNotes: 
@@ -44,5 +44,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

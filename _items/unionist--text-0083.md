@@ -21,7 +21,7 @@ articleType:
 volume: '1'
 issue: '6'
 transcription: CHINESE COURAGE. While advancing towards Fuh-chow, the capital of Fuh-keen<br>province,
-  we meet several war-junks, despathced, doubtless, in quest of us. We<br>happened
+  we meet several war-junks, despatched, doubtless, in quest of us. We<br>happened
   to direct our spy-glass towards one of them, which so intimidated the<br>crew, that
   they ran below decks, and did not reappear till they were sure of<br>having escaped
   the danger. We could only ascribe their panic to mistaking the<br>class for a gun,
@@ -44,5 +44,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

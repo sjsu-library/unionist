@@ -36,8 +36,7 @@ caption: Photographic portrait of Amos Beman (1812-1872). His father, Jeheil Bem
 order: '612'
 layout: items_item
 collection: items
-thumbnail: "/img/derivatives/iiif/images/unionist--image-0200/full/250,/0/default.jpg"
-manifest: "/img/derivatives/iiif/unionist--image-0200/manifest.json"
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0201/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0201/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0201/full/1140,/0/default.jpg"
-proofed JR: "/img/derivatives/iiif/images/unionist--image-0200/full/1140,/0/default.jpg"
 ---

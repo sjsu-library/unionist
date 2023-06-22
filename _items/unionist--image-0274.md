@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0274
-title: image of saving a drowning person
+title: Saving a drowning person
 bibliographicCitation: AdobeStock_218368808
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -38,5 +38,4 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0274/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0274/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0274/full/1140,/0/default.jpg"
-proofed JR: 
 ---

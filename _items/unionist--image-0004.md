@@ -40,8 +40,7 @@ caption: William Wilberforce, 1828
 order: '415'
 layout: items_item
 collection: items
-thumbnail: "/img/derivatives/iiif/images/unionist--image-0004/full/250,/0/default.jpg"
-manifest: "/img/derivatives/iiif/unionist--image-0004/manifest.json"
+thumbnail: '""'
+manifest: '""'
 full: '""'
-proofed JR: 
 ---

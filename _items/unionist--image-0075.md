@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0075
-title: LOC_Main_Reading_Room_Highsmith
+title: Library of Congress Main Reading Room (Carol Highsmith)
 bibliographicCitation: By Carol M. Highsmith - This image is available from the United
   States Library of Congress&#039;s Prints and Photographs divisionunder the digital
   ID highsm.11604.This tag does not indicate the copyright status of the attached
@@ -40,5 +40,4 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0075/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0075/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0075/full/1140,/0/default.jpg"
-proofed JR: "/img/derivatives/iiif/images/unionist--image-0075/full/1140,/0/default.jpg"
 ---

@@ -23,12 +23,14 @@
   <link rel="shortcut icon" type="image/png" href="http://0.0.0.0:4000/unionist/img/favicon_0_0.ico">
 
   <script type='text/javascript' src="http://0.0.0.0:4000/unionist/assets/jquery-3.2.1.min.js"></script>
+  <script type='text/javascript' src="http://0.0.0.0:4000/unionist/assets/linkify/linkify.min.js"></script>
+  <script type='text/javascript' src="http://0.0.0.0:4000/unionist/assets/linkify/linkify-jquery.min.js"></script>
   <noscript><p>Please enable JavaScript in your browser.</p></noscript>
 </head>
 
 
   <body>
-    <time datetime='2023-05-16 04:38'></time>
+    <time datetime='2023-06-22 03:46'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
     <a class='navbar-brand' href="http://0.0.0.0:4000/unionist/" title='Home'>
@@ -198,7 +200,7 @@ Late from England
   <div class="excerpt">
     <div class="excerpt-inner">
       <div class="excerpt-content">
-    <em>Late from England.—</em>The ship Lowell, at Boston, brings Liverpool dates to the 27<sup>th</sup>, and London to the 23th Jan. Advices from Spain confirm the previous accounts<br>of a change in the Spanish ministry. The new ministry is thoroughly<br><em>liberal</em>. The civil war in Portugal had nearly ceased raging. Don Miguel had fled to<br>Abrantes. The Duke of Terceira had been, appointed commander of the Pedroite<br>army and had marches with 5000 men for Oporto. The celebrated Lord Greenville<br>died in England on the 17<sup>th</sup>of Jan. Lord Brougham is to bring forward his plan of National Education at the<br>next session of Parliament.——<br><em>N. Bed. Press.</em>
+    <em>Late from England.—</em>The ship Lowell, at Boston, brings Liverpool dates to the 27<br><sup>th</sup>, and London to the 23th Jan. Advices from Spain confirm the previous accounts<br>of a change in the Spanish ministry. The new ministry is thoroughly<br><em>liberal</em>. The civil war in Portugal had nearly ceased raging. Don Miguel had fled to<br>Abrantes. The Duke of Terceira had been, appointed commander of the Pedroite<br>army and had marches with 5000 men for Oporto. The celebrated Lord Greenville<br>died in England on the 17<br><sup>th</sup>of Jan. Lord Brougham is to bring forward his plan of National Education at the<br>next session of Parliament.——<br><em>N. Bed. Press.</em>
       </div>
     </div>
   </div>
@@ -497,6 +499,13 @@ Late from England
     $(this).hide('slow');
     $('.metadata-full').show('slow');
   })
+
+  // add links to metadata section
+    const options = {
+  /* … */
+};
+$('.metadata-block').linkify(options);
+
 
 </script>
 

@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0072
-title: SamuelPriceCarson
+title: Samuel Price Carson
 bibliographicCitation: https://en.wikipedia.org/wiki/Samuel_Price_Carson#/media/File:SamuelPriceCarson.jpg
 bibliographicCitationRepublished: https://en.wikipedia.org/wiki/Samuel_Price_Carson#/media/File:SamuelPriceCarson.jpg
 fullIssueSequenceNumber: 
@@ -35,5 +35,4 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0072/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0072/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0072/full/1140,/0/default.jpg"
-proofed JR: "/img/derivatives/iiif/images/unionist--image-0072/full/1140,/0/default.jpg"
 ---

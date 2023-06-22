@@ -21,7 +21,7 @@ articleType:
 volume: '1'
 issue: '20'
 transcription: "<p>  AT a Court of Probate holden at Windham within and for the district
-  of<br>  Windham, on the 11<sup>th</sup>  day of November A.D. 1833.<br></p><p>Present,
+  of<br>  Windham, on the 11<br>  <sup>th</sup>  day of November A.D. 1833.<br></p><p>Present,
   C.F. CLEVELAND, Esq. Judge [sic re. spelling of Cleveland]</p><p>  Upon the petition
   of Philip Pearl, Jr. of Hampton, in the county of Windham,<br>  shewing to this
   court that he is Guardian of Harriet A. Utley, of Hampton,<br>  within said district,
@@ -66,5 +66,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

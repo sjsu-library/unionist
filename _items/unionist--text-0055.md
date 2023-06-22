@@ -21,7 +21,7 @@ issue: '2'
 transcription: <p align="center">FOREIGN.</p><p align="center">[From the Journal of
   Commerce.]</p><p align="center">SEVEN DAYS LATER</p><p>  The war in Portugal, the
   only remnant of war which now remains among civilized<br>  nations, was getting
-  to look more favorable for Pedro.<br></p><p>  LONDON, June 14<sup>th</sup>  .—In
+  to look more favorable for Pedro.<br></p><p>  LONDON, June 14<br>  <sup>th</sup>  .—In
   the House of Commons last night, Mr C. Grant, in a speech of great<br>  length,
   laid before the House, the propositions of Government for regulating<br>  the affairs
   of the East India Company, to the effect that the trade to China<br>  should be
@@ -33,8 +33,8 @@ transcription: <p align="center">FOREIGN.</p><p align="center">[From the Journal
   resolution was adopted 286 to 77.</p><p>  It was said that a Spanish army, to cooperate
   with that of Don Miguel, had<br>  been ordered to be collected on the frontiers
   of Portugal.<br></p><p align="center">PORTUGAL.</p><p>  OFORTO, June 4.—On Saturday
-  night and Sunday morning, the 1<sup>st</sup>  and 2d inst. the first division of
-  the much talked of squadron of steamers<br>  arrived off the bar, with reinforcements
+  night and Sunday morning, the 1<br>  <sup>st</sup>  and 2d inst. the first division
+  of the much talked of squadron of steamers<br>  arrived off the bar, with reinforcements
   of troops, money, provisions and<br>  stores. This seasonable addition to the forces
   previously collected here has<br>  infused fresh vigor into the Constitutional party.
   Among the passengers<br>  brought by these four steamers were the Duke of Fayal
@@ -60,19 +60,19 @@ transcription: <p align="center">FOREIGN.</p><p align="center">[From the Journal
   engineers and men working at the Dardanelles. What<br>  all this may end in we cannot
   say; appearances are any thing but favorable for<br>  a continuation of peace. The
   Ottoman Government, we fear, must fall.”<br></p><p align="center">FROM FRANCE.</p><p>  FRANCE
-  AND THE UNITED STATES.—On the 11<sup>th</sup>  of June the Chamber of Deputies received
-  a communication from the Ministers of<br>  Finance, who offered a bill opening a
-  credit for above five millions of<br>  francs, for the payment of the first fifth
-  part of the 25 millions owing the<br>  United States, according to treaty.<br></p><p
+  AND THE UNITED STATES.—On the 11<br>  <sup>th</sup>  of June the Chamber of Deputies
+  received a communication from the Ministers of<br>  Finance, who offered a bill
+  opening a credit for above five millions of<br>  francs, for the payment of the
+  first fifth part of the 25 millions owing the<br>  United States, according to treaty.<br></p><p
   align="center">TEN DAYS LATER</p><p>  By the packet ship Roscoe, Captain Rogers,
-  we have English papers to June 25<sup>th</sup>  . By the packet ship Rhone, we have
-  French papers to June 18<sup>th</sup>  .<br></p><p>  The bill for the abolition
-  of West India Slavery has passed the House of<br>  Commons and been sent to the
-  Lords.<br></p><p>  CONSTANTINOPLE, May 28.—(By Express.) Ibrahim Pacha has really
-  commenced his<br>  retreat, and preparations are making in the Russian camp, which
-  indicate the<br>  speedy withdrawal of the troops.<br></p><p>  ENGLAND.—Mr Elliot
-  Cresson<br>  <em>has declined</em>  the challenge of Mr. Garrison to a public discussion
-  in London on the merits<br>  of the American Colonization society.<br></p><p>  The
+  we have English papers to June 25<br>  <sup>th</sup>  . By the packet ship Rhone,
+  we have French papers to June 18<br>  <sup>th</sup>  .<br></p><p>  The bill for
+  the abolition of West India Slavery has passed the House of<br>  Commons and been
+  sent to the Lords.<br></p><p>  CONSTANTINOPLE, May 28.—(By Express.) Ibrahim Pacha
+  has really commenced his<br>  retreat, and preparations are making in the Russian
+  camp, which indicate the<br>  speedy withdrawal of the troops.<br></p><p>  ENGLAND.—Mr
+  Elliot Cresson<br>  <em>has declined</em>  the challenge of Mr. Garrison to a public
+  discussion in London on the merits<br>  of the American Colonization society.<br></p><p>  The
   advices from Warsaw state that the feeling against the Russians was daily<br>  becoming
   more violent. Several Russian officers had been killed in the<br>  streets, and
   Gen Paskewitsch himself narrowly escaped. Another revolt was<br>  contemplated.<br></p><p>  Port
@@ -81,9 +81,9 @@ transcription: <p align="center">FOREIGN.</p><p align="center">[From the Journal
   are landed have to pay a duty of five per cent. and some other<br>  small rates
   on being carried to the interior.<br></p>
 scholarlyNotes: 
-commentary: A few items of interest here. There seems to be a mild pacifism throughout
+commentary: "A few items of interest here. There seems to be a mild pacifism throughout
   these selections, as well as notices of West Indian abolition, and William Lloyd
-  Garrison being in London. <br>
+  Garrison being in London. \n"
 relatedPeople: 
 featured: 
 repeated: 
@@ -98,5 +98,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

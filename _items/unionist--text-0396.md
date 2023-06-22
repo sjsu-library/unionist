@@ -61,7 +61,7 @@ transcription: "<p>  “Some two or three&nbsp; weeks since we published, upon a
   remarks of the Emancipator are<br>  not true. Our account of the Plainfield disturbance<br>
   \ <em>was not</em>  published “during the height of the late reign of terror,” but
   when all was<br>  tranquil in the week following [my note – it was published July
-  15<sup>th</sup>  – notes in main PC file];—and in the second place, the account
+  15<br>  <sup>th</sup>  – notes in main PC file];—and in the second place, the account
   of the Brooklyn<br>  Unionist, (an&nbsp; abolition paper published in the neighborhood
   of<br>  Plainfield,) represents the case, if anything, more unfavorably than we<br>
   \ did.—Indeed our mistake seems to have consisted only in stating that the young<br>
@@ -144,10 +144,15 @@ transcription: "<p>  “Some two or three&nbsp; weeks since we published, upon a
   from scattering<br>  fire-brands, arrows and death amongst us.<br></p>"
 scholarlyNotes: There are two frames here - The New-York Commercial Advertiser and
   The Emancipator
-commentary: "<p><em>Attack on Charles Stuart – Friday July 11</em></p><p><em>Article
-  in Commercial Intelligencer – Tuesday July 15</em></p><p>  <em>    LIKELY article
-  in Unionist would then logically be Thursday July 17,<br>    possibly July 24, less
-  likely July 31<br>  </em></p>"
+commentary: |
+  <p><em>Attack on Charles Stuart – Friday July 11</em></p>
+  <p><em>Article in Commercial Intelligencer – Tuesday July 15</em></p>
+  <p>
+    <em>
+      LIKELY article in Unionist would then logically be Thursday July 17,
+      possibly July 24, less likely July 31
+    </em>
+  </p>
 relatedPeople: Charles Stuart; George Thompson
 featured: 
 repeated: 
@@ -162,5 +167,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

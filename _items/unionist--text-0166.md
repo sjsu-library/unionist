@@ -20,9 +20,9 @@ volume: '1'
 issue: '20'
 transcription: "<p>  The annual meeting of the Windham County Education Society is
   to be held in<br>  the new Meeting-House in Brooklyn on Wednesday of next week,
-  the 25<sup>th</sup>  inst.; services commencing at 1 o’clock, P.M.”<br></p><p>  At
-  the close of the exercise, the Directors of the County Tract Society, are<br>  to
-  hold a meeting for business” – signed G.J. Tillotson, Secretary<br></p>"
+  the 25<br>  <sup>th</sup>  inst.; services commencing at 1 o’clock, P.M.”<br></p><p>
+  \ At the close of the exercise, the Directors of the County Tract Society, are<br>
+  \ to hold a meeting for business” – signed G.J. Tillotson, Secretary<br></p>"
 scholarlyNotes: 
 commentary: 'G. Tillotson was Rev. George Jeffrey Tillotson (1805-1888), Congregational
   minister of Brooklyn Connecticut. He was the minister who agreed to officiate the
@@ -53,5 +53,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

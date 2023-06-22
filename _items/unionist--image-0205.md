@@ -34,8 +34,7 @@ caption: Seal of the United States Department of War; this department is now def
 order: '616'
 layout: items_item
 collection: items
-thumbnail: "/img/derivatives/iiif/images/unionist--image-0205/full/250,/0/default.jpg"
-manifest: "/img/derivatives/iiif/unionist--image-0205/manifest.json"
+thumbnail: '""'
+manifest: '""'
 full: '""'
-proofed JR: 
 ---

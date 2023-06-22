@@ -29,7 +29,7 @@ transcription: <p>An Act to repeal certain Acts therein mentioned.</p><p>  BE it
   same is hereby repealed.<br></p><p align="right">SAMUEL INGHAM,</p><p align="right">Speaker
   of the House of Representatives.</p><p align="right">EBENZER STODDARD,</p><p align="right">President
   of the Senate.</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  Approved,
-  May 31<sup>st</sup>  , 1833<br></p><p align="right">HENRY EDWARDS.</p><p></p>
+  May 31<br>  <sup>st</sup>  , 1833<br></p><p align="right">HENRY EDWARDS.</p><p></p>
 scholarlyNotes: 
 commentary: It was a standard practice for newspapers to republish legislative acts
 relatedPeople: Samuel Ingham; Ebenezer Stoddard; Henry Edwards
@@ -46,5 +46,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-05-14'
 ---

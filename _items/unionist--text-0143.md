@@ -2,13 +2,13 @@
 pid: unionist--text-0143
 title: Domestic [Black Citizenship]
 bibliographicCitation: "<em>The Unionist</em> 1833-10-17"
-bibliographicCitationRepublished: "<em>New York Evangelist</em> 1833-10-19 <br><br>"
+bibliographicCitationRepublished: "<em>New York Evangelist</em> 1833-10-19 \n\n"
 fullIssueSequenceNumber: 
 creator: 
 dateCreated: '1833-10-17'
 description: Summary of Jay's arguments
 language: English
-publisher: "<em>New York Evangelist</em> 1833-10-19 <br><br>"
+publisher: "<em>New York Evangelist</em> 1833-10-19 \n\n"
 IsPartOf: 
 rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
@@ -63,5 +63,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 2023-05-14 double check
 ---

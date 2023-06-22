@@ -23,12 +23,14 @@
   <link rel="shortcut icon" type="image/png" href="http://0.0.0.0:4000/unionist/img/favicon_0_0.ico">
 
   <script type='text/javascript' src="http://0.0.0.0:4000/unionist/assets/jquery-3.2.1.min.js"></script>
+  <script type='text/javascript' src="http://0.0.0.0:4000/unionist/assets/linkify/linkify.min.js"></script>
+  <script type='text/javascript' src="http://0.0.0.0:4000/unionist/assets/linkify/linkify-jquery.min.js"></script>
   <noscript><p>Please enable JavaScript in your browser.</p></noscript>
 </head>
 
 
   <body>
-    <time datetime='2023-05-16 04:38'></time>
+    <time datetime='2023-06-22 03:46'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
     <a class='navbar-brand' href="http://0.0.0.0:4000/unionist/" title='Home'>
@@ -198,7 +200,7 @@ Notice.
   <div class="excerpt">
     <div class="excerpt-inner">
       <div class="excerpt-content">
-    NOTICE. The Windham County Temperance Society is to be held in Brooklyn on the<br>3d Tuesday, i.e. the 15<sup>th</sup>day of April. The delegates are requested to meet at the new church at 1<br>o’clock, P. M. The public services are to commence at 2. La Fayette S. Foster<br>Esq. of Hampton is to give the Address. It is very desirable that each auxiliary<br>not only send delegates to the meeting; but forward to the Secretary their<br>annual report as soon as possible, that a full and favorable account of this<br>County Society may be given to the meeting of the State Society in<br>May.&nbsp;&nbsp; G. J. TILLOTSON, Sec.<br>
+    NOTICE. The Windham County Temperance Society is to be held in Brooklyn on the<br>3d Tuesday, i.e. the 15<br><sup>th</sup>day of April. The delegates are requested to meet at the new church at 1<br>o’clock, P. M. The public services are to commence at 2. La Fayette S. Foster<br>Esq. of Hampton is to give the Address. It is very desirable that each auxiliary<br>not only send delegates to the meeting; but forward to the Secretary their<br>annual report as soon as possible, that a full and favorable account of this<br>County Society may be given to the meeting of the State Society in<br>May.&nbsp;&nbsp; G. J. TILLOTSON, Sec.<br>
       </div>
     </div>
   </div>
@@ -457,7 +459,7 @@ Notice.
 
 <div class='full-width' >
 <div class='inline-image-header'>
-  <p>LafayetteSFoster</p>
+  <p>Lafayette S. Foster</p>
 </div>
 </div>
 
@@ -493,6 +495,13 @@ Notice.
     $(this).hide('slow');
     $('.metadata-full').show('slow');
   })
+
+  // add links to metadata section
+    const options = {
+  /* … */
+};
+$('.metadata-block').linkify(options);
+
 
 </script>
 

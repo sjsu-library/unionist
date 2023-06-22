@@ -6,8 +6,9 @@ bibliographicCitationRepublished:
 fullIssueSequenceNumber: 1833-12-19 p.04.65
 creator: 
 dateCreated: '1833-12-19'
-description: FOR SALE, At this office, a few copies of Mrs. Child’s “Appeal in behalf
-  of that<br>class of Americans called Africans<br>
+description: |
+  FOR SALE, At this office, a few copies of Mrs. Child’s “Appeal in behalf of that
+  class of Americans called Africans
 language: English
 publisher: The Unionist
 IsPartOf: 
@@ -39,5 +40,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

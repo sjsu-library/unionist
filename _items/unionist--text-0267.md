@@ -19,7 +19,7 @@ articleType:
 volume: '1'
 issue: '32'
 transcription: <p>  AT a Court of Probate holden at Woodstock, within and for the
-  district of<br>  Woodstock, on the 20<sup>th</sup>  day of February, 1834.<br></p><p
+  district of<br>  Woodstock, on the 20<br>  <sup>th</sup>  day of February, 1834.<br></p><p
   align="center">  Present, JOHN PAINE, Esq.<br>  <em>Judge.</em></p><p>  This court
   doth direct the Trustees on the estate of Joshua Sweet an insolvent<br>  debtor,
   of Woodstock, in said district, to give notice to all persons<br>  interested in
@@ -49,5 +49,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

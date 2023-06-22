@@ -28,11 +28,13 @@ relatedPeople:
 featured: 
 repeated: 
 relatedImage: 
-relatedText: unionist--text-0057; unionist--text-0213; unionist--text-0214; unionist--text-0215;
+relatedText: 'unionist--text-0057; unionist--text-0213; unionist--text-0214; unionist--text-0215;
   unionist--text-0216; unionist--text-0217; unionist--text-0218; unionist--text-0220;
   unionist--text-0267; unionist--text-0268; unionist--text-0279; unionist--text-0283;
   unionist--text-0284; unionist--text-0337; unionist--text-0340; unionist--text-0364;
-  unionist--text-0368; unionist--text-0377; unionist--text-0378; unionist--text-0379<br>
+  unionist--text-0368; unionist--text-0377; unionist--text-0378; unionist--text-0379
+
+'
 relatedTextIssue: 1833-08-08 p03.43; 1833-12-19 p.04.59; 1833-12-19 p.04.60; 1833-12-19
   p.04.61; 1833-12-19 p.04.62; 1833-12-19 p.04.63; 1833-12-19 p.04.64; 1833-12-19
   p.04.66; 1834-03-13 p.03.31; 1834-03-13 p.03.32; 1834-03-13 p.04.43; 1834-03-13
@@ -47,5 +49,4 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0245/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0245/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0245/full/1140,/0/default.jpg"
-proofed JR: 
 ---

@@ -24,7 +24,7 @@ transcription: The letter from Windham, giving an account of the “general must
   early<br>enough for insertion this week.<br>
 scholarlyNotes: This letter would, therefore , be a part of 1:37 1834-04-17 Unionist
 commentary: 
-relatedPeople: Daivd Daggett (inferred)
+relatedPeople: David Daggett (inferred)
 featured: 
 repeated: 
 relatedImage: unionist--image-0210
@@ -38,5 +38,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

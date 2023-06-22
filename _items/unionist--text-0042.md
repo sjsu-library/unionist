@@ -117,11 +117,11 @@ transcription: '<p>TO RUFUS ADAMS, ESQ.,</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   connexion, I will notice a false accusation which you have again<br>  brought against
   me. You accuse Mr Buffum and myself of pouring out threats<br>  upon the town and
   inhabitants. The same charge you alleged more explicitly<br>  against us in the
-  Norwich Republican of March 27<sup>th</sup>  . But you have never informed the public
-  what those threats were.—Nor can you.<br>  None were uttered. I now declare, that
-  I heard not a word from Mr Buffum in<br>  the tone or spirit of threat; and that
-  not a syllable of the kind escaped my<br>  lips. I call upon you to contradict me
-  if you please—and make your<br>  contradiction good if you can.<br></p><p>  You
+  Norwich Republican of March 27<br>  <sup>th</sup>  . But you have never informed
+  the public what those threats were.—Nor can you.<br>  None were uttered. I now declare,
+  that I heard not a word from Mr Buffum in<br>  the tone or spirit of threat; and
+  that not a syllable of the kind escaped my<br>  lips. I call upon you to contradict
+  me if you please—and make your<br>  contradiction good if you can.<br></p><p>  You
   have taken no little pains, gentlemen, in your communication, &amp; on<br>  other
   occasions, to make it appear as if you and the people of Canterbury are<br>  the
   injured, suffering party. That you may have suffered some injury in the<br>  course
@@ -130,12 +130,12 @@ transcription: '<p>TO RUFUS ADAMS, ESQ.,</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   of Miss Crandall’s school on its present plan, there is not<br>  the slightest reason
   to suppose. I can most solemnly declare, that from the<br>  first I have been willing
   to treat even your prejudices with some<br>  consideration. Witness my letter to
-  Miss Crandall, dated Feb. 28<sup>th</sup>  , written so soon as I heard of the opposition
-  you were preparing to make to<br>  the prosecution of her plan. If I had been permitted
-  to speak for her at your<br>  town meeting, as<br>  <em>she</em>  requested I might
-  be permitted to do, you would soon have learnt that neither<br>  Miss C. nor her
-  patrons had any wish to force the continuance of her school in<br>  your village.
-  They were, and I trust still are, willing to have it removed to<br>  any<br>  <em>suitable</em>  place,
+  Miss Crandall, dated Feb. 28<br>  <sup>th</sup>  , written so soon as I heard of
+  the opposition you were preparing to make to<br>  the prosecution of her plan. If
+  I had been permitted to speak for her at your<br>  town meeting, as<br>  <em>she</em>  requested
+  I might be permitted to do, you would soon have learnt that neither<br>  Miss C.
+  nor her patrons had any wish to force the continuance of her school in<br>  your
+  village. They were, and I trust still are, willing to have it removed to<br>  any<br>  <em>suitable</em>  place,
   that might be obtained for it. In a conversation with Col. Judson a few<br>  days
   after the meeting, I gave him this assurance distinctly; as he doubtless<br>  remembers.
   His reply I shall never forget. ‘No,’ said he, ‘that school shall<br>  not be located
@@ -175,12 +175,12 @@ transcription: '<p>TO RUFUS ADAMS, ESQ.,</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
   others, nor did she suppose the people of Canterbury to be obligated to<br>  send
   their daughters to her school, more than they were, on than she was, to<br>  purchase
   the commodities offered by those merchants.<br></p><p>  † See Miss Crandall’s Letter
-  published in the Advertiser of May 9<sup>th</sup>  .<br></p><p>  ‡ Col. Judson in
-  the earnestness of his determination to overthrow Miss<br>  Crandall’s school, threatened
-  that there should also be a clause in his Law,<br>  by which the colored people
-  in the State should be restrained within the towns<br>  to which they now belong,
-  so that even their children could not be sent to<br>  Miss C. for instruction. But
-  it seems that for some wide reason he has since<br>  concluded to omit the proposed
+  published in the Advertiser of May 9<br>  <sup>th</sup>  .<br></p><p>  ‡ Col. Judson
+  in the earnestness of his determination to overthrow Miss<br>  Crandall’s school,
+  threatened that there should also be a clause in his Law,<br>  by which the colored
+  people in the State should be restrained within the towns<br>  to which they now
+  belong, so that even their children could not be sent to<br>  Miss C. for instruction.
+  But it seems that for some wide reason he has since<br>  concluded to omit the proposed
   clause.<br></p>'
 scholarlyNotes: 
 commentary: 'Samuel J. May''s response to Judson and Adams contains extensive primary
@@ -200,5 +200,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

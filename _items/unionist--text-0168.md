@@ -18,7 +18,7 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: An Anti-masonic Convention is to be holden at Hartford, on the 25<sup>th</sup>of
+transcription: An Anti-masonic Convention is to be holden at Hartford, on the 25<br><sup>th</sup>of
   the present month, for the purpose of nominating State officers for the next<br>Spring
   election.<br>
 scholarlyNotes: 
@@ -38,5 +38,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

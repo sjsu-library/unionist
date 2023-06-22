@@ -30,13 +30,14 @@ transcription: "<em>Wonderful memory of Blind Alick.</em>—There is still livin
   with a slight verbal alteration, a verse of the<br>Bible. Alick hesitated a moment,
   and then told where it was to be found but said<br>it had not been correctly delivered;
   he then gave it as it stood in the book,<br>correcting the slight error that had
-  been purposely introduced. The gentleman<br>then asked him for the 90<sup>th</sup>verse
-  of the 7<sup>th</sup>chapter of Numbers. Alick was again puzzled for a moment, but
-  then said hastily,<br>“You are fooling me, sir? there is no such verse—that chapter
-  has only 89<br>verses.” Several other experiments of the sort were tried upon him
-  with the same<br>success. He has often been questioned the day after any particular
-  sermon or<br>speech, and his examiners have invariably found, that, had their patience<br>allowed,
-  blind Alick would have given them the sermon or speech over again."
+  been purposely introduced. The gentleman<br>then asked him for the 90<br><sup>th</sup>verse
+  of the 7<br><sup>th</sup>chapter of Numbers. Alick was again puzzled for a moment,
+  but then said hastily,<br>“You are fooling me, sir? there is no such verse—that
+  chapter has only 89<br>verses.” Several other experiments of the sort were tried
+  upon him with the same<br>success. He has often been questioned the day after any
+  particular sermon or<br>speech, and his examiners have invariably found, that, had
+  their patience<br>allowed, blind Alick would have given them the sermon or speech
+  over again."
 scholarlyNotes: Romanticism, but ultimately solid American piety winning, is interesting.
 commentary: Blind Alick (1766-1839) was a real person, who was contradictorily used
   both as an example of piety and impiety for his remarkable knowledge of the scriptures.
@@ -55,5 +56,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

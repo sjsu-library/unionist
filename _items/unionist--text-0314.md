@@ -18,8 +18,8 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<p>  WESTMINSTER, April 8<sup>th</sup>  , 1834<br></p><p>  Mr. Editor,
-  “How are the mighty fallen!” Jacksonism and Judsonism, recently so<br>  flourishing
+transcription: "<p>  WESTMINSTER, April 8<br>  <sup>th</sup>  , 1834<br></p><p>  Mr.
+  Editor, “How are the mighty fallen!” Jacksonism and Judsonism, recently so<br>  flourishing
   in Canterbury have met a sad and total overthrow. All the efforts<br>  of our gallant
   Col. to ride into office on the storm of an anti-negro<br>  excitement have utterly
   failed, and discomfited and chagrined, the Col.<br>  declares, as I am told, that
@@ -72,5 +72,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

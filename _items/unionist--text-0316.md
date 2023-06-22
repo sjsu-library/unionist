@@ -37,7 +37,7 @@ transcription: "<p>Liberator.</p><p>THE SPIRIT OF SEVENTY-SIX</p><p>  The follow
   and urgent<br>  occasion, than to rescue our fellow men from the matchless and oppressive<br>
   \ cruelties of slavery?<br></p><p>  It is universally admitted that the first Congress
   in the United States was<br>  composed of the most pure and enlightened citizens,
-  who, on the 6<sup>th</sup>  of July, 1775, announced the following sentiments:<br></p><p>
+  who, on the 6<br>  <sup>th</sup>  of July, 1775, announced the following sentiments:<br></p><p>
   \ ‘If it were possible for men, who exercise their reason, to believe that the<br>
   \ Divine Author of our existence intended a part of the human race to hold an<br>
   \ absolute property in, and unbounded power over others, marked out by infinite<br>
@@ -73,5 +73,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

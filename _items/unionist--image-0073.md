@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0073
-title: Godey's_lady's_book_(1840)_(14583318707)
+title: Godey's Lady's Book (1840)
 bibliographicCitation: https://commons.wikimedia.org/wiki/File:Godey%27s_lady%27s_book_%281840%29_%2814583318707%29.jpg
 bibliographicCitationRepublished: https://commons.wikimedia.org/wiki/File:Godey%27s_lady%27s_book_%281840%29_%2814583318707%29.jpg
 fullIssueSequenceNumber: 
@@ -37,5 +37,4 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0073/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0073/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0073/full/1140,/0/default.jpg"
-proofed JR: "/img/derivatives/iiif/images/unionist--image-0073/full/1140,/0/default.jpg"
 ---

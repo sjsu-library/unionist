@@ -20,7 +20,7 @@ articleType:
 volume: '1'
 issue: '2'
 transcription: <p align="center">THE JOURNAL OF COMMERCE</p><p align="center"><em>versus.</em></p><p
-  align="center">COL. JUDSON’S LAW.</p><p>  The Journal of Commerce of July 30<sup>th</sup>  has
+  align="center">COL. JUDSON’S LAW.</p><p>  The Journal of Commerce of July 30<br>  <sup>th</sup>  has
   copied the statement made in the Advertiser of July 25, by Col Judson and<br>  Rufus
   Adams, Esq. and have made the following remarks upon it.<br></p><p>  We publish
   to day an article from Canterbury which has appeared in several<br>  papers of that
@@ -65,5 +65,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

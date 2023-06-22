@@ -28,8 +28,14 @@ transcription: "<p>PRENTICE &amp; TIBBITS,</p><p><em>(Merchant Tailors,)</em></p
   attend to.<br></p><p>  Providence. December,<br>  1833.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   22<br></p>"
 scholarlyNotes: 
-commentary: John Prentice and Daniel Tibbits listed themselves as tailors on<br><a<br>  href="https://onerhodeislandfamily.files.wordpress.com/2021/06/10bf5-pages-from-1834-ri-petition-bank-of-the-us.pdf"<br>>  this
-  petition<br></a>of 1834 against President Jackson’s interference with the Bank.<br>
+commentary: |
+  John Prentice and Daniel Tibbits listed themselves as tailors on
+  <a
+    href="https://onerhodeislandfamily.files.wordpress.com/2021/06/10bf5-pages-from-1834-ri-petition-bank-of-the-us.pdf"
+  >
+    this petition
+  </a>
+  of 1834 against President Jackson’s interference with the Bank.
 relatedPeople: John Prentice; Daniel Tibbits
 featured: 
 repeated: 
@@ -44,5 +50,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

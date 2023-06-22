@@ -23,12 +23,14 @@
   <link rel="shortcut icon" type="image/png" href="http://0.0.0.0:4000/unionist/img/favicon_0_0.ico">
 
   <script type='text/javascript' src="http://0.0.0.0:4000/unionist/assets/jquery-3.2.1.min.js"></script>
+  <script type='text/javascript' src="http://0.0.0.0:4000/unionist/assets/linkify/linkify.min.js"></script>
+  <script type='text/javascript' src="http://0.0.0.0:4000/unionist/assets/linkify/linkify-jquery.min.js"></script>
   <noscript><p>Please enable JavaScript in your browser.</p></noscript>
 </head>
 
 
   <body>
-    <time datetime='2023-05-16 04:38'></time>
+    <time datetime='2023-06-22 03:46'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
     <a class='navbar-brand' href="http://0.0.0.0:4000/unionist/" title='Home'>
@@ -215,7 +217,14 @@ Prentice & Tibbets
     
     
      <h3>About this Item</h3>
-       <p>John Prentice and Daniel Tibbits listed themselves as tailors on<br><a<br>  href="https://onerhodeislandfamily.files.wordpress.com/2021/06/10bf5-pages-from-1834-ri-petition-bank-of-the-us.pdf"<br>>  this petition<br></a>of 1834 against President Jackson’s interference with the Bank.<br></p>
+       <p>John Prentice and Daniel Tibbits listed themselves as tailors on
+<a
+  href="https://onerhodeislandfamily.files.wordpress.com/2021/06/10bf5-pages-from-1834-ri-petition-bank-of-the-us.pdf"
+>
+  this petition
+</a>
+of 1834 against President Jackson’s interference with the Bank.
+</p>
     
   </div>
 
@@ -489,6 +498,13 @@ Prentice & Tibbets
     $(this).hide('slow');
     $('.metadata-full').show('slow');
   })
+
+  // add links to metadata section
+    const options = {
+  /* … */
+};
+$('.metadata-block').linkify(options);
+
 
 </script>
 

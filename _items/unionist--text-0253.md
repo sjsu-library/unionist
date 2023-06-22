@@ -20,9 +20,9 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: "<p>  *The Advertiser of the 19<sup>th</sup>  of last December contained
-  the following article:<br></p><p>  <em>To all whom it may concern.</em>  —From what
-  we can learn, we have great reason to believe that a<br>  <em>determination</em>
+transcription: "<p>  *The Advertiser of the 19<br>  <sup>th</sup>  of last December
+  contained the following article:<br></p><p>  <em>To all whom it may concern.</em>
+  \ —From what we can learn, we have great reason to believe that a<br>  <em>determination</em>
   \ has been formed to BREAK UP the<br>  <em>negro school</em>  in Canterbury by some
   means or other in less than two months. We by no means<br>  wish to encourage such
   a determination. And we seriously hope that our belief<br>  is not sufficiently
@@ -41,12 +41,18 @@ transcription: "<p>  *The Advertiser of the 19<sup>th</sup>  of last December co
   and to<br>  increase the grievances and insults of our citizens, but we did not
   know until<br>  recently that, those efforts had succeeded to the amount of “more
   than<br>  <em>thirty</em>  wenches,” who are sent from all quarters of the globe!<br></p>"
-scholarlyNotes: "<em>   There has to be a term, other than disingenuous, for the Cyril
-  of<br>  Alexandria-style crocodile tears, or the Trumpesque “dog whistle” to describe<br>
-  \ this stuff.<br></em><em>  Kathleen Turner sent me “stochastic terrorism” and Marjorie
-  Shelton “a wink<br>  and a nod”<br></em>"
+scholarlyNotes: |
+  <em>
+     There has to be a term, other than disingenuous, for the Cyril of
+    Alexandria-style crocodile tears, or the Trumpesque “dog whistle” to describe
+    this stuff.
+  </em>
+  <em>
+    Kathleen Turner sent me “stochastic terrorism” and Marjorie Shelton “a wink
+    and a nod”
+  </em>
 commentary: Note here the insulting language of “wenches” but also the high number
-  of thirty students!
+  of thirty students, and their (alleged) internationalism!
 relatedPeople: David Daggett; Prudence Crandall (inferred)
 featured: 'yes'
 repeated: 
@@ -61,5 +67,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

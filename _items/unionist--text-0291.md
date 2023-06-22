@@ -57,10 +57,10 @@ transcription: '<p>ANGELL’S SCHOOL BOOKS.</p><p>  Published by MARSHALL, BROWN
   consider best for the use of the public schools:<br></p><p>  “<br>  <em>Resolved,</em>  That
   the arrangement and plan of the series of Common School Classics,<br>  compiled
   by Mr. Angell, meet our approbation.”<br></p><p>  Signed, WM.R. STAPLES, DAVID PICKERING,<br>  <em>Sub-Committee.</em></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  WATCHEMOKET<br>  FARM, 30<sup>th</sup>  Aug, 1833<br></p><p>  Dear Sir:—Among my
-  political engagements, I have always found some leisure<br>  moments left me for
-  literary amusement. The employment of the School Master,<br>  once so useful and
-  dear to me, does now, at times, call me back to the<br>  examination of letters,
+  WATCHEMOKET<br>  FARM, 30<br>  <sup>th</sup>  Aug, 1833<br></p><p>  Dear Sir:—Among
+  my political engagements, I have always found some leisure<br>  moments left me
+  for literary amusement. The employment of the School Master,<br>  once so useful
+  and dear to me, does now, at times, call me back to the<br>  examination of letters,
   syllables, words, spellings and readings. Perhaps I<br>  mingle with all these some
   political considerations; for I confess, that my<br>  anxiety for the preservation
   and perpetuation of our Union and National<br>  Government, is so great, that I
@@ -146,7 +146,7 @@ transcription: '<p>ANGELL’S SCHOOL BOOKS.</p><p>  Published by MARSHALL, BROWN
   of teachers and<br>  others interested in the cause of education; confident, that
   to all who are<br>  aware how much success in teaching depends upon proper books,
   they will be<br>  peculiarly acceptable. P.W. FERRIS, E.W. BAKER, ESEK ALDRICH,
-  SILAS WESTON,<br>  RICHARD ANTHONY. Providence April 14<sup>th</sup>  , 1831.<br></p><p>  <em>    “The
+  SILAS WESTON,<br>  RICHARD ANTHONY. Providence April 14<br>  <sup>th</sup>  , 1831.<br></p><p>  <em>    “The
   Committee on Education, appointed by the General Assembly of the State<br>    of
   Rhode-Island, Report,<br>  </em>  ‘That they have examined the series of Common
   School Classics, by Oliver<br>  Angell, A.M., and that the arrangement and plan
@@ -207,5 +207,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

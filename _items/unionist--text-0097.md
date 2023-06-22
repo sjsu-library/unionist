@@ -34,9 +34,15 @@ transcription: "<p>  We feel it our duty to make the fact public, that one of th
   for not quietly acquiescing in the result of a fair trial<br>  by a jury of the
   country. Oh! the beauty of consistency!<br></p>"
 scholarlyNotes: 
-commentary: <p>  What is being referred to here is the Ephraim Avery trial – see<br>  <a
-  href="https://en.wikipedia.org/wiki/Ephraim_Kingsbury_Avery">    https://en.wikipedia.org/wiki/Ephraim_Kingsbury_Avery<br>  </a>  and
-  there are at least three full-length studies in the bibliography<br></p><p></p>
+commentary: |
+  <p>
+    What is being referred to here is the Ephraim Avery trial – see
+    <a href="https://en.wikipedia.org/wiki/Ephraim_Kingsbury_Avery">
+      https://en.wikipedia.org/wiki/Ephraim_Kingsbury_Avery
+    </a>
+    and there are at least three full-length studies in the bibliography
+  </p>
+  <p></p>
 relatedPeople: Andrew Judson; James Holbrook (inferred)
 featured: 
 repeated: 
@@ -51,5 +57,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0071
-title: BarberPlainfield
+title: Barber Plainfield
 bibliographicCitation: http://connecticuthistory.org/plainfield-academy-grooming-connecticut-scholars-in-the-18th-and-19th-centuries/
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -33,8 +33,7 @@ caption: Plainfield, Connecticut, including the Plainfield Academy on top of the
 order: '482'
 layout: items_item
 collection: items
-thumbnail: "/img/derivatives/iiif/images/unionist--image-0071/full/250,/0/default.jpg"
-manifest: "/img/derivatives/iiif/unionist--image-0071/manifest.json"
+thumbnail: '""'
+manifest: '""'
 full: '""'
-proofed JR: 
 ---

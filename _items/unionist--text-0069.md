@@ -27,11 +27,11 @@ transcription: <p align="center"><strong>WOODSTOCK ACADEMY.</strong></p><p>  LAS
   of the public.<br></p><p>The terms of tuition are</p><p>Four dollars for the languages,
   and higher branches of mathematics.</p><p>Three dollars for English branches.</p><p>Board
   can be obtained in good families from 1,25 to 1,50 a week.</p><p>  The term commenced
-  on Wednesday, the 17<sup>th</sup>  of July.<br></p><p>John McLellan</p><p>Theo.
+  on Wednesday, the 17<br>  <sup>th</sup>  of July.<br></p><p>John McLellan</p><p>Theo.
   B. Chandler,</p><p>William M. Cornell,</p><p>  Daniel<br>  Lyman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  Trustees.
   [bracketed as a group]<br></p><p>Amos Paine,</p><p>James McLellan,</p><p>  Moses
   Lyon,<br>  2d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  1.<br></p><p>  Woodstock,
-  June, 26<sup>th</sup>  .<br></p><p></p>
+  June, 26<br>  <sup>th</sup>  .<br></p><p></p>
 scholarlyNotes: 
 commentary: Charles C. Burleigh's father, Rinaldo, was a preceptor at the Woodstock
   Academy for a few years when Charles was a child.
@@ -50,5 +50,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

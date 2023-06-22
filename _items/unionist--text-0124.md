@@ -37,11 +37,11 @@ transcription: "<em>Kidnapping.</em>—A man of color, named John Hill, was brou
   amongst the people of color in the city, a large<br>number of whom attended to hear
   the case disposed of. Hill was committed to<br>prison.—<br><em>Jour. Com.</em>"
 scholarlyNotes: 
-commentary: Kidnapping of free Blacks in northern cities would have been a major fear
-  for the students at the Canterbury Female Academy. This article, and the one preceding
-  closely on it concerning kidnapping free Blacks into slavery, are from the New York
-  <em>Journal of Commerce</em>, another journalistic innovation by Arthur Tappan,
-  in partnership with Samuel Morse.<br><br>
+commentary: "Kidnapping of free Blacks in northern cities would have been a major
+  fear for the students at the Canterbury Female Academy. This article, and the one
+  preceding closely on it concerning kidnapping free Blacks into slavery, are from
+  the New York <em>Journal of Commerce</em>, another journalistic innovation by Arthur
+  Tappan, in partnership with Samuel Morse.\n\n"
 relatedPeople: John Hill; Sarah Jane Demons; Emilia Smith; Bristol Martin
 featured: 'Yes'
 repeated: 
@@ -56,5 +56,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-05-14'
 ---

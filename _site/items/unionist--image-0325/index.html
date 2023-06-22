@@ -14,7 +14,7 @@
   <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>
-    The Unionist Unified  | Illustration of imperfection from Holbrook's most celebrated publication, <em>Ten Years Among the Mailbags</em>. He had not lost his social intolerance, though; on the first page of the Introduction, he says that if every letter in the mailbag "possessed the power of uttering audibly the ideas which it contains, a confusion of tongues would ensue, worthy of the last stages of the tower of Babel, or of a Woman's Rights convention."
+    The Unionist Unified  | Illustration of Imperfection
   </title>
 
   <link rel='canonical' href='http://0.0.0.0:4000/unionist/items/unionist--image-0325/'/>
@@ -23,12 +23,14 @@
   <link rel="shortcut icon" type="image/png" href="http://0.0.0.0:4000/unionist/img/favicon_0_0.ico">
 
   <script type='text/javascript' src="http://0.0.0.0:4000/unionist/assets/jquery-3.2.1.min.js"></script>
+  <script type='text/javascript' src="http://0.0.0.0:4000/unionist/assets/linkify/linkify.min.js"></script>
+  <script type='text/javascript' src="http://0.0.0.0:4000/unionist/assets/linkify/linkify-jquery.min.js"></script>
   <noscript><p>Please enable JavaScript in your browser.</p></noscript>
 </head>
 
 
   <body>
-    <time datetime='2023-05-16 04:38'></time>
+    <time datetime='2023-06-22 03:46'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
     <a class='navbar-brand' href="http://0.0.0.0:4000/unionist/" title='Home'>
@@ -108,7 +110,7 @@
       <div id='wax-content' class='wax-inline-container'>
         <div class="item-title">
   <div class="title-inner">
-    <h3 alt="" class='item-label'>Illustration of imperfection from Holbrook's most celebrated publication, <em>Ten Years Among the Mailbags</em>. He had not lost his social intolerance, though; on the first page of the Introduction, he says that if every letter in the mailbag "possessed the power of uttering audibly the ideas which it contains, a confusion of tongues would ensue, worthy of the last stages of the tower of Babel, or of a Woman's Rights convention."</h3>
+    <h3 alt="" class='item-label'>Illustration of Imperfection</h3>
     <p class='item-creator'>  </p>
 
 
@@ -145,7 +147,7 @@
     /unionist/explore/categories/?category=image
   ">Image</a>
 <div class='caret'> > </div>
-Illustration of imperfection from Holbrook's most celebrated publication, <em>Ten Years Among the Mailbags</em>. He had not lost his social intolerance, though; on the first page of the Introduction, he says that if every letter in the mailbag "possessed the power of uttering audibly the ideas which it contains, a confusion of tongues would ensue, worthy of the last stages of the tower of Babel, or of a Woman's Rights convention."
+Illustration of Imperfection
 </div>
 
 <div class='pagination-nav'>
@@ -205,10 +207,10 @@ Illustration of imperfection from Holbrook's most celebrated publication, <em>Te
       console.log(width);
       console.log(height);
 
-      if (width < 300 || height < 300) {
+      if (width < 500 || height < 500) {
         console.log ('too small!')
         var source = data.sequences[0].canvases[0].images[0].resource['@id']
-        var altText = 'Illustration of imperfection from Holbrook&#39;s most celebrated publication, &lt;em&gt;Ten Years Among the Mailbags&lt;/em&gt;. He had not lost his social intolerance, though; on the first page of the Introduction, he says that if every letter in the mailbag &quot;possessed the power of uttering audibly the ideas which it contains, a confusion of tongues would ensue, worthy of the last stages of the tower of Babel, or of a Woman&#39;s Rights convention.&quot;'
+        var altText = 'Illustration of Imperfection'
         var img = $('<img>')
           .attr('src', source)
           .attr('alt', altText)
@@ -264,7 +266,7 @@ Illustration of imperfection from Holbrook's most celebrated publication, <em>Te
     
       
         <dt>Title</dt>
-        <dd>Illustration of imperfection from Holbrook's most celebrated publication, <em>Ten Years Among the Mailbags</em>. He had not lost his social intolerance, though; on the first page of the Introduction, he says that if every letter in the mailbag "possessed the power of uttering audibly the ideas which it contains, a confusion of tongues would ensue, worthy of the last stages of the tower of Babel, or of a Woman's Rights convention."</dd>
+        <dd>Illustration of Imperfection</dd>
     
   
     
@@ -487,6 +489,13 @@ Illustration of imperfection from Holbrook's most celebrated publication, <em>Te
     $(this).hide('slow');
     $('.metadata-full').show('slow');
   })
+
+  // add links to metadata section
+    const options = {
+  /* … */
+};
+$('.metadata-block').linkify(options);
+
 
 </script>
 
