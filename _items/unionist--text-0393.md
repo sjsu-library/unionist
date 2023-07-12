@@ -1,8 +1,7 @@
 ---
 pid: unionist--text-0393
-title: |-
-  A Heathenish Doctor: Genuine Colonization Doctrines!!
-  : Response to William Hutchins' denial of racial equality
+title: 'A Heathenish Doctor: Genuine Colonization Doctrines!!: Response to William
+  Hutchins'' denial of racial equality'
 bibliographicCitation: "<em>The Liberator</em> 1835-05-09 "
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

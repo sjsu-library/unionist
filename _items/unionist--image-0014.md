@@ -10,11 +10,10 @@ bibliographicCitationRepublished:
 fullIssueSequenceNumber: 
 creator: 
 dateCreated: '1833'
-description: |
-  Garrison, William Lloyd, and American Anti-Slavery Society. <em>Declaration of the Anti-Slavery Convention</em>. Assembled in Philadelphia, December 4, 1833.<span>
-    [Philadelphia:] Merrihew &amp; Gunn, Printers, No. 7 Carter’s Alley, [1833].
-  </span>
-  Illustrated broadside on silk, 18.25” x 12”, plus margins.
+description: 'Garrison, William Lloyd, and American Anti-Slavery Society. <em>Declaration
+  of the Anti-Slavery Convention</em>. Assembled in Philadelphia, December 4, 1833.<span>   [Philadelphia:]
+  Merrihew &amp; Gunn, Printers, No. 7 Carter’s Alley, [1833]. </span> Illustrated
+  broadside on silk, 18.25” x 12”, plus margins. '
 language: English
 publisher: 
 IsPartOf: 
