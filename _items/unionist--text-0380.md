@@ -20,8 +20,8 @@ articleType:
 volume: '1'
 issue: '36'
 transcription: A FEW copies of Mrs. Child’s “Appeal in behalf of that class of Americans
-  called<br>Africans.” Just received and for sale at this<br>office.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  March<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>6<br>
+  called<br>Africans.” Just received and for sale at this<br>office.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  March 6<br>
 scholarlyNotes: 
 commentary: 
 relatedPeople: Lydia Maria Child

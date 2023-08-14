@@ -1,6 +1,7 @@
 ---
 pid: unionist--image-0111
-title: LMChild Title Page
+title: Title Page to Lydia Maria Child's <em>An Appeal in Favor of that Class of Americans
+  called Africans</em>.
 bibliographicCitation: 'Lydia Maria Child, <em>An Appeal in Favor of that Class of
   Americans called Africans</em> (Boston: Allen and Ticknor, 1833).'
 bibliographicCitationRepublished: https://play.google.com/store/books/details?id=-QITAAAAIAAJ

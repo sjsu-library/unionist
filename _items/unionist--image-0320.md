@@ -30,8 +30,8 @@ relatedImage:
 relatedText: unionist--text-0236
 relatedTextIssue: 
 filename: 
-caption: William H. Burleigh seems to have had a way to influence people positively,
-  that his more eccentric older brother Charles may have lacked.
+caption: William H. Burleigh seems to have had a character that influenced people
+  positively, something his more eccentric older brother Charles may have lacked.
 order: '731'
 layout: items_item
 collection: items

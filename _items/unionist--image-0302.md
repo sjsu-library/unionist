@@ -30,7 +30,8 @@ relatedImage:
 relatedText: unionist--text-0238
 relatedTextIssue: 1834-03-13 p.01.02
 filename: 
-caption: A sentimental picture of a child for a sentimental story.
+caption: Etching of a Child led by an older woman. A sentimental picture of a child
+  for a sentimental story.
 order: '713'
 layout: items_item
 collection: items

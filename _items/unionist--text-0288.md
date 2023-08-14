@@ -28,17 +28,17 @@ transcription: "<p>PRENTICE &amp; TIBBITS,</p><p><em>(Merchant Tailors,)</em></p
   attend to.<br></p><p>  Providence. December,<br>  1833.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   22<br></p>"
 scholarlyNotes: 
-commentary: "John Prentice and Daniel Tibbets were men of strong anti-slavery sentiments.
+commentary: 'John Prentice and Daniel Tibbets were men of strong anti-slavery sentiments.
   John Prentice attended the 1833 organizational meeting of the American Anti-Slavery
   Society. In fact, John Prentice introduced a motion at the meeting in approbation
   of Prudence Crandall and the Canterbury Female Academy. Similarly, he was in the
   Providence Anti-Slavery Association, where, in 1833, he served as Treasurer. Others
-  on the board include Henry E. Benson and Ray Potter. <p>\nProvidence Anti-Slavery
-  Society; <em>The Reports and Proceedings\n  of the First Annual Meeting of the Providence
-  Anti-Slavery Society.&nbsp; With\n  a Brief Exposition of the Principles and Purposes
-  of the Abolitionists.&nbsp;</em>\n  Providence: H.H.Brown, 1833\n</p>\nIn May 1834,
-  both Prentice and Tibbets signed a petition to President Jackson protesting the
-  Bank situation. See here - https://onerhodeislandfamily.files.wordpress.com/2021/06/10bf5-pages-from-1834-ri-petition-bank-of-the-us.pdf "
+  on the board include Henry E. Benson and Ray Potter. <p>Providence Anti-Slavery
+  Society; <em>The Reports and Proceedings<br>  of the First Annual Meeting of the
+  Providence Anti-Slavery Society.&nbsp; With<br>  a Brief Exposition of the Principles
+  and Purposes of the Abolitionists.&nbsp;</em>  Providence: H.H.Brown, 1833<br></p>In
+  May 1834, both Prentice and Tibbets signed a petition to President Jackson protesting
+  the Bank situation. See here - https://onerhodeislandfamily.files.wordpress.com/2021/06/10bf5-pages-from-1834-ri-petition-bank-of-the-us.pdf '
 relatedPeople: John Prentice; Daniel Tibbits
 featured: 
 repeated: maybe

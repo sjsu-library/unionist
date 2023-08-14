@@ -22,9 +22,9 @@ transcription: On a trial for assault and battery in the city of New-York, the j
   gave in a<br>sealed verdict. Before it was opened the parties agreed to discontinue,
   the<br>defendant paying fifty dollars to a charitable institution, and all costs.
   After<br>the discontinuance was regularly entered the seal was broken and the verdict<br>found
-  to be for<br><em>twelve hundred and fifty dollars</em>damages.<br>
+  to be for <em>twelve hundred and fifty dollars</em> damages.<br>
 scholarlyNotes: 
-commentary: Oops! I should have chosen "B"
+commentary: Oops! I should have chosen door "B"...
 relatedPeople: 
 featured: 
 repeated: 

@@ -25,7 +25,7 @@ transcription: "<p>TEMPERANCE &amp; FREE LABOR GROCERY.</p><p>  WILLIAM GREY, &a
   of color and others to give them a call at No. 33,<br>  Sullivan-st.<br></p><p>
   \ <em>New York, August,</em>  1833.<br></p>"
 scholarlyNotes: 
-commentary: 'I am not sure if William Grey''s racial identity. '
+commentary: 'I am not sure of William Grey''s racial identity. '
 relatedPeople: William Grey
 featured: 
 repeated: 

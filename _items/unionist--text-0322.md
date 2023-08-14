@@ -57,9 +57,16 @@ transcription: 'THE QUESTION SETTLED.----The Windham County Advertiser, (the det
   all honest men exculpated, at a cheaper rate than the adoption of<br>useless and
   abortive measures to thrown suspicion on the innocent.—<br><em>Emancipator</em>'
 scholarlyNotes: 
-commentary: |
-  The author identifies himself as some one who grew up in Windham County. The editor of <em>The Emancipator</em> Charles Denison, is a potential candidate, having been born in New London county, but potentially having lived in Windham later. Likewise, African-American activist and theorist David Ruggles was an agent of the paper. Ruggles' style matches this enthusiastic prose,The editorial prominently highlights the Black students as "<em>favorably and honorably</em>
-  known throughout the land" as well as Prudence and Almira Crandall, a reframing of the usual publicity that indicates either a genuinely anti-racist white writer, or a Black writer whose position within the community would have made the students' respectability obvious to him.
+commentary: The author identifies himself as some one who grew up in Windham County.
+  The editor of <em>The Emancipator</em> Charles Denison, is a potential candidate,
+  having been born in New London county, but potentially having lived in Windham later.
+  Likewise, African-American activist and theorist David Ruggles was an agent of the
+  paper. Ruggles' style matches this enthusiastic prose,The editorial prominently
+  highlights the Black students as "<em>favorably and honorably</em>known throughout
+  the land" as well as Prudence and Almira Crandall, a reframing of the usual publicity
+  that indicates either a genuinely anti-racist white writer, or a Black writer whose
+  position within the community would have made the students' respectability obvious
+  to him.<br>
 relatedPeople: Frederick Olney; Joseph Eaton; Prudence Crandall
 featured: 
 repeated: 

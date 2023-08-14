@@ -28,7 +28,7 @@ relatedImage:
 relatedText: unionist--text-0065
 relatedTextIssue: 1833-08-08 p04.51
 filename: 
-caption: This is a rather poor example of using fonts and spacing
+caption: To be honest, this is a rather poor display of fonts and spacing.
 order: '708'
 layout: items_item
 collection: items

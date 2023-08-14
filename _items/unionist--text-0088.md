@@ -2,13 +2,10 @@
 pid: unionist--text-0088
 title: Bishop Watson against War
 bibliographicCitation: "<em>The Unionist</em> 1833-09-05"
-bibliographicCitationRepublished: |
-  <em>
-    Anecdotes of the Life of Richard Watson, Bishop of Landaff; written by himself
-    at different intervals, and revised in 1814
-  </em>
-  , edited by Richard Watson, His Son, LL.B., Prebendary of Landaff and Wells.
-  (London: Black-Horse Court, 1817). p. 168.
+bibliographicCitationRepublished: "<em>  Anecdotes of the Life of Richard Watson,
+  Bishop of Landaff; written by himself<br>  at different intervals, and revised in
+  1814<br></em>, edited by Richard Watson, His Son, LL.B., Prebendary of Landaff and
+  Wells.<br>(London: Black-Horse Court, 1817). p. 168.<br>"
 fullIssueSequenceNumber: 1833-09-05 p01.14
 creator: Bishop Watson
 dateCreated: '1833-09-05'

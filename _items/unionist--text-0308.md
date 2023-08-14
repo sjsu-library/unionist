@@ -62,12 +62,13 @@ transcription: "<p>ELECTION RETURNS.</p><p>BROOKLYN, Septimus Davison</p><p>Ashf
   of one, who, however, if we have been rightly informed,<br>  generally acted with
   that party in the Legislature.<br></p>"
 scholarlyNotes: 
-commentary: |-
-  Philip Pearl Jr. was defeated in his re-election bid to the State Senate, a blow to the public legitimacy of the Black Law. <em>The Unionist</em> happily reports that "Jacksonism in this State is prostrated." The editors refrain from "affect[ing]
-    an indifference which we do not feel at this result, for it is the
-    accomplishment of the wish which we expressed in our prospectus, that the rule
-    of the present dynasty might be brief; but though we rejoice, we feel no
-    disposition to indulge in extravagant exultation at the defeat of Jacksonism."
+commentary: Philip Pearl Jr. was defeated in his re-election bid to the State Senate,
+  a blow to the public legitimacy of the Black Law. <em>The Unionist</em> happily
+  reports that "Jacksonism in this State is prostrated." The editors refrain from
+  "affect[ing]<br>  an indifference which we do not feel at this result, for it is
+  the<br>  accomplishment of the wish which we expressed in our prospectus, that the
+  rule<br>  of the present dynasty might be brief; but though we rejoice, we feel
+  no<br>  disposition to indulge in extravagant exultation at the defeat of Jacksonism."
 relatedPeople: Septimus Davison; Daniel Knowlten; James Trobridge; Festus Baldwin;
   Isaac Clarke; John Ross; Dyer Hughes, Jr; Asa Alexander; Alexander Gasson; Jonathan
   Goff; Isaac Knight; John Holbrook; Frederick Averill, Jr; John K. Greene; Parley

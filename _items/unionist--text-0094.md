@@ -66,9 +66,19 @@ transcription: <p align="right">FOR THE UNIONIST.</p><p>  “Philosophy, though 
   that mercy to a negro entitles you to no praise, since he has the same<br>  claim
   to liberty and respect as a European.<br></p><p align="right">CATO.</p>
 scholarlyNotes: Black male writer
-commentary: |-
-  This letter stands as perhaps the most important
-  indication of the local Black male presence in <em>The Unionist</em>. As was the case in the trial transcripts, a Black history lesson is embedded in the frequent use of "Cato" as a pen name. During the time of the American Revolution, the white founding fathers specifically wanted to shape the new government like that of the Roman Republic, not the Roman Empire. Hence they preferred the mythos of Cato - exemplifying moral courage and integrity - to that of Caesar's power grab. African-Americans, of course, found the white emphasis on liberty both puzzling - given the continued presence of slavery - and an opportunity to use this now-public rhetoric. Thus, as you can see in the illustration accompanying this entry, one of the most famous African-American petitions of the Revolutionary era came from "Cato" - a poor Black whose emancipation was in danger from an attempt to repeal a law granting liberty. Written in 1781, Cato's petition was well-known in the Black community.
+commentary: This letter stands as perhaps the most important<br>indication of the
+  local Black male presence in <em>The Unionist</em>. As was the case in the trial
+  transcripts, a Black history lesson is embedded in the frequent use of "Cato" as
+  a pen name. During the time of the American Revolution, the white founding fathers
+  specifically wanted to shape the new government like that of the Roman Republic,
+  not the Roman Empire. Hence they preferred the mythos of Cato - exemplifying moral
+  courage and integrity - to that of Caesar's power grab. African-Americans, of course,
+  found the white emphasis on liberty both puzzling - given the continued presence
+  of slavery - and an opportunity to use this now-public rhetoric. Thus, as you can
+  see in the illustration accompanying this entry, one of the most famous African-American
+  petitions of the Revolutionary era came from "Cato" - a poor Black whose emancipation
+  was in danger from an attempt to repeal a law granting liberty. Written in 1781,
+  Cato's petition was well-known in the Black community.
 relatedPeople: William Cowper
 featured: 'Yes'
 repeated: 

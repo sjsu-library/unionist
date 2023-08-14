@@ -30,7 +30,8 @@ scholarlyNotes:
 commentary: The Free Produce movement urged Abolitionists to boycott any goods made
   with slave labor. This New York store would have been familiar to many of the students.
   This article canvasses the Free Produce markets of antebellum New York City - https://www.nyfoodstory.com/wp-content/uploads/2020/11/2013_CHNY_NY_Foodstory_FINAL-2.pdf
-  There is good information about Joseph Beale in this article - https://vermonthistory.org/journal/69/vt69_s04.pdf
+  . There is good information about Joseph Beale in this article - https://vermonthistory.org/journal/69/vt69_s04.pdf
+  .
 relatedPeople: Joseph H. Beale
 featured: 
 repeated: 

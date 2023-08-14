@@ -23,8 +23,8 @@ transcription: TO CORRESPONDENTS. The communication signed Vox, is deferred for 
   Messrs Adams and Judson, and as we last week promised the circular an insertion,
   we feel bound to give it the preference. Vox shall appear in our next.
 scholarlyNotes: 
-commentary: To stay true to its word concerning printing all sides, The Unionist delays
-  publishing a letter to the editor in order to run the circular from Judson.
+commentary: To stay true to its word concerning printing all sides, <em>The Unionist</em>
+  delays publishing a letter to the editor in order to run the circular from Judson.
 relatedPeople: Andrew Judson; Rufus Adams
 featured: 
 repeated: 

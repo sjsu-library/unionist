@@ -35,7 +35,7 @@ caption: Sarah Harris Fayerweather (1812-1878) was the African-American woman wh
   only holdover student from the first to the second version of the Canterbury Female
   Academy. She remained active in the Abolitionist movement, and visited Crandall
   in Kansas when they were both elderly.
-order: '782'
+order: '783'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0371/full/250,/0/default.jpg"

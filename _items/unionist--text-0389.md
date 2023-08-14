@@ -23,7 +23,8 @@ transcription: The following amusing account of the Canterbury election is copie
   able<br>advocate of our colored population.<br>
 scholarlyNotes: After the initial approbation, content is identical to unionist--text-0314;
   1834-04-10 p.02.14
-commentary: 
+commentary: After this initial approbation, the content is identical to <em>The Unionist</em>,
+  1834-04-10, the letter from Old Westminster concerning the elections
 relatedPeople: 
 featured: 
 repeated: 

@@ -2,9 +2,9 @@
 pid: unionist--text-0041
 title: “Circular of Messrs Adams and Judson"
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
-bibliographicCitationRepublished: |-
-  Rufus Adams and Andrew T. Judson,  “Circular of Messrs Adams and Judson"
-  <em>The Unionist</em> August 8, 1833, 1:2:2-3, column 5 (p. 2) to column 1 (p. 3)
+bibliographicCitationRepublished: Rufus Adams and Andrew T. Judson,  “Circular of
+  Messrs Adams and Judson"<br><em>The Unionist</em> August 8, 1833, 1:2:2-3, column
+  5 (p. 2) to column 1 (p. 3)
 fullIssueSequenceNumber: 1833-08-08 p02.27
 creator: Rufus Adams, Andrew T. Judson
 dateCreated: '1833-08-08'

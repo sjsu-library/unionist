@@ -29,7 +29,7 @@ relatedText: unionist--article-0019
 relatedTextIssue: 
 filename: 
 caption: The Unionist and its slogan - The Tyrant's Foe, the People's Friend
-order: '781'
+order: '782'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0370/full/250,/0/default.jpg"

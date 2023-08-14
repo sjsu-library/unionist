@@ -24,15 +24,15 @@ transcription: <p align="center"><strong>MISCELLANY.</strong></p><p align="right
   align="center">_ _ _</p><p align="center"><em>Concluded.</em></p><p>  Various were
   the conjectures concerning the cause of her sudden disappearance,<br>  and when
   at last they ventured to question Matilda, she replied with a great<br>  many signs
-  and a few hypocritical tears, that her father had placed her under<br>  the car
+  and a few hypocritical tears, that her father had placed her under<br>  the care
   of his sister-in-law, the widow of an eminent physician, thinking her<br>  experience
   and virtuous example might be of service to Emily, that she was<br>  grieved for
   the cause, and wished not to be question on the subject. Thus, by<br>  her false
   insinuations, she deprived her of the esteem of the world—that world<br>  which
-  will on day<br>  <em>worship</em>  and the next<br>  <em>stab</em>  you. Not contented
-  with this, she persuaded Mr. Minnette to disinherit his<br>  daughter, and make
-  a will in favor of the little George, but her cruelty was<br>  not to go unpunished.
-  By some unforeseen losses in trade Mr. Minnette became<br>  bankrupt, and was obliged
+  will one day <em>worship</em> and the next <em>stab</em>  you. Not contented with
+  this, she persuaded Mr. Minnette to disinherit his<br>  daughter, and make a will
+  in favor of the little George, but her cruelty was<br>  not to go unpunished. By
+  some unforeseen losses in trade Mr. Minnette became<br>  bankrupt, and was obliged
   to sell his splendid establishment in —— street, and<br>  remove to a small house
   which belonged to Emily’s mother, and which was the<br>  only property he could
   not be deprived of. But to return to Emily.<br></p><p>  The picture of former days
@@ -95,11 +95,11 @@ transcription: <p align="center"><strong>MISCELLANY.</strong></p><p align="right
   divested yourself of human passions and frailties.”<br></p><p>  “Afflictions have
   been sanctified to me, and have taught me that hatred and<br>  happiness cannot
   exist in the same bosom.”<br></p><p>  “Matilda is my sister; forgive me, Emily!
-  I believed what she said of you! I<br>  could almost<br>  <em>hate</em>  her for<br>  <em>your</em>  sake,
-  had you not given me a better example.”<br></p><p>  “It is perfectly natural to
-  believe the assertions of those we love; but I<br>  hope my study may be to contradict
+  I believed what she said of you! I<br>  could almost <em>hate</em> her for <em>your</em>
+  sake, had you not given me a better example.”<br></p><p>  “It is perfectly natural
+  to believe the assertions of those we love; but I<br>  hope my study may be to contradict
   the tongue of slander by my conduct. Anger<br>  so blinds our reason, that Matilda
-  might imagine me the unkind, guilty<br>  creature she represents me. Thus saying,
+  might imagine me the unkind, guilty<br>  creature she represents me." Thus saying,
   she led the way to the house, where<br>  she introduced Edward to her aunt.<br></p><p>The
   next morning found them at Mr. Minnette’s door.</p><p>  Edward remained in the parlor,
   that he might put no restraint upon the<br>  feelings of either party, while Emily
@@ -140,9 +140,9 @@ transcription: <p align="center"><strong>MISCELLANY.</strong></p><p align="right
   Tale of Forgiveness.<br></p>
 scholarlyNotes: Stylistic analysis to determine who might have written this? WHB a
   likely candidate
-commentary: |
-  The author of this piece is unknown. This is the conclusion of a multi-part story. There are clear parallels between
-  Emily and Prudence in terms of the piety involved in conducting a school
+commentary: The author of this piece is unknown. This is the conclusion of a multi-part
+  story. There are clear parallels between<br>Emily and Prudence in terms of the piety
+  involved in conducting a school<br>
 relatedPeople: 
 featured: 
 repeated: 

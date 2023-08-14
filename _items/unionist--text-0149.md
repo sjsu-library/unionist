@@ -38,13 +38,13 @@ transcription: "“We see it stated in the “Unionist,” a paper published at 
   and would preserve the Union.”<br>"
 scholarlyNotes: Guessing at the date in Windham paper of 1833-11-20, and the issue
   number of The Unionist here
-commentary: |
-  The notice about this petition could have appeared in late October or early
-  November 1833 in the
-  <em>Unionist.</em>
-  Resolutions to end slavery in the District of Columbia were part of the New-England Anti-Slavery
-  meeting in January 1833, and the American Anti-Slavery organizational meeting in
-  December 1833. Samuel J May introduced the resolution, which was seconded by Crandall lawyer William Ellsworth in the December meeting. So a local campaign in eastern Connecticut, spearheaded by the Unionist, makes sense.
+commentary: The notice about this petition could have appeared in late October or
+  early<br>November 1833 in the<br><em>Unionist.</em>Resolutions to end slavery in
+  the District of Columbia were part of the New-England Anti-Slavery<br>meeting in
+  January 1833, and the American Anti-Slavery organizational meeting in<br>December
+  1833. Samuel J May introduced the resolution, which was seconded by Crandall lawyer
+  William Ellsworth in the December meeting. So a local campaign in eastern Connecticut,
+  spearheaded by the Unionist, makes sense.<br>
 relatedPeople: 
 featured: 
 repeated: 

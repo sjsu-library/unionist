@@ -38,19 +38,17 @@ transcription: <p align="center"><strong>Prudence Crandall</strong></p><p align=
   Esq. — Boston.</p><p>Rev. Amos A. Phelps. ( - Boston)</p><p>George W. Benson,—Providence,
   R.I.</p><p>Canterbury, (Ct.) Feb. 25, 1833.</p>
 scholarlyNotes: 
-commentary: 'This ad ran continuously in <em>The Liberator</em> starting in March
-  of 1833. There are two notable changes in this only known appearance in <em>The
-  Unionist</em>. William Lloyd Garrison and Arnold Buffum, both of whom were locally
-  well-known as "outsiders" who were interfering with a local matter, have been dropped
-  from the list of endorsers, in favor of Amos Phelps and Samuel Sewall. The “Rev.”
-  in front of Cassey’s name a misprint. It is surprising that this ad is not reprinted
-  in the later copies of <em>The Unionist</em>.
-
-'
-relatedPeople: "Prudence Crandall; Arthur Tappan; Peter Williams, Jr;  Theodore Raymond;
-  Theodore Wright;\nSamuel C. Cornish; George Bourne; James Hayborn; James Forten;
-  Joseph Cassey; Samuel J. May; Jehiel Beman;\nSimeon Jocelyn; George Benson Jr.;
-  Samuel E. Sewall; Amos A. Phelps. "
+commentary: This ad ran continuously in <em>The Liberator</em> starting in March of
+  1833. There are two notable changes in this only known appearance in <em>The Unionist</em>.
+  William Lloyd Garrison and Arnold Buffum, both of whom were locally well-known as
+  "outsiders" who were interfering with a local matter, have been dropped from the
+  list of endorsers, in favor of Amos Phelps and Samuel Sewall. The “Rev.” in front
+  of Cassey’s name a misprint. It is surprising that this ad is not reprinted in the
+  later copies of <em>The Unionist</em>.<br>
+relatedPeople: 'Prudence Crandall; Arthur Tappan; Peter Williams, Jr;  Theodore Raymond;
+  Theodore Wright;<br>Samuel C. Cornish; George Bourne; James Hayborn; James Forten;
+  Joseph Cassey; Samuel J. May; Jehiel Beman;<br>Simeon Jocelyn; George Benson Jr.;
+  Samuel E. Sewall; Amos A. Phelps. '
 featured: 
 repeated: 
 relatedImage: unionist--image-0095

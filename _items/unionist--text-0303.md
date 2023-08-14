@@ -57,18 +57,11 @@ transcription: "<p>  ABOLITION OF SLAVERY IN ANTIGUA.—We have received an Anti
   audible only<br>  to those very near him. “The most important paper to which I ever
   put my<br>  hand.”<br></p>"
 scholarlyNotes: 
-commentary: |
-  For a perspective at the time, see
-  <a
-    href="https://www.loc.gov/resource/gdcmassbookdig.emancipationofwe00thom/?st=gallery"
-  >
-    https://www.loc.gov/resource/gdcmassbookdig.emancipationofwe00thom/?st=gallery
-  </a>
-  ; for a more critical twentieth-century perspective, see W.K. Marshall, “The
-  termination of the Apprenticeship in Barbados and the Windward Islands: an essay
-  in colonial administration and politics,”
-  <em>The Journal of Caribbean History</em>
-  2 (May 1971): 1-45.
+commentary: 'For a perspective at the time, see<br><a<br>  href="https://www.loc.gov/resource/gdcmassbookdig.emancipationofwe00thom/?st=gallery"<br>>  https://www.loc.gov/resource/gdcmassbookdig.emancipationofwe00thom/?st=gallery<br></a>;
+  for a more critical twentieth-century perspective, see W.K. Marshall, “The<br>termination
+  of the Apprenticeship in Barbados and the Windward Islands: an essay<br>in colonial
+  administration and politics,”<br><em>The Journal of Caribbean History</em>2 (May
+  1971): 1-45.<br>'
 relatedPeople: 
 featured: 
 repeated: 

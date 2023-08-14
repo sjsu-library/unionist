@@ -81,9 +81,9 @@ transcription: <p align="center">FOREIGN.</p><p align="center">[From the Journal
   are landed have to pay a duty of five per cent. and some other<br>  small rates
   on being carried to the interior.<br></p>
 scholarlyNotes: 
-commentary: "A few items of interest here. There seems to be a mild pacifism throughout
+commentary: A few items of interest here. There seems to be a mild pacifism throughout
   these selections, as well as notices of West Indian abolition, and William Lloyd
-  Garrison being in London. \n"
+  Garrison being in London. <br>
 relatedPeople: 
 featured: 
 repeated: 

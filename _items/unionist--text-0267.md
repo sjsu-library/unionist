@@ -19,13 +19,13 @@ articleType:
 volume: '1'
 issue: '32'
 transcription: <p>  AT a Court of Probate holden at Woodstock, within and for the
-  district of<br>  Woodstock, on the 20<br>  <sup>th</sup>  day of February, 1834.<br></p><p
-  align="center">  Present, JOHN PAINE, Esq.<br>  <em>Judge.</em></p><p>  This court
-  doth direct the Trustees on the estate of Joshua Sweet an insolvent<br>  debtor,
-  of Woodstock, in said district, to give notice to all persons<br>  interested in
-  the estate of said Sweet, to appear if they see cause before the<br>  Court of Probate,
-  to be holden at the Probate office in said district, on the<br>  first Tuesday of
-  April at one o’clock P.M. to be heard relative to the<br>  appointment of Commissioners
+  district of<br>  Woodstock, on the 20<sup>th</sup> day of February, 1834.<br></p><p
+  align="center">  Present, JOHN PAINE, Esq. <em>Judge.</em></p><p>  This court doth
+  direct the Trustees on the estate of Joshua Sweet an insolvent<br>  debtor, of Woodstock,
+  in said district, to give notice to all persons<br>  interested in the estate of
+  said Sweet, to appear if they see cause before the<br>  Court of Probate, to be
+  holden at the Probate office in said district, on the<br>  first Tuesday of April
+  at one o’clock P.M. to be heard relative to the<br>  appointment of Commissioners
   on said estate, by posting said order of notice<br>  on a public sign-post in the
   first society in said Woodstock, and by<br>  advertising the same in a newspaper
   published in Brooklyn in Windham county,<br>  at least twenty days before said first

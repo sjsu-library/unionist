@@ -19,7 +19,7 @@ articleType:
 volume: 
 issue: 
 transcription: The “Unionist,” (so mis-called,) has expired, and in its stead [sic]
-  we have<br>received from Brooklyn a very near and well conducted paper bearing the
+  we have<br>received from Brooklyn a very neat and well conducted paper bearing the
   title of<br>the “Windham County Whig and Unionist,” published by Mr. C. M. Halle.
   We trust<br>the Whig will speak the sentiments and receive the patronage of the
   intelligent<br>yeomanry of that County.<br>

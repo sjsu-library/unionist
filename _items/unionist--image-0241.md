@@ -30,8 +30,8 @@ relatedText: unionist--text-0204; unionist--text-0382
 relatedTextIssue: 1833-12-19 p.03.50; 1834-04-10 p.04.82
 filename: 
 caption: Reference to P.A. Bell as a location for delivery of printed material, demonstrating
-  how tied in the various aspects of the Abolitionist movement was, even at this early
-  date.
+  how interconnected the various aspects of the Immediate Abolitionist movement was,
+  even at this early date.
 order: '652'
 layout: items_item
 collection: items

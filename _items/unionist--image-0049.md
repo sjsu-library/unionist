@@ -30,8 +30,7 @@ relatedImage:
 relatedText: unionist-text-0292
 relatedTextIssue: 1834-03-13 p.04.56
 filename: 
-caption: Drawing of a horse-powered thresher from a French dictionary (published in
-  1881)
+caption: Drawing of a horse-powered thresher from an 1881 French dictionary
 order: '460'
 layout: items_item
 collection: items

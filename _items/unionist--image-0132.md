@@ -6,8 +6,8 @@ bibliographicCitationRepublished: https://catalog.hathitrust.org/api/volumes/ocl
 fullIssueSequenceNumber: 
 creator: 
 dateCreated: '1833'
-description: Engraving of "Animal Associations" to accompany an article on cross-species
-  relationships in <em>The People's Magazine</em>
+description: FOR SALE, At this office, a few copies of Mrs. Child’s “Appeal in behalf
+  of that class of Americans called Africans"
 language: English
 publisher: 
 IsPartOf: 

@@ -4,7 +4,7 @@ title: Broken Glass found in archeological dig Canterbury Female Academy 2020-20
 bibliographicCitation: 
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
-creator: 
+creator: Jennifer Rycenga
 dateCreated: '2023'
 description: Shards of broken glass from the Canterbury Female Academy
 language: English

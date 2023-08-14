@@ -18,13 +18,11 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>  FASHIONABLE Hats, and Towels (??) may be obtained at Miss Lee’s
-  Millinery<br>  shop.—ALSO, Bonnet, silks, and ribbons.<br></p><p>  Brooklyn, Nov,<br>
-  \ 21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ 17<br></p><p></p>"
+transcription: "<p>  FASHIONABLE Hats, and Towels may be obtained at Miss Lee’s Millinery
+  shop.—ALSO, Bonnet, silks, and ribbons.<br></p><p>  Brooklyn, Nov 21</p> <br><p>17</p>"
 scholarlyNotes: not sure if this is Brooklyn CT or NY
 commentary: 
-relatedPeople: 
+relatedPeople: Miss Lee
 featured: 
 repeated: 
 relatedImage: unionist--image-0110

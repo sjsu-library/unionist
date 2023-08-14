@@ -36,7 +36,7 @@ filename:
 caption: Mary Joseph Marshall Lyons, shown here with her son Albro Lyons (who would
   go on to be an important chronicler of Black history). She accompanied her mother,
   Elizabeth Marshall, to the trial of Frederick Olney in Canterbury.
-order: '776'
+order: '777'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0365/full/250,/0/default.jpg"

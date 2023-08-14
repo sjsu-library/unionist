@@ -35,7 +35,7 @@ filename:
 caption: Map of Windham County. Note proximity of Canterbury (location of the school),
   Brooklyn (location of <em>The Unionist</em> and the courthouse and jail, and Plainfield
   (home of the Burleigh family).
-order: '767'
+order: '768'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0356/full/250,/0/default.jpg"

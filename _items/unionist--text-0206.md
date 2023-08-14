@@ -20,22 +20,22 @@ volume: '1'
 issue: '20'
 transcription: "<p>TO THE MEMORY OF CHARLES B. STORRS,</p><p><em>Late President of
   Western Reserve College.</em></p><p>BY JOHN GREENLEAF WHITTIER.</p><p>  ‘He fell
-  a martyr to the interests of his<br>  <em>colored brethren.</em>  For many months
-  did that might man of God apply his discriminating and<br>  gigantic mind to the
-  subject of Slavery and its Remedy; and, when his sould<br>  cou’d no longer contain
-  his holy indignation against the upholders and<br>  apologists of this unrighteous
-  system, he gave vent to his aching heart, and<br>  poured forth his clear throughs
-  and holy feelings in such deep and<br>  soul-entrancing eloquence, that other men,
-  who he would fain in his humble<br>  modesty acknowledge his superiors, sat at his
-  feet and looked up as children<br>  to a parent.’—<br>  <em>Correspondent of the
-  ‘Liberator,’ 16</em>  <em><sup>th</sup></em>  <em>of 11</em>  <em><sup>th</sup></em>
-  \ <em>Mo.</em>  1833.<br></p><p>  Thou hast fallen in thine armor—<br>  <br />  &nbsp;&nbsp;
-  Thou martyr of the Lord!—<br>  <br />  With thy last breath crying—'Onward!'<br>
-  \ <br />  &nbsp;&nbsp; And thy hand upon the sword.<br>  <br />  The haughty heart
-  derideth,<br>  <br />  &nbsp;&nbsp; And the sinful lip reviles,<br>  <br />  But
-  the blessing of the perishing<br>  <br />  &nbsp;&nbsp; Around thy pillow smiles!<br>
-  \ <br />  <br />  When to our cup of trembling<br>  <br />  &nbsp;&nbsp; The added
-  drop is given—<br>  <br />  And the long-suspended thunder<br>  <br />  &nbsp;&nbsp;
+  a martyr to the interests of his <em>colored brethren.</em>  For many months did
+  that might man of God apply his discriminating and<br>  gigantic mind to the subject
+  of Slavery and its Remedy; and, when his soul<br>  cou’d no longer contain his holy
+  indignation against the upholders and<br>  apologists of this unrighteous system,
+  he gave vent to his aching heart, and<br>  poured forth his clear throughs and holy
+  feelings in such deep and<br>  soul-entrancing eloquence, that other men, who he
+  would fain in his humble<br>  modesty acknowledge his superiors, sat at his feet
+  and looked up as children<br>  to a parent.’—<br>  <em>Correspondent of the ‘Liberator,’
+  16</em>  <em><sup>th</sup></em>  <em>of 11</em>  <em><sup>th</sup></em>  <em>Mo.</em>
+  \ 1833.<br></p><p>  Thou hast fallen in thine armor—<br>  <br />  &nbsp;&nbsp; Thou
+  martyr of the Lord!—<br>  <br />  With thy last breath crying—'Onward!'<br>  <br
+  />  &nbsp;&nbsp; And thy hand upon the sword.<br>  <br />  The haughty heart derideth,<br>
+  \ <br />  &nbsp;&nbsp; And the sinful lip reviles,<br>  <br />  But the blessing
+  of the perishing<br>  <br />  &nbsp;&nbsp; Around thy pillow smiles!<br>  <br />
+  \ <br />  When to our cup of trembling<br>  <br />  &nbsp;&nbsp; The added drop
+  is given—<br>  <br />  And the long-suspended thunder<br>  <br />  &nbsp;&nbsp;
   Falls terribly from Heaven,—<br>  <br />  When a new and fearful freedom<br>  <br
   />  &nbsp;&nbsp; Is proffered of the Lord<br>  <br />  To the slow-consuming Famine—<br>
   \ <br />  &nbsp;&nbsp; The Pestilence and Sword!—<br>  <br />  <br />  When the
@@ -57,8 +57,8 @@ transcription: "<p>TO THE MEMORY OF CHARLES B. STORRS,</p><p><em>Late President 
   \ <br />  And pride and lust debases<br>  <br />  &nbsp;&nbsp; The workmanship of
   God,—<br>  <br />  There shall thy praise be spoken,<br>  <br />  &nbsp;&nbsp; Redeemed
   from Falsehood's ban,<br>  <br />  When the fetters shall be broken,<br>  <br />
-  \ &nbsp;&nbsp; And the slave shall be a<br>  <em>man</em>  !<br>  <br />  <br />
-  \ Joy to thy spirit, brother!—<br>  <br />  &nbsp;&nbsp; A thousand hearts are warm,—<br>
+  \ &nbsp;&nbsp; And the slave shall be a <em>man</em>!<br>  <br />  <br />  Joy to
+  thy spirit, brother!—<br>  <br />  &nbsp;&nbsp; A thousand hearts are warm,—<br>
   \ <br />  A thousand kindred bosoms<br>  <br />  &nbsp;&nbsp; Are baring to the
   storm.<br>  <br />  What though red-handed Violence<br>  <br />  &nbsp;&nbsp; With
   secret Fraud combine?<br>  <br />  The wall of fire is round us,—<br>  <br />  &nbsp;&nbsp;

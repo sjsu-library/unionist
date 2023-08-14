@@ -2,7 +2,7 @@
 pid: unionist--text-0257
 title: Melancholy Disaster [Wreck of the William Penn]
 bibliographicCitation: "<em>The Unionist</em> 1834-03-13"
-bibliographicCitationRepublished: "<em>The U.S. Gazette</em>\n"
+bibliographicCitationRepublished: "<em>The U.S. Gazette</em>"
 fullIssueSequenceNumber: 1834-03-13 p.03.21
 creator: "<em>The U.S. Gazette</em>"
 dateCreated: '1834-03-13'
@@ -51,11 +51,11 @@ transcription: <p align="center"><em>From The U.S. Gazette.</em></p><p>  MELANCH
   took in the wood house. The boat was burnt to the water’s edge—the<br>  loss sustained
   is about $70,000.<br></p>
 scholarlyNotes: 
-commentary: "One of the five people who died was described as a prominent Connecticut
+commentary: 'One of the five people who died was described as a prominent Connecticut
   businessman. Rev, Mitchelmore (1793-1834) held a pastorate in Delaware; there is
   more on him, including a picture, in this family genealogy - https://mitchelmore.one-name.net/families/trees/tree09.htm#0319
   ; (Two websites with more information on this disaster are - https://news.yahoo.com/disasters-delaware-come-alive-exhibit-210352235.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAANXd0xp3rA9QC3WLBL0Z9f_PpV1deDbl_8eeJwOW1tNbSBa-3l2o5Q25qEyS5YzU3vPkJJIE2FwqrgduuDYhcpBsd-iSKd6_m0D6viXg50k7a1I9XecBpxyLOyujqtiD_-TwMbmg-g4mc87todeJHKfniHhoPzKLy3TucwuaA4rW,
-  accessed 10/5/22\n\nand this pdf - https://www.phillyseaport.org/images/Disasters/William%20Penn%20%281834%29%20-%20news02.pdf "
+  accessed 10/5/22<br><br>and this pdf - https://www.phillyseaport.org/images/Disasters/William%20Penn%20%281834%29%20-%20news02.pdf '
 relatedPeople: John Mitchelmore; Joseph S. Porter
 featured: 
 repeated: 

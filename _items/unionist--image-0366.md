@@ -29,7 +29,7 @@ relatedText: unionist--article-0015
 relatedTextIssue: 
 filename: 
 caption: Presence and Absence
-order: '777'
+order: '778'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0366/full/250,/0/default.jpg"

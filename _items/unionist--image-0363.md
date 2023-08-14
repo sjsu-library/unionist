@@ -33,7 +33,7 @@ caption: Lydia Maria Child, white woman who authored two important pamphlets in 
   called Africans" (1833) and "The Oasis" (1834). Later in her career she became the
   editor of leading Abolitionist newspapers and helped Harriet Jacobs to get her writings
   into print.
-order: '774'
+order: '775'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0363/full/250,/0/default.jpg"

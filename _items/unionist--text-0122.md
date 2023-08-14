@@ -32,9 +32,11 @@ transcription: "<em>Another suspected case of Kidnapping.</em>—Two or three at
   can be given concerning her will be thankfully<br>received by Mr. Fuller, No. 33.
   Thomas st.—<br><em>Jour. of Com.</em>"
 scholarlyNotes: 
-commentary: |
-  Kidnapping of free Blacks in northern cities would have been a major fear for the students at the Canterbury Female Academy. This article, and the one following closely on it concerning kidnapping free Blacks into slavery, are from the New York
-  <em>Journal of Commerce</em>, another journalistic innovation by Arthur Tappan, in partnership with Samuel Morse.
+commentary: Kidnapping of free Blacks in northern cities would have been a major fear
+  for the students at the Canterbury Female Academy. This article, and the one following
+  closely on it concerning kidnapping free Blacks into slavery, are from the New York<br><em>Journal
+  of Commerce</em>, another journalistic innovation by Arthur Tappan, in partnership
+  with Samuel Morse.<br>
 relatedPeople: Isaac L. Fuller; Mary
 featured: 'Yes'
 repeated: 

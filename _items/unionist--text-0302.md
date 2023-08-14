@@ -163,15 +163,12 @@ transcription: "<p>  [Concluded from our 34<br>  <sup>th</sup>  number.]<br></p>
   \ jury retired, and after a short absence returned a verdict of<br>  <em>not guilty.</em></p><p>
   \ The trial occupied the court from 2 o’clock in the afternoon of Thursday, till<br>
   \ 6 o’clock P.M. on Saturday. F.<br></p><p></p>"
-scholarlyNotes: |
-  Note that there is a missing Part Two. <em>
-    “F” identified elsewhere in the paper as Mr. Foster. Henry Foster was a Black
-    leader in Hartford, and Stephen Foster was already familiar with WLG in the
-    late 1820s. A quick Ancestry look reveals plenty of people from Windham county
-    with that last name. No other references to other Fosters in the other
-  </em>
-  Unionists. Very unlikely to be Stephen Foster who was still in school at the
-  time, but not impossible.
+scholarlyNotes: Note that there is a missing Part Two. <em>  “F” identified elsewhere
+  in the paper as Mr. Foster. Henry Foster was a Black<br>  leader in Hartford, and
+  Stephen Foster was already familiar with WLG in the<br>  late 1820s. A quick Ancestry
+  look reveals plenty of people from Windham county<br>  with that last name. No other
+  references to other Fosters in the other<br></em>Unionists. Very unlikely to be
+  Stephen Foster who was still in school at the<br>time, but not impossible.<br>
 commentary: 'Another one of the most important gems within <em>The Unionist</em>.
   The key is the testimony of Elizabeth Marshall, who corroborates Frederick Olney''s
   reason to be at the school that day '

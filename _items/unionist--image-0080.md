@@ -29,9 +29,10 @@ relatedImage:
 relatedText: unionist--text-0354
 relatedTextIssue: 1834-04-10 p.03.54
 filename: 
-caption: Most magazines and newspapers of the day, including <em>The Unionist</em>
-  included poetry as a regular - and popular - feature. This image of Lord Byron clearly
-  played with the readers of the enormously popular <em>Godey's Lady Book</em>.
+caption: Most magazines and newspapers of the day (including <em>The Unionist</em>)
+  incorporated poetry as a regular - and popular - feature. This image of Lord Byron
+  clearly struck a romantic chord with the readers of the enormously popular <em>Godey's
+  Lady Book</em>.
 order: '491'
 layout: items_item
 collection: items

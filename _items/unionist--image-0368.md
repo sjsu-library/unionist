@@ -30,7 +30,7 @@ relatedTextIssue:
 filename: 
 caption: This graphic is the 2023 update on Wright's demand that we "annihilate...the
   cord of caste.”
-order: '779'
+order: '780'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0368/full/250,/0/default.jpg"

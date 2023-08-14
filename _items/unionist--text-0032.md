@@ -24,7 +24,7 @@ transcription: Our neighbor calls the Unionist “the <em>pattern</em> of newspa
   Judson, since we have inserted their letter in our columns.
 scholarlyNotes: 
 commentary: Charles Burleigh again says that Holbrook's claim to print both sides
-  had been made disingeuously
+  of the Canterbury controversy had been made disingeuously
 relatedPeople: Samuel J. May; Andrew Judson; Rufus Adams
 featured: 
 repeated: 

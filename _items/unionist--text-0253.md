@@ -41,16 +41,10 @@ transcription: "<p>  *The Advertiser of the 19<br>  <sup>th</sup>  of last Decem
   and to<br>  increase the grievances and insults of our citizens, but we did not
   know until<br>  recently that, those efforts had succeeded to the amount of “more
   than<br>  <em>thirty</em>  wenches,” who are sent from all quarters of the globe!<br></p>"
-scholarlyNotes: |
-  <em>
-     There has to be a term, other than disingenuous, for the Cyril of
-    Alexandria-style crocodile tears, or the Trumpesque “dog whistle” to describe
-    this stuff.
-  </em>
-  <em>
-    Kathleen Turner sent me “stochastic terrorism” and Marjorie Shelton “a wink
-    and a nod”
-  </em>
+scholarlyNotes: "<em>   There has to be a term, other than disingenuous, for the Cyril
+  of<br>  Alexandria-style crocodile tears, or the Trumpesque “dog whistle” to describe<br>
+  \ this stuff.<br></em><em>  Kathleen Turner sent me “stochastic terrorism” and Marjorie
+  Shelton “a wink<br>  and a nod”<br></em>"
 commentary: Note here the insulting language of “wenches” but also the high number
   of thirty students, and their (alleged) internationalism!
 relatedPeople: David Daggett; Prudence Crandall (inferred)

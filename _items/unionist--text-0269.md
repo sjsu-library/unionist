@@ -25,24 +25,24 @@ transcription: FOR sale at this office—a few copies of the Rev Mr. Phelps’ �
 scholarlyNotes: 
 commentary: "<p>Amos Phelps (1805-1847) was an endorser of the school. His pamphlet
   being locally available suggests, once again, that the students at the Canterbury
-  Female Academy were reading about their own struggle!</p><p> <p>\n</p>\n<p>The pamphlet
+  Female Academy were reading about their own struggle!</p><p> <p></p><p>The pamphlet
   in question, for instance, compared the Canterbury Female Academy students to impressed
-  sailors (one of the alleged causes of the War of 1812):\n  “The war of the revolution
-  was a contest for principle. Had the principle in\n  question been yielded, who
-  could have set limits to the acts of oppression\n  growing out it ? So also in our
-  war for sailors’ rights, the bone of\n  contention was, the right of search and
-  impressment. The mere fact that a few\n  seamen had been injured and abused, was
-  as nothing, aside from the principle\n  involved. This, in common with that of the
-  revolution, was a contest for\n  principle, and the oppression resisted was the
-  oppression of principle. And\n  further, whence the utter odiousness and the cruel
-  oppression of the far-famed\n  ‘black law’ of Connecticut? Not that Miss Crandall
-  and a few colored Misses\n  are subjected by it to certain shameful acts of cruelty
-  and oppression. These\n  are as nothing, comparatively, except as they involve principle;
-  and the law,\n  which allows and sanctions them, is itself comparatively harmless
-  and\n  innocent, except as it involves principle—principle which puts in jeopardy
-  the\n  rights of thousands.</p>  <p>Amos A. Phelps, \n  <em>Lectures on Slavery
-  and Its Remedy.</em>\n  (Boston: New-England Anti-Slavery Society, 1834), p. 28</p>\n
-  \ <p>Also available online here: https://ia600609.us.archive.org/14/items/lecturesonslaver01phel/lecturesonslaver01phel.pdf\n</p>\n\n"
+  sailors (one of the alleged causes of the War of 1812):<br>  “The war of the revolution
+  was a contest for principle. Had the principle in<br>  question been yielded, who
+  could have set limits to the acts of oppression<br>  growing out it ? So also in
+  our war for sailors’ rights, the bone of<br>  contention was, the right of search
+  and impressment. The mere fact that a few<br>  seamen had been injured and abused,
+  was as nothing, aside from the principle<br>  involved. This, in common with that
+  of the revolution, was a contest for<br>  principle, and the oppression resisted
+  was the oppression of principle. And<br>  further, whence the utter odiousness and
+  the cruel oppression of the far-famed<br>  ‘black law’ of Connecticut? Not that
+  Miss Crandall and a few colored Misses<br>  are subjected by it to certain shameful
+  acts of cruelty and oppression. These<br>  are as nothing, comparatively, except
+  as they involve principle; and the law,<br>  which allows and sanctions them, is
+  itself comparatively harmless and<br>  innocent, except as it involves principle—principle
+  which puts in jeopardy the<br>  rights of thousands.</p>  <p>Amos A. Phelps, <br>
+  \ <em>Lectures on Slavery and Its Remedy.</em>  (Boston: New-England Anti-Slavery
+  Society, 1834), p. 28</p>  <p>Also available online here: https://ia600609.us.archive.org/14/items/lecturesonslaver01phel/lecturesonslaver01phel.pdf<br></p>"
 relatedPeople: Amos Phelps
 featured: 
 repeated: 

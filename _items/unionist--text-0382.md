@@ -26,8 +26,10 @@ transcription: "<p>ANTI-SLAVERY PUBLICATIONS</p><p>  FOR sale by P.A. BELL, No. 
   Anti-Slavery work, entitled<br>  ‘The Book and Slavery Irreconcilable,’ by the Rev.
   Geo. Bourne,—&amp;c.<br>  &amp;c.<br></p><p>New York, 1833.</p>"
 scholarlyNotes: 
-commentary: 
-relatedPeople: P.A. Bell
+commentary: It is possible that this store was run by the prominent African-American
+  Philip Bell, but this is not yet confirmed.
+relatedPeople: P.A. Bell; William Lloyd Garrison; George Bourne; Elizur Wright; Charles
+  Stuart; Joseph Ivimey
 featured: 
 repeated: 'yes'
 relatedImage: unionist--image-0241

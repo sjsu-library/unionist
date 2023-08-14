@@ -29,7 +29,7 @@ relatedText: unionist--article-0017
 relatedTextIssue: 
 filename: 
 caption: A screenshot of the Burleigh Family Tree
-order: '780'
+order: '781'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0369/full/250,/0/default.jpg"

@@ -20,10 +20,7 @@ volume: '1'
 issue: '20'
 transcription: "<p>NOTICE.</p><p>  ALL persons who have unsettled accounts with the
   subscriber, will please call<br>  and settle the same, on or before the first day
-  of January<br>  next.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  GILES<br>  S. BATES.<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Killingly<br>  Nov. 20,<br>  1833.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ 17<br></p>"
+  of January next.</p><p>GILES S. BATES.<br></p><p>Killingly Nov. 20,1833. </p>  17<br></p>"
 scholarlyNotes: 
 commentary: 
 relatedPeople: Giles S. Bates

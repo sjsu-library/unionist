@@ -23,16 +23,18 @@ transcription: "<p>  NOTICE.—The subscriber would inform all persons whom it m
   towns,<br>  viz: Thompson, Woodstock, Pomfret, Ashford, Killingly, Hampton, and
   Chaplin.<br>  And he would also give information to such as may be wishing to purchase
   of<br>  him for either of the above towns, or for their own farms, that they will
-  do<br>  well to apply before the 10<br>  <sup>th</sup>  of February next, as the
-  subscriber will then wish to make such arrangements<br>  for building Machines as
-  will be necessary, according to the number that may<br>  be wanted. WM. OSGOOD.<br></p><p>
-  \ Abington, January 13, 1834,—*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ 22<br></p>"
+  do<br>  well to apply before the 10<sup>th</sup> of February next, as the subscriber
+  will then wish to make such arrangements<br>  for building Machines as will be necessary,
+  according to the number that may<br>  be wanted. WM. OSGOOD.<br></p><p>  Abington,
+  January 13, 1834,—*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  22<br></p>"
 scholarlyNotes: 
-commentary: 'These types of threshing machines were destroyed by workers opposed to
-  automation and displacement, in the famed Swing Riots in England (1830). Samuel
-  Lane (d. 1844) did not have much success with his thresher commercially. He came
-  from Hallowell, Maine. '
+commentary: "<p>Samuel Lane (d. 1844), who invented this machine, did not have much
+  success with his thresher commercially. He came from Hallowell, Maine. Because of
+  an 1836 fire that destroyed many patent records, this notice is one of very few
+  records of this particular design. It likely represents patent number 5,185X (thanks
+  to Joel R. Havens, personal communication).</p> <p>These types of threshing machines
+  were destroyed by workers opposed to automation and displacement, in the famed Swing
+  Riots in England (1830).  "
 relatedPeople: William Osgood
 featured: 
 repeated: 

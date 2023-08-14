@@ -1,6 +1,6 @@
 ---
 pid: unionist--text-0332
-title: Murder in Massachusetts
+title: Murder in Connecticut
 bibliographicCitation: "<em>The Unionist</em> 1834-04-10"
 bibliographicCitationRepublished: "<em>Springfield Journal</em>"
 fullIssueSequenceNumber: 1834-04-10 p.03.32

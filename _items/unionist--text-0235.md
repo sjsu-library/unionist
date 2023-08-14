@@ -21,11 +21,11 @@ volume:
 issue: 
 transcription: '<p>  “The Editor of the Taunton Whig says that his wife is a “very
   elegant and<br>  accomplished lady"—<br>  <em>We, the People.</em></p><p>  Good!
-  The man is in his senses.—Such a husband is worth having—isn’t he,<br>  girls?—“<br>  <em>Unionist”</em></p><p>  We
+  The man is in his senses.—Such a husband is worth having—isn’t he,<br>  girls?—“<em>Unionist”</em></p><p>  We
   doubt whether the Unionist man is in his senses, to print a paper with such<br>  a
   name without a wife! Shame, Burleigh!”<br></p> <p>The same article appears in the<br>  <em>Vermont
   Centinel</em>  28 March 1834, with one small change: the proper name of "Burleigh"
-  is elimimated.<br></p><p>  “The Editor of the Taunton Whig says that his wife is
+  is eliminated.<br></p><p>  “The Editor of the Taunton Whig says that his wife is
   a “very elegant and<br>  accomplished lady—<br>  <em>We, the People.</em></p><p>  Good!
   The man is in his senses.—Such a husband is worth having—isn’t he,<br>  girls?—“<br>  <em>Unionist”</em></p><p>  We
   doubt whether the “Unionist” man is in his senses, to print a paper with<br>  such

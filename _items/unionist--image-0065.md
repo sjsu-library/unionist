@@ -38,7 +38,7 @@ caption: William Leete Stone (1792-1844) was a prominent editor in New York City
 order: '476'
 layout: items_item
 collection: items
-thumbnail: "/img/derivatives/iiif/images/unionist--image-0065/full/250,/0/default.jpg"
-manifest: "/img/derivatives/iiif/unionist--image-0065/manifest.json"
-full: "/img/derivatives/iiif/images/unionist--image-0065/full/1140,/0/default.jpg"
+thumbnail: '""'
+manifest: '""'
+full: '""'
 ---

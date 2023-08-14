@@ -50,7 +50,7 @@ transcription: '<p align="center"><strong>Wilberforce Prize Essay.</strong></p><
   his mind was in darkness. Would he do it now? No. Neither would<br>  the church
   now receive it. Why? Because the light of the temperance<br>  reformation has burst
   forth.<br></p><p>  Christians! who have promised supreme obedience to Him, that
-  :tasted death for<br>  every man,: and more for the rich man, who, in a superb dress,
+  tasted death for<br>  every man,: and more for the rich man, who, in a superb dress,
   rides in a<br>  superb carriage, to a superb church, to worship in superb style,
   than for the<br>  poor African, who pulls cotton in the “fields of Alabama, and
   naked as in the<br>  hour of birth, trembles under the blasts of mid winter”—on
@@ -61,19 +61,19 @@ transcription: '<p align="center"><strong>Wilberforce Prize Essay.</strong></p><
   show the utter<br>  abominations of christian slavery, as there has been to show
   the abominations<br>  of christian drunkenness. Whatever maybe the event of slavery
   and intemperance<br>  in the world a sufficiency of light will show, and cause to
-  be removed<br>  these&nbsp; shocking deformities of the christian church. One denomination
+  be removed<br>  these shocking deformities of the christian church. One denomination
   has<br>  already raised thousands of dollars to assist their brethren in becoming
   free<br>  from the deep stains of this awful sin. When will other denominations
   be<br>  equally sincere and active to cleanse themselves from this pollution? The<br>  answer
   is plain. When they are as conscientious and as much enlightened.<br></p><p>  To
   have light poured on this subject as its importance demands, it is proposed<br>  to
   raise fifty dollars, as a premium for the best essay on this deeply<br>  interesting
-  subject. When the church if pure, we may then expect the smiles<br>  and approbation
+  subject. When the church is pure, we may then expect the smiles<br>  and approbation
   of heaven on our now almost divided land. And oh! May none<br>  refuse their mite
   to reward the close application of time and talents to this<br>  most vitally important
   theme; for it is believed the temperance reformation<br>  commenced in this way.<br></p><p>  Donations
   will be received by the Editors of the Genius of Temperance, and the<br>  Editor
-  of the Emancipator, 126, Nassau street, A part of the money has already<br>  been
+  of the Emancipator, 126, Nassau street. A part of the money has already<br>  been
   raised by a few ladies in Massachusetts. It is hoped that others, who are<br>  opposed
   to slavery in the church of Christ, will speedily forward enough to<br>  make it
   up to $50, when the sum will be given to him who shall show most<br>  conclusively

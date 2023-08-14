@@ -35,9 +35,11 @@ relatedImage:
 relatedText: unionist--text-0315
 relatedTextIssue: 1834-04-10 p.02.15
 filename: 
-caption: Indeed - this was not going to end slavery. This scholarly article presents
-  many perspectives on the American Colonization Society's work in Liberia. None of
-  them are positive or rosy.
+caption: Indeed - this was not going to end slavery. Tom Shick's scholarly article
+  presents many perspectives on the American Colonization Society's work in Liberia.
+  None of them are positive or rosy. See Shick, Tom W. “A Quantitative Analysis of
+  Liberian Colonization from 1820 to 1843 with Special Reference to Mortality.” The
+  Journal of African History, vol. 12, no. 1, 1971, pp. 45–59. JSTOR, http://www.jstor.org/stable/180566.
 order: '738'
 layout: items_item
 collection: items

@@ -144,15 +144,10 @@ transcription: "<p>  “Some two or three&nbsp; weeks since we published, upon a
   from scattering<br>  fire-brands, arrows and death amongst us.<br></p>"
 scholarlyNotes: There are two frames here - The New-York Commercial Advertiser and
   The Emancipator
-commentary: |
-  <p><em>Attack on Charles Stuart – Friday July 11</em></p>
-  <p><em>Article in Commercial Intelligencer – Tuesday July 15</em></p>
-  <p>
-    <em>
-      LIKELY article in Unionist would then logically be Thursday July 17,
-      possibly July 24, less likely July 31
-    </em>
-  </p>
+commentary: "<p><em>Attack on Charles Stuart – Friday July 11</em></p><p><em>Article
+  in Commercial Intelligencer – Tuesday July 15</em></p><p>  <em>    LIKELY article
+  in Unionist would then logically be Thursday July 17,<br>    possibly July 24, less
+  likely July 31<br>  </em></p>"
 relatedPeople: Charles Stuart; George Thompson
 featured: 
 repeated: 

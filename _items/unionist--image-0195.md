@@ -28,9 +28,7 @@ relatedImage:
 relatedText: unionist--text-0135
 relatedTextIssue: 1833-09-05 p01.61
 filename: 
-caption: |-
-  A pile of 21st century junk mail, which "aint worth
-  paying for.”
+caption: A pile of 21st century junk mail, which "aint worth<br>paying for.”
 order: '606'
 layout: items_item
 collection: items

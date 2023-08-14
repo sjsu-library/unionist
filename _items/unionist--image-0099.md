@@ -29,7 +29,8 @@ relatedText: unionist--text-0386
 relatedTextIssue: 1834-04-10 p.04.86
 filename: 
 caption: Opening article, on the poet William Cowper (a perpetual favorite of Abolitionists),
-  in the January 1834 issue of the <em>North American Review</em>
+  in the January 1834 issue of the <em>North American Review</em>, a popular magazine
+  subscription.
 order: '510'
 layout: items_item
 collection: items

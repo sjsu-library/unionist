@@ -30,7 +30,7 @@ relatedTextIssue:
 filename: 
 caption: An advertisement for the first Canterbury Female Academy. Note the warm endorsement
   of Prudence Crandall's soon-to-be enemies, Dennis Platt and Andrew T. Judson.
-order: '766'
+order: '767'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0355/full/250,/0/default.jpg"

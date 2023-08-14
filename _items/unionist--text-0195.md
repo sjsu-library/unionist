@@ -20,22 +20,21 @@ articleType:
 volume: '1'
 issue: '20'
 transcription: "<p>  LIST of letters remaining in the Post Office at Killingly, Ct.
-  Oct. 1<br>  <sup>st</sup>  1833<br></p><p>  Adrien<br>  Levi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ Day Cyrus Capt<br></p><p>  Adams<br>  Elisha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ Day Sam’l<br></p><p>  Adams<br>  James&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ Eaton Polly<br></p><p>  Adams<br>  George&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ Graves Whitney<br></p><p>  Brown<br>  Anthony&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ Hutchins Sam’l<br></p><p>  Brown<br>  Wm.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ Hutchins, Sam’l. II<br></p><p>  Crowningshield<br>  R.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ Haily Benj.<br></p><p>  Cady<br>  Lydia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ Jillson Buffin<br></p><p>  Danielson W. &amp;<br>  T.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ Sparks Julin 2<br></p><p>  Day Lucius<br>  2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ Short Seth<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+  Oct. 1<sup>st</sup>, 1833<br></p><p><p>Adrien Levi</p>\r<br><p>Adams Elisha</p>\r<br><p>Adams
+  James</p>\r<br><p>Adams George</p>\r<br><p>Brown Anthony</p>\r<br><p>Brown Wm. </p>\r<br><p>Crowningshield
+  R</p>.\r<br><p>Cady Lydia</p>\r<br><p>Danielson W. & T. </p>\r<br><p>Day Lucius
+  2</p>\r<br><p>Day Cyrus Capt</p>\r<br><p>Day Sam’l</p>\r<br><p>Eaton Polly</p>\r<br><p>Graves
+  Whitney</p>\r<br><p>Hutchins Sam’l</p>\r<br><p>Hutchins, Sam’l. II</p>\r<br><p>Haily
+  Benj. </p>\r<br><p>Jillson Buffin</p>\r<br><p>Sparks Julin 2</p>\r<br><p>Short Seth</p>\r<br><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
   \ GEO. DANIELSON P.M.<br></p>"
 scholarlyNotes: This same sort of list for Brooklyn or Canterbury could have revealed
   names of students or school associates
-commentary: 
-relatedPeople: George Danielson
+commentary: If we could find similar lists for Canterbury, Plainfield, and/or Brooklyn,
+  the names of school associates or even students might be revealed.
+relatedPeople: George Danielson; Levi Adrien; Elisha Adams; James Adams; George Adams;
+  Anthony Brown; William Brown; R. Crowningshield; Lydia Cady; W. Danielson; T. Danielson;
+  Lucius Day; Capt. Cyrus Day; Samuel Day; Polly Eaton; Whitney Graves; Samuel Hutchins;
+  Samuel Hutchins II; Benjamin Haily; Buffin Jillson; Julin Sparks; Seth Short
 featured: 
 repeated: 
 relatedImage: unionist--image-0220

@@ -32,7 +32,7 @@ relatedTextIssue:
 filename: 
 caption: 'Zachariah Eddy, Burleigh''s law teacher. His house and office are still
   honored locations in Middleborough. '
-order: '772'
+order: '773'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0361/full/250,/0/default.jpg"

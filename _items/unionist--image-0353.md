@@ -29,7 +29,7 @@ relatedText: unionist--article-0001
 relatedTextIssue: 
 filename: 
 caption: Excerpt from the initial statement of purpose for <em>The Liberator</em>
-order: '764'
+order: '765'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0353/full/250,/0/default.jpg"

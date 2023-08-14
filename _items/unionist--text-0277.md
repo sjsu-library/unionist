@@ -21,9 +21,7 @@ issue: '32'
 transcription: BLANK DEEDS.
 scholarlyNotes: 
 commentary: 'Ironically/awkwardly, this short advertisement has an error in it: the
-  first “D” is backwards!
-
-'
+  first “D” is backwards!<br>'
 relatedPeople: 
 featured: 
 repeated: 

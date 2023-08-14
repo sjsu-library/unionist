@@ -20,7 +20,7 @@ volume:
 issue: 
 transcription: "<em>“Carrying the war into Egypt,”</em>—We had supposed that the crusade
   which the good people of Canterbury, Ct have<br>for some time past waged against
-  the school of<br><em>Miss Crandall,</em>would have been suffered to drop when the
+  the school of <em>Miss Crandall,</em> would have been suffered to drop when the
   whole force of legal proceedings had<br>been spent upon them, and the lady herself
   became one of the band of “reputably<br>married ladies.” But we find by advertisements
   in the last Brooklyn Unionist,<br>that her neighbors were not as charitably and
@@ -39,7 +39,8 @@ transcription: "<em>“Carrying the war into Egypt,”</em>—We had supposed th
   its inmates permitted to ‘depart in peace.’” "
 scholarlyNotes: This article was copied from a New York paper, here abbreviated to
   <em>NY Man.</em>
-commentary: 
+commentary: This article was copied from a New York paper, here abbreviated to <em>NY
+  Man.</em>
 relatedPeople: Prudence Crandall; Calvin Philleo
 featured: 
 repeated: 

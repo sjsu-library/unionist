@@ -28,7 +28,7 @@ relatedImage:
 relatedText: unionist--text-0189
 relatedTextIssue: 1833-12-19 p.03.35
 filename: 
-caption: A loose cattle wandering the neighborhood in Eagle, Idaho
+caption: A loose bovine wandering the neighborhood in Eagle, Idaho
 order: '440'
 layout: items_item
 collection: items

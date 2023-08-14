@@ -30,8 +30,8 @@ relatedImage:
 relatedText: unionist--text-0389; unionist--text-0314
 relatedTextIssue: 1834-04-10 p.02.14
 filename: 
-caption: This treatise detailing was a piece of polemical anti-Jackson rhetoric, roughly
-  contemporaneous with the end of the Canterbury Female Academy era.
+caption: This treatise was a piece of polemical anti-Jackson rhetoric, roughly contemporaneous
+  with the end of the Canterbury Female Academy era.
 order: '675'
 layout: items_item
 collection: items

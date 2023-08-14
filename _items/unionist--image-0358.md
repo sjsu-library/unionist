@@ -30,7 +30,7 @@ relatedTextIssue:
 filename: 
 caption: Mastead of the <em>Norwich Courier</em> at the beginning of the Canterbury
   kerfuffle
-order: '769'
+order: '770'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0358/full/250,/0/default.jpg"

@@ -7,7 +7,7 @@ fullIssueSequenceNumber: 1833-12-19 p.04.65
 creator: 
 dateCreated: '1833-12-19'
 description: 'FOR SALE, At this office, a few copies of Mrs. Child’s “Appeal in behalf
-  of that class of Americans called Africans" '
+  of that class of Americans called Africans '
 language: English
 publisher: The Unionist
 IsPartOf: 
@@ -23,8 +23,8 @@ transcription: <p align="center">FOR SALE,</p><p>  AT THIS OFFICE, A FEW copies 
   Mrs. Child’s “Appeal in behalf of that class<br>  of Americans called Africans”.<br></p>
 scholarlyNotes: 
 commentary: Repeated from earlier in the issue. While this might have been due to
-  a printing exigency to fill the column, the choice to repeat this important publication
-  is still meaningful.
+  a printing exigency to fill the column, the choice to emphasize this significant
+  publication is still meaningful.
 relatedPeople: Lydia Maria Child
 featured: 
 repeated: 'Yes'

@@ -197,9 +197,8 @@ transcription: '<p>  23<br>  <sup>rd</sup>  CONGRESS<br></p><p>FIRST SESSION</p>
   the three Government Directors of the Bank of the United State, in<br>  relation
   to the conduct of the Directors, and especially of the President of<br>  that institution.<br></p>'
 scholarlyNotes: 
-commentary: |
-  This includes Jackson’s rather petulant assertion of executive privilege to not
-  talk to the Senate!
+commentary: This includes Jackson’s rather petulant assertion of executive privilege
+  to not<br>talk to the Senate!<br>
 relatedPeople: William C. Preston; Stephen D. Miller; Samuel McKean; George M. Dallas;
   Theodore Frelinghuysen; Samuel L. Southard; Mahlon Dickeson, Asher Robbins; George
   Poindexter; Felix Grundy; Walter Lowrie; John Shackford; Stephen Haight; Henry Clay;

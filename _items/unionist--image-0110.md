@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0110
-title: drga1millineryshop
+title: Millinery Shop
 bibliographicCitation: https://www.spminiatures.com/store/index.php?main_page=product_info&products_id=5479
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

@@ -29,7 +29,7 @@ relatedImage:
 relatedText: unionist--text-0234
 relatedTextIssue: 
 filename: 
-caption: Portrait of Myron Holley (1789-1841), reformer and politician who helped
+caption: Portrait of Myron Holley (1789-1841), reformer and politician who aided in
   the construction of the Erie Canal.
 order: '447'
 layout: items_item
