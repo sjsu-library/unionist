@@ -18,16 +18,16 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: "<em>Ten miles of Paper.</em>—Paper used to be sold by the sheet, the
-  quire, or the ream;&nbsp; but in “the<br>march of improvement,” stationary will
-  not remain stationary, and so it is now<br>sold by measure. The following order
-  was received from a pottery firm the other<br>day. The writer, it will be observed,
-  gives his orders with as much indifference<br>as though they were not at all extraordinary:—“Gentlemen—Please
-  to send us ten<br>miles of your best printing tissue paper, in length; 6 miles to
-  be 30 inches<br>broad, 4 miles 22 inches broad—to be wrapped on wooden rollers,
-  according to the<br>plan given to Mr. George Fourdrinier.” The object of having
-  the paper of such<br>great length is that it may be printed from engraved cylinders,
-  in the same way<br>as calicoes, &amp;c.<br>"
+transcription: "<em>Ten miles of Paper.</em> —Paper used to be sold by the sheet,
+  the quire, or the ream;&nbsp; but in “the march of improvement,” stationary will
+  not remain stationary, and so it is now sold by measure. The following order was
+  received from a pottery firm the other day. The writer, it will be observed, gives
+  his orders with as much indifference as though they were not at all extraordinary:—“Gentlemen—Please
+  to send us ten miles of your best printing tissue paper, in length; 6 miles to be
+  30 inches broad, 4 miles 22 inches broad—to be wrapped on wooden rollers, according
+  to the plan given to Mr. George Fourdrinier.” The object of having the paper of
+  such great length is that it may be printed from engraved cylinders, in the same
+  way as calicoes, &amp;c. "
 scholarlyNotes: 
 commentary: George Spafford and James Phelps in Windham in the 1830s were among the
   first Americans to use the [Fourdrinier machine.] (https://paper.gatech.edu/advent-paper-machine)

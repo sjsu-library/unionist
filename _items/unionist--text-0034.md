@@ -25,11 +25,11 @@ transcription: "<p>THE CANTERBURY AFFAIR. The Emancipator asserts on the authori
   been admitted; and that the opposition thus excited against her, led her to establish
   her school for colored Misses. We wish to know, for a certainty, whether this is
   “the truth, the whole truth, and nothing but the truth.” It makes the Canterbury
-  affair much worse than any former account of it.—<em>Vermont Chronicle.</em></p><p>The
-  editor of the Chronicle will find an answer to his question in the letter of Miss
-  Crandall, a copy of which we shall send him. It may not be amiss, however to remark,
-  as this may come under the eye of some who have not perused Miss C’s. letter, that
-  the Emancipator has, we believe, given a statement substantially correct.</p>"
+  affair much worse than any former account of it.—<em>Vermont Chronicle.</em></p>
+  <p>The editor of the Chronicle will find an answer to his question in the letter
+  of Miss Crandall, a copy of which we shall send him. It may not be amiss, however
+  to remark, as this may come under the eye of some who have not perused Miss C’s.
+  letter, that the Emancipator has, we believe, given a statement substantially correct.</p>"
 scholarlyNotes: 
 commentary: 'John Greenleaf Whittier (1807-1892) was active in numerous Abolitionist
   and literary editing projects at this time. '

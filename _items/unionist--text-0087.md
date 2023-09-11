@@ -18,11 +18,11 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: At an election for Senator, in Marion and Hamilton counties, Indiana,
-  Morris and<br>Morrison were the opposing candidates—two thousand thirty-five votes
-  were<br>polled. In one county Morris had a majority of<br><em>nine</em>votes, in
-  the other county Morrison had a majority of<br><em>ten</em>votes, and of course
-  was elected by a majority of<br><em>one.</em>
+transcription: 'At an election for Senator, in Marion and Hamilton counties, Indiana,
+  Morris and Morrison were the opposing candidates—two thousand thirty-five votes
+  were polled. In one county Morris had a majority of <em>nine</em>  votes, in the
+  other county Morrison had a majority of <em>ten</em>  votes, and of course was elected
+  by a majority of <em>one.</em> '
 scholarlyNotes: 
 commentary: I have yet to uncover solid evidence of this vote. Historians of the nineteenth-century
   Indiana State Senate, rescue me!

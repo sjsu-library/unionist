@@ -18,14 +18,14 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: "<em>Mahomedans.</em>—A traveller [sic] says, that during his long
-  residence at Malta, and constant<br>course of commercial transactions with the professors
-  of the Mahomedan creed, he<br>never heard of an unpaid debt, or a violated obligation:
-  and that it is a usual<br>mode of traffic in the market towns, throughout Turkey,
-  for the farmers and<br>hucksters to leave their fowls, eggs, butter, &amp;c. in
-  baskets with the prices<br>fixed, and to return in&nbsp; the evening in perfect
-  security of finding the<br>article as they left it or the exact price deposited
-  in the place of just so<br>much as had found a purchaser.<br>"
+transcription: "<em>Mahomedans.</em> —A traveller [sic] says, that during his long
+  residence at Malta, and constant course of commercial transactions with the professors
+  of the Mahomedan creed, he never heard of an unpaid debt, or a violated obligation:
+  and that it is a usual mode of traffic in the market towns, throughout Turkey, for
+  the farmers and hucksters to leave their fowls, eggs, butter, &amp;c. in baskets
+  with the prices fixed, and to return in&nbsp; the evening in perfect security of
+  finding the article as they left it or the exact price deposited in the place of
+  just so much as had found a purchaser. "
 scholarlyNotes: 
 commentary: Many of the radical abolitionists were among those also arguing for religious
   tolerance. This article, in its candid assessment of Islam, and therefore its sideways

@@ -35,7 +35,7 @@ relatedTextIssue:
 filename: 
 caption: This poem was written sometime in 1833-34. It likely was reprinted in <em>The
   Unionist</em>.
-order: '776'
+order: '775'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0364/full/250,/0/default.jpg"

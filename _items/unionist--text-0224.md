@@ -18,9 +18,10 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>NOTICE.</p><p>  ALL persons who have unsettled accounts with the
-  subscriber, will please call<br>  and settle the same, on or before the first day
-  of January next.</p><p>GILES S. BATES.<br></p><p>Killingly Nov. 20,1833. </p>  17<br></p>"
+transcription: "<p>NOTICE.</p> <p>   ALL persons who have unsettled accounts with
+  the subscriber, will please call   and settle the same, on or before the first day
+  of January next.</p><p>GILES S. BATES. </p> <p> Killingly Nov. 20,1833. </p>   17
+  </p> "
 scholarlyNotes: 
 commentary: 
 relatedPeople: Giles S. Bates

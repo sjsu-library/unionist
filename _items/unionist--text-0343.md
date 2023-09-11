@@ -18,7 +18,7 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: BLANK CARDS<br>
+transcription: 'BLANK CARDS '
 scholarlyNotes: 
 commentary: Once again, self-advertising at the foot of a column!
 relatedPeople: 

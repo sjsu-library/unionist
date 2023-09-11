@@ -28,7 +28,7 @@ relatedImage:
 relatedText: unionist--text-0031
 relatedTextIssue: 1833-08-08 p02.17
 filename: 
-caption: Canon, which could fire grapeshot, non-metaphorically.
+caption: Canon which could - non-metaphorically - fire grapeshot.
 order: '672'
 layout: items_item
 collection: items

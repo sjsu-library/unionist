@@ -21,12 +21,11 @@ articleType:
 volume: '1'
 issue: '19'
 transcription: "“Miss Crandall and her sister, were on Saturday last brought before
-  Justice<br>Adams, charged with the old offence of teaching ‘the base born Africans,<br>unmindful
-  of the high behest which says , ‘let there be darkness.’” They were<br>found guilty,
-  and required to procure bonds for their appearance at the County<br>Court now in
-  session. No one appearing immediately to give the required bonds,<br>the Court was
-  adjourned until Monday, that they might have time to procure<br>them.” – Brooklyn
-  Unionist<br>"
+  Justice Adams, charged with the old offence of teaching ‘the base born Africans,
+  unmindful of the high behest which says , ‘let there be darkness.’” They were found
+  guilty, and required to procure bonds for their appearance at the County Court now
+  in session. No one appearing immediately to give the required bonds, the Court was
+  adjourned until Monday, that they might have time to procure them.” – Brooklyn Unionist "
 scholarlyNotes: 
 commentary: The fact that this event was so widely republished shows the strong national
   interest in the Canterbury Female Academy.

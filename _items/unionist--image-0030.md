@@ -25,7 +25,7 @@ relatedPeople:
 featured: 
 repeated: 
 relatedImage: 
-relatedText: unionist-text-0194
+relatedText: unionist--text-0194
 relatedTextIssue: 1833-12-19 p.03.40
 filename: 
 caption: A Red Roan Mare and Colt. This pair was fortunately recoverd.

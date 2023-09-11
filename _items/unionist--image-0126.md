@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0126
-title: A Treatise on Bread Sylvester Graham
+title: "<em>A Treatise on Bread</em> by Sylvester Graham"
 bibliographicCitation: 'Sylvester Graham, <em>A Treatise on Bread and Bread-Making</em>
   (Boston: Light and Stearns, 1837)'
 bibliographicCitationRepublished: 

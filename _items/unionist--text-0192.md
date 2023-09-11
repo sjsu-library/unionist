@@ -18,12 +18,12 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>NOTICE.</p><p>  The sale of the real estate of Ephraim Ingals,
-  Esq. late of Pomfret deceased,<br>  stands adjourned to the 25<sup>th</sup> day
-  of December next at 12 o’clock.<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ GEORGE SHARPE. <br></p><p>  Pomfret, Arlington Society&nbsp;&nbsp;&nbsp;&nbsp;
-  Nov. 18 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ 17<br></p><p></p>"
+transcription: "<p>NOTICE.</p> <p>   The sale of the real estate of Ephraim Ingals,
+  Esq. late of Pomfret deceased,   stands adjourned to the 25<sup>th</sup> day of
+  December next at 12 o’clock. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  \  GEORGE SHARPE.  </p> <p>   Pomfret, Arlington Society&nbsp;&nbsp;&nbsp;&nbsp;
+  Nov. 18 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  \  17 </p> <p></p> "
 scholarlyNotes: 
 commentary: Col. Ephraim Ingals of Pomfret (1764-1831) was father of Dr. Ephraim Inglas
   who was a leader in the medical community in Chicago in the last quarter of the

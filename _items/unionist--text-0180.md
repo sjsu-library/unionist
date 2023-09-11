@@ -18,15 +18,14 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>  <em>CAUTION.—A</em>  ll persons are forbid employing John Skinner,
-  a minor,&nbsp; without the<br>  consent of the subscriber, who is guardian to the
-  said minor, and will require<br>  any person employing said minor to account for
-  his services. The said Skinner<br>  if 16 years old of a light complexion and middle
-  size. It is expected said<br>  minor<br>  <em>w</em>  as enticed away from the area
-  and employ of the subscriber on the 17<br>  <sup>th</sup>  inst. and that he wore
-  away a brown linen jacket, Marseilles vest and striped<br>  jean pantaloons.<br></p><p>
-  \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ DANIEL BENNET<br></p>"
+transcription: "<p>   <em>CAUTION.—A</em>   ll persons are forbid employing John Skinner,
+  a minor,&nbsp; without the   consent of the subscriber, who is guardian to the said
+  minor, and will require   any person employing said minor to account for his services.
+  The said Skinner   if 16 years old of a light complexion and middle size. It is
+  expected said   minor   <em>w</em>   as enticed away from the area and employ of
+  the subscriber on the 17   <sup>th</sup>   inst. and that he wore away a brown linen
+  jacket, Marseilles vest and striped   jean pantaloons. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  \  DANIEL BENNET </p> "
 scholarlyNotes: 
 commentary: I could not find the definitive facts about this case, but I've included
   the likely 1830 Census report on the Bennett household.

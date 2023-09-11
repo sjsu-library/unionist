@@ -19,10 +19,10 @@ articleType:
 volume: '1'
 issue: '2'
 transcription: "“The Blue Laws of Connecticut have become Black. We learn from the
-  Norwich<br>Courier, that Miss Prudence Crandall was arrested on Thursday for the
-  heinous<br>offence, in the eye of the Connecticut law-givers, of instructing a few
-  colored<br>girls not belonging to the State. Not obtaining bonds, she was committed
-  to<br>jail.”—<br><em>Worcester Yeoman.</em>"
+  Norwich Courier, that Miss Prudence Crandall was arrested on Thursday for the heinous
+  offence, in the eye of the Connecticut law-givers, of instructing a few colored
+  girls not belonging to the State. Not obtaining bonds, she was committed to jail.”—
+  <em>Worcester Yeoman.</em>"
 scholarlyNotes: 
 commentary: The Blue Laws were restrictions to activity on the Sabbath. Lists of the
   Connecticut Blue Laws were often exaggerated or outright invented. However, as a

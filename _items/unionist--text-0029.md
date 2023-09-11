@@ -31,7 +31,7 @@ commentary: Embrace of the power and readership of women is important in this ea
 relatedPeople: James Holbrook (inferred)
 featured: 'Yes'
 repeated: 
-relatedImage: unionist--image-0314
+relatedImage: unionist--image-0372
 relatedText: 
 relatedTextIssue: 
 filename: 

@@ -18,20 +18,19 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: "<p>  WINDH<br>  <em>A</em>  M County, Superior Court, January<br>
-  \ <em>T</em>  erm, 1834.<br></p><p>  Upon the Petition of Uriah<br>  <em>A</em>
-  \ llard of Woodstock in said county stating that he has become insolvent and<br>
-  \ praying that the benefit of an act authorizing the Superior Court to grant<br>
-  \ relief in certain cases of insolvency may be extended to him against his<br>  creditors
-  as by the Petition on file.<br></p><p>  It is ordered by this Court that said Petition
-  shall be continued to the<br>  Superior Court to be holden at Brooklyn in and for
-  said County on the first<br>  Tuesday of October next, and that the Petitioner shall
-  publish this order<br>  three weeks in succession at least seven weeks before the
-  session of said<br>  October Superior Court in a newspaper called the Unionist published
-  in said<br>  Brooklyn, which shall be sufficient notice to the creditors of the
-  Petitioner<br>  living out of this state to answer to said Petition.<br></p><p>
-  \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ <em>A</em>  ttest<br>  <em>A</em>  RMIS BOLLES, Clerk.<br></p><p></p>"
+transcription: "<p>   WINDH   <em>A</em>   M County, Superior Court, January   <em>T</em>
+  \  erm, 1834. </p> <p>   Upon the Petition of Uriah   <em>A</em>   llard of Woodstock
+  in said county stating that he has become insolvent and   praying that the benefit
+  of an act authorizing the Superior Court to grant   relief in certain cases of insolvency
+  may be extended to him against his   creditors as by the Petition on file. </p>
+  <p>   It is ordered by this Court that said Petition shall be continued to the   Superior
+  Court to be holden at Brooklyn in and for said County on the first   Tuesday of
+  October next, and that the Petitioner shall publish this order   three weeks in
+  succession at least seven weeks before the session of said   October Superior Court
+  in a newspaper called the Unionist published in said   Brooklyn, which shall be
+  sufficient notice to the creditors of the Petitioner   living out of this state
+  to answer to said Petition. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  \  <em>A</em>   ttest   <em>A</em>   RMIS BOLLES, Clerk. </p> <p></p> "
 scholarlyNotes: 
 commentary: 
 relatedPeople: Uriah Allard (probate case); Armis Bolles (probate case)

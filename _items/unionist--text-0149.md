@@ -21,30 +21,29 @@ articleType:
 volume: '1'
 issue: '15'
 transcription: "“We see it stated in the “Unionist,” a paper published at Brooklyn,
-  Ct., that a<br>memorial is in circulation in the eastern part of the State, the
-  object of<br>which is, ‘the abolition of slavery in the District of Columbia.’ Persons<br>frequently
-  put their names to papers of this description without sufficient<br>reflection,
-  and on the exparte statement of those who are interested, or have an<br>object in
-  procuring signatures. Our object in penning this notice is to caution<br>the public
-  against the movements of the fanatics, and to request every<br>intelligent man to
-  consider well what he is about before signing this memorial.<br>It as a scheme fraught
-  with dangerous and alarming consequences—a project that<br>cannot be executed—and
-  the very attempt to effect it, threatens the tranquility<br>of the Union. We regard
-  these movements of the northern agitators, in as<br>infamous a light as those of
-  the southern nullifiers, and they should meet with<br>universal condemnation. It
-  has been intimated that some of our members of<br>Congress would countenance this
-  insane project: but we do not believe that the<br>madness of party desperation will
-  carry any one of them so far. Let no man sign<br>this memorial who loves his country
-  and would preserve the Union.”<br>"
+  Ct., that a memorial is in circulation in the eastern part of the State, the object
+  of which is, ‘the abolition of slavery in the District of Columbia.’ Persons frequently
+  put their names to papers of this description without sufficient reflection, and
+  on the exparte statement of those who are interested, or have an object in procuring
+  signatures. Our object in penning this notice is to caution the public against the
+  movements of the fanatics, and to request every intelligent man to consider well
+  what he is about before signing this memorial. It as a scheme fraught with dangerous
+  and alarming consequences—a project that cannot be executed—and the very attempt
+  to effect it, threatens the tranquility of the Union. We regard these movements
+  of the northern agitators, in as infamous a light as those of the southern nullifiers,
+  and they should meet with universal condemnation. It has been intimated that some
+  of our members of Congress would countenance this insane project: but we do not
+  believe that the madness of party desperation will carry any one of them so far.
+  Let no man sign this memorial who loves his country and would preserve the Union.” "
 scholarlyNotes: Guessing at the date in Windham paper of 1833-11-20, and the issue
   number of The Unionist here
-commentary: The notice about this petition could have appeared in late October or
-  early<br>November 1833 in the<br><em>Unionist.</em>Resolutions to end slavery in
-  the District of Columbia were part of the New-England Anti-Slavery<br>meeting in
-  January 1833, and the American Anti-Slavery organizational meeting in<br>December
-  1833. Samuel J May introduced the resolution, which was seconded by Crandall lawyer
-  William Ellsworth in the December meeting. So a local campaign in eastern Connecticut,
-  spearheaded by the Unionist, makes sense.<br>
+commentary: 'The notice about this petition could have appeared in late October or
+  early November 1833 in the <em>Unionist.</em> Resolutions to end slavery in the
+  District of Columbia were part of the New-England Anti-Slavery meeting in January
+  1833, and the American Anti-Slavery organizational meeting in December 1833. Samuel
+  J May introduced the resolution, which was seconded by Crandall lawyer William Ellsworth
+  in the December meeting. So a local campaign in eastern Connecticut, spearheaded
+  by the Unionist, makes sense. '
 relatedPeople: 
 featured: 
 repeated: 

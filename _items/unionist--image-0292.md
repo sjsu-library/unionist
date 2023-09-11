@@ -32,15 +32,16 @@ relatedImage:
 relatedText: unionist--text-0027
 relatedTextIssue: 1833-08-08 p02.13
 filename: 
-caption: 'Attacks on printing offices were serious. Much like cyber attacks today,
-  vigilante attempts to silence an unpopular perspective by destroying their offices
-  and equipment were an ever-present danger. Many of the most famous incidents in
-  American history of such destruction all came with a decade of <em>The Unionist</em>:
-  the attack on William Lloyd Garrison in 1835 (during which Charles Burleigh protected
-  Garrison), the attack against the Abolitionist editor Elijah Lovejoy in Alton Illinois
-  in 1837, pictured here, in which Lovejoy lost his life, and the attack against the
-  anti-Mormon newspaper, <em>The Nauvoo Expositor</em> that set in motion the eventual
-  martyrdom of that religion''s prophet, Joseph Smith, in 1844. '
+caption: 'Attacks on printing offices were serious and not infrequent form of vigilante
+  violence. Much like cyber attacks today, attempts to silence an unpopular perspective
+  by destroying their newspaper''s offices and equipment were an ever-present danger.
+  Many of the most famous incidents in American history of such destruction all came
+  with a decade of <em>The Unionist</em>: the attack on William Lloyd Garrison in
+  1835 (during which Charles Burleigh protected Garrison), the attack against the
+  Abolitionist editor Elijah Lovejoy in Alton Illinois in 1837, pictured here, in
+  which Lovejoy lost his life, and the attack against the anti-Mormon newspaper, <em>The
+  Nauvoo Expositor</em> that set in motion the eventual martyrdom of that religion''s
+  prophet, Joseph Smith, in 1844. '
 order: '703'
 layout: items_item
 collection: items

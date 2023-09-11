@@ -18,12 +18,11 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: RANKIN’S LETTERS. Just published at the office of the Liberator, by
-  request of<br>the Providence Anti-Slavery Society, a new edition of ‘Letters on
-  Slavery,<br>addressed to Mr. Thomas Rankin, Merchant at Middlebrook, Augusta Co.,
-  Va.—By<br>John Rankin, Pastor of the Presbyterian Churches of Ripley and Strait
-  Creek,<br>Brown County, Ohio. Price $18 per hundred—25 cents single. Boston, Sept.
-  7, 1833<br>
+transcription: 'RANKIN’S LETTERS. Just published at the office of the Liberator, by
+  request of the Providence Anti-Slavery Society, a new edition of ‘Letters on Slavery,
+  addressed to Mr. Thomas Rankin, Merchant at Middlebrook, Augusta Co., Va.—By John
+  Rankin, Pastor of the Presbyterian Churches of Ripley and Strait Creek, Brown County,
+  Ohio. Price $18 per hundred—25 cents single. Boston, Sept. 7, 1833 '
 scholarlyNotes: 
 commentary: 
 relatedPeople: Thomas Rankin; John Rankin

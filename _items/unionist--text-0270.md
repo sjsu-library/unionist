@@ -18,9 +18,9 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: "<p>  DISQUISTION on the evils of using Tobacco, By Orin Fowler, A.M.
-  Pastor of the<br>  first Congregational Church in Fall River, Mass. For sale at
-  this<br>  office.</p> <p>March, 1834.<br></p>"
+transcription: "<p>   DISQUISTION on the evils of using Tobacco, By Orin Fowler, A.M.
+  Pastor of the   first Congregational Church in Fall River, Mass. For sale at this
+  \  office.</p>  <p>March, 1834. </p>"
 scholarlyNotes: 
 commentary: 
 relatedPeople: Orin Fowler

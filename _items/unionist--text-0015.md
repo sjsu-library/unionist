@@ -18,15 +18,15 @@ category: Unionist content
 articleType: original
 volume: '1'
 issue: '2'
-transcription: <p align="center"><strong>THE UNIONIST</strong></p><p align="center">PUBLISHED
-  EVERY THURSDAY MORNING,</p><div>    <p align="center">BROOKLYN, CONN.</p>    <p
-  align="center">///</p>    <p align="center">CHARLES C. BURLEIGH,</p>    <p align="center">Editor
-  and Publisher</p>    <p align="center">///</p>    <p>TERMS.—Mail Subscribers Two
+transcription: <p align="center"><strong>THE UNIONIST</strong></p> <p align="center">PUBLISHED
+  EVERY THURSDAY MORNING,</p> <div>     <p align="center">BROOKLYN, CONN.</p>     <p
+  align="center">///</p>     <p align="center">CHARLES C. BURLEIGH,</p>     <p align="center">Editor
+  and Publisher</p>     <p align="center">///</p>     <p>TERMS.—Mail Subscribers Two
   Dollars, in advance. Delivered by Stage or Post one dollar and seventy-five cents.
-  Those taken at the office, one dollar and fifty cents.</p>    <p>No paper will be
-  discontinued till arrearages are paid, except at the discretion of the publisher.</p>    <p>Advertisements
-  inserted at the usual prices.</p>    <p>All communications must be addressed to
-  the Editor, post-paid.</p></div>
+  Those taken at the office, one dollar and fifty cents.</p>     <p>No paper will
+  be discontinued till arrearages are paid, except at the discretion of the publisher.</p>     <p>Advertisements
+  inserted at the usual prices.</p>     <p>All communications must be addressed to
+  the Editor, post-paid.</p> </div>
 scholarlyNotes: 
 commentary: 
 relatedPeople: Charles C. Burleigh

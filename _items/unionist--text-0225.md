@@ -18,8 +18,8 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: <p align="center">BLANKS</p><p align="center"><em>FOR SALE AT THIS
-  OFFICE</em></p>
+transcription: '<p align="center">BLANKS</p> <p align="center"><em>FOR SALE AT THIS
+  OFFICE</em></p> '
 scholarlyNotes: 
 commentary: 
 relatedPeople: 

@@ -31,8 +31,8 @@ relatedImage:
 relatedText: unionist--text-0021
 relatedTextIssue: 1833-08-08 p01.07
 filename: 
-caption: Thomas Carlyle, famous English essayist, seemed, as usual, gruffly unaware
-  of the heroes in his midst.
+caption: 'Thomas Carlyle, famous English essayist, remained gruffly unaware of the
+  antislavery heroes in his midst. '
 order: '653'
 layout: items_item
 collection: items

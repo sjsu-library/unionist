@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0106
-title: Apostle Paul p. 127 Athens
+title: The Life and Travels of the Apostle Paul, p. 127 regarding Athens
 bibliographicCitation: "<em>The Life and Travels of the Apostle Paul, Prepared with
   Questions for the Use of Sunday Schools, with a Map</em>, no author given (Boston:
   Lilly, Wait, Colman and Holden, 1833), p.127. online at https://play.google.com/store/books/details?id=AzwAAAAAYAAJ&rdid=book-AzwAAAAAYAAJ&rdot=1"

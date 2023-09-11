@@ -18,8 +18,8 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: <p align="center">Masthead</p><p align="center">THE UNIONIST.</p><p
-  align="center">BROOKLYN, MARCH 13, 1834</p><p></p>
+transcription: '<p align="center">Masthead</p> <p align="center">THE UNIONIST.</p>
+  <p align="center">BROOKLYN, MARCH 13, 1834</p> <p></p> '
 scholarlyNotes: 
 commentary: 
 relatedPeople: 

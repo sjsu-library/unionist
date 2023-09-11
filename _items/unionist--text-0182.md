@@ -19,8 +19,8 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: FOR SALE, At this office, a few copies of Mrs. Child’s “Appeal in behalf
-  of that<br>class of Americans called Africans"<br>
+transcription: 'FOR SALE, At this office, a few copies of Mrs. Child’s “Appeal in
+  behalf of that class of Americans called Africans" '
 scholarlyNotes: 
 commentary: It is important to note that copies of this book, which had received a
   glowing review in <em>The Unionist</em> in the previous issue, were available in

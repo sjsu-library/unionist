@@ -19,13 +19,13 @@ articleType:
 volume: '1'
 issue: '2'
 transcription: Is the persecution of this benevolent and talented lady either republican
-  or<br>christian? Is it judicious to attempt to break her down by violence and insult?<br>We
-  know of no distinction in our State Constitution between colors, and we hope<br>Miss
-  Crandall will bring her persecutors to a trial of vested rights.” –<br><em>New London
-  Gazette</em>
+  or christian? Is it judicious to attempt to break her down by violence and insult?
+  We know of no distinction in our State Constitution between colors, and we hope
+  Miss Crandall will bring her persecutors to a trial of vested rights.” – <em>New
+  London Gazette</em>
 scholarlyNotes: 
 commentary: This article from a New London newspaper is intriguing because that city
-  had a substantial Black population because of its proximity to the sea.
+  had a substantial Black population due to its proximity to the sea.
 relatedPeople: Prudence Crandall
 featured: 'Yes'
 repeated: 

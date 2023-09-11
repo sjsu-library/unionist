@@ -18,10 +18,10 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: QUICK TRAVELLING. A gentleman left Boston on Friday morning at 5 o’clock,
-  and<br>arrived by stages, steamboats and rail-ways at the wharf in Baltimore at
-  30<br>minutes before 2 on Sunday morning—making the journey in 44 hours and 40<br>minutes,
-  from city to city, distance about 500 miles.—<br><em>N.Y. Daily Adv.</em>
+transcription: 'QUICK TRAVELLING. A gentleman left Boston on Friday morning at 5 o’clock,
+  and arrived by stages, steamboats and rail-ways at the wharf in Baltimore at 30
+  minutes before 2 on Sunday morning—making the journey in 44 hours and 40 minutes,
+  from city to city, distance about 500 miles.— <em>N.Y. Daily Adv.</em> '
 scholarlyNotes: 
 commentary: Boston to Baltimore can now be traversed by plane in less than two hours.
 relatedPeople: 

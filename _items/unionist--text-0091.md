@@ -19,7 +19,7 @@ articleType:
 volume: '1'
 issue: '6'
 transcription: The sense to conduct is worth every other part of it; for great abilities
-  are<br>more frequently possessed, than properly applied.
+  are more frequently possessed, than properly applied.
 scholarlyNotes: 
 commentary: 'An interesting reflection from a movement based in moral suasion. '
 relatedPeople: 

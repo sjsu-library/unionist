@@ -18,21 +18,22 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: TATTLING. “He that keepeth his mouth, keepeth his life.” It is very
-  common for<br>young persons to tell every thing they hear, whether they have any
-  grounds for<br>the belief of what they hear or not. To the injury of an individual
-  something<br>may be said and spread abroad, when there is not the least shadow of
-  truth in<br>the story. And it is against this species of tattling which I wish to
-  guard<br>mankind. The wise man knew how prone the world was to this sin when he
-  said,—“he<br>that keepeth his mouth keepeth his life.” And truly that person who
-  is careful<br>what he says—especially when he knows it is in his power to injure
-  the character<br>of a person, or thwart any of his purposes—acts up to the proverb,
-  and gains the<br>esteem and friendship of his fellows.—<br><em>Juvenile Watchman</em>
+transcription: 'TATTLING. “He that keepeth his mouth, keepeth his life.” It is very
+  common for young persons to tell every thing they hear, whether they have any grounds
+  for the belief of what they hear or not. To the injury of an individual something
+  may be said and spread abroad, when there is not the least shadow of truth in the
+  story. And it is against this species of tattling which I wish to guard mankind.
+  The wise man knew how prone the world was to this sin when he said,—“he that keepeth
+  his mouth keepeth his life.” And truly that person who is careful what he says—especially
+  when he knows it is in his power to injure the character of a person, or thwart
+  any of his purposes—acts up to the proverb, and gains the esteem and friendship
+  of his fellows.— <em>Juvenile Watchman</em> '
 scholarlyNotes: 
-commentary: 'The <em>Juvenile Watchman</em> was a short-lived spin-off project of
-  the Baptist newspaper, <em>Christian Watchman</em>. A remarkable Digital Humanities
-  project [here] (https://www.merrycoz.org/bib/MAGAZINE.xhtml) includes a page tracking
-  the lack of interest in this [periodical] (https://www.merrycoz.org/jwatch/RVJWATCH.xhtml#6). '
+commentary: 'The Biblical quote is from the Book of Proverbs, 13:3, King James version.
+  The <em>Juvenile Watchman</em> was a short-lived spin-off project of the Baptist
+  newspaper, <em>Christian Watchman</em>. A remarkable Digital Humanities project
+  [here] (https://www.merrycoz.org/bib/MAGAZINE.xhtml) includes a page tracking the
+  lack of interest in this [periodical] (https://www.merrycoz.org/jwatch/RVJWATCH.xhtml#6). '
 relatedPeople: 
 featured: 
 repeated: 

@@ -18,12 +18,12 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: "<p>  It is stated by a gentleman in Ohio, who had every opportunity
-  and anxiety to<br>  be correctly informed on the subject, that the emigrants into
-  that State<br>  during the last year were possessed of money to the amount of between
-  six and<br>  eight millions of dollars. A few years more of such emigration and
-  Ohio will<br>  be one of the most wealthy and prosperous States of the Union.—<br>
-  \ <em>S.C. Gaz.</em></p><p></p>"
+transcription: "<p>   It is stated by a gentleman in Ohio, who had every opportunity
+  and anxiety to   be correctly informed on the subject, that the emigrants into that
+  State   during the last year were possessed of money to the amount of between six
+  and   eight millions of dollars. A few years more of such emigration and Ohio will
+  \  be one of the most wealthy and prosperous States of the Union.—   <em>S.C. Gaz.</em>
+  </p> <p></p> "
 scholarlyNotes: Interesting that this comes from South Carolina
 commentary: 'Many folks from eastern Connecticut – including famously the Cleveland
   family — were among the migrants to Ohio. '

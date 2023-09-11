@@ -18,21 +18,21 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: The cause of Temperance prospers well in Massachusetts. Our good friends
-  there<br>are doing nobly—they have their heart in the work. MR. FROST, the Apostle
-  of<br>Temperance, and an eloquent and able man, has been lecturing in Norfolk County,<br>and
-  his labors have been attended with the most gratifying success. Those of our<br>friends
-  who have had the pleasure of hearing Mr. F. will not be surprised at<br>this. He
-  possesses to an eminent degree the power of awakening and enchaining<br>the attention.
-  His oratory is peculiar to himself—at least we never heard of its<br>model or successful
-  imitation—always elevated and always fascinating. His voice<br>is musical—his gesticulation
-  forcible, and, more than all, his acquaintance with<br>his subject in all its bearing
-  is perfect, and his facility in rightly arranging<br>and applying sarcasm and argument,
-  ridicule and persuasion, truly wonderful. By<br>Mr. Frost’s report it appears that
-  when he commenced his agency in the County,<br>there were twenty-eight Temperance
-  Societies, embracing 6,511 members, to which<br>have been added 2,375 others, and
-  fourteen new societies have been organized,<br>embracing 761 members. This tells
-  well for Temperance effort in Massachusetts.<br>Let our Connecticut friends do likewise.<br>
+transcription: 'The cause of Temperance prospers well in Massachusetts. Our good friends
+  there are doing nobly—they have their heart in the work. MR. FROST, the Apostle
+  of Temperance, and an eloquent and able man, has been lecturing in Norfolk County,
+  and his labors have been attended with the most gratifying success. Those of our
+  friends who have had the pleasure of hearing Mr. F. will not be surprised at this.
+  He possesses to an eminent degree the power of awakening and enchaining the attention.
+  His oratory is peculiar to himself—at least we never heard of its model or successful
+  imitation—always elevated and always fascinating. His voice is musical—his gesticulation
+  forcible, and, more than all, his acquaintance with his subject in all its bearing
+  is perfect, and his facility in rightly arranging and applying sarcasm and argument,
+  ridicule and persuasion, truly wonderful. By Mr. Frost’s report it appears that
+  when he commenced his agency in the County, there were twenty-eight Temperance Societies,
+  embracing 6,511 members, to which have been added 2,375 others, and fourteen new
+  societies have been organized, embracing 761 members. This tells well for Temperance
+  effort in Massachusetts. Let our Connecticut friends do likewise. '
 scholarlyNotes: 
 commentary: I have not yet determined if the hyper-active Temperance Advocate Daniel
   Frost is the same as the Daniel Frost, Jr., of Canterbury (1787-1863), who was among

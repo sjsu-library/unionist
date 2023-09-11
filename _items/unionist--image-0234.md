@@ -33,8 +33,8 @@ relatedTextIssue:
 filename: 
 caption: Masthead of the <em>Haverhill Gazette and Essex Patriot</em>, 1823-02-15.
   Collection of American Antiquarian Society. This newspaper was a revival of the
-  original Gazette, which played a role in supporting the American Revolution in the
-  1770s.
+  original Gazette, which played a key role in supporting the American Revolution
+  in the 1770s.
 order: '645'
 layout: items_item
 collection: items

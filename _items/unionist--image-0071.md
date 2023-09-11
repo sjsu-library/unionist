@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0071
-title: Barber Plainfield
+title: Barber's Engraving of Plainfield
 bibliographicCitation: http://connecticuthistory.org/plainfield-academy-grooming-connecticut-scholars-in-the-18th-and-19th-centuries/
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -29,7 +29,8 @@ relatedText: unionist--text-0071
 relatedTextIssue: 1833-08-08 p04.57
 filename: 
 caption: Plainfield, Connecticut, including the Plainfield Academy on top of the hill
-  to the left behind the church
+  to the left behind the church. The engraver, John Warner Barber, was an ardent anti-slavery
+  man based in New Haven.
 order: '482'
 layout: items_item
 collection: items

@@ -19,18 +19,22 @@ articleType:
 volume: '1'
 issue: '2'
 transcription: "“She was in her own house, and as we suppose in her native State,
-  using her own<br>property, talents and time for the noblest purposes, according
-  to the sentiments<br>of President Dwight, which we lately published in this paper.
-  For this christian<br>and noble employment, she is taken by the violent hand of
-  persecution and<br>confined in a prison. What were the complaints and censures against
-  Georgia, for<br>similar conduct towards the imprisoned missionaries? Is such conduct
-  in<br>New-England, in Connecticut, less sinful, shameful, unjust and cruel? Whose<br>life,
-  liberty and pursuit of happiness are safe, if a christian lady is exposed<br>to
-  imprisonment for obedience to the dictates of her conscience and the evident<br>requirements
-  of piety, patriotism and philanthropy?”"
+  using her own property, talents and time for the noblest purposes, according to
+  the sentiments of President Dwight, which we lately published in this paper. For
+  this christian and noble employment, she is taken by the violent hand of persecution
+  and confined in a prison. What were the complaints and censures against Georgia,
+  for similar conduct towards the imprisoned missionaries? Is such conduct in New-England,
+  in Connecticut, less sinful, shameful, unjust and cruel? Whose life, liberty and
+  pursuit of happiness are safe, if a christian lady is exposed to imprisonment for
+  obedience to the dictates of her conscience and the evident requirements of piety,
+  patriotism and philanthropy?”"
 scholarlyNotes: 
-commentary: The Rhode Island Philanthropist was co-edited by Rev. Thomas Williams,
-  a staunch ally of Prudence Crandall.
+commentary: The Rhode Island <em>Philanthropist</em> was co-edited by Rev. Thomas
+  Williams, a staunch ally of Prudence Crandall. His reference to the imprisoned missionaries
+  in Georgia concerns the case of <em>Worcester v. Georgia</em> (1832), in which the
+  Supreme Court attempted to stand by the rights of the Cherokee People. President
+  Jackson famously ignored the Supreme Court's ruling, which paved the way for the
+  eventual Trail of Tears.
 relatedPeople: Timothy Dwight; Prudence Crandall
 featured: 'Yes'
 repeated: 

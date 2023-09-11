@@ -19,14 +19,14 @@ category: Unionist content
 articleType: 
 volume: '2'
 issue: '6'
-transcription: Miss Crandall’s School, in Canterbury, Ct. is discontinued. An advertisement
-  in<br>the Unionist, signed Calvin Phileo, offers a reward of $50 for information
-  of<br>the persons who, on the night of the 9<br><sup>th</sup>inst. about 12 o’clock,
-  assaulted the house, and destroyed five window sashes<br>and about 90 panes of glass.
-  Another advertisement offers “the house in<br>Canterbury, occupied by the late Prudence
-  Crandall, now the wife of the<br>subscriber,” for sale, from an apprehension that
-  the property and lives of the<br>inmates are insecure. The 20 pupils have been advised
-  to go to their homes.<br>
+transcription: 'Miss Crandall’s School, in Canterbury, Ct. is discontinued. An advertisement
+  in the Unionist, signed Calvin Phileo, offers a reward of $50 for information of
+  the persons who, on the night of the 9 <sup>th</sup> inst. about 12 o’clock, assaulted
+  the house, and destroyed five window sashes and about 90 panes of glass. Another
+  advertisement offers “the house in Canterbury, occupied by the late Prudence Crandall,
+  now the wife of the subscriber,” for sale, from an apprehension that the property
+  and lives of the inmates are insecure. The 20 pupils have been advised to go to
+  their homes. '
 scholarlyNotes: 
 commentary: This account of the end of the Canterbury Female Academy is an edited
   version of the fuller account in <em>The Liberator</em>

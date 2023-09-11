@@ -20,19 +20,20 @@ category: Unionist content
 articleType: 
 volume: 
 issue: 
-transcription: <p align="center">Poetry</p><p align="center">From the Unionist</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  THE EVENING CLOUD.</p><p>See yonder cloud along the west,</p><p>In gay, fantastic
-  slendour dress’d,</p><p>Fancy’s bright visions charm the eye,</p><p>Sweet fairy
-  bowers in prospect lie,</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Deck’d in<br>  the hues of even!<br></p><p>But short its evanescent stay,</p><p>Its
-  brilliant masses fade away,</p><p>The breeze floats off its visions gay,</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  And clears<br>  the face of Heaven.<br></p><p>  Thus to fond<br>  <em>man</em>  does
-  life’s fair scene<br></p><p>Delusive spread its cheerful green:</p><p>Before his
-  path sine pleasure’s bowers,</p><p>Each smiling field seems dressed in flowers,</p><p>  <em>Hope</em>  leads
-  him on, and shows his hours<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  For peace<br>  and pleasure given:<br></p><p>But one by one his hopes decay,</p><p>Each
-  flattering vision fades away,</p><p>Each cheering scene charms to betray,</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  And nought<br>  remains but Heaven.<br></p><p>  Windham, April<br>  21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  JULIA<br></p>
+transcription: '<p align="center">Poetry</p> <p align="center">From the Unionist</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; THE EVENING CLOUD.</p> <p>See yonder cloud
+  along the west,</p> <p>In gay, fantastic slendour dress’d,</p> <p>Fancy’s bright
+  visions charm the eye,</p> <p>Sweet fairy bowers in prospect lie,</p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Deck’d in   the hues of even! </p> <p>But short its evanescent stay,</p> <p>Its
+  brilliant masses fade away,</p> <p>The breeze floats off its visions gay,</p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  And clears   the face of Heaven. </p> <p>   Thus to fond   <em>man</em>   does life’s
+  fair scene </p> <p>Delusive spread its cheerful green:</p> <p>Before his path sine
+  pleasure’s bowers,</p> <p>Each smiling field seems dressed in flowers,</p> <p>   <em>Hope</em>   leads
+  him on, and shows his hours </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  For peace   and pleasure given: </p> <p>But one by one his hopes decay,</p> <p>Each
+  flattering vision fades away,</p> <p>Each cheering scene charms to betray,</p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  And nought   remains but Heaven. </p> <p>   Windham, April   21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   JULIA
+  </p> '
 scholarlyNotes: Impossible to guess responsibly when this may have been published
 commentary: As was a common practice, poetry was one of the areas in which women's
   voices were most commonly accepted in print.

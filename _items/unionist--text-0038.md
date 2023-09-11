@@ -18,10 +18,10 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
-transcription: <p align="center">THE QUESTION.</p><p><strong>Considerable pains are
+transcription: <p align="center">THE QUESTION.</p> <p><strong>Considerable pains are
   taken to keep the question respecting the Canterbury School from coming fairly before
   the public. The following extract from Mr. May’s letter to Andrew T. Judson, Esq.
-  presents it in the true light.</strong></p><p>Nothing, I am confident, could have
+  presents it in the true light.</strong></p> <p>Nothing, I am confident, could have
   been further from Miss Crandall’s intention, than to do her neighbors any injury.
   And Sir, you may rest assured, the gentlemen referred to in her Advertisement would
   not uphold her a moment in violating any of your rights. The determination she has
@@ -53,7 +53,7 @@ transcription: <p align="center">THE QUESTION.</p><p><strong>Considerable pains 
   opposition to Miss Crandall’s school, if her pupils were to be white. The tincture
   of their skin then it is which has called out the men of influence in array against
   her; and has even procured from the freemen of the town an expression of their “unqualified
-  disapprobation” of her plan.</p><p>Here then, in Connecticut, we have had two recent
+  disapprobation” of her plan.</p> <p>Here then, in Connecticut, we have had two recent
   instances of outrage committed upon “the inalienable rights of man.” Among these
   rights, to use the language of the Declaration of Independence “are life, liberty,
   and the pursuit of happiness.” Now Education has from the first, been regarded in
@@ -64,13 +64,13 @@ transcription: <p align="center">THE QUESTION.</p><p><strong>Considerable pains 
   longer claim to be a republican, much less a christian people!</p>
 scholarlyNotes: 
 commentary: 'Samuel J. May (1797-1871) was the Unitarian minister of Brooklyn - the
-  only Unitarian in the entire state of Connecticut at the time - and the best strategic
-  thinker among Prudence Crandall''s local white allies. Here he names the problem
-  quite precisely: "Education has from the first, been regarded in this State highly
-  conducive to private happiness, and the public weal. Yet have our colored brethren
-  been twice angrily denied permission to seek this blessing." The "twice angrily
-  denied" refers to the New Haven Manual Labor College effort of 1831, while the second
-  denial is the Black Law against the Canterbury Female Academy.'
+  only Unitarian clergyman in the entire state of Connecticut at the time - and the
+  best strategic thinker among Prudence Crandall''s local white allies. Here he names
+  the problem quite precisely: "Education has from the first, been regarded in this
+  State highly conducive to private happiness, and the public weal. Yet have our colored
+  brethren been twice angrily denied permission to seek this blessing." The "twice
+  angrily denied" refers to the New Haven Manual Labor College effort of 1831, while
+  the second denial is the Black Law against the Canterbury Female Academy.'
 relatedPeople: Andrew Judson; Samuel J. May; Prudence Crandall
 featured: 'Yes'
 repeated: 

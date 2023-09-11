@@ -28,7 +28,7 @@ relatedImage:
 relatedText: unionist-text-0062
 relatedTextIssue: 1833-08-08 p04.48
 filename: 
-caption: 
+caption: Portrait and signature of Elizur Wright
 order: '413'
 layout: items_item
 collection: items

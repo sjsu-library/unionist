@@ -30,7 +30,7 @@ relatedImage:
 relatedText: unionist--text-0022
 relatedTextIssue: 1833-08-08 p01.08
 filename: 
-caption: 'This quote, from Thomas Jefferson, may be his most oft-quoted text after
+caption: 'This quote, from Thomas Jefferson, may be his most oft-cited text after
   the Declaration of Independence. Mark Twain''s retort is also famous: "When angry,
   count to four; when very angry, swear."'
 order: '695'

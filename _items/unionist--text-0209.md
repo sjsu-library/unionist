@@ -18,9 +18,9 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>  <strong>PAMPHLETS, CARDS AND</strong>  <em>BLANKS</em>  <em>OF
-  EVERY DESCRIPTION neatly printed at this office.</em></p><p>  ☞<br>  <em>An assortment
-  of Blank Cards for sale.”</em></p>"
+transcription: "<p>   <strong>PAMPHLETS, CARDS AND</strong>   <em>BLANKS</em>   <em>OF
+  EVERY DESCRIPTION neatly printed at this office.</em> </p> <p>   ☞   <em>An assortment
+  of Blank Cards for sale.”</em> </p> "
 scholarlyNotes: 
 commentary: "<em>The Unionist</em> was hardly a strong advertisement for printing
   services. These novice editors constantly mix fonts and sizes, and hardly produced

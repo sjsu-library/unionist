@@ -28,8 +28,8 @@ relatedImage:
 relatedText: unionist--text-0074
 relatedTextIssue: 
 filename: 
-caption: A judge's gavel. This second trial of Prudence Crandall on the Black Law
-  was focused on the judge, the famed David Daggett.
+caption: The behavior of the students as witnesses is as vital to understanding these
+  courtroom dramas as the arguments of lawyers and judges.
 order: '558'
 layout: items_item
 collection: items

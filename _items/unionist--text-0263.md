@@ -18,10 +18,10 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: MARRIED.<br><br>On Wednesday last, at the Episcopal Church, by Rev.
-  Mr. Kellogg, Mr. William Putman, to Miss Eliza Day, both of this town.<br><br>In
-  Windham, on the 11th inst., by Rev. Mr; Gregory, Mr. —— Jespon, of Springfield Mass.,
-  to Miss Eliza Hebbard, of Windham.
+transcription: MARRIED.  On Wednesday last, at the Episcopal Church, by Rev. Mr. Kellogg,
+  Mr. William Putman, to Miss Eliza Day, both of this town.  In Windham, on the 11th
+  inst., by Rev. Mr; Gregory, Mr. —— Jespon, of Springfield Mass., to Miss Eliza Hebbard,
+  of Windham.
 scholarlyNotes: I have not researched these folks
 commentary: 'William Putnam (1812-1889) was great-grandson of General Israel Putnam.
   He became a medical doctor, and lived in Brooklyn, Connecticut. He is on record

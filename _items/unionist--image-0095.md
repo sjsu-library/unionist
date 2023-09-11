@@ -1,6 +1,7 @@
 ---
 pid: unionist--image-0095
-title: Liberator PCAd March 02 1833
+title: First Advertisement for the Canterbury Female Academy, from <em>The Liberator</em>,
+  March 02 1833
 bibliographicCitation: "<em>The Liberator</em> 3:9:35 (1833-03-02)"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

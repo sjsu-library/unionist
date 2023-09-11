@@ -18,8 +18,8 @@ category: Unionist content
 articleType: source unclear
 volume: '1'
 issue: '2'
-transcription: <p align="center">POPULAR EDUCATION,</p><p align="center">POLITICALLY
-  CONSIDERED.</p><p>Allowing what we are so continually boasting about, that more
+transcription: <p align="center">POPULAR EDUCATION,</p> <p align="center">POLITICALLY
+  CONSIDERED.</p> <p>Allowing what we are so continually boasting about, that more
   information is universally diffused among us than among any people on earth, and
   that all are at liberty to acquire knowledge to any extent, still it cannot be denied,
   that there is prevalent a great deal of ignorance on many subjects of paramount
@@ -28,7 +28,7 @@ transcription: <p align="center">POPULAR EDUCATION,</p><p align="center">POLITIC
   for us to consider is—whether the people of this country have as much knowledge,
   as is indispensable to their temporal and eternal well-being—their social or individual
   happiness? Whether there is no need of earnestly reiterating every where among then
-  the exhortation of the wise man “get wisdom, get understanding?”</p><p>I am well
+  the exhortation of the wise man “get wisdom, get understanding?”</p> <p>I am well
   aware that much is <em>said</em> about the necessity of a general diffusion of knowledge
   to the preservation of our political constitution. But in respect to this point
   alone, I question if there be common among us a clear perception, and deep feeling
@@ -50,23 +50,23 @@ transcription: <p align="center">POPULAR EDUCATION,</p><p align="center">POLITIC
   the collisions, and assume more or fewer of the offices of society without knowing
   how to distinguish between many things that differ essentially. They at once fall
   into the ranks of this party or that, and are content to swell the number of those,
-  who cry out for one popular leader or another—for this system of measures or that.</p><p>Although
-  we often hear it said, an every body concurs in the sentiment, that a federal republic
-  cannot long&nbsp; be maintained unless the people generally are well informed, yet
-  I ask what school, yes what single school can be named, where the great principles
-  of civil government t are taught, and the peculiar characteristics of our Federal
-  constitution. These, like all other great principles, are simple, and not hard to
-  be understood, unless, the mind has been warped by a regard to sectional interests,
-  or the schemes of a faction.—What young man of common sense might not easily be
-  made, even before he leaves school, to understand these things perfectly? And if
-  all young men were, as they should be, thus taught, moreover made to realize deeply
-  their individual responsibilities as freemen, how difficult would it be to make
-  them the creatures of a party, and to impose upon them as is continually done by
-  factious men. But instead of this, how true it is, and sad as it is true, that most
-  of our young men are left to learn all they are to know of political science, and
-  of their own duties as members of a great Republic, amidst the contests of rival
+  who cry out for one popular leader or another—for this system of measures or that.</p>
+  <p>Although we often hear it said, an every body concurs in the sentiment, that
+  a federal republic cannot long be maintained unless the people generally are well
+  informed, yet I ask what school, yes what single school can be named, where the
+  great principles of civil government are taught, and the peculiar characteristics
+  of our Federal constitution. These, like all other great principles, are simple,
+  and not hard to be understood, unless, the mind has been warped by a regard to sectional
+  interests, or the schemes of a faction.—What young man of common sense might not
+  easily be made, even before he leaves school, to understand these things perfectly?
+  And if all young men were, as they should be, thus taught, moreover made to realize
+  deeply their individual responsibilities as freemen, how difficult would it be to
+  make them the creatures of a party, and to impose upon them as is continually done
+  by factious men. But instead of this, how true it is, and sad as it is true, that
+  most of our young men are left to learn all they are to know of political science,
+  and of their own duties as members of a great Republic, amidst the contests of rival
   factions, and from those whose opinions have been warped by sectional interests
-  and party passions.</p><p>Let it not be said, that I would impose upon the private
+  and party passions.</p> <p>Let it not be said, that I would impose upon the private
   citizen a degree of knowledge, which it can be needful only for pubic functionaries,
   or men of great influence in the community to possess. Let it not be objected, that
   I am urging the example even of a king upon every one, who hears me. Let it not
@@ -80,10 +80,10 @@ transcription: <p align="center">POPULAR EDUCATION,</p><p align="center">POLITIC
   they set up, and whom they will, they put down. And surely no one can foretell,
   which of our youth will hereafter be chosen by their fellow citizens to offices,
   the duties of which nothing less than the wisdom and understanding of Solomon would
-  qualify them to discharge well.</p><p>As every man in the course of events may be
-  called upon to serve the public, every man should qualify himself to do so in the
-  best manner possible. But suppose that ninety out of a hundred of our youth may
-  never be placed in office, be it remembered they are all to take a part in conferring
+  qualify them to discharge well.</p> <p>As every man in the course of events may
+  be called upon to serve the public, every man should qualify himself to do so in
+  the best manner possible. But suppose that ninety out of a hundred of our youth
+  may never be placed in office, be it remembered they are all to take a part in conferring
   offices; and this, though unhappily it is lightly esteemed, is a duty no less than
   a privilege of greatest moment. He is not fit to be a freeman, who does not hold
   his right of suffrage most sacred; too sacred to be prostituted to a party, not
@@ -96,7 +96,8 @@ transcription: <p align="center">POPULAR EDUCATION,</p><p align="center">POLITIC
   Solomon, would it not be all the better for themselves and for the nation? Surely
   so! else are the fundamental principles of our civil constitution false!!</p>
 scholarlyNotes: Authorship unclear
-commentary: Could be Charles C. Burleigh, or someone in the family
+commentary: The authorship is not given, so perhaps it is written by Charles C. Burleigh,
+  or someone in his family.
 relatedPeople: 
 featured: 
 repeated: 

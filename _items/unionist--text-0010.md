@@ -22,7 +22,8 @@ transcription: THE UNIONIST.—A new paper, with this title, has been commenced,
   a few weeks, at Brooklyn, Con. It is edited by C. C. Burleigh, and advocates the
   doctrine of the immediate emancipation of slaves in the United States.
 scholarlyNotes: 
-commentary: This notice is perhaps the least partisan of the group.
+commentary: This notice remains factual rather than constituting an endorsement or
+  attack.
 relatedPeople: Charles C. Burleigh
 featured: 
 repeated: 

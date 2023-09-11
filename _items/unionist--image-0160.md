@@ -28,7 +28,7 @@ relatedImage:
 relatedText: unionist--text-0088
 relatedTextIssue: 1833-09-05 p01.14
 filename: 
-caption: Bishop Richard Watson Lord Bishop of Landaff
+caption: Bishop Richard Watson Lord Bishop of Landaff (1737-1816)
 order: '571'
 layout: items_item
 collection: items

@@ -18,13 +18,13 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: A meeting of the “Anti-Slavery Society of Plainfield and its vicinity,”
-  will be<br>holden at the Central Factory school house in Plainfield on WEDNESDAY
-  the 11st<br>inst., at half past six, P.M.&nbsp; An address is expected from<br>Rev.
-  S.J. MAY. Ladies and gentlemen who feel an interest in the cause, are<br>respectfully
-  invited to attend.<br>
+transcription: 'A meeting of the “Anti-Slavery Society of Plainfield and its vicinity,”
+  will be holden at the Central Factory school house in Plainfield on WEDNESDAY the
+  11th inst., at half past six, P.M. An address is expected from Rev. S.J. MAY. Ladies
+  and gentlemen who feel an interest in the cause, are respectfully invited to attend. '
 scholarlyNotes: 
-commentary: 
+commentary: Note the explicit invitation to women as well as men. Charles Burleigh's
+  father Rinaldo, and elder brother John, were also involved in this inaugural meeting.
 relatedPeople: Samuel J. May
 featured: 
 repeated: 

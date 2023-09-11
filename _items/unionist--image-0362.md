@@ -32,7 +32,7 @@ filename:
 caption: 'The <em>Connecticut Courant</em> republished <em>The Unionist</em> reports
   on the trials, and other news items too. This greatly assisted <em>The Unionist''s</em>
   reputation for honesty and good reportage. '
-order: '774'
+order: '773'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0362/full/250,/0/default.jpg"

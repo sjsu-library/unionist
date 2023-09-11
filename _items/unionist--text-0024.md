@@ -19,9 +19,9 @@ articleType:
 volume: '1'
 issue: '2'
 transcription: "<p>We cannot but admire the facility with which the Editor of the
-  Advertiser disposes of his promises, which like the poets’ oaths,</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  “Are but words, and words but wind</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Too feeble instruments to bind.”</p><p>It is not every man that can make a promise
+  Advertiser disposes of his promises, which like the poets’ oaths,</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  “Are but words, and words but wind</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Too feeble instruments to bind.”</p> <p>It is not every man that can make a promise
   Monday, and “revoke” it by the middle of the same week, but that faculty seems to
   belong in a rather eminent degree to our “courteous” neighbor. Nor is our admiration
   much less, when we notice his ingenious method of convincing those who, he thinks,

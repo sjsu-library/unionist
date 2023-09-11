@@ -1,7 +1,7 @@
 ---
 pid: unionist--image-0101
-title: London_Leather,_Hide_and_Wool_Exchange_Public_House,_Bermondsey_(03)
-bibliographicCitation: 
+title: London Leather, Hide and Wool Exchange
+bibliographicCitation: https://commons.wikimedia.org/wiki/File:London_Leather,_Hide_and_Wool_Exchange_Public_House,_Bermondsey_%2803%29.jpg
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Ethan Doyle White

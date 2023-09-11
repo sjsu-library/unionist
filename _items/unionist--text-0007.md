@@ -29,8 +29,8 @@ transcription: The Unionist.’ Such is the title of a new paper just establishe
   receive an adequate support from the friends of truth and the enemies of oppression
   in that quarter.
 scholarlyNotes: 
-commentary: The Liberator, the most significant Abolitionist newspaper of the time,
-  was an avid supporter of The Unionist from the start.
+commentary: "<em>The Liberator</em>, the most significant Abolitionist newspaper of
+  the time, was an avid supporter of <em>The Unionist</em> from the start."
 relatedPeople: Charles C. Burleigh; Andrew Judson; Prudence Crandall
 featured: 
 repeated: 

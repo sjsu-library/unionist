@@ -31,8 +31,8 @@ filename:
 caption: Frederick Douglass's "What to the Slave is the Fourth of July" (1852) is
   justly his most famous speech. It was, though, not an isolated instance, but the
   pinnacle of a long Abolitionist tradition, in both Black and white communities,
-  of pointing out the gap between celebrating American freedom while slavery still
-  existed.
+  of pointing out the gap between the horros of slavery and the celebration of American
+  freedom.
 order: '747'
 layout: items_item
 collection: items

@@ -18,12 +18,12 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<em>Something extempore from Isaac Hill.</em>—A letter from Washington,
-  March 20, says “Among the most extraordinary<br>occurrences that have taken place
-  here, that I have heard of, is that of Isaac<br>Hill’s being toasted at a late meeting
-  of the Typographical Society, when he<br>rose, and <em>pulling a written speech
-  from his pocket,</em>he began by reading thus, “Mr. President being unexpectedly
-  called upon by<br>the toast just offered, &amp;c.”<br>"
+transcription: "<em>Something extempore from Isaac Hill.</em> —A letter from Washington,
+  March 20, says “Among the most extraordinary occurrences that have taken place here,
+  that I have heard of, is that of Isaac Hill’s being toasted at a late meeting of
+  the Typographical Society, when he rose, and <em>pulling a written speech from his
+  pocket,</em> he began by reading thus, “Mr. President being unexpectedly called
+  upon by the toast just offered, &amp;c.” "
 scholarlyNotes: 
 commentary: 
 relatedPeople: Isaac Hill

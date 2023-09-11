@@ -19,13 +19,13 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: The Advertiser man doubts the correctness of our statement in reference
-  to the<br>school for colored females in New Haven. If he were only as anxious to
-  keep his<br>own columns free from misstatements, as he is to find errors in ours,
-  we should<br>less frequently be under the unpleasant necessity of pointing out his
-  departures<br>from truth. As to the school in New-Haven, we have only to say that
-  our<br>information was derived from Mr. Tappan, and that Mr. Francis Robinson of
-  Yale<br>College, (now in this town on a visit to his parents) confirms the statement.<br>
+transcription: 'The Advertiser man doubts the correctness of our statement in reference
+  to the school for colored females in New Haven. If he were only as anxious to keep
+  his own columns free from misstatements, as he is to find errors in ours, we should
+  less frequently be under the unpleasant necessity of pointing out his departures
+  from truth. As to the school in New-Haven, we have only to say that our information
+  was derived from Mr. Tappan, and that Mr. Francis Robinson of Yale College, (now
+  in this town on a visit to his parents) confirms the statement. '
 scholarlyNotes: I wish I knew what the statement was, or who Mr. Francis Robinson
   was
 commentary: 

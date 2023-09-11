@@ -18,15 +18,16 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: A STATUE OF JEFFERSON, full length, in plaster, bronzed, has been received
-  from<br>France, and presented to the corporation of the City of New York. It was<br>fashioned
-  by the celebrated David, and is pronounced to be an excellent<br>likeness.<br>
+transcription: 'A STATUE OF JEFFERSON, full length, in plaster, bronzed, has been
+  received from France, and presented to the corporation of the City of New York.
+  It was fashioned by the celebrated David, and is pronounced to be an excellent likeness. '
 scholarlyNotes: 
-commentary: <p>As of 2021, this statue has been removed from the City Council chamber,
+commentary: '<p>As of 2021, this statue has been removed from the City Council chamber,
   and sent to the New-York Historical Society, following more revelations concerning
-  Jefferson's slave-owning past</p><p>  This is the statue in question -<br>  <a<br>    href="https://www.washingtonpost.com/history/2021/11/23/thomas-jefferson-statue-removed-nyc-slaveowner/"<br>  >    https://www.washingtonpost.com/history/2021/11/23/thomas-jefferson-statue-removed-nyc-slaveowner/<br>  </a>  -
-  now removed (accessed 10/9/22)<br></p><p>  See also here -<br>  <a<br>    href="https://news.artnet.com/art-world/thomas-jefferson-statue-headed-new-york-historical-society-2035662"<br>  >    https://news.artnet.com/art-world/thomas-jefferson-statue-headed-new-york-historical-society-2035662<br>  </a></p><p>  The
-  artist David d’Angers (1788-1856)<br>  <a href="https://en.wikipedia.org/wiki/David_d%27Angers">    https://en.wikipedia.org/wiki/David_d%27Angers<br>  </a></p>
+  Jefferson''s slave-owning past</p><p>   This is the statue in question -   <a     href="https://www.washingtonpost.com/history/2021/11/23/thomas-jefferson-statue-removed-nyc-slaveowner/"   >     https://www.washingtonpost.com/history/2021/11/23/thomas-jefferson-statue-removed-nyc-slaveowner/   </a>   -
+  now removed (accessed 10/9/22) </p> <p>   See also here -   <a     href="https://news.artnet.com/art-world/thomas-jefferson-statue-headed-new-york-historical-society-2035662"   >     https://news.artnet.com/art-world/thomas-jefferson-statue-headed-new-york-historical-society-2035662   </a>
+  </p> <p>   The artist David d’Angers (1788-1856)   <a href="https://en.wikipedia.org/wiki/David_d%27Angers">     https://en.wikipedia.org/wiki/David_d%27Angers   </a>
+  </p> '
 relatedPeople: David d’Angers
 featured: 'Yes'
 repeated: 

@@ -18,17 +18,17 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<p>  At a Court of Probate, holden at Killingly, within and for the
-  District of<br>  Killingly on the 14<br>  <sup>th</sup>  day of March 1834.<br></p><p>
-  \ Present, THOMAS BACKUS,<br>  <em>Judge.</em></p><p>  On motion of Marvin Kies
-  administrator on the estate of William W. Kies late<br>  of Killingly within said
-  District deceased this Court doth limit six months<br>  for the creditors of said
-  estate to present their claims to said administrator<br>  after he shall have given
-  public notice of this order by publishing the same<br>  in a newspaper published
-  in Brooklyn in the county of Windham and by posting<br>  the same on the signpost,
-  in the South Parish in said town of Killingly.<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Certified<br>  from Record by<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ THOMAS BACkUS, Judge<br></p><p></p>"
+transcription: "<p>   At a Court of Probate, holden at Killingly, within and for the
+  District of   Killingly on the 14   <sup>th</sup>   day of March 1834. </p> <p>
+  \  Present, THOMAS BACKUS,   <em>Judge.</em> </p> <p>   On motion of Marvin Kies
+  administrator on the estate of William W. Kies late   of Killingly within said District
+  deceased this Court doth limit six months   for the creditors of said estate to
+  present their claims to said administrator   after he shall have given public notice
+  of this order by publishing the same   in a newspaper published in Brooklyn in the
+  county of Windham and by posting   the same on the signpost, in the South Parish
+  in said town of Killingly. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Certified   from Record by </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  \  THOMAS BACkUS, Judge </p> <p></p> "
 scholarlyNotes: 
 commentary: 
 relatedPeople: Thomas Backus (probate judge); Marvin Kies (probate case); William

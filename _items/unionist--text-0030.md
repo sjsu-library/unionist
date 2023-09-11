@@ -20,7 +20,7 @@ volume: '1'
 issue: '2'
 transcription: The Advertiser man appears willing to admit that the credibility of
   an Abolitionist’s testimony is not inferior to one tenth of that of an ordinary
-  witness.—Would the Abolitionists could reciprocate the compliment
+  witness.—Would the Abolitionists could reciprocate the compliment!
 scholarlyNotes: 
 commentary: Witty but immature insults were traded
 relatedPeople: James Holbrook (inferred)

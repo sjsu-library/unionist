@@ -18,9 +18,9 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
-transcription: "<p>  Died at Philadelphia, on Saturday the 27<br>  <sup>th</sup>  ult.
-  In the sixtieth year of his age, Com. WILLIAM BAINBRIDGE, of the United<br>  States
-  Navy.<br></p><p></p>"
+transcription: "<p>   Died at Philadelphia, on Saturday the 27   <sup>th</sup>   ult.
+  In the sixtieth year of his age, Com. WILLIAM BAINBRIDGE, of the United   States
+  Navy. </p> <p></p> "
 scholarlyNotes: No source given; maybe too famous to need any?
 commentary: William Bainbridge (1774-1833) was an important figure in the early decades
   of the Republic.

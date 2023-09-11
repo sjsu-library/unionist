@@ -18,27 +18,26 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
-transcription: If the provisions of this law can be reconciled with the nature of
-  our<br>government, or the principles of common justice, we greatly mistake its<br>character.
-  We know not on what grounds the distinction which it makes can be<br>justified.
-  Why should one portion of our community be deprived of privileges<br>enjoyed by
-  others, merely on account of a difference of complexion? If there is<br>any good
-  reason for the restrictions embraced in the law, let them at least<br>extend to
-  schools and seminaries of every description; let all fare alike, the<br>white as
-  well as the black. But let not the latter be visited with pains and<br>penalties
-  while the former are exempt. As to the clamor which is raised about<br>the fanaticism
-  of those who are friendly to the instruction of the blacks, or<br>the sneers and
-  censures so liberally bestowed upon Miss Crandall, they cannot,<br>even if well
-  founded, alter the character of the law. The correctness of their<br>view, and the
-  expediency of their measures, are different questions from the<br>justice of the
-  law by which it is proposed to counteract them. The indiscretion<br>of individuals,
-  allowing them to exist, are no justification of a legal<br>enactment unequal, oppressive
-  and wrong in its provisions, and at war with the<br>genius of our republican institutions.
-  In some of the papers from the slave<br>states, the law as was to be expected, is
-  commended; it is seen to be in<br>accordance with the rigorous measures adopted
-  under a system of slavery—but in<br>other sections of our country, it is strongly
-  condemned, and regarded as a shame<br>and reproach to our state.” –<br><em>Connecticut
-  Courant</em>
+transcription: 'If the provisions of this law can be reconciled with the nature of
+  our government, or the principles of common justice, we greatly mistake its character.
+  We know not on what grounds the distinction which it makes can be justified. Why
+  should one portion of our community be deprived of privileges enjoyed by others,
+  merely on account of a difference of complexion? If there is any good reason for
+  the restrictions embraced in the law, let them at least extend to schools and seminaries
+  of every description; let all fare alike, the white as well as the black. But let
+  not the latter be visited with pains and penalties while the former are exempt.
+  As to the clamor which is raised about the fanaticism of those who are friendly
+  to the instruction of the blacks, or the sneers and censures so liberally bestowed
+  upon Miss Crandall, they cannot, even if well founded, alter the character of the
+  law. The correctness of their view, and the expediency of their measures, are different
+  questions from the justice of the law by which it is proposed to counteract them.
+  The indiscretion of individuals, allowing them to exist, are no justification of
+  a legal enactment unequal, oppressive and wrong in its provisions, and at war with
+  the genius of our republican institutions. In some of the papers from the slave
+  states, the law as was to be expected, is commended; it is seen to be in accordance
+  with the rigorous measures adopted under a system of slavery—but in other sections
+  of our country, it is strongly condemned, and regarded as a shame and reproach to
+  our state.” – <em>Connecticut Courant</em> '
 scholarlyNotes: 
 commentary: The Connecticut Courant was arguably the flagship newspaper of the state,
   so its support for the cause of Crandall was signficant.

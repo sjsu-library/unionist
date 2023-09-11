@@ -19,12 +19,11 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: "<em>The Americans, by an American.</em>—“The Rev. Calvin Colton has
-  written a book entitled ‘The Americans,’ in which<br>he gives a deserved castigation
-  to Capt. Basil Hall, Mrs. Trollope, and the<br>English Reviewers. This work, which
-  is said to be a very clever performance,<br>coming on the back of Mr. Stuart’s,
-  will pretty well settle the question with<br>these traducers of American character
-  and manners.<br>"
+transcription: "<em>The Americans, by an American.</em> —“The Rev. Calvin Colton has
+  written a book entitled ‘The Americans,’ in which he gives a deserved castigation
+  to Capt. Basil Hall, Mrs. Trollope, and the English Reviewers. This work, which
+  is said to be a very clever performance, coming on the back of Mr. Stuart’s, will
+  pretty well settle the question with these traducers of American character and manners. "
 scholarlyNotes: 
 commentary: 'This book, <em>The Americans, by an American in London</em>, by Calvin
   Colton (1789-1857), can be found in a [Hathitrust digitization.] (https://babel.hathitrust.org/cgi/pt?id=yale.39002007679153&view=1up&seq=7&q1=american%20colonization%20society)  It

@@ -18,7 +18,7 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: BLANK CARDS<br><br>
+transcription: 'BLANK CARDS  '
 scholarlyNotes: 
 commentary: 'And thus fittingly ends the last column of existing <em>Unionist</em>
   issues! '

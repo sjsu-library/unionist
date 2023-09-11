@@ -19,10 +19,10 @@ category: Unionist content
 articleType: 
 volume: '2'
 issue: '6'
-transcription: MISS CRANDALL’S SCHOOL ABANDONED. Human endurance has its bounds, and
-  the requirements of duty have theirs. By the following Advertisements, which we
-  copy from the Brooklyn Unionist, it appears that another cowardly attack has been
-  made upon Miss Crandall’s (now Mrs. Phileo’s) dwelling, by some midnight ruffians
+transcription: 'MISS CRANDALL’S SCHOOL ABANDONED. Human endurance has its bounds,
+  and the requirements of duty have theirs. By the following Advertisements, which
+  we copy from the Brooklyn Unionist, it appears that another cowardly attack has
+  been made upon Miss Crandall’s (now Mrs. Phileo’s) dwelling, by some midnight ruffians
   in Canterbury, and that it has been deemed advisable to abandon the school in that
   heathenish village, and to let ANDREW T. JUDSON and his associates, with the whole
   State of Connecticut, have all the infamy and guilt which attach to the violent
@@ -40,29 +40,29 @@ transcription: MISS CRANDALL’S SCHOOL ABANDONED. Human endurance has its bound
   insecure. I have therefore thought it proper, and do hereby advertise the house
   and appurtenances thereof for sale. For further particulars inquire of the subscriber,
   or of PARDON CRANDALL, of Canterbury, or SAMUEL J. MAY of Brooklyn. CALVIN PHILEO.
-  Canterbury, Sept. 11, 1834 <br>☞ From a letter which we have just received from
-  our esteemed coadjutor, Rev. SAMUEL J. MAY, we make the following extract, relating
-  to the above shameful outrage:<br>        ‘You will be grieved to learn from the
-  advertisements, that Mrs. Phileo’s house had been again assaulted. On Tuesday night,
-  12 o’clock, five windows were smashed in at once. I went down yesterday, so soon
-  as I heard of it. They have never been so much disconcerted before. Their two front
-  rooms are hardly tenantable, and yet they are unwilling to repair the damage, not
-  knowing but the destroyers may come upon them again, so soon as they are whole,
-  and repeat the outrage. As yet, their neighbors have done nothing, nor have they
-  shown any disposition to do any thing to protect them from outrage. The pupils are
-  very much intimidated, and the instructors themselves have hardly resolution to
-  go on in opposition to such lawless neighbors. After due consideration, therefore,
-  it was yesterday determined that the school should be suspended. The pupils accordingly
-  will go to their homes as soon as convenient. I was requested to go in to the School,
-  and announce to them our decision—and I have never before felt so sensible of the
-  uncalled for, cruel persecution which has been carried on in this New-England village
-  against a family of defenceless females. Twenty harmless girls, whose only offence
-  against the peace of the community is that they have come together there to obtain
-  useful knowledge, were to be told that they had better go away, because forsooth
-  the house in which they dwell is not protected by the conservators of the peace,
-  the officers of justice, in the community in which it is situated. The words almost
-  blistered my lips. My heart glowed with indignation. I felt ashamed of Canterbury,
-  ashamed of Connecticut, ashamed of my Country.’<br><br>
+  Canterbury, Sept. 11, 1834  ☞ From a letter which we have just received from our
+  esteemed coadjutor, Rev. SAMUEL J. MAY, we make the following extract, relating
+  to the above shameful outrage:         ‘You will be grieved to learn from the advertisements,
+  that Mrs. Phileo’s house had been again assaulted. On Tuesday night, 12 o’clock,
+  five windows were smashed in at once. I went down yesterday, so soon as I heard
+  of it. They have never been so much disconcerted before. Their two front rooms are
+  hardly tenantable, and yet they are unwilling to repair the damage, not knowing
+  but the destroyers may come upon them again, so soon as they are whole, and repeat
+  the outrage. As yet, their neighbors have done nothing, nor have they shown any
+  disposition to do any thing to protect them from outrage. The pupils are very much
+  intimidated, and the instructors themselves have hardly resolution to go on in opposition
+  to such lawless neighbors. After due consideration, therefore, it was yesterday
+  determined that the school should be suspended. The pupils accordingly will go to
+  their homes as soon as convenient. I was requested to go in to the School, and announce
+  to them our decision—and I have never before felt so sensible of the uncalled for,
+  cruel persecution which has been carried on in this New-England village against
+  a family of defenceless females. Twenty harmless girls, whose only offence against
+  the peace of the community is that they have come together there to obtain useful
+  knowledge, were to be told that they had better go away, because forsooth the house
+  in which they dwell is not protected by the conservators of the peace, the officers
+  of justice, in the community in which it is situated. The words almost blistered
+  my lips. My heart glowed with indignation. I felt ashamed of Canterbury, ashamed
+  of Connecticut, ashamed of my Country.’  '
 scholarlyNotes: 
 commentary: After the direct <em>Unionist</em> content, a letter from Samuel J. May
   describing the ending of the school is attached. I am including it here because

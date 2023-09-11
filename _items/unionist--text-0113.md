@@ -19,10 +19,10 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: QUITE NEW.—The following is from an English newspaper advertisement:—“Patent<br>machines
-  for teaching arithmetic for the use of schools, and more especially of<br>private
-  families, by John Tyrell, Esq. A.M. Complete in a handsome mahogany box,<br>price
-  16s.<br>
+transcription: 'QUITE NEW.—The following is from an English newspaper advertisement:—“Patent
+  machines for teaching arithmetic for the use of schools, and more especially of
+  private families, by John Tyrell, Esq. A.M. Complete in a handsome mahogany box,
+  price 16s. '
 scholarlyNotes: 
 commentary: 
 relatedPeople: John Tyrell

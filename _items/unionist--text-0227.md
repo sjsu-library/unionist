@@ -19,18 +19,17 @@ category: Negative notice
 articleType: 
 volume: 
 issue: 
-transcription: "<p>  “The Middletown Sentinel and Witness, contains a statement from
-  a man who says<br>  that he saw an<br>  <em>Angel</em>  at Chatham, Con.—that the
-  Angel communicated the important intelligence that<br>  Hannah Marsh and Caroline
-  Blood had experienced religion,—that somebody<br>  had turned Universalist,—and
-  that the world would pass away before the year<br>  1848.”<br></p><p>  “The Editor
-  of Brooklyn Unionist, (advocating we<br>  believe a<br>  <em>union</em>  between
-  the white and black races) in remarking on this statement, says<br>  <em>he</em>
-  \ sees half-a-dozen Angels a day with<br>  <em>pouting</em>  lips;—the man must
-  half fallen in love with “half a dozen” misses of color!”<br>  Verily, we opine
-  that he would not be united to one of the charming Philisses<br>  <em>very</em>
-  \ long, before he would become an advocate of<br>  <em>immediate emancipation.</em>
-  \ ”<br></p>"
+transcription: "<p>   “The Middletown Sentinel and Witness, contains a statement from
+  a man who says   that he saw an   <em>Angel</em>   at Chatham, Con.—that the Angel
+  communicated the important intelligence that   Hannah Marsh and Caroline Blood had
+  experienced religion,—that somebody   had turned Universalist,—and that the world
+  would pass away before the year   1848.” </p> <p>   “The Editor of Brooklyn Unionist,
+  (advocating we   believe a   <em>union</em>   between the white and black races)
+  in remarking on this statement, says   <em>he</em>   sees half-a-dozen Angels a
+  day with   <em>pouting</em>   lips;—the man must half fallen in love with “half
+  a dozen” misses of color!”   Verily, we opine that he would not be united to one
+  of the charming Philisses   <em>very</em>   long, before he would become an advocate
+  of   <em>immediate emancipation.</em>   ” </p> "
 scholarlyNotes: cross reference to unionist--text-0164
 commentary: '"Philisses" here is a cruel taunt against Black talent and intelligence,
   as it mocks the accomplishment of Phillis Wheatley, the Black woman poet of the

@@ -25,8 +25,8 @@ transcription: We confess having spoken without sufficient reflection, in saying
   to communications on both sides of the Canterbury question, a promise of which we
   presume he will not require the “measurement,” since he has, by assigning his reasons
   for so doing, admitted having made and revoked it. But if he chooses to have it
-  that he has made no express promises to conduct his paper ”with that independence
-  and fairness which ought to characterize a public journal,” we are willing he should
+  that he has made no express promises to conduct his paper "with that independence
+  and fairness which ought to characterize a public journal," we are willing he should
   have it so, and if he prefers to set in such a manner as shows that he considers
   himself under no implied obligation to that fairness, why! Let him so act. But really,
   we did not expect he would publicly take exceptions to our declaration, that he

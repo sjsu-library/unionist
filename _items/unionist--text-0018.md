@@ -18,12 +18,12 @@ category: Unionist content
 articleType: source unclear
 volume: '1'
 issue: '2'
-transcription: <p align="center">THE SPIRIT OF REFORM.</p><p>What is the spirit of
+transcription: <p align="center">THE SPIRIT OF REFORM.</p> <p>What is the spirit of
   reform? What is it that has animated and enabled men from time to time to become
   reformers, not disturbers, but true reformers; and not religious reformers alone,
   but moral reformers of all descriptions? Has it not been a sense of independence
   and personal responsibleness, and of superiority to what are usually termed existing
-  circumstances and the spirit of the age?</p><p>A very large proportion of the evil
+  circumstances and the spirit of the age?</p> <p>A very large proportion of the evil
   which has always existed in society, may be traced to the want of personal independence,
   and disregard of personal responsibility. We do not mean by independence that fiery
   essence of pride and selfishness, which is quick to resent a slight or wrong; which
@@ -49,7 +49,7 @@ transcription: <p align="center">THE SPIRIT OF REFORM.</p><p>What is the spirit 
   than the broad, dusty, soiled and soiling road, which is beaten by the multitudinous
   and crowding world. It sets his feet and his heart at liberty, and breathes into
   his soul the consciousness of individual existence and value, and the sense of individual
-  duty.</p><p>This is the independence, to the want of which may be traced and referred
+  duty.</p> <p>This is the independence, to the want of which may be traced and referred
   very much of past and existing evil. Not possessing it, men lose themselves, their
   accountability, their dignity, all that constitutes them men, in the absorbing mass;
   where they acquire the color, and motions, and tendencies of the mighty vortex which
@@ -69,7 +69,7 @@ transcription: <p align="center">THE SPIRIT OF REFORM.</p><p>What is the spirit 
   the multitude slight, or forsake, or forbid it. And thus it comes, that the amount
   of evil is so vastly increased, because there are so many who blindly and carelessly,
   or cowardly, without using their own eyes to observe, or their own minds to prove,
-  follow the multitude to do it.</p><p>But must we be singular? Must we be eccentric?
+  follow the multitude to do it.</p> <p>But must we be singular? Must we be eccentric?
   Must we do nothing that others do; say nothing that others say?—Must we be perpetually
   quarrelling with society about its usages and habits? No. We are to do none of these
   things. It is best that we should follow the many in all ways which are indifferent;

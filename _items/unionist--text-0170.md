@@ -18,8 +18,8 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>  The trial of Mr. Garrison has been put off to the March session
-  of the County<br>  Court.<br></p><p></p>"
+transcription: "<p>   The trial of Mr. Garrison has been put off to the March session
+  of the County   Court. </p> <p></p> "
 scholarlyNotes: 
 commentary: Garrison faced charges of libel. The trial was never held. Garrison was
   imprisoned once in Baltimore, and was put under lock and key for his own safety

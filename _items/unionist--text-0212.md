@@ -18,12 +18,12 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>NOTICE,</p><p>  THE subscriber tenders his sincere thanks to his
-  customers for past favors,<br>  and solicits a continuance of them. But as many
-  are deficient in the most<br>  important item, this is therefore to invite all who
-  are indebted to him, whose<br>  accounts are more than six months standing, to call
-  and settle the same<br>  without delay.</p>  <p>DAVID CLARK.<br></p><p>  Brooklyn
-  Oct. 30<sup>th</sup>,1833<br></p><p>14</p>"
+transcription: "<p>NOTICE,</p> <p>   THE subscriber tenders his sincere thanks to
+  his customers for past favors,   and solicits a continuance of them. But as many
+  are deficient in the most   important item, this is therefore to invite all who
+  are indebted to him, whose   accounts are more than six months standing, to call
+  and settle the same   without delay.</p>   <p>DAVID CLARK. </p> <p>   Brooklyn Oct.
+  30<sup>th</sup>,1833 </p> <p>14</p> "
 scholarlyNotes: 
 commentary: Bad credit seems to be a problem plaguing merchants across eras.
 relatedPeople: David Clark

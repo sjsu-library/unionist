@@ -19,14 +19,14 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>  LIST of letters remaining in the Post Office at Killingly, Ct.
-  Oct. 1<sup>st</sup>, 1833<br></p><p><p>Adrien Levi</p>\r<br><p>Adams Elisha</p>\r<br><p>Adams
-  James</p>\r<br><p>Adams George</p>\r<br><p>Brown Anthony</p>\r<br><p>Brown Wm. </p>\r<br><p>Crowningshield
-  R</p>.\r<br><p>Cady Lydia</p>\r<br><p>Danielson W. & T. </p>\r<br><p>Day Lucius
-  2</p>\r<br><p>Day Cyrus Capt</p>\r<br><p>Day Sam’l</p>\r<br><p>Eaton Polly</p>\r<br><p>Graves
-  Whitney</p>\r<br><p>Hutchins Sam’l</p>\r<br><p>Hutchins, Sam’l. II</p>\r<br><p>Haily
-  Benj. </p>\r<br><p>Jillson Buffin</p>\r<br><p>Sparks Julin 2</p>\r<br><p>Short Seth</p>\r<br><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ GEO. DANIELSON P.M.<br></p>"
+transcription: "<p>   LIST of letters remaining in the Post Office at Killingly, Ct.
+  Oct. 1<sup>st</sup>, 1833 </p> <p> <p>Adrien Levi</p>\r <p>Adams Elisha</p>\r <p>Adams
+  James</p>\r <p>Adams George</p>\r <p>Brown Anthony</p>\r <p>Brown Wm. </p>\r <p>Crowningshield
+  R</p>.\r <p>Cady Lydia</p>\r <p>Danielson W. & T. </p>\r <p>Day Lucius 2</p>\r <p>Day
+  Cyrus Capt</p>\r <p>Day Sam’l</p>\r <p>Eaton Polly</p>\r <p>Graves Whitney</p>\r
+  <p>Hutchins Sam’l</p>\r <p>Hutchins, Sam’l. II</p>\r <p>Haily Benj. </p>\r <p>Jillson
+  Buffin</p>\r <p>Sparks Julin 2</p>\r <p>Short Seth</p>\r <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  \  GEO. DANIELSON P.M. </p> "
 scholarlyNotes: This same sort of list for Brooklyn or Canterbury could have revealed
   names of students or school associates
 commentary: If we could find similar lists for Canterbury, Plainfield, and/or Brooklyn,

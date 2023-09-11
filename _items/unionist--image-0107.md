@@ -1,6 +1,7 @@
 ---
 pid: unionist--image-0107
-title: Apostle Paul p254 epistles from prison
+title: The Life and Travels of the Apostle Paul, p. 254, concerning his epistles from
+  prison
 bibliographicCitation: "<em>The Life and Travels of the Apostle Paul, Prepared with
   Questions for the Use of Sunday Schools, with a Map</em>, no author given (Boston:
   Lilly, Wait, Colman and Holden, 1833), p.254. online at https://play.google.com/store/books/details?id=AzwAAAAAYAAJ&rdid=book-AzwAAAAAYAAJ&rdot=1"

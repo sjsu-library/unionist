@@ -18,8 +18,8 @@ category: Unionist content
 articleType: original
 volume: '1'
 issue: '2'
-transcription: <p align="center">PROSPECTUS</p><p align="center">OF</p><p align="center"><strong>THE
-  UNIONIST.</strong></p><p>At no time more than at the present, has been felt the
+transcription: <p align="center">PROSPECTUS</p> <p align="center">OF</p> <p align="center"><strong>THE
+  UNIONIST.</strong></p> <p>At no time more than at the present, has been felt the
   want, in this county, of a firm, independent press. The acts of our last legislature
   are a sufficient index of the character of that party which has obtained, for a
   brief space we hope, the ascendancy in this State. We cannot, for a moment, believe
@@ -31,21 +31,22 @@ transcription: <p align="center">PROSPECTUS</p><p align="center">OF</p><p align=
   a few party leaders, that a fair discussion of the pretensions and measures of our
   prominent men, cannot find admission to its columns. Hence the necessity of another
   organ of communication to the public, on the great interests of the state and nation,
-  which has brought the Unionist before the public.</p><p>This paper will be pledged
+  which has brought the Unionist before the public.</p> <p>This paper will be pledged
   to no party, but will canvass the claims of all aspirants to the public favor, and
   all measures of public policy, on their own merits. On all the great questions upon
   which the mind of the community is divided, a free admission will be given to well
   and candidly written articles on both sides, if offered, but every thing of a scurrilous
-  or abusive character will be excluded, come from what source it may.</p><p>The Unionist
-  will be the advocate of temperance, virtue and sound morality, and will pursue that
-  course which a deep conviction of the truth of the sentiment contained in its motto
-  points out. It will also contain items of general intelligence, literary selections
-  and the usual variety of miscellaneous matter, and no effort will be spared on the
-  part of the editor to make it worthy of the public favor. How far his efforts will
-  succeed, the future course of the paper will determine.</p><p>☛All who receive this
-  number of the Unionist, and approve its plan, or are willing to patronize a work
-  of this character, are requested to send us their names as subscribers, taking care
-  to specify particularly, the place to which they wish their papers sent.</p><p></p>
+  or abusive character will be excluded, come from what source it may.</p> <p>The
+  Unionist will be the advocate of temperance, virtue and sound morality, and will
+  pursue that course which a deep conviction of the truth of the sentiment contained
+  in its motto points out. It will also contain items of general intelligence, literary
+  selections and the usual variety of miscellaneous matter, and no effort will be
+  spared on the part of the editor to make it worthy of the public favor. How far
+  his efforts will succeed, the future course of the paper will determine.</p> <p>☛All
+  who receive this number of the Unionist, and approve its plan, or are willing to
+  patronize a work of this character, are requested to send us their names as subscribers,
+  taking care to specify particularly, the place to which they wish their papers sent.</p>
+  <p></p>
 scholarlyNotes: 
 commentary: While there is no direct reference to the Canterbury Female Academy here,
   the "recent enactments of our Legislature" would have left no doubt in the minds

@@ -30,7 +30,7 @@ relatedTextIssue:
 filename: 
 caption: This photograph of a young Charles C. Burleigh gives some indication of why
   his personal appearance was considered eccentric.
-order: '771'
+order: '770'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0359/full/250,/0/default.jpg"

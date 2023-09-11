@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0109
-title: Still_Life_Basket_of_Peaches_by_Raphaelle_Peale_1816
+title: Still Life Basket of Peaches, by Raphaelle Peale, 1816
 bibliographicCitation: By Raphaelle Peale - Yale University Art Gallery, Public Domain,
   https://commons.wikimedia.org/w/index.php?curid=14746061
 bibliographicCitationRepublished: 

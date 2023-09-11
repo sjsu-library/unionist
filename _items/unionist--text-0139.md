@@ -19,45 +19,45 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: '<p>  WHEREAS, attempts have been made to establish literary institutions
-  in this<br>  State for the instruction of colored persons belonging to other states
-  and<br>  countries, which would tend to the great increase of the colored population
-  of<br>  the State, and thereby to the injury of the people: Therefore,<br></p><p>  Sec.
-  1. Be it enacted by the Senate and House of Representatives, in General<br>  Assembly
-  convened, That no person shall set up or establish in this State any<br>  school,
-  academy, or literary institution, for the instruction or education of<br>  colored
-  persons who are not inhabitants of this state, nor instruct or teach<br>  in any
-  school, academy, or other literary institution whatsoever in this<br>  State, or
-  harbor or board, for the purpose of attending or being taught or<br>  instructed
-  in any such school, academy, or literary institution, any colored<br>  person who
-  is not an inhabitant of any town in this state, without the<br>  consent, in writing,
-  first obtained of a majority of the civil authority, and<br>  also of the selectmen
-  of the town in which such school, academy, or literary<br>  institution is situated;
-  and each and every person who shall knowingly do any<br>  act forbidden as aforesaid,
-  or shall be aiding or assisting therein, shall,<br>  for the first offence, forfeit
-  and pay to the treasurer of state, a fine of<br>  one hundred dollars, and for the
-  second offence shall forfeit and pay a fine<br>  of two hundred dollars, and so
-  double for every offence of which he or she<br>  shall be convicted. And all informing
-  officers are required to make due<br>  presentment of all breaches of this act.<br>  <em>Provided</em>  ,
-  That nothing in this act shall extend to any district school established in<br>  any
-  school society, under the laws of this state, or to any school established<br>  by
-  any school society under the laws of this state, or to any incorporated<br>  academy
-  or incorporated school for instruction in this state.<br></p><p>  Sec. 2.<br>  <em>Be
-  it further enacted</em>  , That any colored person, not an inhabitant of this state,
-  who shall reside<br>  in any town therein for the purpose of being instructed as
-  aforesaid, may be<br>  removed in the manner prescribed in the sixth and seventh
-  sections of the act<br>  to which this is an addition.<br></p><p>  Sec. 3.<br>  <em>Be
-  it further enacted,</em>  That any person, not an inhabitant of this state, who
-  shall reside in any town<br>  therein, for the purpose of being instructed as aforesaid,
-  shall be an<br>  admissible witness in all prosecutions under the first section
-  of this act,<br>  and may be compelled to give testimony therein, notwithstanding
-  any thing<br>  contained in this act, or the act last aforesaid.<br></p><p>  Sec.
-  4.<br>  <em>Be it further enacts,</em>  That so much of the seventh section of the
-  act to which this is an addition,<br>  as may provide for the infliction of corporeal
-  punishment, be, and the same is<br>  hereby repealed.<br></p><p align="right">SAMUEL
-  INGHAM,</p><p align="right">Speaker of the House of Representatives.</p><p align="right">EBENZER
-  STODDARD,</p><p align="right">President of the Senate.</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>  Approved,
-  May 24th, 1833<br></p><p align="right">HENRY EDWARDS.</p>'
+transcription: '<p>   WHEREAS, attempts have been made to establish literary institutions
+  in this   State for the instruction of colored persons belonging to other states
+  and   countries, which would tend to the great increase of the colored population
+  of   the State, and thereby to the injury of the people: Therefore, </p> <p>   Sec.
+  1. Be it enacted by the Senate and House of Representatives, in General   Assembly
+  convened, That no person shall set up or establish in this State any   school, academy,
+  or literary institution, for the instruction or education of   colored persons who
+  are not inhabitants of this state, nor instruct or teach   in any school, academy,
+  or other literary institution whatsoever in this   State, or harbor or board, for
+  the purpose of attending or being taught or   instructed in any such school, academy,
+  or literary institution, any colored   person who is not an inhabitant of any town
+  in this state, without the   consent, in writing, first obtained of a majority of
+  the civil authority, and   also of the selectmen of the town in which such school,
+  academy, or literary   institution is situated; and each and every person who shall
+  knowingly do any   act forbidden as aforesaid, or shall be aiding or assisting therein,
+  shall,   for the first offence, forfeit and pay to the treasurer of state, a fine
+  of   one hundred dollars, and for the second offence shall forfeit and pay a fine   of
+  two hundred dollars, and so double for every offence of which he or she   shall
+  be convicted. And all informing officers are required to make due   presentment
+  of all breaches of this act.   <em>Provided</em>   , That nothing in this act shall
+  extend to any district school established in   any school society, under the laws
+  of this state, or to any school established   by any school society under the laws
+  of this state, or to any incorporated   academy or incorporated school for instruction
+  in this state. </p> <p>   Sec. 2.   <em>Be it further enacted</em>   , That any
+  colored person, not an inhabitant of this state, who shall reside   in any town
+  therein for the purpose of being instructed as aforesaid, may be   removed in the
+  manner prescribed in the sixth and seventh sections of the act   to which this is
+  an addition. </p> <p>   Sec. 3.   <em>Be it further enacted,</em>   That any person,
+  not an inhabitant of this state, who shall reside in any town   therein, for the
+  purpose of being instructed as aforesaid, shall be an   admissible witness in all
+  prosecutions under the first section of this act,   and may be compelled to give
+  testimony therein, notwithstanding any thing   contained in this act, or the act
+  last aforesaid. </p> <p>   Sec. 4.   <em>Be it further enacts,</em>   That so much
+  of the seventh section of the act to which this is an addition,   as may provide
+  for the infliction of corporeal punishment, be, and the same is   hereby repealed.
+  </p> <p align="right">SAMUEL INGHAM,</p> <p align="right">Speaker of the House of
+  Representatives.</p> <p align="right">EBENZER STODDARD,</p> <p align="right">President
+  of the Senate.</p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Approved,
+  May 24th, 1833 </p> <p align="right">HENRY EDWARDS.</p> '
 scholarlyNotes: 
 commentary: 'In reading the text of the actual Black Law carefully, one can observe
   that Judson and his allies substituted psychological coercion (sec. 3) for corporeal

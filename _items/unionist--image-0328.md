@@ -29,8 +29,8 @@ relatedImage:
 relatedText: unionist--text-0035
 relatedTextIssue: 1833-08-08 p02.21
 filename: 
-caption: While the pigeon meme for synonyms is always fun, the birds need to brush
-  up on their grammar. And I do believe that Charles Burleigh was asking if the Hartford
+caption: While the pigeon meme for synonyms is always fun, these birds need to brush
+  up on their grammar. Charles Burleigh, I do believe, was asking if the Hartford
   newspaper was an inveterate liar, or just an accidental one, in this riposte to
   their coverage.
 order: '739'

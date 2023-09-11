@@ -18,10 +18,10 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<em>A Mathematical Toast.—</em>The fair daughters of Columbia, May
-  they add virtue to beauty,<br><em>subtract</em>envy from friendship, multiply amiable
-  accomplishments by sweetness of temper,<br><em>divide</em>time by sociability and
-  economy, and<br><em>reduce</em>scandal to its lowest denominations.<br>"
+transcription: "<em>A Mathematical Toast.—</em> The fair daughters of Columbia, May
+  they add virtue to beauty, <em>subtract</em> envy from friendship, multiply amiable
+  accomplishments by sweetness of temper, <em>divide</em> time by sociability and
+  economy, and <em>reduce</em> scandal to its lowest denominations. "
 scholarlyNotes: 
 commentary: 
 relatedPeople: 

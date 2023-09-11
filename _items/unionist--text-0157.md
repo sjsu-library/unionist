@@ -18,11 +18,11 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>  STEAMER NEW-ENGLAND.—The board of examiners, at the head of which
-  was<br>  Professor Siliman, appointed to investigate the causes of the destruction
-  of<br>  that boat, have reported that the sole cause of the bursting of her boilers<br>
-  \ was the immense pressure of steam to which they were subjected through the<br>
-  \ <em>negligence</em>  of the engineer.<br></p><p></p>"
+transcription: "<p>   STEAMER NEW-ENGLAND.—The board of examiners, at the head of
+  which was   Professor Siliman, appointed to investigate the causes of the destruction
+  of   that boat, have reported that the sole cause of the bursting of her boilers
+  \  was the immense pressure of steam to which they were subjected through the   <em>negligence</em>
+  \  of the engineer. </p> <p></p> "
 scholarlyNotes: Brief bio of Silliman - https://silliman.yalecollege.yale.edu/about-silliman/history
 commentary: The Steamboat New-England disaster occured on October 8, 1833. Thirteen
   people perished in the explosion off of Essex, Connecticut (about 50 miles south/southeast

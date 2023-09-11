@@ -31,7 +31,7 @@ filename:
 caption: Samuel J. May (1797-1871), the most significant white Garrisonian Abolitionist
   in Windham County at the time of <em>The Unionist</em>, had a long career as an
   Abolitionist activist. He eventually donated his library of Anti-Slavery publcations
-  and manuscripts to Cornell University, near his home in Syracuse. https://rmc.library.cornell.edu/mayantislaverycoll/biography.php
+  and manuscripts to Cornell University, near his final home in Syracuse. https://rmc.library.cornell.edu/mayantislaverycoll/biography.php
 order: '699'
 layout: items_item
 collection: items

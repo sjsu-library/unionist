@@ -18,10 +18,10 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<p>  S. BARROWS, Tailor, RESPECTFULLY solicits those of his customers
-  who are<br>  indebted to him for work to give him a call soon, as it is<br>  <em>absolutely
-  necessary</em>  that his accounts should be settled immediately.<br></p><p>Brooklyn,
-  January 9, 1834.</p>"
+transcription: "<p>   S. BARROWS, Tailor, RESPECTFULLY solicits those of his customers
+  who are   indebted to him for work to give him a call soon, as it is   <em>absolutely
+  necessary</em>   that his accounts should be settled immediately. </p> <p>Brooklyn,
+  January 9, 1834.</p> "
 scholarlyNotes: 
 commentary: 
 relatedPeople: Sylvester Barrows

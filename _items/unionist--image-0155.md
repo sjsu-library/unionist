@@ -28,7 +28,7 @@ relatedImage:
 relatedText: unionist--text-0082
 relatedTextIssue: 1833-09-05 p01.08
 filename: 
-caption: Iron Bars - without holes.
+caption: Iron Bars. These particular Iron Bars are free of holes.
 order: '566'
 layout: items_item
 collection: items

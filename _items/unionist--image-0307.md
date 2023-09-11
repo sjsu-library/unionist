@@ -26,7 +26,7 @@ featured:
 repeated: 
 relatedImage: 
 relatedText: unionist--text-0308; unionist--text-0313
-relatedTextIssue: 1834-04-10 p.02.08; 1834-04-10 p.02.13<br>1834-04-10 p.02.13
+relatedTextIssue: 1834-04-10 p.02.08; 1834-04-10 p.02.13 1834-04-10 p.02.13
 filename: 
 caption: This famous painting captures the chaos of voting prior to the ballot becoming
   secret. Note the uniform gender and race of the participants, and the various degrees

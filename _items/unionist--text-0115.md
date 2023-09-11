@@ -18,9 +18,9 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: TREATMENT OF THE SUN IN LONDON.—Mr. Matthews says ”no wonder that the
-  sun seldom deigns to shine in town, while there is no place in the world where he
-  is so<br>ill-treated; for even when he rises there is nobody up to receive him.”<br>
+transcription: 'TREATMENT OF THE SUN IN LONDON.—Mr. Matthews says ”no wonder that
+  the sun seldom deigns to shine in town, while there is no place in the world where
+  he is so ill-treated; for even when he rises there is nobody up to receive him.” '
 scholarlyNotes: 
 commentary: 
 relatedPeople: 

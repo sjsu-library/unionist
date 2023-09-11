@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0123
-title: TitlePageSelectReaderUnionNo6
+title: Title Page of the Select Reader, Union No. 6
 bibliographicCitation: 'Oliver Angell, <em>The select reader, or, Union no. 6 : designed
   for the higher classes in academies and schools : being the sixth of a series of
   common-school classics</em>, Revised Stereotype Edition (Philadelphia: W. Marshall

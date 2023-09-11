@@ -31,7 +31,7 @@ relatedTextIssue:
 filename: 
 caption: The advertisement and integrated endorsers list for the second iteration
   of the Canterbury Female Academy, this time for Black women
-order: '769'
+order: '768'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0357/full/250,/0/default.jpg"

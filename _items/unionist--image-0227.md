@@ -28,8 +28,9 @@ relatedImage:
 relatedText: unionist--text-0198
 relatedTextIssue: 1833-12-19 p.03.44
 filename: 
-caption: A 19th century Irish classroom. The blog essay makes reference to the semi-secret
-  "hedge schools" of the Irish Catholics at this time.
+caption: A 19th century Irish classroom. The blog essay where this illustration was
+  found makes reference to the semi-secret "hedge schools" of the Irish Catholics
+  at this time.
 order: '638'
 layout: items_item
 collection: items

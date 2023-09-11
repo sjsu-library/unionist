@@ -30,7 +30,7 @@ relatedImage:
 relatedText: unionist--text-0049
 relatedTextIssue: 1833-08-08 p03.35
 filename: 
-caption: Indeed, the hanging of witches is a disgrace in Connecticut history, as is
+caption: Indeed, the hanging of witches is a disgrace in New England history, as is
   the criminalization of Black education in the case of the Canterbury Female Academy.
 order: '753'
 layout: items_item

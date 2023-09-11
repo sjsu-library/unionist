@@ -18,7 +18,7 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
-transcription: "<p><em>PRINTING OF EVERY</em></p><p><em>Description neatly executed
+transcription: "<p><em>PRINTING OF EVERY</em></p> <p><em>Description neatly executed
   at this office.</em></p>"
 scholarlyNotes: 
 commentary: The Unionist's printing quality and standards were not strong, to be honest!

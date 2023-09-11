@@ -18,26 +18,25 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<p>  At a Court of Probate, held in and for the District of Woodstock,
-  on the 4<sup>th</sup>  day of March, 1834.<br></p><p>  The undersigned having been
-  appointed by said court Commissioners to receive,<br>  examine and allow the claims
-  of the several creditors of Erastus May of said<br>  Woodstock, an insolvent debtor,
-  who has assigned his property for the benefit<br>  of all his creditors, and said
-  court having limited the time for presentation<br>  of claims to said Commissioners
-  against said estate to six months from said 5<sup>th</sup>  day of March, 1834,
-  or be debarred any portion of the avails of said property<br>  so assigned.<br></p><p>
-  \ In conformity to said court, we the undersigned do hereby give notice that we<br>
-  \ will meet for the purpose aforesaid at the house of Amasa Carpenter, in said<br>
-  \ Woodstock on Tuesday the 1<sup>st</sup>  day or April next at one o’clock P.M.
-  and at the same hour and place, on the<br>  last Monday in August next.<br></p><p>
-  \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WILLIAM<br>
-  \ LYON, 3d.&nbsp;&nbsp;&nbsp; Commissioner.<br></p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  OLIVER<br>  SAUNDERS,<br></p><p>  Woodstock, March 5<br>  <sup>th</sup>  ,<br>  1834.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ 23<br></p>"
+transcription: "<p>   At a Court of Probate, held in and for the District of Woodstock,
+  on the 4<sup>th</sup>   day of March, 1834. </p> <p>   The undersigned having been
+  appointed by said court Commissioners to receive,   examine and allow the claims
+  of the several creditors of Erastus May of said   Woodstock, an insolvent debtor,
+  who has assigned his property for the benefit   of all his creditors, and said court
+  having limited the time for presentation   of claims to said Commissioners against
+  said estate to six months from said 5<sup>th</sup>   day of March, 1834, or be debarred
+  any portion of the avails of said property   so assigned. </p> <p>   In conformity
+  to said court, we the undersigned do hereby give notice that we   will meet for
+  the purpose aforesaid at the house of Amasa Carpenter, in said   Woodstock on Tuesday
+  the 1<sup>st</sup>   day or April next at one o’clock P.M. and at the same hour
+  and place, on the   last Monday in August next. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  WILLIAM   LYON, 3d.&nbsp;&nbsp;&nbsp; Commissioner. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  OLIVER   SAUNDERS, </p> <p>   Woodstock, March 5   <sup>th</sup>   ,   1834.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  \  23 </p> "
 scholarlyNotes: 
 commentary: 
-relatedPeople: Erastus May (probate case); William Lyon (probate case); Oliver Saunders
-  (probate case)<br>
+relatedPeople: 'Erastus May (probate case); William Lyon (probate case); Oliver Saunders
+  (probate case) '
 featured: 
 repeated: 
 relatedImage: unionist--image-0245

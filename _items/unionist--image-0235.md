@@ -32,8 +32,8 @@ relatedText: unionist--text-0009
 relatedTextIssue: 
 filename: 
 caption: Masthead of <em>The Schenectady Cabinet</em>, 1833-08-07, v. 23, n. 1204
-  (old series); v. 4, n.175 (new series). Stephen Riggs would remain a supporter of
-  <em>The Unionist</em>
+  (old series); v. 4, n.175 (new series). Stephen Riggs remained a supporter of <em>The
+  Unionist</em>
 order: '646'
 layout: items_item
 collection: items

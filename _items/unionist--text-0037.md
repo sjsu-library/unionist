@@ -18,10 +18,10 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
-transcription: <p align="right">FOR THE UNIONIST.</p><p>MR. EDITOR.—It is often said
+transcription: <p align="right">FOR THE UNIONIST.</p> <p>MR. EDITOR.—It is often said
   that the perpetuity of our peculiar form of government, and the preservation of
   our free institutions, which are in truth the chief glory of our land, depend upon
-  the INTELLIENCE and VIRTUE of the people; this has been so often repeated and so
+  the INTELLIGENCE and VIRTUE of the people; this has been so often repeated and so
   universally assented to, that it has come to be a trite political maxim. Now suppose,
   or rather admit, the people of Connecticut to be an <em>intelligent people, </em>what
   will be one of the necessary consequences resulting from the admission? Surely that
@@ -29,7 +29,7 @@ transcription: <p align="right">FOR THE UNIONIST.</p><p>MR. EDITOR.—It is ofte
   enforced among them; and further that they see and know that their Representatives
   in the exercise of their delegated power, do not transcend the limits prescribed
   them by the Constitution, which is a gauge in the hand of the Constituent to be
-  applied to acts of the delegate.</p><p>The Constitution was not made for the Executive,
+  applied to acts of the delegate.</p> <p>The Constitution was not made for the Executive,
   nor the Legislative, nor the Judicial department of the Government! For whom then
   was it made? The people made it, and they made it for themselves and for their posterity;
   it is then emphatically the people’s; and on its provisions they rely, for its support
@@ -37,12 +37,12 @@ transcription: <p align="right">FOR THE UNIONIST.</p><p>MR. EDITOR.—It is ofte
   be adjudged. It is a mighty shield, which the humblest citizen may lift up between
   himself and the inflictions of injury by arbitrary, assumed authority; it is a sanctuary,
   to which the persecuted may flee and find ample and free protection; and it is a
-  Haven, so safe that he who <em>anchors within </em>&nbsp;it, needs no <em>insurance</em>!</p><p>Such
-  being the Constitution, how invaluable a treasure! What should be done to preserve
-  it? Diffuse knowledge through the land,—open the fountains of intelligence,—be as
-  Catholic in matters of Education, as you are tolerant in religion,—be in fact, what
-  you are in profession,—a Democracy, and let the INTELLIGENCE be, where the POWER
-  is, in the People! Then, and not till then, will the symmetry of our inimitable
+  Haven, so safe that he who <em>anchors within </em> it, needs no <em>insurance</em>!</p>
+  <p>Such being the Constitution, how invaluable a treasure! What should be done to
+  preserve it? Diffuse knowledge through the land,—open the fountains of intelligence,—be
+  as Catholic in matters of Education, as you are tolerant in religion,—be in fact,
+  what you are in profession,—a Democracy, and let the INTELLIGENCE be, where the
+  POWER is, in the People! Then, and not till then, will the symmetry of our inimitable
   form of Government shine forth in the full splendor and beauty of its exact proportions;
   then, and not till then, will the harsh notes of discord cease, and be succeeded
   by a deep and national euphony sweeping over the land, and by its magic strains
@@ -69,10 +69,11 @@ transcription: <p align="right">FOR THE UNIONIST.</p><p>MR. EDITOR.—It is ofte
   Republic, when such a deep and sickly apathy shall overtake our citizens, as that
   they can witness even with partial indifference any infractions upon the Constitution,
   their richest earthly treasure; and if its integrity be preserved, the best inheritance
-  of their children, but, when crippled and polluted, their sorest calamity!</p><p>UNIONIST.</p>
+  of their children, but, when crippled and polluted, their sorest calamity!</p> <p>UNIONIST.</p>
 scholarlyNotes: 
 commentary: The logic here sets up the argument of William Ellsworth for the trial,
-  asking the jury to decide on the legality of the Black Law itself
+  asking the jury to decide on the legality of the Black Law itself. A "cavesson"
+  is a type of strong bridle for a horse.
 relatedPeople: 
 featured: 
 repeated: 

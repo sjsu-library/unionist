@@ -19,9 +19,9 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: A FEW copies of Mrs. Child’s “Appeal in behalf of that class of Americans
-  called<br>Africans.” Just received and for sale at this<br>office.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  March 6<br>
+transcription: 'A FEW copies of Mrs. Child’s “Appeal in behalf of that class of Americans
+  called Africans.” Just received and for sale at this office.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  March 6 '
 scholarlyNotes: 
 commentary: 
 relatedPeople: Lydia Maria Child

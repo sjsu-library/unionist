@@ -1,12 +1,12 @@
 ---
 pid: unionist--image-0139
-title: Dinner Knife from a set of Sheffield cutlery
+title: Dinner Knife and Fork, late 18th century, Sheffield (England)
 bibliographicCitation: https://americanhistory.si.edu/collections/search/object/nmah_323832
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Sleigh Rowland
 dateCreated: ca. 1830-1850
-description: Dinner Knife from a set of Sheffield cutlery
+description: Dinner Knife and Fork, late 18th century, Sheffield (England)
 language: English
 publisher: 
 IsPartOf: 
@@ -26,9 +26,9 @@ featured:
 repeated: 
 relatedImage: 
 relatedText: unionist--text-0058
-relatedTextIssue: 1833-08-08 p03.44
+relatedTextIssue: 1833-08-08 p.03.44
 filename: 
-caption: A dinner knife from a set of cutlery made in Sheffield, England
+caption: Dinner Knife and Fork, late 18th century, Sheffield (England)
 order: '550'
 layout: items_item
 collection: items

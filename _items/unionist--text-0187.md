@@ -18,17 +18,17 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>  At a Court of Probate holden at Killingly within and for the
-  District of<br>  Killingly on the fifth day of August A.D. 1833<br></p><p>Present
-  THOMAS BACKUS, Esq. Judge.</p><p>  On motion of Jedediah Leavens Esq. Administrator
-  on the estate pf Jedediah<br>  Leavens late of said Killingly, deceased, this court
-  doth hereby limit and<br>  appoint six months from the first publication of this
-  order for the creditors<br>  of said estate to present their claims against said
-  estate to said<br>  administrator after he shall have given public notice of this
-  order by<br>  publishing the same in a newspaper printed in Brooklyn in the County
-  of<br>  Windham, and posting the same on the public sign post in the East Parish
-  in<br>  said town of Killingly.<br></p><p>Certified from Record</p><p>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ DAVID CHASE, Clerk.<br></p>"
+transcription: "<p>   At a Court of Probate holden at Killingly within and for the
+  District of   Killingly on the fifth day of August A.D. 1833 </p> <p>Present THOMAS
+  BACKUS, Esq. Judge.</p> <p>   On motion of Jedediah Leavens Esq. Administrator on
+  the estate pf Jedediah   Leavens late of said Killingly, deceased, this court doth
+  hereby limit and   appoint six months from the first publication of this order for
+  the creditors   of said estate to present their claims against said estate to said
+  \  administrator after he shall have given public notice of this order by   publishing
+  the same in a newspaper printed in Brooklyn in the County of   Windham, and posting
+  the same on the public sign post in the East Parish in   said town of Killingly.
+  </p> <p>Certified from Record</p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  \  DAVID CHASE, Clerk. </p> "
 scholarlyNotes: 
 commentary: 
 relatedPeople: Jedediah Leavens (probate); Thomas Backus (probate judge); David Chase

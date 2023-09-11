@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0061
-title: RayPotterPamphletRIHS
+title: Pamphlet Attacking Ray Potter
 bibliographicCitation: '"An Interview between the Rev. Ray Potter and the Devil!"
   anonymous pamphlet, n.d, n.p., from the collection of the Rhode Island Historical
   Society; included as the frontispiece in <em>Rhode Island History</em> 30:1 (February

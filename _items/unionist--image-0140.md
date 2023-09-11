@@ -1,12 +1,12 @@
 ---
 pid: unionist--image-0140
-title: Dinner Knife and Fork
+title: Dinner Knife
 bibliographicCitation: https://www.metmuseum.org/art/collection/search/190591
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
 dateCreated: ca. 1790-1800
-description: Dinner Knife and Fork
+description: Dinner Knife from a set of Sheffield cutlery
 language: English
 publisher: 
 IsPartOf: 
@@ -28,7 +28,7 @@ relatedImage:
 relatedText: unionist--text-0201
 relatedTextIssue: 1833-12-19 p.03.47
 filename: 
-caption: Dinner Knife and Fork, late 18th century, Sheffield (England)
+caption: A dinner knife from a set of cutlery made in Sheffield, England
 order: '551'
 layout: items_item
 collection: items

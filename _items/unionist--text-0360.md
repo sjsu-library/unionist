@@ -18,11 +18,11 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<em>Dignity.</em>—A new made Justice of the peace, into whose office
-  some dozen of his<br>neighbors had followed a constable with a vagrant in charge,
-  to see how<br>the magistrate would make out, determined to strike them dumb with
-  awe. He<br>sentenced the poor culprit to twenty hours’ imprisonment—and concluded
-  with all<br>possible solemnity, “And the Lord have mercy on your soul!”<br>"
+transcription: "<em>Dignity.</em> —A new made Justice of the peace, into whose office
+  some dozen of his neighbors had followed a constable with a vagrant in charge, to
+  see how the magistrate would make out, determined to strike them dumb with awe.
+  He sentenced the poor culprit to twenty hours’ imprisonment—and concluded with all
+  possible solemnity, “And the Lord have mercy on your soul!” "
 scholarlyNotes: 
 commentary: Humor of the inexperienced
 relatedPeople: 

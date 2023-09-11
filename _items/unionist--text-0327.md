@@ -18,14 +18,14 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<em>Fatal Occurrence</em>. – The Lexington Observer of the 22d inst.
-  says – “we learn by a gentlemen,<br>that, on Monday last Mr. John R. Scott of Jessamine
-  county, was shot through the<br>head with a pistol, and expired in a few hours afterwards.
-  The circumstances<br>have not been fully related to us, but it appears that a recontre
-  had taken<br>place, or was about to take place, between two individuals, January
-  and Reese,<br>and that the deceased interfered to put a stop to it, when he was<br>unintentionally
-  shot by Reese, who perhaps intended to shoot his antagonist,<br>January. The deceased
-  was highly respectable.”<br>"
+transcription: "<em>Fatal Occurrence</em> . – The Lexington Observer of the 22d inst.
+  says – “we learn by a gentlemen, that, on Monday last Mr. John R. Scott of Jessamine
+  county, was shot through the head with a pistol, and expired in a few hours afterwards.
+  The circumstances have not been fully related to us, but it appears that a recontre
+  had taken place, or was about to take place, between two individuals, January and
+  Reese, and that the deceased interfered to put a stop to it, when he was unintentionally
+  shot by Reese, who perhaps intended to shoot his antagonist, January. The deceased
+  was highly respectable.” "
 scholarlyNotes: I sent this to someone who maintains an Ancestry tree to whom this
   may pertain
 commentary: 

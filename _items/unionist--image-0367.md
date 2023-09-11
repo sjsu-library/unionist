@@ -29,7 +29,7 @@ relatedText: unionist--article-0015
 relatedTextIssue: 
 filename: 
 caption: Black woman in silhouette
-order: '779'
+order: '778'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0367/full/250,/0/default.jpg"

@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0102
-title: Leathertools
+title: Tools for Leather Work
 bibliographicCitation: https://en.wikipedia.org/wiki/Leather#/media/File:Leathertools.jpg
 bibliographicCitationRepublished: By Scott Bauer - This image was released by the
   Agricultural Research Service, the research agency of the United States Department

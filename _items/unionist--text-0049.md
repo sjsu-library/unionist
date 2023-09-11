@@ -18,17 +18,17 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
-transcription: This transaction will stand in future ages as a blot upon that<br><em>free</em>state
-  and our land of<br><em>freedom</em>—a strange and foul blot for the 19<br><sup>th</sup>century.
-  Future generations will doubtless be as much astonished at it, as the<br>present
-  is at reading the accounts of the trials and executions of witches in<br>New-England.”
-  –<br><em>Rochester Revivalist</em>
+transcription: 'This transaction will stand in future ages as a blot upon that <em>free</em>
+  state and our land of <em>freedom</em> —a strange and foul blot for the 19 <sup>th</sup>
+  century. Future generations will doubtless be as much astonished at it, as the present
+  is at reading the accounts of the trials and executions of witches in New-England.”
+  – <em>Rochester Revivalist</em> '
 scholarlyNotes: 
 commentary: The Rochester Revivalist accurately predicted the future here.
 relatedPeople: Prudence Crandall (inferred)
 featured: 'Yes'
 repeated: 
-relatedImage: unionist--image-0349
+relatedImage: unionist--image-0342
 relatedText: 
 relatedTextIssue: 
 filename: 

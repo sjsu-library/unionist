@@ -18,9 +18,9 @@ category: Positive notice
 articleType: 
 volume: 
 issue: 
-transcription: The following amusing account of the Canterbury election is copied
-  from the<br>Brooklyn Unionist—a paper, which, from its commencement, has been an
-  able<br>advocate of our colored population.<br>
+transcription: 'The following amusing account of the Canterbury election is copied
+  from the Brooklyn Unionist—a paper, which, from its commencement, has been an able
+  advocate of our colored population. '
 scholarlyNotes: After the initial approbation, content is identical to unionist--text-0314;
   1834-04-10 p.02.14
 commentary: After this initial approbation, the content is identical to <em>The Unionist</em>,

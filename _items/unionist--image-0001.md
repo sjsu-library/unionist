@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0001
-title: William_Bainbridge
+title: William Bainbridge
 bibliographicCitation: https://en.wikipedia.org/wiki/William_Bainbridge
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -29,7 +29,7 @@ relatedImage:
 relatedText: unionist--text-0056
 relatedTextIssue: 1833-08-08 p03.42
 filename: 
-caption: 
+caption: Portrait of William Bainbridge
 order: '412'
 layout: items_item
 collection: items

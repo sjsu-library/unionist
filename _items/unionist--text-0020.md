@@ -19,7 +19,7 @@ articleType: republished material from London New Monthly Magazine
 volume: '1'
 issue: '2'
 transcription: "<p>ANECDOTE.—The following anecdote is related in the London New Monthly
-  Magazine for last month.</p><p>In that inglorious attack on Buenos Ayres, where
+  Magazine for last month.</p> <p>In that inglorious attack on Buenos Ayres, where
   our brave soldiers were disgraced by a recreant general, the negroes, slaves as
   they were, joined the inhabitants to expel the invaders. On this signal occasion,
   the city decreed a public expression of their gratitude to the negroes, in a sort
@@ -32,11 +32,11 @@ transcription: "<p>ANECDOTE.—The following anecdote is related in the London N
   old age. I work to maintain her, and at intervals of leisure she leans on my arm
   to take the evening air. I will not be tempted to abandon her; and I renounce the
   hope of freedom that she may know she possesses a slave who will never quit her
-  side.</p>"
+  side.'</p>"
 scholarlyNotes: 
 commentary: This is a serious misstep, as it enhaces a stereotype of the gentle slave
   who remains loyal to the master even when freedom is allowed. This sort of tone-deafness
-  doesn't happen as much in later issues.
+  doesn't happen much in later issues.
 relatedPeople: 
 featured: 
 repeated: 

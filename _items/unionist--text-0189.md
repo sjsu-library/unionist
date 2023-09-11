@@ -18,12 +18,12 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>STRAY STEER.</p><p>  NOTICE.‑Broke into the enclosure of the subscriber,
-  on or about the 24<sup>th</sup> day of September 1833, a red yearling steer. The
-  owner is requested to prove property, pay charges and take said steer away.<br></p><p>
-  \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  \ STILLMAN BOSWORTH.<br></p><p>  Woodstock, October 8<sup>th</sup>, 1833</p>  <p>14
-  <br></p>"
+transcription: "<p>STRAY STEER.</p> <p>   NOTICE.‑Broke into the enclosure of the
+  subscriber, on or about the 24<sup>th</sup> day of September 1833, a red yearling
+  steer. The owner is requested to prove property, pay charges and take said steer
+  away. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  \  STILLMAN BOSWORTH. </p> <p>   Woodstock, October 8<sup>th</sup>, 1833</p>   <p>14
+  \ </p> "
 scholarlyNotes: 
 commentary: Type "Stray Steer" into your web browser. This problem is not limited
   to the nineteenth century.
