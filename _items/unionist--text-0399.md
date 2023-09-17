@@ -18,12 +18,11 @@ category: Negative notice
 articleType: 
 volume: 
 issue: 
-transcription: |
-  The “Unionist,” (so mis-called,) has expired, and in its stead [sic] we have
-  received from Brooklyn a very neat and well conducted paper bearing the title of
-  the “Windham County Whig and Unionist,” published by Mr. C. M. Halle. We trust
-  the Whig will speak the sentiments and receive the patronage of the intelligent
-  yeomanry of that County.
+transcription: 'The “Unionist,” (so mis-called,) has expired, and in its stead [sic]
+  we have received from Brooklyn a very neat and well conducted paper bearing the
+  title of the “Windham County Whig and Unionist,” published by Mr. C. M. Halle. We
+  trust the Whig will speak the sentiments and receive the patronage of the intelligent
+  yeomanry of that County. '
 scholarlyNotes: I feel this is incorrect, as Garrison and others make reference to
   issues of <em>The Unionist</em> much later than this.
 commentary: I feel this is incorrect, as Garrison and others make reference to issues
@@ -42,5 +41,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-08-10'
 ---

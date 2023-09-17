@@ -18,14 +18,12 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: |
-  MR. PRITCHARD, the Lambert of America, is exhibiting himself at the American
-  Museum, New York. His height is 6 feet 2 inches—5 feet 10 inches around the
-  shoulders, and his legs are as large as the body of an ordinary man; his weight
-  is 520 lbs. When moving about on foot, he presents the appearance of a giant.
-  His respiration is difficult when sleeping, unless his head is elevated quite
-  above his body, and he then snores, very loudly.—
-  <em>Christian Secretary.</em>
+transcription: 'MR. PRITCHARD, the Lambert of America, is exhibiting himself at the
+  American Museum, New York. His height is 6 feet 2 inches—5 feet 10 inches around
+  the shoulders, and his legs are as large as the body of an ordinary man; his weight
+  is 520 lbs. When moving about on foot, he presents the appearance of a giant. His
+  respiration is difficult when sleeping, unless his head is elevated quite above
+  his body, and he then snores, very loudly.— <em>Christian Secretary.</em> '
 scholarlyNotes: 
 commentary: Mr. Pritchard is here compared to Daniel Lambert (1770-1809), a gargantuan
   man who was exhibited as a curiosity in the first decade of the nineteenth century
@@ -44,5 +42,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-09-16'
 ---

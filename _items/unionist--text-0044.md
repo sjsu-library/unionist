@@ -18,17 +18,16 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
-transcription: |-
-  “She was in her own house, and as we suppose in her native State, using her own
-  property, talents and time for the noblest purposes, according to the sentiments
-  of President Dwight, which we lately published in this paper. For this christian
-  and noble employment, she is taken by the violent hand of persecution and
-  confined in a prison. What were the complaints and censures against Georgia, for
-  similar conduct towards the imprisoned missionaries? Is such conduct in
-  New-England, in Connecticut, less sinful, shameful, unjust and cruel? Whose
-  life, liberty and pursuit of happiness are safe, if a christian lady is exposed
-  to imprisonment for obedience to the dictates of her conscience and the evident
-  requirements of piety, patriotism and philanthropy?”
+transcription: "“She was in her own house, and as we suppose in her native State,
+  using her own property, talents and time for the noblest purposes, according to
+  the sentiments of President Dwight, which we lately published in this paper. For
+  this christian and noble employment, she is taken by the violent hand of persecution
+  and confined in a prison. What were the complaints and censures against Georgia,
+  for similar conduct towards the imprisoned missionaries? Is such conduct in New-England,
+  in Connecticut, less sinful, shameful, unjust and cruel? Whose life, liberty and
+  pursuit of happiness are safe, if a christian lady is exposed to imprisonment for
+  obedience to the dictates of her conscience and the evident requirements of piety,
+  patriotism and philanthropy?”"
 scholarlyNotes: 
 commentary: The Rhode Island <em>Philanthropist</em> was co-edited by Rev. Thomas
   Williams, a staunch ally of Prudence Crandall. His reference to the imprisoned missionaries
@@ -50,5 +49,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-08-22'
 ---

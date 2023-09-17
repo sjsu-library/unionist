@@ -18,53 +18,37 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: |
-  <p>
-    DIED.—At Voluntown, suddenly, Mr Reuben Fenner, aged about 60 years. The
-    circumstances attending his departure were lamentably horrid. On the evening
-    of Sunday the 23d ult. being at the Tavern in company with one of his comrades
-    the latter purchased a quart of
-    <em>Cider Brandy</em>
-    and they proceeded homeward together, occasionally sipping a little of the
-    <em>“good creatures”</em>
-    to drown their cares and exhilarate their drooping spirits. Arrived within
-    sixty rods of the House to which they were going regaled themselves from the
-    bottle till its contents were exhausted &amp; their cares being sufficiently
-    drowned, the subject of this notice was there left by his friend to take care
-    of himself, where on the following morning he was found dead
-    <em>“lying partly on his face,”</em>
-    having died without a struggle, and presenting a striking example of the
-    careless and easy man(ner) in which the votaries of intemperance are
-    translated from one world to another!! A jury of inquest, after due
-    examination and enquiry, pronounced the following verdict that,
-    <em>
-      “The deceased came to his death by an intemperate use of ardent spirits.”
-    </em>
-    This catastrophe and others of a like kind, which seem to be multiplying
-    around us, manifest in a strong light the righteous indignation of Heaven at
-    the vices of this age, and present to the maker, the vender and the drinker of
-    distilled spirits, a subject for solemn and serious reflection. Let the
-    distiller remember that he is opening a fountain, the streams from which will
-    render barren the most fruitful field, and sweep away much that is valuable
-    and lovely from the earth. Let the vender reflect that, for a paltry
-    consideration, he is sporting with the lives and future well being of his
-    fellow men, and is calling down upon his own head the unmitigated wrath of
-    Jehovah for thus “
-    <em>hollding</em>
-    [sic]
-    <em>the cup to his neighbor’s mouth.</em>
-    ” And let the drinker of distilled spirits, if yet the power of resistance is
-    not broken down, beware of the suicidal cup: let him flee to the ark of
-    <em>total abstinence</em>
-    where there alone is safety, ere he is fast bound by the chains which the
-    subtle enemy of his peace has forged for him, let him escape as for his life,
-    let him made good his retreat while he can and resolve in the majesty of his
-    strength, the grace of God enabling him, to act in accordance with that
-    resolution, that he will
-    <em>“touch not, taste not, handle not the unclean thing.”</em>
-    Whosoever will be free, let him be free indeed.
-  </p>
-  <p></p>
+transcription: "<p> DIED.—At Voluntown, suddenly, Mr Reuben Fenner, aged about 60
+  years. The circumstances attending his departure were lamentably horrid. On the
+  evening of Sunday the 23d ult. being at the Tavern in company with one of his comrades
+  the latter purchased a quart of <em>Cider Brandy</em> and they proceeded homeward
+  together, occasionally sipping a little of the <em>“good creatures”</em> to drown
+  their cares and exhilarate their drooping spirits. Arrived within sixty rods of
+  the House to which they were going regaled themselves from the bottle till its contents
+  were exhausted &amp; their cares being sufficiently drowned, the subject of this
+  notice was there left by his friend to take care of himself, where on the following
+  morning he was found dead <em>“lying partly on his face,”</em> having died without
+  a struggle, and presenting a striking example of the careless and easy man(ner)
+  in which the votaries of intemperance are translated from one world to another!!
+  A jury of inquest, after due examination and enquiry, pronounced the following verdict
+  that, <em> “The deceased came to his death by an intemperate use of ardent spirits.”
+  </em> This catastrophe and others of a like kind, which seem to be multiplying around
+  us, manifest in a strong light the righteous indignation of Heaven at the vices
+  of this age, and present to the maker, the vender and the drinker of distilled spirits,
+  a subject for solemn and serious reflection. Let the distiller remember that he
+  is opening a fountain, the streams from which will render barren the most fruitful
+  field, and sweep away much that is valuable and lovely from the earth. Let the vender
+  reflect that, for a paltry consideration, he is sporting with the lives and future
+  well being of his fellow men, and is calling down upon his own head the unmitigated
+  wrath of Jehovah for thus “ <em>hollding</em> [sic] <em>the cup to his neighbor’s
+  mouth.</em> ” And let the drinker of distilled spirits, if yet the power of resistance
+  is not broken down, beware of the suicidal cup: let him flee to the ark of <em>total
+  abstinence</em> where there alone is safety, ere he is fast bound by the chains
+  which the subtle enemy of his peace has forged for him, let him escape as for his
+  life, let him made good his retreat while he can and resolve in the majesty of his
+  strength, the grace of God enabling him, to act in accordance with that resolution,
+  that he will <em>“touch not, taste not, handle not the unclean thing.”</em> Whosoever
+  will be free, let him be free indeed. </p> <p></p> "
 scholarlyNotes: May be related to the storekeeper Richard Fenner; notice out to someone
   on Ancestry
 commentary: Research is ongoing to determine if this Reuben Fenner is related to the
@@ -83,5 +67,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-09-15'
 ---

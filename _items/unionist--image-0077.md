@@ -34,8 +34,7 @@ caption: An example of a hand-tinted plate of the latest fashions, one of the fe
 order: '488'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
-proofed JR: 
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0077/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0077/manifest.json"
+full: "/img/derivatives/iiif/images/unionist--image-0077/full/1140,/0/default.jpg"
 ---

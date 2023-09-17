@@ -49,5 +49,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-05-14'
 ---

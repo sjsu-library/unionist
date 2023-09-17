@@ -31,14 +31,13 @@ filename:
 caption: Frederick Olney (1810-1869) was a prominent free Black throughout the Antebellum
   area, in both Windham and New London counties. He was a brother-in-law to Sarah
   Harris Fayerweather, attended various Abolitionist and Black convention meetings,
-  and worked as a teacher. But we have no picture of him. I imagine him as a tall,
-  well-built young man, and a favorite with the students, who remained proud despite
-  the harassment of the white Canterburians.
+  and worked as a teacher. He was clearly a favorite with the students of the Canterbury
+  Female Academy. But we have no picture of him. I imagine him as a tall, well-built
+  young man who remained proud despite the harassment of the white Canterburians.
 order: '714'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0303/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0303/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0303/full/1140,/0/default.jpg"
-proofed JR: '2023-07-28'
 ---

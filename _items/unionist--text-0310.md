@@ -18,11 +18,10 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: |
-  The letter from Windham, giving an account of the “general muster,” and how
-  “Uncle Davy’s Democrats” missed fire every time they tried their pieces, and
-  “couldn’t dress no how” when they meant to march in line, was not received early
-  enough for insertion this week.
+transcription: 'The letter from Windham, giving an account of the “general muster,”
+  and how “Uncle Davy’s Democrats” missed fire every time they tried their pieces,
+  and “couldn’t dress no how” when they meant to march in line, was not received early
+  enough for insertion this week. '
 scholarlyNotes: This letter would, therefore , be a part of 1:37 1834-04-17 Unionist
 commentary: 
 relatedPeople: David Daggett (inferred)
@@ -39,5 +38,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

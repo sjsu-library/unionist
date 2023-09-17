@@ -19,14 +19,11 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
-transcription: |-
-  <em>Black Laws.—</em>
-  The Charleston Mercury says, that South Carolina has a law identical with that
-  recently passed in Connecticut, relating to instructing colored children, and
-  censures the authorities for its non-execution. It seems, therefore, that the
-  law savors too much of barbarism, to be enforced, even in the slave holding
-  State of South Carolina.”
-  <em>N.E. Review</em>
+transcription: "<em>Black Laws.—</em> The Charleston Mercury says, that South Carolina
+  has a law identical with that recently passed in Connecticut, relating to instructing
+  colored children, and censures the authorities for its non-execution. It seems,
+  therefore, that the law savors too much of barbarism, to be enforced, even in the
+  slave holding State of South Carolina.” <em>N.E. Review</em>"
 scholarlyNotes: 
 commentary: The New England Review was another project in which John Greenleaf Whittier
   had an editorial presence.
@@ -44,5 +41,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-08-23'
 ---

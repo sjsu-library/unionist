@@ -18,11 +18,10 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: |
-  On account of the length of the Declaration of the Anti-Slavery Convention, many
-  articles prepared for this number are crowded out.—Correspondents must have
-  patience—another week is coming. We are thankful for all literary favors—and
-  respectfully request a continuance of them.
+transcription: 'On account of the length of the Declaration of the Anti-Slavery Convention,
+  many articles prepared for this number are crowded out.—Correspondents must have
+  patience—another week is coming. We are thankful for all literary favors—and respectfully
+  request a continuance of them. '
 scholarlyNotes: 
 commentary: Editors either have too little material, or too much.
 relatedPeople: 
@@ -39,5 +38,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-09-15'
 ---

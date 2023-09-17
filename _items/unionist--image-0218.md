@@ -5,7 +5,7 @@ bibliographicCitation: Collection of author
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
-dateCreated: ca.  2010
+dateCreated: ca. 2010
 description: Blank Page meme
 language: English
 publisher: 
@@ -35,5 +35,4 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0218/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0218/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0218/full/1140,/0/default.jpg"
-proofed JR: '2023-07-30'
 ---

@@ -18,33 +18,17 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: |
-  <p><strong>“RIGHTEOUSNESS EXALTETH A NATION.”</strong></p>
-  <p>
-    <strong>
-      VOL. 1. BROOKLYN, THURSDAY MORNING, DECEMBER 19, 1833.&nbsp;&nbsp; NO. 20
-    </strong>
-  </p>
-  <p align="center">THE UNIONIST</p>
-  <p align="center">PUBLISHED EVERY THURSDAY MORNING,</p>
-  <p align="center">BROOKLYN, CONN.</p>
-  <p align="center">W.H. &amp; C.C. BURLEIGH,</p>
-  <p align="center">EDITORS</p>
-  <p>
-    TERMS.—Mail Subscribers Two Collars, in advance. Delivered by Stage or Post
-    one dollar and seventy-five cents. Those taken at the office, one dollar and
-    fifty cents.
-  </p>
-  <p>
-    Any person becoming responsible for eight copies shall receive one copy
-    gratis.
-  </p>
-  <p>
-    No paper will be discontinued till arrearages are paid, except at the
-    discretion of the publisher
-  </p>
-  <p>Advertisements inserted at the usual prices.</p>
-  <p>All communications must be addressed, post paid, to Wm. H. BURLEIGH.</p>
+transcription: '<p><strong>“RIGHTEOUSNESS EXALTETH A NATION.”</strong></p> <p> <strong>
+  VOL. 1. BROOKLYN, THURSDAY MORNING, DECEMBER 19, 1833.&nbsp;&nbsp; NO. 20 </strong>
+  </p> <p align="center">THE UNIONIST</p> <p align="center">PUBLISHED EVERY THURSDAY
+  MORNING,</p> <p align="center">BROOKLYN, CONN.</p> <p align="center">W.H. &amp;
+  C.C. BURLEIGH,</p> <p align="center">EDITORS</p> <p> TERMS.—Mail Subscribers Two
+  Collars, in advance. Delivered by Stage or Post one dollar and seventy-five cents.
+  Those taken at the office, one dollar and fifty cents. </p> <p> Any person becoming
+  responsible for eight copies shall receive one copy gratis. </p> <p> No paper will
+  be discontinued till arrearages are paid, except at the discretion of the publisher
+  </p> <p>Advertisements inserted at the usual prices.</p> <p>All communications must
+  be addressed, post paid, to Wm. H. BURLEIGH.</p> '
 scholarlyNotes: 
 commentary: William H. Burleigh has now joined Charles C. Burleigh as a co-editor.
 relatedPeople: Charles C. Burleigh; William H. Burleigh
@@ -61,5 +45,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-09-14'
 ---

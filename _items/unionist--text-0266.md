@@ -18,9 +18,8 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: |
-  <p align="center"><strong>BLANK DEEDS.</strong></p>
-  <p align="center">A FEW PACKS BLANK CARDS.</p>
+transcription: '<p align="center"><strong>BLANK DEEDS.</strong></p> <p align="center">A
+  FEW PACKS BLANK CARDS.</p> '
 scholarlyNotes: 
 commentary: 
 relatedPeople: 
@@ -37,5 +36,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-09-16'
 ---

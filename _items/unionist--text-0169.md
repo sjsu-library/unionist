@@ -18,14 +18,13 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: |
-  Our acknowledgements are due to the Hon. Ebenezer Young, for a copy of Secretary
-  Taney’s Bank Report.
+transcription: 'Our acknowledgements are due to the Hon. Ebenezer Young, for a copy
+  of Secretary Taney’s Bank Report. '
 scholarlyNotes: 
-commentary: 'This is the same Roger B. Taney (1777-1864)  who wrote the infamous Dred
+commentary: 'This is the same Roger B. Taney (1777-1864) who wrote the infamous Dred
   Scott decision when he was the Chief Justice of the Supreme Court of the United
   States. He was always adamently anti-Abolitionist. At the time of this writing,
-  he was serving as Secretary of the Treasury under President Andrew Jackson.  '
+  he was serving as Secretary of the Treasury under President Andrew Jackson. '
 relatedPeople: Ebenezer Young; Roger Taney
 featured: 
 repeated: 
@@ -40,5 +39,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-09-15'
 ---

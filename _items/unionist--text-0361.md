@@ -18,13 +18,9 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: |
-  <p>
-    Dr. Johnson having formed one at a whist party at Mrs. Thrale’s house, was
-    asked by the lady at the close of the evening, whether he had lost any thing.
-    “Nothing but my time,” replied the moralist.
-  </p>
-  <p></p>
+transcription: "<p> Dr. Johnson having formed one at a whist party at Mrs. Thrale’s
+  house, was asked by the lady at the close of the evening, whether he had lost any
+  thing. “Nothing but my time,” replied the moralist. </p> <p></p> "
 scholarlyNotes: 
 commentary: Hester Thrale was a good friend of Samuel Johnson; they also had a famous
   falling-out; after Johnson's death, Thrale published their letters. An interesting
@@ -43,5 +39,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

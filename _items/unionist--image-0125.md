@@ -32,8 +32,7 @@ caption: Two blood horses exercising
 order: '536'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
-proofed JR: 
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0125/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0125/manifest.json"
+full: "/img/derivatives/iiif/images/unionist--image-0125/full/1140,/0/default.jpg"
 ---

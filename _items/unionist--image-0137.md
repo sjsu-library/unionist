@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0137
-title: Providence AntiSlSoc Officers
+title: Providence Anti-Slavery Society Officers, 1833
 bibliographicCitation: "<em>The Report and Proceedings of the First Annual Meeting
   of the Providence Anti-slavery Society, With a Brief Exposition of the Principles
   and Purposes of the Abolitionists</em> (Providence: Providence Anti-Slavery Society,
@@ -42,5 +42,4 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0137/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0137/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0137/full/1140,/0/default.jpg"
-proofed JR: "/img/derivatives/iiif/images/unionist--image-0137/full/1140,/0/default.jpg"
 ---

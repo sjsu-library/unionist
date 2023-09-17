@@ -18,17 +18,16 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: |
-  An Irish servant lad, going along the passage, and singing rather
+transcription: 'An Irish servant lad, going along the passage, and singing rather
   inharmoniously, was asked by his master what horrid noise he was making? “I have
-  not made any noise, sir,” he replied. “Why, you were singing, and a confounded
-  noise it was.” “Oh, perhaps it was the singing of my ears your honor heard.”
-  This reminds us of a dialogue between two ministers of the gude kirk of
-  Scotland. One complained that he had got a ringing in his head. “Do ye ken the
-  reason o’ that?” asked his worthy crony. “Na!” “I’ll tell ye; ‘tis because it’s
-  empty!” “And have ye never a ringing in your head?” quoth the other. “Na,
-  never.” “And do ye ken the reason?,’ “Na.” “It’s because it’s cracked!” was the
-  retort; and the truth was not very far off.
+  not made any noise, sir,” he replied. “Why, you were singing, and a confounded noise
+  it was.” “Oh, perhaps it was the singing of my ears your honor heard.” This reminds
+  us of a dialogue between two ministers of the gude kirk of Scotland. One complained
+  that he had got a ringing in his head. “Do ye ken the reason o’ that?” asked his
+  worthy crony. “Na!” “I’ll tell ye; ‘tis because it’s empty!” “And have ye never
+  a ringing in your head?” quoth the other. “Na, never.” “And do ye ken the reason?,’
+  “Na.” “It’s because it’s cracked!” was the retort; and the truth was not very far
+  off. '
 scholarlyNotes: 
 commentary: Humor based on ethnic stereotypes and denigration is, as usual, prevelant
   in the human condition but not our best feature. However, the reference to things
@@ -53,5 +52,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

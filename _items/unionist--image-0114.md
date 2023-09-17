@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0114
-title: 1.+Farm+for+Sale+Sign
+title: Farm for Sale Sign
 bibliographicCitation: https://www.bonsellamericana.com/sold-political-textiles/antique-this-farm-for-sale-sign-original-paint-on-wood-circa-19th-century
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -35,5 +35,4 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0114/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0114/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0114/full/1140,/0/default.jpg"
-proofed JR: "/img/derivatives/iiif/images/unionist--image-0114/full/1140,/0/default.jpg"
 ---

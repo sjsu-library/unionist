@@ -18,18 +18,15 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: |
-  <em>Next Congress.</em>
-  —The patriotic State of North Carolina will present an almost undivided phalanx
-  at Washington next winter against Nullification. Carson is beaten, and there are
-  but two members chosen whose course will run side and side with McDuffie &amp;
-  Co. More than two thirds of the Delegation are friendly to the re-charter of the
-  Bank. It gives us pleasure to learn that in the Fayetteville district,
-  represented in the last Congress by Mr. Bethune, a semi-nullifier, the new
-  member is both in favor of the Bank and Mr. Clay’s Land Bill. It is remarkable
-  that Mr. Bethune was beaten by precisely the same majority that he was elected
-  two years ago.—
-  <em>Boston Atlas.</em>
+transcription: "<em>Next Congress.</em> —The patriotic State of North Carolina will
+  present an almost undivided phalanx at Washington next winter against Nullification.
+  Carson is beaten, and there are but two members chosen whose course will run side
+  and side with McDuffie &amp; Co. More than two thirds of the Delegation are friendly
+  to the re-charter of the Bank. It gives us pleasure to learn that in the Fayetteville
+  district, represented in the last Congress by Mr. Bethune, a semi-nullifier, the
+  new member is both in favor of the Bank and Mr. Clay’s Land Bill. It is remarkable
+  that Mr. Bethune was beaten by precisely the same majority that he was elected two
+  years ago.— <em>Boston Atlas.</em> "
 scholarlyNotes: 
 commentary: One of these defeated Congressman, Lauchlin Bethune, was a slave-owner;
   the other, Samuel Price Carson, was a slaveowner and had killed a man in a duel
@@ -48,5 +45,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-05-14'
 ---

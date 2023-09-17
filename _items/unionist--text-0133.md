@@ -2,9 +2,9 @@
 pid: unionist--text-0133
 title: A New Theory
 bibliographicCitation: "<em>The Unionist</em> 1833-09-05"
-bibliographicCitationRepublished: "<em>New York Baptist Register</em> (not yet researched)\n"
+bibliographicCitationRepublished: "<em>New York Baptist Register</em> (not yet researched) "
 fullIssueSequenceNumber: 1833-09-05 p.04.59
-creator: "<em>New York Baptist Register</em> \n"
+creator: "<em>New York Baptist Register</em> "
 dateCreated: '1833-09-05'
 description: New Electromagnetic research
 language: English
@@ -18,15 +18,12 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: |
-  <em>A New Theory.</em>
-  —Dr. S.M. Metcalf has just published a work in which he endeavors to show, that
-  terrestrial magnetism and electricity are the same; and that “most striking
-  analogies of caloric and electricity shew that they are radically the same
-  subtle, imponderable, and all pervading element; that its unequal distribution
-  thro’-out nature, is the cause of all the various attractions of ponderable
-  matter.”—
-  <em>N.Y. Bap. Reg.</em>
+transcription: "<em>A New Theory.</em> —Dr. S.M. Metcalf has just published a work
+  in which he endeavors to show, that terrestrial magnetism and electricity are the
+  same; and that “most striking analogies of caloric and electricity shew that they
+  are radically the same subtle, imponderable, and all pervading element; that its
+  unequal distribution thro’-out nature, is the cause of all the various attractions
+  of ponderable matter.”— <em>N.Y. Bap. Reg.</em> "
 scholarlyNotes: Find-a-grave page for Metcalfe here https://www.findagrave.com/memorial/30068747/samuel-l-metcalfe?_gl=1*1s6bsl9*_ga*MTUyMjQxNDg5NS4xNjU5NTYyOTE2*_ga_B2YGR3SSMB*NDE3NjUyZjMtMTQ5NC00YzNmLThkZTUtOTUzMjNmNTk0OGE1LjcuMS4xNjc4OTE2NTgwLjQxLjAuMA..*_ga_4QT8FMEX30*MTY3ODkxNjM2Ni42LjEuMTY3ODkxNjU4MS40MC4wLjA.
 commentary: 'Samuel Littler Metcalfe (1798-1856) was the author of the 1833 volume
   <em>A New Theory of Terrestrial Magnetism</em>. There is an old short article about
@@ -46,5 +43,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-05-14'
 ---

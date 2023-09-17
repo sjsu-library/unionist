@@ -19,37 +19,36 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: '<p align="center"><strong>Wilberforce Prize Essay.</strong></p> <p
+transcription: <p align="center"><strong>Wilberforce Prize Essay.</strong></p> <p
   align="center">A NEW AND IMPORTANT SUGGESTION.</p> <p align="center">CHRISTIAN SLAVERY.</p>
   <p align="center">Another Reformation in the Church must be attempted.</p> <p align="center">
-  “Attempt great things—expect great things.” (The voice of the departed. [sic no
-  close parentheses] </p> <p> IN consequence of the light poured on the public, and
-  the church, by the spirited exertions of philanthropic individuals, a great change,
-  in relation to intoxicating liquors, has been produced. The eye, heart, and hand
-  of christian faith looks, prays, and acts for its completion. </p> <p> But another
-  reformation is needed in the church. It must be as separate from slavery, as from
-  intemperance. The nation groans under the burden and misery and guilt of both these
-  sins. It is the solemn duty of the church to clear itself from both these tremendous
-  crimes. This is not addressed to the world, for the world legalizes the traffic
-  in rum, and in the bodies and souls of men. But it is addressed to the children
-  of God, who, if they know and do their duty, can have no possible connection with
-  either of these trades. If increasing light has shown that christians ought not
-  to buy and sell ardent spirits, much more it is believed, will increasing light
-  show that christians ought not to buy human beings. </p> <p> The Rev John Newton,
-  even after he became pious, transported Africans in chains across the Atlantic,
-  to be sold with their posterity into slavery. Could he have been a true christian,
-  and have no upbraidings of conscience while so engaged? Yes. How is it possible?
-  It was legal, and, at that time, honorable, and his mind was not enlightened.—Afterwards
-  when it was he lamented his error. So there are in our country those who buy and
-  sell their fellow beings, who, if their minds were enlightened, would lament and
-  relinquish it. </p> <p> A few years ago, a man, whose whole daily earnings were
-  required by his family, set up forty nights to run a distillery for forty dollars,
-  which he gave to build a house of worship.—How could he think that money obtained
-  by changing the bread of the poor, into the liquid fire of death, acceptable to
-  God? Because his mind was in darkness. Would he do it now? No. Neither would the
-  church now receive it. Why? Because the light of the temperance reformation has
-  burst forth. </p> <p> Christians! who have promised supreme obedience to Him, that
-  tasted death for every man,: and more for the rich man, who, in a superb dress,
+  “Attempt great things—expect great things.” (The voice of the departed. [sic] </p>
+  <p> IN consequence of the light poured on the public, and the church, by the spirited
+  exertions of philanthropic individuals, a great change, in relation to intoxicating
+  liquors, has been produced. The eye, heart, and hand of christian faith looks, prays,
+  and acts for its completion. </p> <p> But another reformation is needed in the church.
+  It must be as separate from slavery, as from intemperance. The nation groans under
+  the burden and misery and guilt of both these sins. It is the solemn duty of the
+  church to clear itself from both these tremendous crimes. This is not addressed
+  to the world, for the world legalizes the traffic in rum, and in the bodies and
+  souls of men. But it is addressed to the children of God, who, if they know and
+  do their duty, can have no possible connection with either of these trades. If increasing
+  light has shown that christians ought not to buy and sell ardent spirits, much more
+  it is believed, will increasing light show that christians ought not to buy human
+  beings. </p> <p> The Rev John Newton, even after he became pious, transported Africans
+  in chains across the Atlantic, to be sold with their posterity into slavery. Could
+  he have been a true christian, and have no upbraidings of conscience while so engaged?
+  Yes. How is it possible? It was legal, and, at that time, honorable, and his mind
+  was not enlightened.—Afterwards when it was he lamented his error. So there are
+  in our country those who buy and sell their fellow beings, who, if their minds were
+  enlightened, would lament and relinquish it. </p> <p> A few years ago, a man, whose
+  whole daily earnings were required by his family, set up forty nights to run a distillery
+  for forty dollars, which he gave to build a house of worship.—How could he think
+  that money obtained by changing the bread of the poor, into the liquid fire of death,
+  acceptable to God? Because his mind was in darkness. Would he do it now? No. Neither
+  would the church now receive it. Why? Because the light of the temperance reformation
+  has burst forth. </p> <p> Christians! who have promised supreme obedience to Him,
+  that tasted death for every man, and more for the rich man, who, in a superb dress,
   rides in a superb carriage, to a superb church, to worship in superb style, than
   for the poor African, who pulls cotton in the “fields of Alabama, and naked as in
   the hour of birth, trembles under the blasts of mid winter”—on you is this call
@@ -77,7 +76,7 @@ transcription: '<p align="center"><strong>Wilberforce Prize Essay.</strong></p> 
   the sum will be given to him who shall show most conclusively to the christian church
   and to christian ministers, their duty to “Break every yoke.” The essays which shall
   be written for the prize, are to be judged, and the premium awarded, by ________
-  </p> <p>[N.B.—The blank will be filled, when the money is subscribed.]</p>'
+  </p> <p>[N.B.—The blank will be filled, when the money is subscribed.]</p>
 scholarlyNotes: 
 commentary: Charles Dennison (1809-1881) was an important early agent of the American
   Anti-Slavery Association. He was also a schoolmate and friend of Reuben Crandall,
@@ -96,5 +95,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-07-25'
 ---

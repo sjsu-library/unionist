@@ -1,7 +1,7 @@
 ---
 pid: unionist--image-0357
 title: Advertisement for Canterbury Female Boarding School 1833
-bibliographicCitation: "<em>The Liberator</em>  March 1833"
+bibliographicCitation: "<em>The Liberator</em> March 1833"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: William Lloyd Garrison
@@ -37,5 +37,4 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0357/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0357/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0357/full/1140,/0/default.jpg"
-proofed JR: 
 ---

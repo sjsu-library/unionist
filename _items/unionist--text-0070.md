@@ -18,22 +18,14 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
-transcription: |-
-  <p align="center">DRY GOODS, GROCERIES, &amp;c.</p>
-  <p align="center"><em>Free from Slave Labor.</em></p>
-  <p align="center">No. 71 Fulton-street, New York.</p>
-  <p>
-    THE subscriber informs those who feel alive to the great evils of Slavery in
-    this favored country, that he has opened a store for the disposal
-    <em>exclusively</em>
-    of the above articles and has at present for sale, Domestic and East India
-    manufactures—Rice, Coffee, Sugar, Molasses and Lemon Syrups &amp;c.
-  </p>
-  <p>
-    Having procured many of the foregoing with great care and much exertion, he is
-    determined to dispose of them at a very moderate profit, for ready money only.
-  </p>
-  <p>1.JOSEPH H. BEALE.</p>
+transcription: <p align="center">DRY GOODS, GROCERIES, &amp;c.</p> <p align="center"><em>Free
+  from Slave Labor.</em></p> <p align="center">No. 71 Fulton-street, New York.</p>
+  <p> THE subscriber informs those who feel alive to the great evils of Slavery in
+  this favored country, that he has opened a store for the disposal <em>exclusively</em>
+  of the above articles and has at present for sale, Domestic and East India manufactures—Rice,
+  Coffee, Sugar, Molasses and Lemon Syrups &amp;c. </p> <p> Having procured many of
+  the foregoing with great care and much exertion, he is determined to dispose of
+  them at a very moderate profit, for ready money only. </p> <p>1.JOSEPH H. BEALE.</p>
 scholarlyNotes: 
 commentary: The Free Produce movement urged Abolitionists to boycott any goods made
   with slave labor. This New York store would have been familiar to many of the students.
@@ -54,5 +46,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-07-24'
 ---

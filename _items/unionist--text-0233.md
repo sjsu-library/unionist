@@ -18,12 +18,10 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '26'
-transcription: |
-  By an article in the Brooklyn, Conn. Unionist, it would appear that an attempt
-  has been made to&nbsp;
-  <em>fire</em>
-  &nbsp;the building at Canterbury, in which Miss Crandall keeps her school for
-  colored females.—“Life, liberty, and the pursuit of happiness.”
+transcription: 'By an article in the Brooklyn, Conn. Unionist, it would appear that
+  an attempt has been made to&nbsp; <em>fire</em> &nbsp;the building at Canterbury,
+  in which Miss Crandall keeps her school for colored females.—“Life, liberty, and
+  the pursuit of happiness.” '
 scholarlyNotes: 
 commentary: This very loose paraphrase and commentary comes from the <em>Schnectady
   Cabinet</em>, a consistent ally of Abolitionisism
@@ -41,5 +39,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-09-15'
 ---

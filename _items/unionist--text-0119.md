@@ -18,9 +18,8 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: |
-  Can a Leopard change his spots? —Yes, if he does not like one spot, he can go to
-  another.
+transcription: 'Can a Leopard change his spots? —Yes, if he does not like one spot,
+  he can go to another. '
 scholarlyNotes: 
 commentary: Dad jokes in 1833
 relatedPeople: 
@@ -37,5 +36,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-05-14'
 ---

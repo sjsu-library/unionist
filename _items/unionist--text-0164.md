@@ -18,16 +18,15 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: |
-  Two men in Chatham, Ct. lately saw, according to their own account, an angel! To
-  one of them the celestial visitant appeared three different times, revealing to
-  him a future famine and an earthquake. Now we see no propriety in trying to make
-  it appear as something very strange to see an angel. Such sights are by no means
-  rare in Brooklyn. We see some half dozen every day—and by happy smiles that so
-  beautifully curl their pouting ruby lips we should suppose they were thinking of
-  things more agreeable than famine and earthquake. Ours are intellectual angels
-  withal, for we usually see them with a book under one arm—and—and—but we are a
-  confirmed bachelor and dare not venture another word upon the subject.
+transcription: 'Two men in Chatham, Ct. lately saw, according to their own account,
+  an angel! To one of them the celestial visitant appeared three different times,
+  revealing to him a future famine and an earthquake. Now we see no propriety in trying
+  to make it appear as something very strange to see an angel. Such sights are by
+  no means rare in Brooklyn. We see some half dozen every day—and by happy smiles
+  that so beautifully curl their pouting ruby lips we should suppose they were thinking
+  of things more agreeable than famine and earthquake. Ours are intellectual angels
+  withal, for we usually see them with a book under one arm—and—and—but we are a confirmed
+  bachelor and dare not venture another word upon the subject. '
 scholarlyNotes: 
 commentary: Because William Burleigh was teaching at the Canterbury Female Academy,
   it is likely he wrote this commentary about his angelic students. This was as defiant
@@ -48,5 +47,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-09-14'
 ---

@@ -18,25 +18,15 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: |
-  <p>Blood Horse Sportsman.</p>
-  <p>
-    This Horse will stand the ensuing season at the farm of the subscriber in
-    Pomfret under the management of Capt. Giles R. Eldridge at seven dollars the
-    season and one dollar to groom to be paid at the time of service.
-  </p>
-  <p>These are the ONLY conditions.</p>
-  <p>PEDIGREE</p>
-  <p>
-    Sportsman was got by Bassorah Arabian,—imported into New-York from the river
-    Euphrates by David Ogden Esq. Dam Sportmistress by imported Hickory, grand
-    Dam, Miller’s Damsel by old imported messenger. Millers Damsel was the dam of
-    American Eclipse.
-  </p>
-  <p>The get of Sportsman may be seen on the farm and in the neighborhood.</p>
-  <p>EDWARD ELDRIDGE.</p>
-  <p>Pomfret, March 1834.</p>
-  <p></p>
+transcription: "<p>Blood Horse Sportsman.</p> <p> This Horse will stand the ensuing
+  season at the farm of the subscriber in Pomfret under the management of Capt. Giles
+  R. Eldridge at seven dollars the season and one dollar to groom to be paid at the
+  time of service. </p> <p>These are the ONLY conditions.</p> <p>PEDIGREE</p> <p>
+  Sportsman was got by Bassorah Arabian,—imported into New-York from the river Euphrates
+  by David Ogden Esq. Dam Sportmistress by imported Hickory, grand Dam, Miller’s Damsel
+  by old imported messenger. Millers Damsel was the dam of American Eclipse. </p>
+  <p>The get of Sportsman may be seen on the farm and in the neighborhood.</p> <p>EDWARD
+  ELDRIDGE.</p> <p>Pomfret, March 1834.</p> <p></p> "
 scholarlyNotes: '</p><p>This lacks bibliographic details</p><p>Edward, son of James
   Eldredge, was born in Brooklyn, Connecticut, October 18, 1794; died September 8,
   1847, in Pomfret, Connecticut. When a young man he went to South America, and for
@@ -81,5 +71,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

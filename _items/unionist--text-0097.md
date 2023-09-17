@@ -18,32 +18,27 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: |
-  <p>
-    We feel it our duty to make the fact public, that one of the jury refused to
-    listen to any remonstrance from his brother jurors, because the ‘law,’ the
-    constitutionality of which, he was called on to decide, was ‘Judson’s Law!!’—
-    <em>Advertiser.</em>
-  </p>
-  <p>
-    “We feel it
-    <em>our</em>
-    duty” to say in reference to the above, that we have conversed with one of the
-    jurors, who informs us that he heard nothing said about the law, being
-    ‘Judson’s law,’ or the “black law,” or the “Canterbury Law,” and that no
-    disinclination was manifested to hear remonstrance or to listen to reason, and
-    no disposition to take into consideration in making up the decision, anything
-    but the law and the constitution, and the facts proved, unless the exception
-    be found in an attempt of one juror to make the bad tendency of an acquittal,
-    an argument for conviction. And “we feel it our duty” too, to remind the
-    Advertiser of the reproofs he has, not many months since bestowed upon the
-    Fall River Monitor for not quietly acquiescing in the result of a fair trial
-    by a jury of the country. Oh! the beauty of consistency!
-  </p>
+transcription: "<p> We feel it our duty to make the fact public, that one of the jury
+  refused to listen to any remonstrance from his brother jurors, because the ‘law,’
+  the constitutionality of which, he was called on to decide, was ‘Judson’s Law!!’—
+  <em>Advertiser.</em> </p> <p> “We feel it <em>our</em> duty” to say in reference
+  to the above, that we have conversed with one of the jurors, who informs us that
+  he heard nothing said about the law, being ‘Judson’s law,’ or the “black law,” or
+  the “Canterbury Law,” and that no disinclination was manifested to hear remonstrance
+  or to listen to reason, and no disposition to take into consideration in making
+  up the decision, anything but the law and the constitution, and the facts proved,
+  unless the exception be found in an attempt of one juror to make the bad tendency
+  of an acquittal, an argument for conviction. And “we feel it our duty” too, to remind
+  the Advertiser of the reproofs he has, not many months since bestowed upon the Fall
+  River Monitor for not quietly acquiescing in the result of a fair trial by a jury
+  of the country. Oh! the beauty of consistency! </p> "
 scholarlyNotes: 
-commentary: |
-  Burleigh's reference to Fall River concerns the infamous Ephraim Avery trial, in which a Methodist minister was accused of the murder of a young female parishioner with whom, it was speculated, he had been having an affair. He was acquitted, but the case remained a major controversy. In the Wikipedia article on the incident - <a href="https://en.wikipedia.org/wiki/Ephraim_Kingsbury_Avery"> https://en.wikipedia.org/wiki/Ephraim_Kingsbury_Avery</a> -there are at least three full-length studies cited in the bibliography
-  </p>
+commentary: 'Burleigh''s reference to Fall River concerns the infamous Ephraim Avery
+  trial, in which a Methodist minister was accused of the murder of a young female
+  parishioner with whom, it was speculated, he had been having an affair. He was acquitted,
+  but the case remained a major controversy. In the Wikipedia article on the incident
+  - <a href="https://en.wikipedia.org/wiki/Ephraim_Kingsbury_Avery"> https://en.wikipedia.org/wiki/Ephraim_Kingsbury_Avery</a>
+  -there are at least three full-length studies cited in the bibliography </p> '
 relatedPeople: Andrew Judson; James Holbrook (inferred)
 featured: 
 repeated: 
@@ -58,5 +53,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-09-12'
 ---

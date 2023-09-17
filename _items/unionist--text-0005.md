@@ -19,13 +19,13 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '7'
-transcription: "<p>O! SHAME! SHAME!!”</p>\n<p>\n☞ “The following paragraph is\n  extracted
-  from the Unionist of last week” \n</p>\n<p>\n  “’The laudable efforts of the Canterbury
-  worthies to drive Miss Crandall from\n  her purpose, by withholding from her the
-  necessaries of life, will have the\n  effect to perpetuate their own well earned
-  fame, if not to attain its primary\n  object. The latest measure which we have heard
-  of their adopting, is the\n  FILLING MISS C’S WELL WITH MANURE FROM THE BARNYARD,\n
-  \ <em>and then refusing to give her water from their own wells.’”</em>\n</p>\n"
+transcription: "<p>O! SHAME! SHAME!!”</p> <p> ☞ “The following paragraph is extracted
+  from the Unionist of last week” </p> <p> “’The laudable efforts of the Canterbury
+  worthies to drive Miss Crandall from her purpose, by withholding from her the necessaries
+  of life, will have the effect to perpetuate their own well earned fame, if not to
+  attain its primary object. The latest measure which we have heard of their adopting,
+  is the FILLING MISS C’S WELL WITH MANURE FROM THE BARNYARD, <em>and then refusing
+  to give her water from their own wells.’”</em> </p> "
 scholarlyNotes: 
 commentary: The vigilante violence and harassment of the Canterbury Female Academy
   was continuous, malicious, and often crudely immature, as in this instance. Putting
@@ -46,5 +46,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-08-18'
 ---

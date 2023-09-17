@@ -18,14 +18,9 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: |
-  <p>DIED,</p>
-  <p>At Windham on Saturday last, Mr. Shubael Fitch, aged 84.</p>
-  <p>
-    At Chaplin, suddenly, on the 27
-    <sup>th</sup>
-    ult. Mrs. Freelove Geer, wife of Mr. Amos Geer, aged 71 years.
-  </p>
+transcription: "<p>DIED,</p> <p>At Windham on Saturday last, Mr. Shubael Fitch, aged
+  84.</p> <p> At Chaplin, suddenly, on the 27 <sup>th</sup> ult. Mrs. Freelove Geer,
+  wife of Mr. Amos Geer, aged 71 years. </p> "
 scholarlyNotes: I have not researched these folks
 commentary: 
 relatedPeople: Shubael Fitch; Freelove Geer; Amos Geer
@@ -42,5 +37,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-09-16'
 ---

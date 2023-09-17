@@ -1,13 +1,13 @@
 ---
 pid: unionist--image-0132
-title: 'Animal Associations PeoplesMag 1.9.71 1833-07-13 '
+title: 'Animal Associations '
 bibliographicCitation: "<em>The People's Magazine</em> 1.9.71 1833-07-13"
 bibliographicCitationRepublished: https://catalog.hathitrust.org/api/volumes/oclc/6497679.html
 fullIssueSequenceNumber: 
 creator: 
 dateCreated: '1833'
-description: FOR SALE, At this office, a few copies of Mrs. Child’s “Appeal in behalf
-  of that class of Americans called Africans"
+description: Engraving of Animal Associations to accompany an article on cross-species
+  relationships.
 language: English
 publisher: 
 IsPartOf: 
@@ -37,5 +37,4 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0132/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0132/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0132/full/1140,/0/default.jpg"
-proofed JR: "/img/derivatives/iiif/images/unionist--image-0132/full/1140,/0/default.jpg"
 ---

@@ -38,8 +38,7 @@ caption: '"1839 Illustration in the Anti-Slavery Almanac of Black students exclu
 order: '755'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
-proofed JR: '2023-08-22'
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0344/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0344/manifest.json"
+full: "/img/derivatives/iiif/images/unionist--image-0344/full/1140,/0/default.jpg"
 ---

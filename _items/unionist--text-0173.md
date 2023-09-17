@@ -19,16 +19,14 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: |-
-  REV. E. K. AVERY.—A statement having gone the rounds in certain public journals,
-  that the Rev. E. Avery has been suspended from the gospel ministry by the
-  Conference of the Methodist E. Church, and having been questioned on this
-  subject from various directions, we would say for the information of all
-  concerned, that there is no truth in the statement. He is not silenced by the
-  Methodist Conference, nor have any legal ecclesiastical proceedings been had on
-  his case in reference to such a subject; nor has there been any occasion for
-  such an examination that we can learn. Our only object is to contradict the
-  false statement above mentioned.—
+transcription: REV. E. K. AVERY.—A statement having gone the rounds in certain public
+  journals, that the Rev. E. Avery has been suspended from the gospel ministry by
+  the Conference of the Methodist E. Church, and having been questioned on this subject
+  from various directions, we would say for the information of all concerned, that
+  there is no truth in the statement. He is not silenced by the Methodist Conference,
+  nor have any legal ecclesiastical proceedings been had on his case in reference
+  to such a subject; nor has there been any occasion for such an examination that
+  we can learn. Our only object is to contradict the false statement above mentioned.—
   <em>Zion’s Herald.</em>
 scholarlyNotes: 
 commentary: E.K.Avery was a Methodist minister accused of a notorious murder in Fall
@@ -47,5 +45,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-09-15'
 ---

@@ -18,16 +18,10 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: |
-  <p>MARRIED,</p>
-  <p>
-    At Hampton, on the 31<sup>st</sup> ult. By Elder Dexter Bullard, Ebenezer Griffin, Esq., to Mrs. Lydia Parsons,
-    all of Hampton.
-  </p>
-  <p>
-    At Hampton, on the 31<sup>st</sup> inst. by the Rev. Daniel G. Sprague, Deacon Harvey Lummis to Mrs. Lucretia
-    Hodgkins, all of Hampton.
-  </p>
+transcription: "<p>MARRIED,</p> <p> At Hampton, on the 31<sup>st</sup> ult. By Elder
+  Dexter Bullard, Ebenezer Griffin, Esq., to Mrs. Lydia Parsons, all of Hampton. </p>
+  <p> At Hampton, on the 31<sup>st</sup> inst. by the Rev. Daniel G. Sprague, Deacon
+  Harvey Lummis to Mrs. Lucretia Hodgkins, all of Hampton. </p> "
 scholarlyNotes: 
 commentary: 'Ebenezer Griffin (1775-1860) is almost certainly the same man who was
   one of the presiding judges at Crandall''s first trial under the Black Law, and
@@ -51,5 +45,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-07-26'
 ---

@@ -18,36 +18,17 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: |
-  <p>
-    At a meeting of the Delegates, chosen by the Electors of the 13
-    <sup>th</sup>
-    Senatorial District, to nominate a suitable candidate for Senator for said
-    District, holden at Davison’s Hotel in Brooklyn on the 5
-    <sup>th</sup>
-    inst., John Tweedy Esq. of Hampton was called to the Chair, and John Gallup 3d
-    of Brooklyn was chosen Secretary.
-  </p>
-  <p>On balloting,</p>
-  <p align="center"><strong>COL. GEORGE SPAFFORD</strong></p>
-  <p>
-    was found to be the candidate of the meeting. It was thereupon unanimously
-  </p>
-  <p>
-    <em>Resolved,</em>
-    That this meeting approve the nomination of Col. George Spafford, for Senator,
-    and that we will use all honorable means to promote his election.
-  </p>
-  <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    JOHN TWEEDY,
-    <em>Chairman,</em>
-  </p>
-  <p>
-    JOHN GALLUP 3d.
-    <em>Secretary.</em>
-  </p>
+transcription: '<p> At a meeting of the Delegates, chosen by the Electors of the 13
+  <sup>th</sup> Senatorial District, to nominate a suitable candidate for Senator
+  for said District, holden at Davison’s Hotel in Brooklyn on the 5 <sup>th</sup>
+  inst., John Tweedy Esq. of Hampton was called to the Chair, and John Gallup 3d of
+  Brooklyn was chosen Secretary. </p> <p>On balloting,</p> <p align="center"><strong>COL.
+  GEORGE SPAFFORD</strong></p> <p> was found to be the candidate of the meeting. It
+  was thereupon unanimously </p> <p> <em>Resolved,</em> That this meeting approve
+  the nomination of Col. George Spafford, for Senator, and that we will use all honorable
+  means to promote his election. </p> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  JOHN TWEEDY, <em>Chairman,</em> </p> <p> JOHN GALLUP 3d. <em>Secretary.</em> </p> '
 scholarlyNotes: 
 commentary: 'George Spafford ran a paper factory in Windham, starting in 1830. <em>A
   Modern History of Windham County Connecticut: A Windham County Treasure Book</em>,
@@ -67,5 +48,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-09-16'
 ---

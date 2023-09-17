@@ -18,18 +18,10 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: |
-  <p align="center"><strong>INSURANCE.</strong></p>
-  <p>
-    DANIEL P. TYLER, Agent for the AETNA INSURANCE OFFICE, will insure all
-    <em>Insurable property</em>
-    on reasonable terms.
-  </p>
-  <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brooklyn 29
-    <sup>th</sup>
-    July, 1833.&nbsp;
-  </p>
+transcription: '<p align="center"><strong>INSURANCE.</strong></p> <p> DANIEL P. TYLER,
+  Agent for the AETNA INSURANCE OFFICE, will insure all <em>Insurable property</em>
+  on reasonable terms. </p> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Brooklyn 29 <sup>th</sup> July, 1833.&nbsp; </p> '
 scholarlyNotes: 
 commentary: 'The Ætna was doing well in this era, paying high dividends and building
   a strong name for itself, especially in fire insurance. Henry Ross Gall and William
@@ -50,5 +42,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-05-14'
 ---

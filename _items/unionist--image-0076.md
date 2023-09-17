@@ -35,8 +35,7 @@ caption: The New Alms House in Philadelphia, p. 156 of the September 1833 issue 
 order: '487'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
-proofed JR: '2023-09-15'
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0076/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0076/manifest.json"
+full: "/img/derivatives/iiif/images/unionist--image-0076/full/1140,/0/default.jpg"
 ---

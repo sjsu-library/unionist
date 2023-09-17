@@ -36,8 +36,7 @@ caption: 'Enameled container and lid with anti-slavery slogan: "May the Enemies 
 order: '613'
 layout: items_item
 collection: items
-thumbnail: "/img/derivatives/iiif/images/unionist--image-0202/full/250,/0/default.jpg"
-manifest: "/img/derivatives/iiif/unionist--image-0202/manifest.json"
-full: "/img/derivatives/iiif/images/unionist--image-0202/full/1140,/0/default.jpg"
-proofed JR: '2023-09-13'
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0201/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0201/manifest.json"
+full: "/img/derivatives/iiif/images/unionist--image-0201/full/1140,/0/default.jpg"
 ---

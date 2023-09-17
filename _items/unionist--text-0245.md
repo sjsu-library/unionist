@@ -18,12 +18,10 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: |
-  Letters from Washington state that the President will not nominate any new Bank
-  Directors to the Senate, and also, that in consequence of the rejection of the
-  directors, nominated, he will not submit the appointment of Mr. Taney to the
-  consideration of the Senate.—
-  <em>Boston Atlas.</em>
+transcription: 'Letters from Washington state that the President will not nominate
+  any new Bank Directors to the Senate, and also, that in consequence of the rejection
+  of the directors, nominated, he will not submit the appointment of Mr. Taney to
+  the consideration of the Senate.— <em>Boston Atlas.</em> '
 scholarlyNotes: 
 commentary: Chief Justice Roger B. Taney, photograph by Mathew Brady. Author of the
   infamous Dred Scott decision, and a life-long advocate of colonizationism.
@@ -41,5 +39,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-09-16'
 ---

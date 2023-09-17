@@ -18,14 +18,12 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: |
-  <em>Temperance Document</em>
-  —Rob’t K. Greenville Edinburgh, has prepared a document regarding the moral and
-  physical properties of ardent spirits, embodying a most unequivocal testimony
-  against them from upwards of four hundred and forty of the most eminent
-  physicians in Scotland, England and Ireland. This document without suggesting
-  any measures in regard to the pernicious liquids, has been submitted to the
-  consideration of the members of both houses of Parliament.
+transcription: "<em>Temperance Document</em> —Rob’t K. Greenville Edinburgh, has prepared
+  a document regarding the moral and physical properties of ardent spirits, embodying
+  a most unequivocal testimony against them from upwards of four hundred and forty
+  of the most eminent physicians in Scotland, England and Ireland. This document without
+  suggesting any measures in regard to the pernicious liquids, has been submitted
+  to the consideration of the members of both houses of Parliament. "
 scholarlyNotes: 
 commentary: 
 relatedPeople: Robert K. Greenville
@@ -42,5 +40,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

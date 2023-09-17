@@ -19,25 +19,18 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '10'
-transcription: |
-  <p>BROOKLYN, Ct. October 3.</p>
-  <p>
-    On the evening of Friday Sept. 20th while Miss Crandall and her pupils were
-    assembled in the school room for the purpose of holding a religious meeting,
-    Rev. Mr. Potter of Pawtucket, R. I. having accepted her invitation to preach
-    to them, near the close of the services a clamorous rabble, without, assailed
-    the house, a volley of rotten eggs and other missiles were thrown at the
-    window, breaking the glass and lodging part of the filth on the curtain. The
-    pupils, regardless of the assault, commenced singing the hymn which had just
-    been read and went through without interruption.
-  </p>
-  <p>
-    On Thursday last [Sept. 26th] Miss C. was again brought before Esquire Adams
-    for examination on two separate complaints, one for instructing and the other
-    for boarding and harbouring {sic} colored persons from abroad. She was bound
-    over to the Supreme Court which commenced its session in the place on Tuesday
-    the first inst.
-  </p>
+transcription: "<p>BROOKLYN, Ct. October 3.</p> <p> On the evening of Friday Sept.
+  20th while Miss Crandall and her pupils were assembled in the school room for the
+  purpose of holding a religious meeting, Rev. Mr. Potter of Pawtucket, R. I. having
+  accepted her invitation to preach to them, near the close of the services a clamorous
+  rabble, without, assailed the house, a volley of rotten eggs and other missiles
+  were thrown at the window, breaking the glass and lodging part of the filth on the
+  curtain. The pupils, regardless of the assault, commenced singing the hymn which
+  had just been read and went through without interruption. </p> <p> On Thursday last
+  [Sept. 26th] Miss C. was again brought before Esquire Adams for examination on two
+  separate complaints, one for instructing and the other for boarding and harbouring
+  {sic} colored persons from abroad. She was bound over to the Supreme Court which
+  commenced its session in the place on Tuesday the first inst. </p> "
 scholarlyNotes: 
 commentary: The second paragraph of this account is also found in the <em>Connecticut
   Courant</em>, 1833-10-7
@@ -55,5 +48,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-08-17'
 ---

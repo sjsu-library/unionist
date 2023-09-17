@@ -18,16 +18,11 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: |
-  <p>BACK AGAIN.</p>
-  <p>S. BARROWS, TAILOR.</p>
-  <p>
-    HAS removed to his OLD SHOP, a few rods West of Mather’s Coffee-House, where
-    he will be happy to wait upon his customers, and execute their orders to their
-    satisfaction in all respects, if possible.
-  </p>
-  <p>☞LATEST FASHIONS just received.☜ </p>
-  <p>Brooklyn, Oct. 31, 1833</p>
+transcription: "<p>BACK AGAIN.</p> <p>S. BARROWS, TAILOR.</p> <p> HAS removed to his
+  OLD SHOP, a few rods West of Mather’s Coffee-House, where he will be happy to wait
+  upon his customers, and execute their orders to their satisfaction in all respects,
+  if possible. </p> <p>☞LATEST FASHIONS just received.☜ </p> <p>Brooklyn, Oct. 31,
+  1833</p> "
 scholarlyNotes: Did cursory Ancestry check - no Barrows easily found matching this
   info
 commentary: 
@@ -45,5 +40,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-09-10'
 ---

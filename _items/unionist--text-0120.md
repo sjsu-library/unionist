@@ -18,9 +18,8 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: |
-  He that riseth late must trot all day, and shall scarce overtake his business at
-  night.
+transcription: 'He that riseth late must trot all day, and shall scarce overtake his
+  business at night. '
 scholarlyNotes: 
 commentary: Franklin's admonitions to early rising were already famous.
 relatedPeople: 
@@ -37,5 +36,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-05-14'
 ---

@@ -18,18 +18,17 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: |
-  Benj. Watkins Leigh, Esq., has been appointed Senator from Virginia, in the
-  place of Mr. Rives, resigned.
+transcription: 'Benj. Watkins Leigh, Esq., has been appointed Senator from Virginia,
+  in the place of Mr. Rives, resigned. '
 scholarlyNotes: 
-commentary: "Benjamin Watkins Leigh (1781-1849) was an anti-Abolitionist. In 1835
-  he would contend that Virginia had a right to ban any literature it found \"inflammatory.\"
+commentary: 'Benjamin Watkins Leigh (1781-1849) was an anti-Abolitionist. In 1835
+  he would contend that Virginia had a right to ban any literature it found "inflammatory."
   Apparently the Abolitionists already knew his true colors. “Virginia Senator Benjamin
-  Watkins Leigh proposed a statewide boycott of newspapers that favored emancipation.\nVirginians,
-  Leigh wrote, had the right “to suppress to the utmost of our power\nwhat we deem
-  inflammatory, dangerous, mischievous.” (Susan Dunn,\n<em>Dominion of Memories: Jefferson,
-  Madison, and the decline of Virginia.</em>\nNew York: Basic Books, 2007, p. 195)
-  \n"
+  Watkins Leigh proposed a statewide boycott of newspapers that favored emancipation.
+  Virginians, Leigh wrote, had the right “to suppress to the utmost of our power what
+  we deem inflammatory, dangerous, mischievous.” (Susan Dunn, <em>Dominion of Memories:
+  Jefferson, Madison, and the decline of Virginia.</em> New York: Basic Books, 2007,
+  p. 195) '
 relatedPeople: Benjamin Watkins Leigh
 featured: 
 repeated: 
@@ -44,5 +43,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-09-16'
 ---

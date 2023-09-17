@@ -20,35 +20,23 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: |
-  <p>
-    An Act in addition to an Act entitled “An Act in addition to an Act concerning
-    Gaols and Gaolers.”
-  </p>
-  <p>
-    BE it enacted the Senate and House of Representatives, in General Assembly
-    convened, That whenever it shall be necessary to build or to change the place
-    for holding the Supreme Court of Errors, Superior Court and County Court, in
-    any town in which by law said Courts are required to be held, it shall be the
-    duty of the chief or presiding judge of the County Court of the county in
-    which said town is situated, on the application of a majority of the
-    representatives in the General Assembly, for the time being, from said county,
-    to convene the judges of the County Court and the Representatives from said
-    county, at such place in said town as he shall appoint, giving reasonable
-    notice of the time and place of such meeting; and the persons so convened,
-    shall designate the place in said town where said court shall be holden; and
-    if said report shall be accepted by the General Assembly, as the place for
-    holding said courts, when by law required to be holden in said towns.
-  </p>
-  <p align="right">SAMUEL INGHAM,</p>
-  <p align="right">Speaker of the House of Representatives.</p>
-  <p align="right">EBENZER STODDARD,</p>
-  <p align="right">President of the Senate.</p>
-  <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    Approved, May 24th, 1833
-  </p>
-  <p align="right">HENRY EDWARDS.</p>
+transcription: '<p> An Act in addition to an Act entitled “An Act in addition to an
+  Act concerning Gaols and Gaolers.” </p> <p> BE it enacted the Senate and House of
+  Representatives, in General Assembly convened, That whenever it shall be necessary
+  to build or to change the place for holding the Supreme Court of Errors, Superior
+  Court and County Court, in any town in which by law said Courts are required to
+  be held, it shall be the duty of the chief or presiding judge of the County Court
+  of the county in which said town is situated, on the application of a majority of
+  the representatives in the General Assembly, for the time being, from said county,
+  to convene the judges of the County Court and the Representatives from said county,
+  at such place in said town as he shall appoint, giving reasonable notice of the
+  time and place of such meeting; and the persons so convened, shall designate the
+  place in said town where said court shall be holden; and if said report shall be
+  accepted by the General Assembly, as the place for holding said courts, when by
+  law required to be holden in said towns. </p> <p align="right">SAMUEL INGHAM,</p>
+  <p align="right">Speaker of the House of Representatives.</p> <p align="right">EBENZER
+  STODDARD,</p> <p align="right">President of the Senate.</p> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Approved, May 24th, 1833 </p> <p align="right">HENRY EDWARDS.</p> '
 scholarlyNotes: 
 commentary: It was a standard practice for newspapers to republish legislative acts
 relatedPeople: Samuel Ingham; Ebenezer Stoddard; Henry Edwards
@@ -65,5 +53,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-05-14'
 ---

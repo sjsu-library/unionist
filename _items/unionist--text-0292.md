@@ -18,21 +18,15 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: |
-  <p>
-    NOTICE.—The subscriber would inform all persons whom it may concern that he
-    has purchased a right to use Lane’s patent threshing machine for seven towns,
-    viz: Thompson, Woodstock, Pomfret, Ashford, Killingly, Hampton, and Chaplin.
-    And he would also give information to such as may be wishing to purchase of
-    him for either of the above towns, or for their own farms, that they will do
-    well to apply before the 10<sup>th</sup> of February next, as the subscriber will then wish to make such arrangements
-    for building Machines as will be necessary, according to the number that may
-    be wanted. WM. OSGOOD.
-  </p>
-  <p>
-    Abington, January 13, 1834,—*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    22
-  </p>
+transcription: "<p> NOTICE.—The subscriber would inform all persons whom it may concern
+  that he has purchased a right to use Lane’s patent threshing machine for seven towns,
+  viz: Thompson, Woodstock, Pomfret, Ashford, Killingly, Hampton, and Chaplin. And
+  he would also give information to such as may be wishing to purchase of him for
+  either of the above towns, or for their own farms, that they will do well to apply
+  before the 10<sup>th</sup> of February next, as the subscriber will then wish to
+  make such arrangements for building Machines as will be necessary, according to
+  the number that may be wanted. WM. OSGOOD. </p> <p> Abington, January 13, 1834,—*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  22 </p> "
 scholarlyNotes: 
 commentary: "<p>Samuel Lane (d. 1844), who invented this machine, did not have much
   success with his thresher commercially. He came from Hallowell, Maine. Because of
@@ -40,7 +34,7 @@ commentary: "<p>Samuel Lane (d. 1844), who invented this machine, did not have m
   records of this particular design. It likely represents patent number 5,185X (thanks
   to Joel R. Havens, personal communication).</p> <p>These types of threshing machines
   were destroyed by workers opposed to automation and displacement, in the famed Swing
-  Riots in England (1830).  "
+  Riots in England (1830). "
 relatedPeople: William Osgood
 featured: 
 repeated: 
@@ -55,5 +49,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-08-01'
 ---

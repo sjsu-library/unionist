@@ -18,14 +18,12 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: |
-  AGENTS WANTED.—Individuals wishing to travel in different sections of the United
-  States will find steady employment during the year, circulating valuable and
-  interesting publications, by calling upon the subscribers, HUTCHINSON &amp;
-  DWIER, or B.B.BARBER&nbsp; – Hartford, February
-  1834.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+transcription: 'AGENTS WANTED.—Individuals wishing to travel in different sections
+  of the United States will find steady employment during the year, circulating valuable
+  and interesting publications, by calling upon the subscribers, HUTCHINSON &amp;
+  DWIER, or B.B.BARBER&nbsp; – Hartford, February 1834.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   m6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  22
+  22 '
 scholarlyNotes: 
 commentary: 
 relatedPeople: Hutchinson; Dwier; B.B. Barler
@@ -42,5 +40,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-07-26'
 ---

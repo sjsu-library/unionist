@@ -3,9 +3,7 @@ pid: unionist--image-0360
 title: Prospectus from <em>We, The People and Old Colony Press</em>
 bibliographicCitation: '“Proposals for Publishing in the Town of Plymouth, A Weekly
   Paper, to be Entitled WE, The People, and Old Colony Press," <em>We, the People,
-  and Old Colony Press</em> 1:4, November 17, 1832
-
-'
+  and Old Colony Press</em> 1:4, November 17, 1832 '
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
@@ -39,5 +37,4 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0360/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0360/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0360/full/1140,/0/default.jpg"
-proofed JR: 
 ---

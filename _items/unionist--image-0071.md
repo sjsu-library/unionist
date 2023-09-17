@@ -34,8 +34,7 @@ caption: Plainfield, Connecticut, including the Plainfield Academy on top of the
 order: '482'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
-proofed JR: '2023-06-14'
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0071/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0071/manifest.json"
+full: "/img/derivatives/iiif/images/unionist--image-0071/full/1140,/0/default.jpg"
 ---

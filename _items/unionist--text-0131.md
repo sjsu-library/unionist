@@ -19,16 +19,14 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: |
-  <em>Tin Roofs.</em>
-  —The N.Y. Journal of Commerce informs us, that the practice of covering roofs
-  with tin instead of slate, is becoming quite extensive in that city. It is
-  estimated that no less than 300 have been thus covered [in] the present season.
-  In consequence of the removal of the 15 per cent, it is stated that tin is a
-  cheaper covering than slate. There is a considerable saving in timber and labor
-  in the construction of the roofs, as the tinned roofs are in general nearly
+transcription: "<em>Tin Roofs.</em> —The N.Y. Journal of Commerce informs us, that
+  the practice of covering roofs with tin instead of slate, is becoming quite extensive
+  in that city. It is estimated that no less than 300 have been thus covered [in]
+  the present season. In consequence of the removal of the 15 per cent, it is stated
+  that tin is a cheaper covering than slate. There is a considerable saving in timber
+  and labor in the construction of the roofs, as the tinned roofs are in general nearly
   flat. Tin, it is said, is more durable than slate, and less liable to get out of
-  place or to be blown off by the wind.
+  place or to be blown off by the wind. "
 scholarlyNotes: 
 commentary: 
 relatedPeople: 
@@ -45,5 +43,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-05-14'
 ---

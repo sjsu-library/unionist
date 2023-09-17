@@ -18,30 +18,17 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: |
-  <p>
-    AT a Court of Probate holden at Killingly within and for the District of
-    Killingly on the fifth day of August A.D. 1833.
-  </p>
-  <p>Present THOMAS BACKUS, Esq. Judge.</p>
-  <p>
-    On motion of Jedediah Leavens Esq. Administrator on the estate of Jedediah
-    Leavens late of said Killingly, deceased, this court doth hereby limit and
-    appoint six months from the first publication of this order for the creditors
-    of said estate to present their claims against said estate to said
-    administrator after he shall have given public notice of this order by
-    publishing the same in a newspaper printed in Brooklyn in the County of
-    Windham, and posting the same on the public sign post in the East Parish in
-    said town of Killingly.
-  </p>
-  <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Certified
-    from Record
-  </p>
-  <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    DAVID CHASE, Clerk.
-  </p>
+transcription: "<p> AT a Court of Probate holden at Killingly within and for the District
+  of Killingly on the fifth day of August A.D. 1833. </p> <p>Present THOMAS BACKUS,
+  Esq. Judge.</p> <p> On motion of Jedediah Leavens Esq. Administrator on the estate
+  of Jedediah Leavens late of said Killingly, deceased, this court doth hereby limit
+  and appoint six months from the first publication of this order for the creditors
+  of said estate to present their claims against said estate to said administrator
+  after he shall have given public notice of this order by publishing the same in
+  a newspaper printed in Brooklyn in the County of Windham, and posting the same on
+  the public sign post in the East Parish in said town of Killingly. </p> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Certified from Record </p> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  DAVID CHASE, Clerk. </p> "
 scholarlyNotes: 
 commentary: Judge Thomas Backus (1800-1858) was well-connected locally. See his [Find-a-Grave]
   (https://www.findagrave.com/memorial/77485041/thomas-backus) page.
@@ -60,5 +47,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-05-14'
 ---

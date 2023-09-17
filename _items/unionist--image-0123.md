@@ -37,8 +37,7 @@ caption: A well-loved title page from <em>Angell's Select Reader Union No. 6</em
 order: '534'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
-proofed JR: '2023-09-08'
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0123/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0123/manifest.json"
+full: "/img/derivatives/iiif/images/unionist--image-0123/full/1140,/0/default.jpg"
 ---

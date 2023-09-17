@@ -19,7 +19,7 @@ category: Unionist content
 articleType: 
 volume: '2'
 issue: '6'
-transcription: "MISS CRANDALL’S SCHOOL ABANDONED. Human endurance has its bounds,
+transcription: 'MISS CRANDALL’S SCHOOL ABANDONED. Human endurance has its bounds,
   and the requirements of duty have theirs. By the following Advertisements, which
   we copy from the Brooklyn Unionist, it appears that another cowardly attack has
   been made upon Miss Crandall’s (now Mrs. Phileo’s) dwelling, by some midnight ruffians
@@ -40,9 +40,9 @@ transcription: "MISS CRANDALL’S SCHOOL ABANDONED. Human endurance has its boun
   insecure. I have therefore thought it proper, and do hereby advertise the house
   and appurtenances thereof for sale. For further particulars inquire of the subscriber,
   or of PARDON CRANDALL, of Canterbury, or SAMUEL J. MAY of Brooklyn. CALVIN PHILEO.
-  Canterbury, Sept. 11, 1834 \n☞ From a letter which we have just received from our
+  Canterbury, Sept. 11, 1834 ☞ From a letter which we have just received from our
   esteemed coadjutor, Rev. SAMUEL J. MAY, we make the following extract, relating
-  to the above shameful outrage:\n        ‘You will be grieved to learn from the advertisements,
+  to the above shameful outrage: ‘You will be grieved to learn from the advertisements,
   that Mrs. Phileo’s house had been again assaulted. On Tuesday night, 12 o’clock,
   five windows were smashed in at once. I went down yesterday, so soon as I heard
   of it. They have never been so much disconcerted before. Their two front rooms are
@@ -62,7 +62,7 @@ transcription: "MISS CRANDALL’S SCHOOL ABANDONED. Human endurance has its boun
   in which they dwell is not protected by the conservators of the peace, the officers
   of justice, in the community in which it is situated. The words almost blistered
   my lips. My heart glowed with indignation. I felt ashamed of Canterbury, ashamed
-  of Connecticut, ashamed of my Country.’\n\n"
+  of Connecticut, ashamed of my Country.’ '
 scholarlyNotes: 
 commentary: After the direct <em>Unionist</em> content, a letter from Samuel J. May
   describing the ending of the school is attached. I am including it here because
@@ -82,5 +82,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 2023-07-22 entered
 ---

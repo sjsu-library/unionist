@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0115
-title: John_Rankin_abolitionist
+title: John Rankin, abolitionist, by Ellen Rankin Cobb
 bibliographicCitation: 'By This mediaUnknown authorOriginal workEllen Rankin Copp
   (1853–1901) - &quot;The Underground Railroad from Slavery to Freedom&quot;By Wilbur
   Henry Siebert, Albert Bushnell HartEdition: 2Published by Macmillan, 1898, pg. 306
@@ -36,13 +36,12 @@ relatedText: unionist--text-0287
 relatedTextIssue: 1834-03-13 p.04.51
 filename: 
 caption: Bust of John Rankin (1793-1886) by his grand-daughter, noted sculptor Ellen
-  Rankin Copp (1853-1901). See https://en.wikipedia.org/wiki/Ellen_Rankin_Copp for
-  more information on her tumultuous and productive life.
+  Rankin Copp (1853-1901). See the <a href="https://en.wikipedia.org/wiki/Ellen_Rankin_Copp">Wikipedia
+  article on Cobb</a> for more information on her tumultuous and productive life.
 order: '526'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0115/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0115/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0115/full/1140,/0/default.jpg"
-proofed JR: "/img/derivatives/iiif/images/unionist--image-0115/full/1140,/0/default.jpg"
 ---

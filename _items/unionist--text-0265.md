@@ -18,14 +18,9 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: |
-  <p>
-    NOTICE.—All persons indebted to the subscriber whose accounts are of six months standing, are earnestly desired to settle them before the first of April next</p>
-  <p> D.C.ROBINSON.
-  </p>
-  <p>March 12.</p>
-  <p>32
-  </p>
+transcription: "<p> NOTICE.—All persons indebted to the subscriber whose accounts
+  are of six months standing, are earnestly desired to settle them before the first
+  of April next</p> <p> D.C.ROBINSON. </p> <p>March 12.</p> <p>32 </p> "
 scholarlyNotes: I have not researched these folks
 commentary: 
 relatedPeople: D.C. Robinson
@@ -42,5 +37,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-09-16'
 ---

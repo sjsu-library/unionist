@@ -19,14 +19,14 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>\n  LIST of letters remaining in the Post Office at Killingly,
-  Ct. Oct. 1<sup>st</sup>, 1833\n</p>\n<p>\n<p>Adrien Levi</p>\r\n<p>Adams Elisha</p>\r\n<p>Adams
-  James</p>\r\n<p>Adams George</p>\r\n<p>Brown Anthony</p>\r\n<p>Brown Wm. </p>\r\n<p>Crowningshield
-  R</p>.\r\n<p>Cady Lydia</p>\r\n<p>Danielson W. & T. </p>\r\n<p>Day Lucius 2</p>\r\n<p>Day
-  Cyrus Capt</p>\r\n<p>Day Sam’l</p>\r\n<p>Eaton Polly</p>\r\n<p>Graves Whitney</p>\r\n<p>Hutchins
-  Sam’l</p>\r\n<p>Hutchins, Sam’l. II</p>\r\n<p>Haily Benj. </p>\r\n<p>Jillson Buffin</p>\r\n<p>Sparks
-  Julin 2</p>\r\n<p>Short Seth</p>\r\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n
-  \ GEO. DANIELSON P.M.\n</p>\n"
+transcription: "<p> LIST of letters remaining in the Post Office at Killingly, Ct.
+  Oct. 1<sup>st</sup>, 1833 </p> <p> <p>Adrien Levi</p>\r <p>Adams Elisha</p>\r <p>Adams
+  James</p>\r <p>Adams George</p>\r <p>Brown Anthony</p>\r <p>Brown Wm. </p>\r <p>Crowningshield
+  R</p>.\r <p>Cady Lydia</p>\r <p>Danielson W. & T. </p>\r <p>Day Lucius 2</p>\r <p>Day
+  Cyrus Capt</p>\r <p>Day Sam’l</p>\r <p>Eaton Polly</p>\r <p>Graves Whitney</p>\r
+  <p>Hutchins Sam’l</p>\r <p>Hutchins, Sam’l. II</p>\r <p>Haily Benj. </p>\r <p>Jillson
+  Buffin</p>\r <p>Sparks Julin 2</p>\r <p>Short Seth</p>\r <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  GEO. DANIELSON P.M. </p> "
 scholarlyNotes: This same sort of list for Brooklyn or Canterbury could have revealed
   names of students or school associates
 commentary: If we could find similar lists for Canterbury, Plainfield, and/or Brooklyn,
@@ -48,5 +48,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-07-30'
 ---

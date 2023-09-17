@@ -20,10 +20,10 @@ category: Unionist content
 articleType: 
 volume: 
 issue: 
-transcription: "In an advertisement for \n<em>The Life and Travels of the Apostle
-  Paul</em> a sentence is cited from\n<em>The Unionist</em>. It states “The work has
-  undergone a careful revision from the&nbsp; English edition, and\nmay be considered
-  a valuable addition to Sabbath School literature”\n\n\n"
+transcription: 'In an advertisement for <em>The Life and Travels of the Apostle Paul</em>
+  a sentence is cited from <em>The Unionist</em>. It states “The work has undergone
+  a careful revision from the&nbsp; English edition, and may be considered a valuable
+  addition to Sabbath School literature” '
 scholarlyNotes: 
 commentary: 'As with the previous entry, it is not clear that the quote from <em>The
   Unionist</em> is really from a "review" - it formed part of the copy in the advertisement
@@ -43,5 +43,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-09-08'
 ---

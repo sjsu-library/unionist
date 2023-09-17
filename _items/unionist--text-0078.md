@@ -18,30 +18,25 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: |-
-  <em>Wonderful memory of Blind Alick.</em>
-  —There is still living at Stirling, a blind old beggar known to all the country
-  round by the name of blind Alick, who possesses a memory of almost incredible
-  strength. It was observed with astonishment, that, when he was a man, and
-  obliged, by the death of his parents, to gain a livelihood by begging through
-  the streets of his native town of Stirling, he knew the whole of the Bible, both
-  Old and New Testaments, by heart! From which you may repeat any passage, and he
-  will tell you the chapter and verse; or you may tell him the chapter and verse,
-  and he will repeat to you the passage, word for word. Not long since, a
-  gentleman, to puzzle him, read, with a slight verbal alteration, a verse of the
-  Bible. Alick hesitated a moment, and then told where it was to be found but said
-  it had not been correctly delivered; he then gave it as it stood in the book,
-  correcting the slight error that had been purposely introduced. The gentleman
-  then asked him for the 90
-  <sup>th</sup>
-  verse of the 7
-  <sup>th</sup>
-  chapter of Numbers. Alick was again puzzled for a moment, but then said hastily,
-  “You are fooling me, sir? there is no such verse—that chapter has only 89
-  verses.” Several other experiments of the sort were tried upon him with the same
-  success. He has often been questioned the day after any particular sermon or
-  speech, and his examiners have invariably found, that, had their patience
-  allowed, blind Alick would have given them the sermon or speech over again.
+transcription: "<em>Wonderful memory of Blind Alick.</em> —There is still living at
+  Stirling, a blind old beggar known to all the country round by the name of blind
+  Alick, who possesses a memory of almost incredible strength. It was observed with
+  astonishment, that, when he was a man, and obliged, by the death of his parents,
+  to gain a livelihood by begging through the streets of his native town of Stirling,
+  he knew the whole of the Bible, both Old and New Testaments, by heart! From which
+  you may repeat any passage, and he will tell you the chapter and verse; or you may
+  tell him the chapter and verse, and he will repeat to you the passage, word for
+  word. Not long since, a gentleman, to puzzle him, read, with a slight verbal alteration,
+  a verse of the Bible. Alick hesitated a moment, and then told where it was to be
+  found but said it had not been correctly delivered; he then gave it as it stood
+  in the book, correcting the slight error that had been purposely introduced. The
+  gentleman then asked him for the 90 <sup>th</sup> verse of the 7 <sup>th</sup> chapter
+  of Numbers. Alick was again puzzled for a moment, but then said hastily, “You are
+  fooling me, sir? there is no such verse—that chapter has only 89 verses.” Several
+  other experiments of the sort were tried upon him with the same success. He has
+  often been questioned the day after any particular sermon or speech, and his examiners
+  have invariably found, that, had their patience allowed, blind Alick would have
+  given them the sermon or speech over again."
 scholarlyNotes: Romanticism, but ultimately solid American piety winning, is interesting.
 commentary: Blind Alick (1766-1839) was a real person, who was contradictorily used
   both as an example of piety and impiety for his remarkable knowledge of the scriptures.
@@ -60,5 +55,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-09-03'
 ---

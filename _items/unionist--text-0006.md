@@ -18,15 +18,22 @@ category: Negative notice
 articleType: 
 volume: 
 issue: 
-transcription: |2-
-   <p>“FOR THE REGISTER”</p>
-  <p>“THE UNIONIST” </p>
-  <p>“A Distinguished gentleman from Windham County, recently in this city, informs that the Unionist, printed at Brooklyn, is distributed gratis throughout the country. Arthur Tappan, a few days before issuing the first number, went to Brooklyn, and conferred with the Rev. Mr. May, the Unitarian clergyman there—both proceeded to Canterbury, on a visit to Miss Crandall, and returned to Brooklyn; the printing house was set in order, and the new paper appeared.</p>
-  <p>It seems this paper is a joint effort of Abolitionism and Anti-Masonry, Unitarianism and Temperance—a rare <em>union</em> of valuable elements.</p>
-  <p>Will the Congregational Clergy and the ultra orthodox range themselves with Arthur Tappan and his heretical compeer? We shall see.</p>
-  <p>The Litchfield Enquirer is endeavoring to raise an excitement on the subject of the Canterbury law, thinking perhaps, that if the question were put to the inhabitants of Litchfield, whether they would consent to the establishment of a negro school among them, in addition to their present schools, they would answer in the affirmative. But in this he may be mistaken.</p>
-  <p>The shouting horn of federal sedition this year, is to be the Canterbury negro school, and the dissection law.</p>
-  <p>ANDOVER</p>
+transcription: " <p>“FOR THE REGISTER”</p> <p>“THE UNIONIST” </p> <p>“A Distinguished
+  gentleman from Windham County, recently in this city, informs that the Unionist,
+  printed at Brooklyn, is distributed gratis throughout the country. Arthur Tappan,
+  a few days before issuing the first number, went to Brooklyn, and conferred with
+  the Rev. Mr. May, the Unitarian clergyman there—both proceeded to Canterbury, on
+  a visit to Miss Crandall, and returned to Brooklyn; the printing house was set in
+  order, and the new paper appeared.</p> <p>It seems this paper is a joint effort
+  of Abolitionism and Anti-Masonry, Unitarianism and Temperance—a rare <em>union</em>
+  of valuable elements.</p> <p>Will the Congregational Clergy and the ultra orthodox
+  range themselves with Arthur Tappan and his heretical compeer? We shall see.</p>
+  <p>The Litchfield Enquirer is endeavoring to raise an excitement on the subject
+  of the Canterbury law, thinking perhaps, that if the question were put to the inhabitants
+  of Litchfield, whether they would consent to the establishment of a negro school
+  among them, in addition to their present schools, they would answer in the affirmative.
+  But in this he may be mistaken.</p> <p>The shouting horn of federal sedition this
+  year, is to be the Canterbury negro school, and the dissection law.</p> <p>ANDOVER</p>"
 scholarlyNotes: 
 commentary: Note here the attempt to paint Unitarianism as suspect, and to indicate
   that Tappan's alliance with Samuel J. May is likewise suspicious – conversely it
@@ -48,5 +55,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-08-18'
 ---

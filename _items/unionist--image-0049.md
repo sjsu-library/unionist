@@ -34,8 +34,7 @@ caption: Drawing of a horse-powered thresher from an 1881 French dictionary
 order: '460'
 layout: items_item
 collection: items
-thumbnail: '""'
-manifest: '""'
-full: '""'
-proofed JR: '2023-08-01'
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0049/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0049/manifest.json"
+full: "/img/derivatives/iiif/images/unionist--image-0049/full/1140,/0/default.jpg"
 ---

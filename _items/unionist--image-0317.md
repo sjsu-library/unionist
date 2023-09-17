@@ -30,13 +30,12 @@ relatedText: unionist--text-0298; unionist--article-0004
 relatedTextIssue: 
 filename: 
 caption: Masthead of the <em>WIndham County Advertiser</em>. This issue came prior
-  to the launch of <em>The Unionist</em>, in the midst of the Canterbury crisis. The
-  American Antiquarian Society holds this copy.
+  to the launch of <em>The Unionist</em>, in the midst of the Canterbury crisis in
+  May of 1833. The American Antiquarian Society holds this copy.
 order: '728'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0317/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0317/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0317/full/1140,/0/default.jpg"
-proofed JR: 
 ---

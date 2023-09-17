@@ -34,8 +34,7 @@ caption: The title page from the 1835 collected works of Maria W. Stewart. The c
 order: '765'
 layout: items_item
 collection: items
-thumbnail: "/img/derivatives/iiif/images/unionist--image-0354_0/full/250,/0/default.jpg"
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0354/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0354/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0354/full/1140,/0/default.jpg"
-proofed JR: 
 ---

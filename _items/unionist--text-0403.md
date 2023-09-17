@@ -24,13 +24,11 @@ category: Positive notice
 articleType: 
 volume: 
 issue: 
-transcription: |
-  Letter of William Lloyd Garrison to Samuel J. May of 1834-09-15 includes in the postscript “I have
-  not yet seen the last Unionist, and, consequently, cannot remark upon your
-  Annual Report.” – This is likely in reference to a
-  <em>Unionist</em>
-  of September 11, 1834, and concerns the Plainfield Anti-Slavery Society’s
-  Annual Report. – WLG letters Vol. 1 p. 414-416, precise reference on p. 416
+transcription: 'Letter of William Lloyd Garrison to Samuel J. May of 1834-09-15 includes
+  in the postscript “I have not yet seen the last Unionist, and, consequently, cannot
+  remark upon your Annual Report.” – This is likely in reference to a <em>Unionist</em>
+  of September 11, 1834, and concerns the Plainfield Anti-Slavery Society’s Annual
+  Report. – WLG letters Vol. 1 p. 414-416, precise reference on p. 416 '
 scholarlyNotes: 
 commentary: 
 relatedPeople: William Lloyd Garrison; Samuel J. May
@@ -47,5 +45,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: 
 ---

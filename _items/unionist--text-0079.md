@@ -18,19 +18,18 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: |-
-  THE SENSES FALLIBLE WITNESSES.—When we bathe in the sea, or in a cold bath, we
-  are accustomed to consider the water as colder than the air, and the air colder
-  than the clothes which surround us. Now all these objects are, in fact, the same
-  temperature. A thermometer surrounded by the cloth of our coat or suspended in
-  the atmosphere, or immersed in the sea, will stand at the same temperature. A
-  linen shirt, when first put on, will feel colder than a cotton one, and a
-  flannel shirt will actually feel warm; yet all these have the same temperature.
-  The sheets of the bed feel cold, and the blankets warm; the blankets and sheets,
-  however, are equally warm. A still, calm atmosphere in summer, feels warm, but
-  if a wind arises the same atmosphere feels cool. Now, a thermometer suspended
-  under shelter, and in a calm place, will indicate exactly the same temperature
-  as a thermometer on which the wind blows.
+transcription: THE SENSES FALLIBLE WITNESSES.—When we bathe in the sea, or in a cold
+  bath, we are accustomed to consider the water as colder than the air, and the air
+  colder than the clothes which surround us. Now all these objects are, in fact, the
+  same temperature. A thermometer surrounded by the cloth of our coat or suspended
+  in the atmosphere, or immersed in the sea, will stand at the same temperature. A
+  linen shirt, when first put on, will feel colder than a cotton one, and a flannel
+  shirt will actually feel warm; yet all these have the same temperature. The sheets
+  of the bed feel cold, and the blankets warm; the blankets and sheets, however, are
+  equally warm. A still, calm atmosphere in summer, feels warm, but if a wind arises
+  the same atmosphere feels cool. Now, a thermometer suspended under shelter, and
+  in a calm place, will indicate exactly the same temperature as a thermometer on
+  which the wind blows.
 scholarlyNotes: 
 commentary: But can we trust the thermometers?
 relatedPeople: 
@@ -47,5 +46,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-09-03'
 ---

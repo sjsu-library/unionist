@@ -18,9 +18,8 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: |
-  TENNESSEE.—The noted David Crocket, is elected to Congress in his district, by a
-  small majority.
+transcription: 'TENNESSEE.—The noted David Crocket, is elected to Congress in his
+  district, by a small majority. '
 scholarlyNotes: 
 commentary: Did he wear the hat to Congress?
 relatedPeople: David Crocket
@@ -37,5 +36,4 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
-proofed JR: '2023-05-14'
 ---
