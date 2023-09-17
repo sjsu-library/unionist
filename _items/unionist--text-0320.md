@@ -18,15 +18,22 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<p>   <em>West India Education.</em>   —Governments are, it is understood,
-  adopting a plan for establishing and   maintaining schools for the negroes and other
-  inhabitants of our African,   West-Indian, and other colonies. It appears that there
-  are funds which were   formerly provided for the redemption of Christians from slavery
-  in Algiers,   Morocco, and the other states of Barbary, which in consequence of
-  the   extinction of Christian slavery in those countries have accumulated to a   considerable
-  amount; and government now conceive that these funds may be   applied to the education
-  and mental liberation of the descendants of slaves. </p> <p>   —   <em>London Chr.
-  Guar.</em> </p> "
+transcription: |
+  <p>
+    <em>West India Education.</em>
+    —Governments are, it is understood, adopting a plan for establishing and
+    maintaining schools for the negroes and other inhabitants of our African,
+    West-Indian, and other colonies. It appears that there are funds which were
+    formerly provided for the redemption of Christians from slavery in Algiers,
+    Morocco, and the other states of Barbary, which in consequence of the
+    extinction of Christian slavery in those countries have accumulated to a
+    considerable amount; and government now conceive that these funds may be
+    applied to the education and mental liberation of the descendants of slaves.
+  </p>
+  <p>
+    —
+    <em>London Chr. Guar.</em>
+  </p>
 scholarlyNotes: I could find no London, England newspaper named Christian Guardian,
   but there was an important one based out of Toronto
 commentary: "<em>The Unionist</em> knows its readers are concerned with linkages between
@@ -45,4 +52,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: 
 ---

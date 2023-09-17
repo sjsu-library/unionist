@@ -18,8 +18,8 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
-transcription: A BOARDING-HOUSE is established at the corner of <em>Cedar-street and
-  Broadway,</em> nearly opposite the City Hotel, conducted on the principles of Temperance
+transcription: |-
+  A BOARDING-HOUSE is established at the corner of <em>Cedar-street and Broadway,</em> nearly opposite the City Hotel, conducted on the principles of Temperance
   recommended in the lectures of Mr. Graham, and extending to diet and regimen as
   well as beverage. Transient boarders from the country can be accommodated. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   New York.
@@ -40,4 +40,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-07-26'
 ---

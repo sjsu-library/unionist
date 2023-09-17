@@ -18,14 +18,18 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>THE YOUNG MAN’S GUIDE.</p> <p>   A VOLUME of 320 pages, designed
-  as a cheap manual for Young Men, though it is   believed to embrace much useful
-  information to persons in every description;   especially parents. It is divided
-  into seven chapters; to which are prefixed a   very full table of contents and an
-  introduction. The great object of the   author of the work, who has had much experience
-  with youth, is to stimulate   them to aim at a high standard of character, and to
-  make the mental, social,   and moral improvement of themselves and those around
-  them,&nbsp; a governing   purpose of their lives. </p> "
+transcription: |
+  <p>THE YOUNG MAN’S GUIDE.</p>
+  <p>
+    A VOLUME of 320 pages, designed as a cheap manual for Young Men, though it is
+    believed to embrace much useful information to persons in every description;
+    especially parents. It is divided into seven chapters; to which are prefixed a
+    very full table of contents and an introduction. The great object of the
+    author of the work, who has had much experience with youth, is to stimulate
+    them to aim at a high standard of character, and to make the mental, social,
+    and moral improvement of themselves and those around them, a governing
+    purpose of their lives.
+  </p>
 scholarlyNotes: 
 commentary: 'A notice of the first edition of William Alcott''s perpetual best-seller,
   <em>The Young Man''s Guide</em>. Alcott (1798-1859) was a noted education reformer,
@@ -44,4 +48,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-15'
 ---

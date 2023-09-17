@@ -18,10 +18,10 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>   WANTED immediately, one Journeyman Shoemaker, to work by the
-  month or job. A single man will be preferred. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  WELCOM W. BUCK </p> <p>   Killingly, (Danielson’s Village) Nov. 4<sup>th</sup>,
-  1833</p>  <p>    14 </p> <p></p> "
+transcription: "<p>\n  WANTED immediately, one Journeyman Shoemaker, to work by the
+  month or job. A single man will be preferred.\n</p>\n<p>\n  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n
+  \ WELCOM W. BUCK\n</p>\n<p>\n  Killingly, (Danielson’s Village) Nov. 4<sup>th</sup>,
+  1833</p>\n <p> \n  14\n</p>\n<p></p>\n"
 scholarlyNotes: An unmarried man preferred - did they cost less in wages?
 commentary: 
 relatedPeople: Welcom W. Buck
@@ -38,4 +38,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-07-30'
 ---

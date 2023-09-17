@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0131
-title: PumaPeoplesMag 1.5.35 1833-05-18
+title: '"Puma," from the People''s Magazine 1.5.35 1833-05-18'
 bibliographicCitation: "<em>The People's Magazine</em> 1.5.35 1833-05-18"
 bibliographicCitationRepublished: https://catalog.hathitrust.org/api/volumes/oclc/6497679.html
 fullIssueSequenceNumber: 
@@ -36,4 +36,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0131/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0131/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0131/full/1140,/0/default.jpg"
+proofed JR: '2023-09-11'
 ---

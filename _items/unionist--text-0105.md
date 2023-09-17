@@ -18,11 +18,20 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: "<p>   TAKEN up, on the 14   <sup>th</sup>   of July last, a red one
-  year old heifer, with no artificial mark. The owner is   requested to call and prove
-  property, pay charges, and take her   away.&nbsp;&nbsp; LORENZO LITCHFIELD. </p>
-  <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; West   Woodstock,
-  Aug. 12   <sup>th</sup>   . 1833,&nbsp; </p> "
+transcription: |
+  <p>
+    TAKEN up, on the 14
+    <sup>th</sup>
+    of July last, a red one year old heifer, with no artificial mark. The owner is
+    requested to call and prove property, pay charges, and take her
+    away.&nbsp;&nbsp; LORENZO LITCHFIELD.
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; West
+    Woodstock, Aug. 12
+    <sup>th</sup>
+    . 1833,&nbsp;
+  </p>
 scholarlyNotes: 
 commentary: 
 relatedPeople: Lorenzo Litchfield
@@ -39,4 +48,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-05-14'
 ---

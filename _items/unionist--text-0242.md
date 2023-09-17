@@ -19,14 +19,21 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: "<p>   <em>The Farmers are coming.</em>   —Extract of a letter from
-  a respectable source, to the editor of the National   Gazette (Philadelphia). </p>
-  <p>“LANCASTER, 22d Feb. 1834.</p> <p>   We have this day celebrated the birthday
-  of the Father of our Country, by   holding a meeting in favor of a restoration of
-  the Federal Deposites. It was   the largest and most respectable ever held in this
-  county. We got between two   and three thousand signers to our memorials to Congress.
-  It was held without   distinction of parties. The presiding officers and committee
-  men were   principally of the Jackson party.” </p> "
+transcription: |
+  <p>
+    <em>The Farmers are coming.</em>
+    —Extract of a letter from a respectable source, to the editor of the National
+    Gazette (Philadelphia).
+  </p>
+  <p>“LANCASTER, 22d Feb. 1834.</p>
+  <p>
+    We have this day celebrated the birthday of the Father of our Country, by
+    holding a meeting in favor of a restoration of the Federal Deposites. It was
+    the largest and most respectable ever held in this county. We got between two
+    and three thousand signers to our memorials to Congress. It was held without
+    distinction of parties. The presiding officers and committee men were
+    principally of the Jackson party.”
+  </p>
 scholarlyNotes: 
 commentary: 
 relatedPeople: George Washington (inferred)
@@ -43,4 +50,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-15'
 ---

@@ -18,15 +18,20 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
-transcription: "<em>The Land of the Free!”</em> —A Miss Crandall established, some
-  months since, at Canterbury, Conn., a school for the instruction of colored children
-  and youth. Praiseworthy as the motives of this benevolent female in undertaking
-  to improve the condition of the children of this unfortunate and degraded class
-  of our population, may be considered, she soon found herself seriously opposed by
-  the good people in the vicinity, who went so far as to memorialize the Legislature
-  on the subject. The Legislature complied with the petition of the memorialists,
-  and passed an act, making it <em>   unlawful to instruct children of color from
-  any other state!” – Batavia,   (New-York) Advocate.” </em>"
+transcription: |-
+  <em>The Land of the Free!”</em>
+  —A Miss Crandall established, some months since, at Canterbury, Conn., a school
+  for the instruction of colored children and youth. Praiseworthy as the motives
+  of this benevolent female in undertaking to improve the condition of the
+  children of this unfortunate and degraded class of our population, may be
+  considered, she soon found herself seriously opposed by the good people in the
+  vicinity, who went so far as to memorialize the Legislature on the subject. The
+  Legislature complied with the petition of the memorialists, and passed an act,
+  making it
+  <em>
+    unlawful to instruct children of color from any other state!” – Batavia,
+    (New-York) Advocate.”
+  </em>
 scholarlyNotes: 
 commentary: Batavia is located between Rochester and Buffalo in upstate New York.
 relatedPeople: Prudence Crandall
@@ -43,4 +48,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-08-23'
 ---

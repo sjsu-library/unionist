@@ -18,9 +18,11 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: 'A few days since a rustic stranger inquired for a letter at the post-office,
-  and after paying for it, not being satisfied with its contents, deliberately deposited
-  in the letter box, exclaimed, “hang the thing, it aint [sic] worth paying for.” '
+transcription: |
+  A few days since a rustic stranger inquired for a letter at the post-office, and
+  after paying for it, not being satisfied with its contents, deliberately
+  deposited in the letter box, exclaimed, “hang the thing, it aint [sic] worth
+  paying for.”
 scholarlyNotes: 
 commentary: We of the 21st century know about receiving worthless mail!
 relatedPeople: 
@@ -37,4 +39,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-05-14'
 ---

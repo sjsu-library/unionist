@@ -18,15 +18,18 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<em>Murder.</em> —An atrocious murder was committed on the body of
-  Mr. Ariel Winchell, by his father John Winchell, at Suffield Con. on Monday evening
-  last. They had been at variance for several years in relation to the transfer of
-  property between them. About sunset on Monday last, as Ariel was tending a coal
-  pit, about a mile and a half from his house, his father approached him with a pistol
-  and shot him. The ball entered the lower part of the abdomen in front, and rested
-  against the spine. The event of course created great sensation, in a short time
-  the citizens generally of Suffield were in pursuit. It is scarcely possible that
-  the murderer can escape.— <em>Springfield Jour.</em> "
+transcription: |
+  <em>Murder.</em>
+  —An atrocious murder was committed on the body of Mr. Ariel Winchell, by his
+  father John Winchell, at Suffield Con. on Monday evening last. They had been at
+  variance for several years in relation to the transfer of property between them.
+  About sunset on Monday last, as Ariel was tending a coal pit, about a mile and a
+  half from his house, his father approached him with a pistol and shot him. The
+  ball entered the lower part of the abdomen in front, and rested against the
+  spine. The event of course created great sensation, in a short time the citizens
+  generally of Suffield were in pursuit. It is scarcely possible that the murderer
+  can escape.—
+  <em>Springfield Jour.</em>
 scholarlyNotes: 
 commentary: 
 relatedPeople: Ariel Winchell; John Winchell
@@ -43,4 +46,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-07-24'
 ---

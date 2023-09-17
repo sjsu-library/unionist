@@ -18,7 +18,8 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: The latter part of a wise man’s life is taken up in curing the follies,
+transcription: |-
+  The latter part of a wise man’s life is taken up in curing the follies,
   prejudices and false opinions he had contracted in the former.
 scholarlyNotes: 
 commentary: This proverb would not hold in the case of the Burleigh brothers, nor
@@ -38,4 +39,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-04'
 ---

@@ -18,21 +18,41 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: "<p>   NOTICE—WE the subscribers, having been by the Hon. Superior
-  Court, holden at   Brooklyn, within and for the County of Windham, on the 4   <sup>th</sup>
-  \  Tuesday of January, 1834, appointed Commissioners on the estate of JOHN GRALL,
-  \  of Pomfret in said County, adjudged by said Court to be an insolvent debtor,
-  \  within the true intent and meaning of a certain act entitled “An act to   authorize
-  the Superior Court to grant relief in certain cases of Insolvency,”   hereby give
-  public notice that we will meet to receive, adjust and ascertain   the several debts
-  due and owing by said insolvent debtor, to each of his   creditors as shall seasonably
-  present and prove the same, at the office of   Armin Bolles in said Brooklyn, on
-  the 16   <sup>th</sup>   day of April, 4   <sup>th</sup>   day of June and 13   <sup>th</sup>
-  \  day of August next at 3 o’clock, P. M., on each of said days. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  RALPH JAMES,&nbsp;&nbsp;&nbsp; Commissioners. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  ARMIN BOLLES, </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Brooklyn,   Feb. 13,   1834.—w3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  28 </p> <p></p> "
+transcription: |
+  <p>
+    NOTICE—WE the subscribers, having been by the Hon. Superior Court, holden at
+    Brooklyn, within and for the County of Windham, on the 4
+    <sup>th</sup>
+    Tuesday of January, 1834, appointed Commissioners on the estate of JOHN GRALL,
+    of Pomfret in said County, adjudged by said Court to be an insolvent debtor,
+    within the true intent and meaning of a certain act entitled “An act to
+    authorize the Superior Court to grant relief in certain cases of Insolvency,”
+    hereby give public notice that we will meet to receive, adjust and ascertain
+    the several debts due and owing by said insolvent debtor, to each of his
+    creditors as shall seasonably present and prove the same, at the office of
+    Armin Bolles in said Brooklyn, on the 16
+    <sup>th</sup>
+    day of April, 4
+    <sup>th</sup>
+    day of June and 13
+    <sup>th</sup>
+    day of August next at 3 o’clock, P. M., on each of said days.
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    RALPH JAMES,&nbsp;&nbsp;&nbsp; Commissioners.
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    ARMIN BOLLES,
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brooklyn,
+    Feb. 13,
+    1834.—w3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    28
+  </p>
+  <p></p>
 scholarlyNotes: 
 commentary: 
 relatedPeople: John Grall (probate case); Ralph James (probate case); Armin Bolles
@@ -50,4 +70,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-09'
 ---

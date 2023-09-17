@@ -18,10 +18,12 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<em>Spanish Justice.</em> —One Spaniard had been hung up at Madrid
-  for crying, ‘Long live Don Carlos.’ Another Don was suspended in a similar manner
-  at Bilboa, for shouting, ‘Long live Donna Isabella;’ and a third has been stretched
-  by the neck till he was dead, for crying nothing at all. "
+transcription: |
+  <em>Spanish Justice.</em>
+  —One Spaniard had been hung up at Madrid for crying, ‘Long live Don Carlos.’
+  Another Don was suspended in a similar manner at Bilboa, for shouting, ‘Long
+  live Donna Isabella;’ and a third has been stretched by the neck till he was
+  dead, for crying nothing at all.
 scholarlyNotes: 
 commentary: This kind of national stereotyping is common across all kinds of periodicals
   at this time
@@ -39,4 +41,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: 
 ---

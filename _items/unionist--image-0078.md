@@ -37,4 +37,5 @@ collection: items
 thumbnail: '""'
 manifest: '""'
 full: '""'
+proofed JR: 
 ---

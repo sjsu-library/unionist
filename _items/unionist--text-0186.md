@@ -18,17 +18,19 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: 'RANKIN’S LETTERS. Just published at the office of the Liberator, by
-  request of the Providence Anti-Slavery Society, a new edition of ‘Letters on Slavery,
-  addressed to Mr. Thomas Rankin, Merchant at Middlebrook, Augusta Co., Va.''—By John
-  Rankin, Pastor of the Presbyterian Churches of Ripley and Strait Creek, Brown County,
-  Ohio. Price $18 per hundred—25 cents single. Boston, Sept. 7, 1833. '
+transcription: |
+  RANKIN’S LETTERS. Just published at the office of the Liberator, by request of
+  the Providence Anti-Slavery Society, a new edition of ‘Letters on Slavery,
+  addressed to Mr. Thomas Rankin, Merchant at Middlebrook, Augusta Co., Va.'—By
+  John Rankin, Pastor of the Presbyterian Churches of Ripley and Strait Creek,
+  Brown County, Ohio. Price $18 per hundred—25 cents single. Boston, Sept. 7,
+  1833.
 scholarlyNotes: 
 commentary: Another important text that almost certainly found its way inside the
-  Canterbury Female Academy, its author, John Rankin became one of the most fearless
+  Canterbury Female Academy. Its author, John Rankin, became one of the most fearless
   and successful conductors of self-liberated people fleeing enslavement, due to his
   location in Ohio just over the border from Kentucky. Rankin's <em>Letters</em> were
-  admired by William Lloyd Garrison, and read by many Abollitionists in thie 1830s.
+  admired by William Lloyd Garrison, and read by many Abolitionists in the 1830s.
 relatedPeople: John Rankin; Thomas Rankin
 featured: 
 repeated: 'yes'
@@ -43,4 +45,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-15'
 ---

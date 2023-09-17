@@ -18,14 +18,14 @@ category: Unionist content
 articleType: 
 volume: 
 issue: 
-transcription: 'In an advertisement for <em>Daughter’s Own Book, comprising letters
+transcription: "In an advertisement for <em>Daughter’s Own Book, comprising letters
   from a Father to his Daughter.</em> six positive reviews are cited. The final one
-  is cited as being from <em>The Unionist</em>: “It is the most valuable treatise
+  is cited as being from\n<em>The Unionist</em>: “It is the most valuable treatise
   that has been published, and we recommend it to every parent and daughter in our
-  country.”   '
-scholarlyNotes: One other review quotation of interest comes from  <em>Zion’s Herald</em>,
-  contending that the book “furnishes much excellent instruction on the culture and
-  discipline of the female mind.”
+  country.” \n\n"
+scholarlyNotes: "One other review quotation of interest comes from \n<em>Zion’s Herald</em>,
+  contending that the book\n“furnishes much excellent instruction on the culture and
+  discipline of the\nfemale mind.”"
 commentary: It is not clear that the quote from <em>The Unionist</em> is really from
   a "review" - it formed part of the copy in the advertisement for the book in the
   December 19, 1833 issue of <em>The Unionist</em>.
@@ -43,4 +43,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-07-24'
 ---

@@ -30,11 +30,12 @@ relatedText: unionist--text-0177
 relatedTextIssue: 1833-12-19 p.03.23
 filename: 
 caption: The cover of an 1833 issue of <em>Godey's Lady Book</em> that might well
-  have been inside of the Canterbury Female Academy
+  have been read by students or teachers at the Canterbury Female Academy
 order: '490'
 layout: items_item
 collection: items
 thumbnail: '""'
 manifest: '""'
 full: '""'
+proofed JR: '2023-09-15'
 ---

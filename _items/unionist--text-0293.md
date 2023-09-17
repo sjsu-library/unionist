@@ -18,18 +18,36 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: "<p>MAJOR JACK DOWNING’S MAGAZINE</p> <p>   The publishers are encouraged
-  by the extraordinary demand for the letters of   Major Jack Downing, to issue the
-  original and most popular of his writings,   including his life, in a periodical
-  form. </p> <p>   After completing the first volume, should sufficient encouragement
-  be   afforded, the Major may, no doubt, be induced to continue his interesting   description
-  of public affairs, and other matters. </p> <p>   This Volume will be completed in
-  eight parts of thirty-six pages each, and   will contain ELEVEN original designs
-  by Johnston, and furnished in any part of   the United States, postage free for
-  one dollar. </p> <p>   SEVEN copies will be furnished to any one address, postage
-  free, for five   dollars. </p> <p>   Payment in all cases to be made in advance,
-  and free of expense to the   publishers. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  LILLY, WAIT, &amp; Co. Boston. </p> <p></p> "
+transcription: |
+  <p>MAJOR JACK DOWNING’S MAGAZINE</p>
+  <p>
+    The publishers are encouraged by the extraordinary demand for the letters of
+    Major Jack Downing, to issue the original and most popular of his writings,
+    including his life, in a periodical form.
+  </p>
+  <p>
+    After completing the first volume, should sufficient encouragement be
+    afforded, the Major may, no doubt, be induced to continue his interesting
+    description of public affairs, and other matters.
+  </p>
+  <p>
+    This Volume will be completed in eight parts of thirty-six pages each, and
+    will contain ELEVEN original designs by Johnston, and furnished in any part of
+    the United States, postage free for one dollar.
+  </p>
+  <p>
+    SEVEN copies will be furnished to any one address, postage free, for five
+    dollars.
+  </p>
+  <p>
+    Payment in all cases to be made in advance, and free of expense to the
+    publishers.
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    LILLY, WAIT, &amp; Co. Boston.
+  </p>
+  <p></p>
 scholarlyNotes: 
 commentary: 
 relatedPeople: Major Jack Downing
@@ -46,4 +64,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: 
 ---

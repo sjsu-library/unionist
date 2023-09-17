@@ -18,13 +18,19 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>   The annual meeting of the Windham County Education Society is
-  to be held in   the new Meeting-House in Brooklyn on Wednesday of next week, the
-  25   <sup>th</sup>   inst.; services commencing at 1 o’clock, P.M.” </p> <p>   At
-  the close of the exercise, the Directors of the County Tract Society, are   to hold
-  a meeting for business” – signed G.J. Tillotson, Secretary </p> "
+transcription: |
+  <p>
+    The annual meeting of the Windham County Education Society is to be held in
+    the new Meeting-House in Brooklyn on Wednesday of next week, the 25
+    <sup>th</sup>
+    inst.; services commencing at 1 o’clock, P.M.”
+  </p>
+  <p>
+    At the close of the exercise, the Directors of the County Tract Society, are
+    to hold a meeting for business” – signed G.J. Tillotson, Secretary
+  </p>
 scholarlyNotes: 
-commentary: 'G. Tillotson was Rev. George Jeffrey Tillotson (1805-1888), Congregational
+commentary: G. Tillotson was Rev. George Jeffrey Tillotson (1805-1888), Congregational
   minister of Brooklyn Connecticut. He was the minister who agreed to officiate the
   marriage of Prudence Crandall and Calvin Philleo, when the Congregational minister
   of Canterbury declined on the day of the wedding. He had begun his ministerial career
@@ -32,13 +38,12 @@ commentary: 'G. Tillotson was Rev. George Jeffrey Tillotson (1805-1888), Congreg
   in the Brooklyn Jail later housed Prudence Crandall. For the text of that sermon,
   see <em>Windham County Advertiser</em>, 5:52 (August 2, 1831), p. 3. Tillotson had
   a personal friendship with Abolitionist and Crandall endorser Amos A. Phelps; see
-  the collection of letters digitized here: - https://www.digitalcommonwealth.org/search?f%5Bname_facet_ssim%5D%5B%5D=Tillotson%2C+George+Jeffrey%2C+1805-1888
-  . After the Civil War, he donated substantially to an institution of higher learning
-  for Freedmen in Austin, Texas, which was named the Tillotson Institute in his honor
-  - https://www.pvamu.edu/tiphc/wp-content/uploads/sites/107/GeorgeTillotson.pdf .
-  The school still exists today, as Huston-Tillotson University , an HBCU in Austin.
-  There was a full article on the progress of the Tillotson Institute in <em>The American
-  Missionary</em> v. 65 p. 85 (May, 1911)'
+  this <a href="https://www.digitalcommonwealth.org/search?f%5Bname_facet_ssim%5D%5B%5D=Tillotson%2C+George+Jeffrey%2C+1805-1888">digitized
+  collection of letters.</a> After the Civil War, he donated substantially to an institution
+  of higher learning for Freedmen in Austin, Texas, which was named the <a href="https://www.pvamu.edu/tiphc/wp-content/uploads/sites/107/GeorgeTillotson.pdf">Tillotson
+  Institute</a> in his honor. The school still exists today, as Huston-Tillotson University
+  , an HBCU in Austin. There was a full article on the progress of the Tillotson Institute
+  in <em>The American Missionary</em> v. 65 p. 85 (May, 1911).
 relatedPeople: George Jeffrey Tillotson
 featured: 
 repeated: 
@@ -53,4 +58,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-15'
 ---

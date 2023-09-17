@@ -18,16 +18,18 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<em>The Mormonites.—</em> Some further particulars relating to the
-  conflict between the Mormonites and the people of Jackson county in Missouri are
-  given in the St. Louis papers. It is said that one Judge of the circuit, and several
-  civil officers were thrown into prison in consequence of an attempt to interfere,
-  and detained for some hours, and the Lieut. Governor had been driven out of the
-  county. Almost all the people of the county are concerned on one side or the other,
-  so that it is supposed that the militia of the neighboring counties will be called
-  out by the Governor, to enforce the laws. The treatment of the Mormonites is described
-  as extremely outrageous, and they are commended in some of the papers of St. Louis
-  for their resistance. "
+transcription: |
+  <em>The Mormonites.—</em>
+  Some further particulars relating to the conflict between the Mormonites and the
+  people of Jackson county in Missouri are given in the St. Louis papers. It is
+  said that one Judge of the circuit, and several civil officers were thrown into
+  prison in consequence of an attempt to interfere, and detained for some hours,
+  and the Lieut. Governor had been driven out of the county. Almost all the people
+  of the county are concerned on one side or the other, so that it is supposed
+  that the militia of the neighboring counties will be called out by the Governor,
+  to enforce the laws. The treatment of the Mormonites is described as extremely
+  outrageous, and they are commended in some of the papers of St. Louis for their
+  resistance.
 scholarlyNotes: 
 commentary: This article is in sympathy with the Mormons in their oppression by the
   people of Missouri. The explusion of the Latter-Day Saints from Jackson County is
@@ -46,4 +48,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-07-24'
 ---

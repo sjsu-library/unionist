@@ -18,16 +18,18 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: 'TATTLING. “He that keepeth his mouth, keepeth his life.” It is very
-  common for young persons to tell every thing they hear, whether they have any grounds
-  for the belief of what they hear or not. To the injury of an individual something
-  may be said and spread abroad, when there is not the least shadow of truth in the
-  story. And it is against this species of tattling which I wish to guard mankind.
-  The wise man knew how prone the world was to this sin when he said,—“he that keepeth
-  his mouth keepeth his life.” And truly that person who is careful what he says—especially
-  when he knows it is in his power to injure the character of a person, or thwart
-  any of his purposes—acts up to the proverb, and gains the esteem and friendship
-  of his fellows.— <em>Juvenile Watchman</em> '
+transcription: |
+  TATTLING. “He that keepeth his mouth, keepeth his life.” It is very common for
+  young persons to tell every thing they hear, whether they have any grounds for
+  the belief of what they hear or not. To the injury of an individual something
+  may be said and spread abroad, when there is not the least shadow of truth in
+  the story. And it is against this species of tattling which I wish to guard
+  mankind. The wise man knew how prone the world was to this sin when he said,—“he
+  that keepeth his mouth keepeth his life.” And truly that person who is careful
+  what he says—especially when he knows it is in his power to injure the character
+  of a person, or thwart any of his purposes—acts up to the proverb, and gains the
+  esteem and friendship of his fellows.—
+  <em>Juvenile Watchman</em>
 scholarlyNotes: 
 commentary: 'The Biblical quote is from the Book of Proverbs, 13:3, King James version.
   The <em>Juvenile Watchman</em> was a short-lived spin-off project of the Baptist
@@ -48,4 +50,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-03'
 ---

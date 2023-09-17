@@ -18,13 +18,19 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: '<p align="center">ANTI-SLAVERY PUBLICATIONS</p> <p>   FOR sale by
-  P.A. BELL, No. 73, Chamber-street, Garrison’s works entire,   consisting of ‘Thoughts
-  on African Colonization,’ and Addresses delivered   before the People of Color.
-  ‘The Sin of Slavery,’ by Professor Wright;   Ivimey’s Lectures, (English edition)—Paxton’s
-  Letters on Slavery—Prejudice   Vincible, by Charles Stuart, of England—A scarce
-  Anti-Slavery work, entitled   ‘The Book and Slavery Irreconcilable,’ by the Rev.
-  Geo. Bourne,—&amp;c.   &amp;c. </p> <p>New York, 1833.</p> <p></p> '
+transcription: |
+  <p align="center">ANTI-SLAVERY PUBLICATIONS</p>
+  <p>
+    FOR sale by P.A. BELL, No. 73, Chamber-street, Garrison’s works entire,
+    consisting of ‘Thoughts on African Colonization,’ and Addresses delivered
+    before the People of Color. ‘The Sin of Slavery,’ by Professor Wright;
+    Ivimey’s Lectures, (English edition)—Paxton’s Letters on Slavery—Prejudice
+    Vincible, by Charles Stuart, of England—A scarce Anti-Slavery work, entitled
+    ‘The Book and Slavery Irreconcilable,’ by the Rev. Geo. Bourne,—&amp;c.
+    &amp;c.
+  </p>
+  <p>New York, 1833.</p>
+  <p></p>
 scholarlyNotes: 
 commentary: It is possible that this store was run by the prominent African-American
   Philip Bell, but this is not yet confirmed.
@@ -43,4 +49,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-07-26'
 ---

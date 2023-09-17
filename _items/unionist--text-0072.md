@@ -18,25 +18,46 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
-transcription: '<p align="center"><strong>Prudence Crandall</strong></p> <p align="center">   Principal
-  of the Canterbury, (Con.) Female Boarding School. </p> <p>   RETURNS her most sincere
-  thanks for those who have patronized her School, and   would give information that
-  on the first Monday of April next, her School will   be opened for the reception
-  of young Ladies and little Misses of color.&nbsp;   The branches taught are as follows:—Reading,
-  Writing, Arithmetic, English   Grammar, Geography, History, Natural and Moral Philosophy,
-  Chemistry,   Astronomy, Drawing and Painting, Music on the Piano, together with
-  the French   language. </p> <p>   ☞The terms, including   <em>board, washing</em>   ,
-  and tuition, are $25 per quarter, one half paid in advance. </p> <p>☞Books and Stationary
-  will be furnished on the most reasonable terms.</p> <p>   For information respecting
-  the School, reference may be made to the following   gentlemen, viz.— </p> <p>Arthur
-  Tappan, Esq. - N. York City</p> <p>Rev. Peter Williams, ( - N. York City)</p> <p>Rev.
-  Theodore Raymond, ( - N. York City)</p> <p>Rev. Theodore Wright, ( - N. York City)</p>
-  <p>Rev. Samuel C. Cornish, ( - N. York City)</p> <p>Rev. George Bourne, ( - N. York
-  City)</p> <p>Rev. Mr. Hayborn, ( - N. York City)</p> <p>Mr. James Forten, - Philadelphia</p>
-  <p>Rev. Joseph Cassey, ( - Philadelphia)</p> <p>Rev. S.J. May,—Brooklyn, Ct.</p>
-  <p>Rev. Mr. Beman,—Middletown, Ct.</p> <p>Rev. S.S. Jocelyn,—New Haven, Ct.</p>
-  <p>S.E. Sewall Esq. — Boston.</p> <p>Rev. Amos A. Phelps. ( - Boston)</p> <p>George
-  W. Benson,—Providence, R.I.</p> <p>Canterbury, (Ct.) Feb. 25, 1833.</p> '
+transcription: |
+  <p align="center"><strong>Prudence Crandall</strong></p>
+  <p align="center">
+    Principal of the Canterbury, (Con.) Female Boarding School.
+  </p>
+  <p>
+    RETURNS her most sincere thanks for those who have patronized her School, and
+    would give information that on the first Monday of April next, her School will
+    be opened for the reception of young Ladies and little Misses of color.&nbsp;
+    The branches taught are as follows:—Reading, Writing, Arithmetic, English
+    Grammar, Geography, History, Natural and Moral Philosophy, Chemistry,
+    Astronomy, Drawing and Painting, Music on the Piano, together with the French
+    language.
+  </p>
+  <p>
+    ☞The terms, including
+    <em>board, washing</em>
+    , and tuition, are $25 per quarter, one half paid in advance.
+  </p>
+  <p>☞Books and Stationary will be furnished on the most reasonable terms.</p>
+  <p>
+    For information respecting the School, reference may be made to the following
+    gentlemen, viz.—
+  </p>
+  <p>Arthur Tappan, Esq. - N. York City</p>
+  <p>Rev. Peter Williams, ( - N. York City)</p>
+  <p>Rev. Theodore Raymond, ( - N. York City)</p>
+  <p>Rev. Theodore Wright, ( - N. York City)</p>
+  <p>Rev. Samuel C. Cornish, ( - N. York City)</p>
+  <p>Rev. George Bourne, ( - N. York City)</p>
+  <p>Rev. Mr. Hayborn, ( - N. York City)</p>
+  <p>Mr. James Forten, - Philadelphia</p>
+  <p>Rev. Joseph Cassey, ( - Philadelphia)</p>
+  <p>Rev. S.J. May,—Brooklyn, Ct.</p>
+  <p>Rev. Mr. Beman,—Middletown, Ct.</p>
+  <p>Rev. S.S. Jocelyn,—New Haven, Ct.</p>
+  <p>S.E. Sewall Esq. — Boston.</p>
+  <p>Rev. Amos A. Phelps. ( - Boston)</p>
+  <p>George W. Benson,—Providence, R.I.</p>
+  <p>Canterbury, (Ct.) Feb. 25, 1833.</p>
 scholarlyNotes: 
 commentary: 'This ad ran continuously in <em>The Liberator</em> starting in March
   of 1833. There are two notable changes in this only known appearance in <em>The
@@ -44,11 +65,13 @@ commentary: 'This ad ran continuously in <em>The Liberator</em> starting in Marc
   notorious, vilified as "outsiders" who were interfering with a local matter, have
   been dropped from the list of endorsers, in favor of Amos Phelps and Samuel Sewall.
   The “Rev.” in front of Cassey’s name was a misprint. It is surprising that this
-  ad is not reprinted in the later copies of <em>The Unionist</em>. '
-relatedPeople: 'Prudence Crandall; Arthur Tappan; Peter Williams, Jr;  Theodore Raymond;
-  Theodore Wright; Samuel C. Cornish; George Bourne; James Hayborn; James Forten;
-  Joseph Cassey; Samuel J. May; Jehiel Beman; Simeon Jocelyn; George Benson Jr.; Samuel
-  E. Sewall; Amos A. Phelps. '
+  ad is not reprinted in the later copies of <em>The Unionist</em>.
+
+'
+relatedPeople: "Prudence Crandall; Arthur Tappan; Peter Williams, Jr;  Theodore Raymond;
+  Theodore Wright;\nSamuel C. Cornish; George Bourne; James Hayborn; James Forten;
+  Joseph Cassey; Samuel J. May; Jehiel Beman;\nSimeon Jocelyn; George Benson Jr.;
+  Samuel E. Sewall; Amos A. Phelps. "
 featured: 
 repeated: 
 relatedImage: unionist--image-0095
@@ -62,4 +85,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-08-28'
 ---

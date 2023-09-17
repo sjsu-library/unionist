@@ -20,26 +20,43 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>   AT a Court of Probate holden at Windham, within and for the
-  district of   Windham, on the 11   <sup>th</sup>   day of November A.D. 1833, </p>
-  <p>Present, C.F. CLEVELAND, Esq., Judge. [sic spelling of Cleveland]</p> <p>   Upon
-  the petition of Philip Pearl, Jr. of Hampton, in the county of Windham,   shewing
-  to this court that he is Guardian of Henry T. Utley, of Hampton within   said district,
-  minor; that said minor is the owner of real estate situated in   said Hampton, viz.—about
-  twenty acres of land with part of a dwelling house;   being that part of the farm
-  of his father, Tho’s. Utley, late of said Hampton,   deceased, which was set to
-  said minor in the distribution of said estate,   valued at about six hundred dollars.—that
-  it would be for the interest of said   minor that said real estate should be sold
-  and the avails thereof put on   interest or applied or his education and advancement
-  in life—praying for   liberty to sell said property for the purposes aforesaid,
-  as per petition on   file. </p> <p>   It is ordered by this Court, That said Guardian
-  give notice of said   application, by causing the same to be published in one of
-  the newspapers   printed in Brooklyn in the county of Windham three weeks successively,
-  at   least six weeks before the hearing; and that said petition will be heard at
-  \  the Probate Office in said district on the 2d Monday of February next, at nine
-  \  o’clock A.M. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  Certified from Record, </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  THOS. GRAY, Clerk. </p> "
+transcription: |
+  <p>
+    AT a Court of Probate holden at Windham, within and for the district of
+    Windham, on the 11
+    <sup>th</sup>
+    day of November A.D. 1833,
+  </p>
+  <p>Present, C.F. CLEVELAND, Esq., Judge. [sic spelling of Cleveland]</p>
+  <p>
+    Upon the petition of Philip Pearl, Jr. of Hampton, in the county of Windham,
+    shewing to this court that he is Guardian of Henry T. Utley, of Hampton within
+    said district, minor; that said minor is the owner of real estate situated in
+    said Hampton, viz.—about twenty acres of land with part of a dwelling house;
+    being that part of the farm of his father, Tho’s. Utley, late of said Hampton,
+    deceased, which was set to said minor in the distribution of said estate,
+    valued at about six hundred dollars.—that it would be for the interest of said
+    minor that said real estate should be sold and the avails thereof put on
+    interest or applied for his education and advancement in life—praying for
+    liberty to sell said property for the purposes aforesaid, as per petition on
+    file.
+  </p>
+  <p>
+    It is ordered by this Court, That said Guardian give notice of said
+    application, by causing the same to be published in one of the newspapers
+    printed in Brooklyn in the county of Windham three weeks successively, at
+    least six weeks before the hearing; and that said petition will be heard at
+    the Probate Office in said district on the 2d Monday of February next, at nine
+    o’clock A.M.
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Certified from Record,
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    THOS. GRAY, Clerk.
+  </p>
 scholarlyNotes: 
 commentary: 
 relatedPeople: Philip Pearl Jr.; Chauncey F. Clevealand; Henry Utley; Thomas Utley;
@@ -57,4 +74,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-15'
 ---

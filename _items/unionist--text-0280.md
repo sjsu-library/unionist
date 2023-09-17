@@ -18,12 +18,18 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: "<p>   FACTORY HELP WANTED—At the Walcottsville Factory—a miller who
-  is acquainted   with tending Grist and Saw mill and who had a family to work in
-  factory. Also,   two other families to be employed in the factory commencing on
-  the first of   April. Apply to L.S. &amp; E. WALCOTT. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Hampton,   Jan. 28, 1834.—&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  26 </p> "
+transcription: |
+  <p>
+    FACTORY HELP WANTED—At the Walcottsville Factory—a miller who is acquainted
+    with tending Grist and Saw mill and who had a family to work in factory. Also,
+    two other families to be employed in the factory commencing on the first of
+    April. Apply to L.S. &amp; E. WALCOTT.
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hampton,
+    Jan. 28, 1834.—&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    26
+  </p>
 scholarlyNotes: 
 commentary: The industrialization of the Quinebaug River Valley continued apace.
 relatedPeople: L.S. Walcott; E. Walcott
@@ -40,4 +46,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-07-19'
 ---

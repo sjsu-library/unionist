@@ -32,11 +32,12 @@ relatedText: unionist--text-0156
 relatedTextIssue: 1833-12-19 p.01.02
 filename: 
 caption: Portrait of William Pinkney (1764-1822) as the frontispiece of a collection
-  of his writings published in 1826)
+  of his writings published in 1826.
 order: '420'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0009/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0009/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0009/full/1140,/0/default.jpg"
+proofed JR: '2023-09-14'
 ---

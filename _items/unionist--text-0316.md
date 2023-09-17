@@ -18,41 +18,66 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<p>Liberator.</p> <p>THE SPIRIT OF SEVENTY-SIX</p> <p>   The following
-  extract we venture to make from a long epistle recently   addressed to us, by the
-  venerable GEORGE BENSON of Brooklyn, Connecticut, the   present estimable President
-  of the New-England Anti-Slavery Society. He is an   abolitionist of the old school,
-  and commenced at the earliest period with   Clarkson and Wilberforce, for the suppression
-  of the foreign slave trade.   Although far advanced in years, he is in vigorous
-  possession of his mental   faculties; and his hand writing is firm and plain, to
-  a marvel. </p> <p>   “I observed in a late Boston paper, that the annual meeting
-  of the Peace   Society was to convene in that city. Several weeks since I addressed
-  a letter   to a friend in Hartford, who is actively engaged in the Pacific cause,
-  and   informed him that I considered the cause of Peace and the abolition of Slavery
-  \  to be so inseparably connected, that wherever one society existed, the other
-  \  should be located&nbsp; in its vicinity; and my opinion originates from the   import
-  of the sacred hymn, chanted by the angelic host at the advent of our   blessed Saviour—‘Peace
-  on earth and   <em>good will to men.</em>   ’ And how can we exercise this good
-  will on a more important and urgent   occasion, than to rescue our fellow men from
-  the matchless and oppressive   cruelties of slavery? </p> <p>   It is universally
-  admitted that the first Congress in the United States was   composed of the most
-  pure and enlightened citizens, who, on the 6   <sup>th</sup>   of July, 1775, announced
-  the following sentiments: </p> <p>   ‘If it were possible for men, who exercise
-  their reason, to believe that the   Divine Author of our existence intended a part
-  of the human race to hold an   absolute property in, and unbounded power over others,
-  marked out by infinite   goodness and wisdom, as the objects of a legal domination
-  never rightfully   resistible, however, however severe and oppressive—the inhabitants
-  of these   Colonies might at least require from the Parliament of Great Britain,
-  some   evidence that this dreadful authority over them has been granted to that
-  \  body.’ </p> <p>   May not the poor slaves emphatically adopt the same inquiry
-  of their lordly   oppressors? </p> <p>   Again, in 1779, a pamphlet appeared, published
-  by order of Congress, which   contains the following opinion: </p> <p>   ‘The great
-  principle (of government) I, that men are by nature free, as   accountable to Him
-  that made them, they must be so, and so long as we have any   idea of Divine Justice,
-  we must associate that of human freedom.’ </p> <p>   Now, it appears evident to
-  me, that the above recited sentiments authorize and   sanction an avowed opposition
-  to slavery, and even censure those who think   otherwise, as being destitute of
-  any correct opinion of Divine Justice. </p> "
+transcription: |
+  <p>Liberator.</p>
+  <p>THE SPIRIT OF SEVENTY-SIX</p>
+  <p>
+    The following extract we venture to make from a long epistle recently
+    addressed to us, by the venerable GEORGE BENSON of Brooklyn, Connecticut, the
+    present estimable President of the New-England Anti-Slavery Society. He is an
+    abolitionist of the old school, and commenced at the earliest period with
+    Clarkson and Wilberforce, for the suppression of the foreign slave trade.
+    Although far advanced in years, he is in vigorous possession of his mental
+    faculties; and his hand writing is firm and plain, to a marvel.
+  </p>
+  <p>
+    “I observed in a late Boston paper, that the annual meeting of the Peace
+    Society was to convene in that city. Several weeks since I addressed a letter
+    to a friend in Hartford, who is actively engaged in the Pacific cause, and
+    informed him that I considered the cause of Peace and the abolition of Slavery
+    to be so inseparably connected, that wherever one society existed, the other
+    should be located&nbsp; in its vicinity; and my opinion originates from the
+    import of the sacred hymn, chanted by the angelic host at the advent of our
+    blessed Saviour—‘Peace on earth and
+    <em>good will to men.</em>
+    ’ And how can we exercise this good will on a more important and urgent
+    occasion, than to rescue our fellow men from the matchless and oppressive
+    cruelties of slavery?
+  </p>
+  <p>
+    It is universally admitted that the first Congress in the United States was
+    composed of the most pure and enlightened citizens, who, on the 6
+    <sup>th</sup>
+    of July, 1775, announced the following sentiments:
+  </p>
+  <p>
+    ‘If it were possible for men, who exercise their reason, to believe that the
+    Divine Author of our existence intended a part of the human race to hold an
+    absolute property in, and unbounded power over others, marked out by infinite
+    goodness and wisdom, as the objects of a legal domination never rightfully
+    resistible, however, however severe and oppressive—the inhabitants of these
+    Colonies might at least require from the Parliament of Great Britain, some
+    evidence that this dreadful authority over them has been granted to that
+    body.’
+  </p>
+  <p>
+    May not the poor slaves emphatically adopt the same inquiry of their lordly
+    oppressors?
+  </p>
+  <p>
+    Again, in 1779, a pamphlet appeared, published by order of Congress, which
+    contains the following opinion:
+  </p>
+  <p>
+    ‘The great principle (of government) I, that men are by nature free, as
+    accountable to Him that made them, they must be so, and so long as we have any
+    idea of Divine Justice, we must associate that of human freedom.’
+  </p>
+  <p>
+    Now, it appears evident to me, that the above recited sentiments authorize and
+    sanction an avowed opposition to slavery, and even censure those who think
+    otherwise, as being destitute of any correct opinion of Divine Justice.
+  </p>
 scholarlyNotes: Taken from <em>The Liberator</em>
 commentary: George Benson Sr. (1752-1836) was an ardent reformer, and a co-founder
   of the Windham County Peace Society. He and his large family formed an important
@@ -72,4 +97,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: 
 ---

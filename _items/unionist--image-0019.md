@@ -32,11 +32,13 @@ relatedImage:
 relatedText: unionist--text-0176
 relatedTextIssue: 1833-12-19 p.03.22
 filename: 
-caption: George Benson (1808-1879) from daguerreotype taken about 1845
+caption: George Benson (1808-1879) from daguerreotype taken about 1845. He is best-known
+  for his role in establishing the inter-racial Northampton Association (1842-1846).
 order: '430'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0019/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0019/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0019/full/1140,/0/default.jpg"
+proofed JR: '2023-09-15'
 ---

@@ -18,8 +18,10 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<p>Masthead “The Tyrants Foe. The Peoples Friend”</p> <p>The Unionist.</p>
-  <p>Brooklyn, April 10, 1834</p> "
+transcription: |
+  <p>Masthead “The Tyrants Foe. The Peoples Friend”</p>
+  <p>The Unionist.</p>
+  <p>Brooklyn, April 10, 1834</p>
 scholarlyNotes: 
 commentary: "\"The Tyrants Foe, The Peoples Friend"
 relatedPeople: 
@@ -36,4 +38,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: 
 ---

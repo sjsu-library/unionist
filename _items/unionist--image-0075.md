@@ -33,11 +33,13 @@ relatedText: unionist--text-0155
 relatedTextIssue: 1833-12-19 p.01.01
 filename: 
 caption: The Main Reading Room at the Library of Congress. For researchers, archivists,
-  librarians, and historians, this is one of the happies of places.
+  librarians, and historians, this is one of the happiest of places. This issue of
+  <em>The Unionist</em> is located at the Library of Congress.
 order: '486'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0075/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0075/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0075/full/1140,/0/default.jpg"
+proofed JR: '2023-06-14'
 ---

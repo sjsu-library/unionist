@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0016
-title: GeorgeJeffreyTillotson
+title: Portrait of George Jeffrey Tillotson
 bibliographicCitation: "<em>The American Missionary</em> v. 65 p. 85 (May, 1911)"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0016/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0016/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0016/full/1140,/0/default.jpg"
+proofed JR: '2023-09-15'
 ---

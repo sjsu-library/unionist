@@ -18,11 +18,15 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<p>Milledgeville (Geo.) March 26.</p> <p>   We regret to state, on
-  the authority of private letters from Montgomery,   Alabama that John R. Wiggins,
-  Esq. late of this place, was shot dead in that   town, a few days since, within
-  two hours after his arrival there—the   circumstances not known. Mr. Wiggins was
-  a young man of much promise and   connexions numerous and respectable. </p> "
+transcription: |
+  <p>Milledgeville (Geo.) March 26.</p>
+  <p>
+    We regret to state, on the authority of private letters from Montgomery,
+    Alabama that John R. Wiggins, Esq. late of this place, was shot dead in that
+    town, a few days since, within two hours after his arrival there—the
+    circumstances not known. Mr. Wiggins was a young man of much promise and
+    connexions numerous and respectable.
+  </p>
 scholarlyNotes: 
 commentary: The murder, and a sad gravestone inscription attesting to it, are described
   at this Find-a-Grave site - https://www.findagrave.com/memorial/64924542/john-richard-wiggins
@@ -40,4 +44,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-07-20'
 ---

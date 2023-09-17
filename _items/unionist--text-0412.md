@@ -21,9 +21,9 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '19'
-transcription: 'THE CONNECTICUT TRIALS.—The trial of Miss Crandall has been postponed
-  till the March Term of the County Court. So says the Windham County Advertiser.
-  The Unionist informs us that Mr. Garrison’s trial is put off to the same time. '
+transcription: |
+  THE CONNECTICUT TRIALS.—The trial of Miss Crandall has been postponed till the March Term of the County Court. So says the Windham County Advertiser.
+  The Unionist informs us that Mr. Garrison’s trial is put off to the same time.
 scholarlyNotes: 
 commentary: 'This pair of brief notices conveys a sense of how relentless the legal
   harassment was. '
@@ -41,4 +41,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-07-29'
 ---

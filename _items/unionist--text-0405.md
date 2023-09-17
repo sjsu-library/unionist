@@ -30,9 +30,9 @@ transcription: "A new paper called “The Unionist” has commenced at Brooklyn.
   are treated according to their merits, in the columns of the Unionist. We wish it
   success. And may the Putnams of that region ever be shrewd in tracing public pests
   to their dark retreats, and bold in dragging them forth to the day light, regardless
-  of their fiery eyes, and their growling.\r A liberal support to the Unionist would
+  of their fiery eyes, and their growling.\r\nA liberal support to the Unionist would
   do much towards retrieving the character of Connecticut from the disgrace cast upon
-  it, by A.T. Judson, and his associates.\r  "
+  it, by A.T. Judson, and his associates.\r\n\n"
 scholarlyNotes: 
 commentary: It is interesting that William Goodell - who had helped to launch Charles
   Burleigh to this editorship by publishing his letter to the editor back in May of
@@ -51,4 +51,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: 
 ---

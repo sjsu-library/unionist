@@ -18,12 +18,23 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
-transcription: '<p align="center">ROBERTS &amp; WOODBERRY</p> <p align="center">IMPORTERS
-  OF</p> <p align="center">HARDWARE AND CUTLERY.</p> <p align="center">   (   <em>No.</em>   5.   <em>Union-street,
-  Boston.</em>   ) </p> <p>   Have on hand a full assortment of Hardware and Cutlery,
-  of English manufacture   which they offer for sale on the most reasonable terms,
-  at wholesale and   retail. </p> <p>Orders from the country will be executed with
-  promptness and fidelity.</p> '
+transcription: |
+  <p align="center">ROBERTS &amp; WOODBERRY</p>
+  <p align="center">IMPORTERS OF</p>
+  <p align="center">HARDWARE AND CUTLERY.</p>
+  <p align="center">
+    (
+    <em>No.</em>
+    5.
+    <em>Union-street, Boston.</em>
+    )
+  </p>
+  <p>
+    Have on hand a full assortment of Hardware and Cutlery, of English manufacture
+    which they offer for sale on the most reasonable terms, at wholesale and
+    retail.
+  </p>
+  <p>Orders from the country will be executed with promptness and fidelity.</p>
 scholarlyNotes: 
 commentary: Cutlery from England was all the rage at this time.
 relatedPeople: 
@@ -40,4 +51,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-08-25'
 ---

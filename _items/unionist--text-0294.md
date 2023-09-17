@@ -18,12 +18,20 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: "<p>TEMPERANCE &amp; FREE LABOR GROCERY.</p> <p>   WILLIAM GREY, &amp;
-  Co. have opened a store for the sale of Groceries of the   above description. They
-  have on hand Coffee, Rice, Sugar, &amp;c. all of which   they warrant free from
-  the contamination of ‘slave labor.’—They respectfully   invite their friends of
-  color and others to given them a call at No. 33,   Sullivan-st. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  <em>New York, August,</em>   1833. </p> "
+transcription: |
+  <p>TEMPERANCE &amp; FREE LABOR GROCERY.</p>
+  <p>
+    WILLIAM GREY, &amp; Co. have opened a store for the sale of Groceries of the
+    above description. They have on hand Coffee, Rice, Sugar, &amp;c. all of which
+    they warrant free from the contamination of ‘slave labor.’—They respectfully
+    invite their friends of color and others to given them a call at No. 33,
+    Sullivan-st.
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <em>New York, August,</em>
+    1833.
+  </p>
 scholarlyNotes: 
 commentary: 
 relatedPeople: William Grey
@@ -40,4 +48,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: 
 ---

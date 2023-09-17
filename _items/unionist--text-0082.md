@@ -18,12 +18,13 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: 'There is at present, in perfect operation, at the penitentiary, near
-  Trenton, (N.J.) a machine for the purpose of punching holes in bars of iron. Seven
-  holes can be perforated in one minute and a quarter through bars bars half an inch
+transcription: |
+  There is at present, in perfect operation, at the penitentiary, near Trenton,
+  (N.J.) a machine for the purpose of punching holes in bars of iron. Seven holes
+  can be perforated in one minute and a quarter through bars bars half an inch
   thick, each hole being one and a quarter inches diameter, and the bar perfectly
-  cold. This is a very great labor and time saving invention, and is worthy the attention
-  of those engaged in that branch of mechanics. '
+  cold. This is a very great labor and time saving invention, and is worthy
+  the attention of those engaged in that branch of mechanics.
 scholarlyNotes: 
 commentary: A penitentiary seems an odd location for advertising a method of punching
   through iron bars...
@@ -41,4 +42,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-03'
 ---

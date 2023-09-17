@@ -26,7 +26,9 @@ featured:
 repeated: 
 relatedImage: 
 relatedText: unionist--text-0308; unionist--text-0313
-relatedTextIssue: 1834-04-10 p.02.08; 1834-04-10 p.02.13 1834-04-10 p.02.13
+relatedTextIssue: |-
+  1834-04-10 p.02.08; 1834-04-10 p.02.13
+  1834-04-10 p.02.13
 filename: 
 caption: This famous painting captures the chaos of voting prior to the ballot becoming
   secret. Note the uniform gender and race of the participants, and the various degrees
@@ -37,4 +39,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0307/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0307/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0307/full/1140,/0/default.jpg"
+proofed JR: '2023-07-28'
 ---

@@ -20,26 +20,42 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>   AT a Court of Probate holden at Windham within and for the district
-  of   Windham, on the 11   <sup>th</sup>   day of November A.D. 1833. </p> <p>Present,
-  C.F. CLEVELAND, Esq. Judge [sic re. spelling of Cleveland]</p> <p>   Upon the petition
-  of Philip Pearl, Jr. of Hampton, in the county of Windham,   shewing to this court
-  that he is Guardian of Harriet A. Utley, of Hampton,   within said district, minor;
-  that said minor is the owner of real estate   situated in said Hampton, viz.—about
-  thirty acres of land, being that part of   the farm of her father, Capt. Thomas
-  Utley, late of said Hampton deceased,   which was set to said minor, in the distribution
-  of said estate, valued at   about five hundred dollars—that it would be for the
-  interest of said minor   that said land should be sold and the avails thereof put
-  on interest of   applied for her education and advancement in life, praying for
-  liberty to sell   said property, for the purposes aforesaid, as per petition on
-  file. </p> <p>   <em>It is ordered by this Court,</em>   That said Guardian give
-  notice of said application, by causing the same to be   published in one of the
-  newspapers printed in Brooklyn, in the county of   Windham, three weeks successively,
-  at least six weeks before the hearing; and   that said petition will be heard at
-  the Probate Office in said district on the   first 2d Monday of February next, at
-  9 o’clock A.M. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  Certified from Record, </p> <p>   17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  THOMAS GRAY, Clerk. </p> "
+transcription: |
+  <p>
+    AT a Court of Probate holden at Windham within and for the district of
+    Windham, on the 11
+    <sup>th</sup>
+    day of November A.D. 1833.
+  </p>
+  <p>Present, C.F. CLEVELAND, Esq. Judge [sic re. spelling of Cleveland]</p>
+  <p>
+    Upon the petition of Philip Pearl, Jr. of Hampton, in the county of Windham,
+    shewing to this court that he is Guardian of Harriet A. Utley, of Hampton,
+    within said district, minor; that said minor is the owner of real estate
+    situated in said Hampton, viz.—about thirty acres of land, being that part of
+    the farm of her father, Capt. Thomas Utley, late of said Hampton deceased,
+    which was set to said minor, in the distribution of said estate, valued at
+    about five hundred dollars—that it would be for the interest of said minor
+    that said land should be sold and the avails thereof put on interest or
+    applied for her education and advancement in life, praying for liberty to sell
+    said property, for the purposes aforesaid, as per petition on file.
+  </p>
+  <p>
+    <em>It is ordered by this Court,</em>
+    That said Guardian give notice of said application, by causing the same to be
+    published in one of the newspapers printed in Brooklyn, in the county of
+    Windham, three weeks successively, at least six weeks before the hearing; and
+    that said petition will be heard at the Probate Office in said district on the
+    first 2d Monday of February next, at 9 o’clock A.M.
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Certified from Record,
+  </p>
+  <p>
+    17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    THOMAS GRAY, Clerk.
+  </p>
 scholarlyNotes: 
 commentary: 'Philip Pearl Jr. has a checkered history in the saga of the Canterbury
   Female Academy. His daughter Hannah attended the first version of the Academy, before
@@ -66,4 +82,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-15'
 ---

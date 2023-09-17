@@ -34,12 +34,13 @@ relatedTextIssue: 1834-03-13 p.03.16; 1834-04-10 p.03.22
 filename: 
 caption: 'This jllustration is not exclusively about the Canterbury Female Academy,
   but covered numerous instances of violence aimed at educational ventures for free
-  Blacks. <em>American Anti-Slavery Society, American Anti-Slavery Almanac, for 1839</em>
-  (New York: S. W. Benedict, 1839), p. 15.'
+  Blacks, as noted in the caption. <em>American Anti-Slavery Society, American Anti-Slavery
+  Almanac, for 1839</em> (New York: S. W. Benedict, 1839), p. 15.'
 order: '676'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0265/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0265/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0265/full/1140,/0/default.jpg"
+proofed JR: '2023-09-15'
 ---

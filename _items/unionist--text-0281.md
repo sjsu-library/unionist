@@ -18,11 +18,20 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: "<p>   WANTED BY THE SUBSCRIBERS, at their Factory, in Killingly, factory
-  help of all   descriptions. Three or four large families would have constant employ
-  and good   wages. Four or five good weavers wanted immediately. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  LEFFINGWELL &amp; LE   <em>A</em>   VENS. </p> <p>Killingly, February, 6, 1834.</p> "
+transcription: |
+  <p>
+    WANTED BY THE SUBSCRIBERS, at their Factory, in Killingly, factory help of all
+    descriptions. Three or four large families would have constant employ and good
+    wages. Four or five good weavers wanted immediately.
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    LEFFINGWELL &amp; LE
+    <em>A</em>
+    VENS.
+  </p>
+  <p>Killingly, February, 6, 1834.</p>
 scholarlyNotes: 
 commentary: 
 relatedPeople: Leffingwell; Levens
@@ -39,4 +48,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: 
 ---

@@ -18,16 +18,21 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: "<em>Massachusetts.</em> —The delegation in Congress from that State
-  is now full. The 8 <sup>th</sup> trial to elect a member from the 9 <sup>th</sup>
-  District on Monday the 3d inst. resulted in the choice of Wm. Jackson, the Antimasonic
-  candidate, by a majority of between 90 and 100 over Dearborn and Thurber, the candidates
-  of the National Republican and Jackson parties. Mr. Jackson is a sound, sensible,
-  upright man, and endowed with those qualities of head and heart which fit him to
-  discharge the duties of his office honorably to himself and beneficially to the
-  country. He is decidedly opposed to the present administration, and will stand shoulder
-  to shoulder with Adams and Ellsworth and the other good men and true of the New-England
-  delegation, in contending for the best interests of the country. "
+transcription: |
+  <em>Massachusetts.</em>
+  —The delegation in Congress from that State is now full. The 8
+  <sup>th</sup>
+  trial to elect a member from the 9
+  <sup>th</sup>
+  District on Monday the 3d inst. resulted in the choice of Wm. Jackson, the
+  Antimasonic candidate, by a majority of between 90 and 100 over Dearborn and
+  Thurber, the candidates of the National Republican and Jackson parties. Mr.
+  Jackson is a sound, sensible, upright man, and endowed with those qualities of
+  head and heart which fit him to discharge the duties of his office honorably to
+  himself and beneficially to the country. He is decidedly opposed to the present
+  administration, and will stand shoulder to shoulder with Adams and Ellsworth and
+  the other good men and true of the New-England delegation, in contending for the
+  best interests of the country.
 scholarlyNotes: Add more from the Jackson Homestead site
 commentary: William Jackson (1783-1855) was elected as an Anti-Masonic candidate to
   Congress. He later was active in the Liberty and Free Soil parties, and came to
@@ -47,4 +52,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-16'
 ---

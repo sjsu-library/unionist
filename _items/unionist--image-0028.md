@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0028
-title: Rankin_letters_on_slavery_book
+title: Rankin's <em>Letters on American Slavery</em>
 bibliographicCitation: 'John Rankin, <em>Letters on American Slavery. Addressed to
   Mr. Thomas Rankin, Merchant at Middlebrook, Augusta Co., Va.</em> (Boston: Garrison
   and Knapp, 1833)'
@@ -37,4 +37,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0028/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0028/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0028/full/1140,/0/default.jpg"
+proofed JR: '2023-09-07'
 ---

@@ -18,7 +18,9 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: 'It is better to suffer wrong than to do wrong. '
+transcription: 'It is better to suffer wrong than to do wrong.
+
+'
 scholarlyNotes: 
 commentary: This epigram has deep New Testament and Socratic roots. It had also been
   recently restated by Samuel Johnson in a 1750 entry in ["The Rambler"] (https://www.johnsonessays.com/the-rambler/suspicious-justly-suspected/)
@@ -38,4 +40,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-05-14'
 ---

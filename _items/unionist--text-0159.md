@@ -2,8 +2,9 @@
 pid: unionist--text-0159
 title: Declaration of the National Anti-Slavery Society
 bibliographicCitation: "<em>The Unionist</em> 1833-12-19"
-bibliographicCitationRepublished: "<em>The Abolitionist</em> 1:12:178-180 (December
-  1833) "
+bibliographicCitationRepublished: |
+  <em>The Abolitionist</em>
+  1:12:178-180 (December 1833)
 fullIssueSequenceNumber: 1833-12-19 p.01.05
 creator: 
 dateCreated: '1833-12-19'
@@ -20,228 +21,499 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>DECLARATION OF THE NATIONAL ANTI-SLAVERY CONVENTION.</p> <p>   The
-  Convention, assembled in the City of Philadelphia to organize a National   Anti-Slavery
-  Society, promptly seize the opportunity to promulgate the   following DECLARATION
-  OF SENTIMENTS, as cherished by them in relation to the   enslavement of one-sixth
-  portion of the American people. </p> <p>   More than fifty-seven years have elapsed
-  since a band of patriots convened in   this place, to devise measures for the deliverance
-  of this country from a   foreign yoke. The corner-stone upon which they founded
-  the TEMPLE OF FREEDOM   was broadly this—“that all men are created equal; that they
-  are endowed by   their Creator with certain inalienable rights; that among these
-  are life,   LIBERTY, and the pursuit of happiness.” At the sound of their trumpet-call,
-  \  three millions of people rose up as from the sleep of death, and rushed to the
-  \  strife of blood; deeming it more glorious to die instantly as freemen, than   desirable
-  to live one hour as slaves.—They were few in number—poor in   resources; but the
-  honest conviction that Truth and Justice, were on their   side, made them invincible.
-  </p> <p>   We have met together for the achievement of an enterprise, without which,
-  that   of our fathers is incomplete, and which, for its magnitude, solemnity, and
-  \  probable results upon the destiny of the world, as far transcends theirs, as
-  \  moral truth does physical force. </p> <p>   In purity of motive, in earnestness
-  of zeal, in decision of purpose, in   intrepidity of action, in stead fastness of
-  faith, in sincerity of spirit, we   would not be inferior to them. </p> <p>   <em>Their</em>
-  \  principles led them to wage war against their oppressors, and to spill human
-  \  blood like water, in order to be free.   <em>Ours</em>   forbid the doing of
-  evil that good may come, and lead us to reject, the use of   all carnal weapons
-  for deliverance from bondage—relying solely upon those   which are spiritual, and
-  mighty through God to the pulling down of strong   holds. </p> <p>   <em>Their</em>
-  \  measures were physical resistance—the marshalling in arms—the hostile   array—the
-  mortal encounter.   <em>Ours</em>   shall be such only as the opposition of moral
-  purity to moral corruption—the   destruction of error by the potency of truth—the
-  overthrow of prejudice by the   power of love—and the abolition of slavery by the
-  spirit of repentance. </p> <p>   <em>Their</em>   grievances, great as they were,
-  were trifling in comparison with the wrongs   and sufferings of those for whom we
-  plead. Our fathers were never slaves—never   bought and sold like cattle—never shut
-  out from the light of knowledge and   religion—never subjected to the lash of brutal
-  taskmasters. </p> <p>   But those, for whose emancipation we are striving, —constituting
-  at the   present time at least one-sixth part of our countrymen, are recognized
-  by the   laws, and treated by their fellow beings, as marketable commodities—as
-  goods   and chattels—as brute beasts—are plundered daily of the fruits of their
-  toil   without redress;—really enjoy no constitutional nor legal protection from
-  \  licentious and murderous outrages upon their persons;—are ruthlessly torn   asunder—the
-  tender babe from the arms of its frantic mother—the heart-broken   wife from her
-  weeping husband—at the caprice or pleasure of irresponsible   tyrants;—and, for
-  the crime of having a dark complexion, suffer the pangs of   hunger, the infliction
-  of stripes, and the ignominy of brutal servitude. They   are kept in heathenish
-  darkness by laws expressly enacted to make their   instruction a criminal offence.
-  </p> <p>   These are the prominent circumstances in the condition of more than TWO
-  \  MILLIONS of our people, proof of which may be found in thousands of   indisputable
-  facts, and in the laws of the slaveholding States. </p> <p>Hence we maintain—</p>
-  <p>   That in view of the civil and religious privileges of this nation, the guilt
-  \  of its oppression is unequalled by any other on the face of the earth;—and,   therefore,
-  </p> <p>   That it is bound to repent instantly, to undo the heavy burden, to break
-  every   yoke, and let the oppressed go free. </p> <p>We farther maintain—</p> <p>
-  \  That no man has a right to enslave or imbrute his brother—to hold or   acknowledge
-  him, for one moment, as a piece of merchandise—to keep back his   hire by fraud—or
-  to brutalize his mind by denying him the means of   intellectual, social and moral
-  improvement. </p> <p>   The right to enjoy liberty is inalienable. To invade it,
-  is to usurp the   prerogative of Jehovah. Every man has a right to his own body—to
-  the products   of his own labor—to the protection of law—and to the common advantages
-  of   society. It is piracy to buy or steal a native African and subject him to   servitude.
-  Surely the sin is as great to enslave an American as an African. </p> <p>Therefore
-  we believe and affirm—</p> <p>   That there is no difference,   <em>in principle,</em>
-  \  between the African slave trade and American slavery; </p> <p>   That every American
-  citizen, who retains a human being in involuntary bondage,   is [according to Scripture]
-  a MAN-STEALER; </p> <p>   That the slaves ought instantly to be set free, and brought
-  under the   protection of law; </p> <p>   That if they had lived from the time of
-  Pharaoh down to the present period,   and had been entailed through successive generations,
-  their right to be free   could never have been alienated, but their claims would
-  have constantly risen   in solemnity; </p> <p>   That all those laws which are not
-  in force, admitting the right of slavery,   are therefore before God utterly null
-  and void, being an audacious usurpation   of the Divine prerogative, a daring infringement
-  on the law of nature, a base   overthrow of the very foundations of the social compact,
-  a complete extinction   of all the relations, endearments and obligations of mankind,
-  and a   presumptuous transgression of all the holy commandments—and that therefore
-  \  they ought to be instantly abrogated. </p> <p>We further believe and affirm—</p>
-  <p>   That all persons of color who possess the qualifications which are demanded
-  of   others, ought to be admitted forthwith to the enjoyment of the same   privileges,
-  and the exercise of the same prerogatives, as others; and that the   paths of preferment,
-  of wealth. and of intelligence, shall be opened as widely   to them as to persons
-  of a white complexion. </p> <p>   We maintain that no compensation should be given
-  to the planters emancipating   their slaves— </p> <p>   Because it would be a surrender
-  of the great fundamental principle that man   cannot hold property in man; </p>
-  <p>   Because   <em>Slavery is a crime, and therefore is not an article to be sold;</em>
-  </p> <p>   Because the holders of slaves are not the just proprietors of what they
-  claim;   freeing the slaves is not depriving them of property, but restoring it
-  to the   right owner; —it is not wronging the master, but righting the slave—restoring
-  \  him to himself; </p> <p>   Because immediate and general emancipation would only
-  destroy nominal, not   real property it would not amputate a limb or break a bone
-  of the slaves, but   by infusing motives into their breasts, would make them doubly
-  valuable to the   masters as free laborers; and </p> <p>   Because if compensation
-  is to be given at all, it should be given to the   outraged and guiltless slaves,
-  and not to those who have plundered and abused   them. </p> <p>   We regard, as
-  delusive, cruel and dangerous, any scheme of expatriation which   pretends to aid,
-  either directly or indirectly, in the emancipation of the   slaves, or to be a substitute
-  for the immediate and total abolition of   slavery. </p> <p>   We fully and unanimously
-  recognize the sovereignty of each State, to legislate   exclusively on the subject
-  of the slavery which is tolerated within its   limits. We concede that Congress,
-  under the present national compact, has no   right to interfere with any of the
-  slave states, in relation to this momentous   subject. </p> <p>   But we maintain
-  that Congress has a right, and is solemnly bound, to suppress   the domestic slave
-  trade between the several States, and to abolish slavery in   those portions of
-  our territory which the Constitution has placed under its   exclusive jurisdiction.
-  </p> <p>   We also maintain that there are, at the present time, the highest obligations
-  \  resting upon the people of the free States, to remove slavery by moral and   political
-  action, as prescribed in the Constitution of United States. They are   now living
-  under a pledge of their tremendous physical force to fasten the   galling fetters
-  of tyranny upon the limbs of millions in the southern   States;—they are liable
-  to be called at any moment to suppress a general   insurrection of the slaves;—they
-  authorize the slave owner to vote for   three-fifths of his slaves as property,
-  and thus enable him to perpetuate his   oppression;—they support a standing army
-  at the south for its protection;—and   they seize the slave who has escaped into
-  their territories, and send him back   to be tortured by an enraged master or a
-  brutal driver. </p> <p>   This relation to slavery is criminal and full of danger:
-  \  <em>it must be broken up.</em> </p> <p>   These are our views and principles—these,
-  our designs and measures. With   entire confidence in the overruling justice of
-  God, we plant ourselves upon   the Declaration of our Independence, and upon the
-  truth of Divine Revelation,   as upon the Everlasting Rock. </p> <p>   We shall
-  organize Anti-Slavery Societies, if possible, in every city, town and   village
-  of our land. </p> <p>   We shall send forth Agents to lift up the voice of remonstrance,
-  of warning of   entreaty and rebuke. </p> <p>   We shall circulate, unsparingly
-  and extensively, anti slavery tracts and   periodicals. </p> <p>   We shall enlist
-  the Pulpit and the Press in the cause of the suffering and the   dumb. </p> <p>
-  \  We shall aim at a purification of the churches from all participation in the
-  \  guilt of slavery. </p> <p>   We shall encourage the labor of freemen over that
-  of the slaves, by giving a   preference to their productions;—and </p> <p>   We
-  shall spare no exertions nor means to bring the whole nation to speedy   repentance.
-  </p> <p>   Our trust for victory is solely in GOD.   <em>We</em>   may be personally
-  defeated, but our principles never. TRUTH, JUSTICE, and   HUMANITY, must and will
-  gloriously triumph. Already a host is coming up to the   help of the Lord against
-  the mighty, and the prospect before us is full of   encouragement. </p> <p>   Submitting
-  this DECLARATION to the candid examination of the people of this   country, and
-  of the friends of liberty all over the world, we hereby affix our   signatures to
-  it; pledging ourselves that, under the guidance and by the help   of Almighty God,
-  we will do all that in us lies, consistently with this   Declaration of our principles,
-  to overthrow the most execrable system of   slavery that has ever been witnessed
-  upon earth—to deliver our land from its   deadliest curse—to wipe out the foulest
-  stain which rests upon our national   escutcheon—and to secure to the colored population
-  of the United States all   the rights and privileges which belong to them as men
-  and as Americans—come   what may to our persons, our interests, or our reputations—whether
-  we live to   witness the triumph of Justice, Liberty and Humanity, or perish untimely
-  as   martyrs in this great, benevolent, and holy cause. </p> <p>   David   Thurston,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  B. Russell, </p> <p>   Nathan   Winslow,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  David Jones, </p> <p>   Jos Southwick,   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  Enoch Mack, 2d. </p> <p>   Jas. F.   Otis;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  James Loughhead. </p> <p>   Isaac   Winslow.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  J. McCullough. </p> <p>   David   Cambell,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  E.P. Atlee, </p> <p>   Orson S.   Murray,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  J.M.McKim, </p> <p>   D.S.Southmayd,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  Wm. L. Garrison, </p> <p>   E.L.   Capron,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  Ray Potter, </p> <p>   Joshua   Coffin,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  John Prentice, </p> <p>   Amos A.   Phelps,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  G.W. Benson, </p> <p>   J.G.   Whittier,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  Samuel J. May, </p> <p>   H.P.   Wakefield,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  A. Kingsley, Jr, </p> <p>   J.G.   Barbadoes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  Edwin A Stillman, </p> <p>   D.T. Kimball,   Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  S.S. Jocelyn, </p> <p>   D.E.   Jewett,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  R.B.Hall, </p> <p>   J.R.   Cambell,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  Beriah Green, </p> <p>   N.   Southard,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  Lewis Tappan, </p> <p>   Arnold   Bufum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  John Rankin, </p> <p>   Wm. Green,   Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  Aaron Vickers, </p> <p>   A.L.   Cox,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  John R. Sleeper, </p> <p>   Wm.   Goodell,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  L. Gillingham, </p> <p>   Elizur Wright,   Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  John Sharpe, Jr. </p> <p>   C.W.   Denison,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  James Mott </p> <p>   John   Frost,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  James White, </p> <p>   Geo.   Bourne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  Jona. Parkhurst, </p> <p>   Evan   Lewis,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  C. Gillingham,&nbsp; </p> <p>   E.A.   Atlee,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  J.M. Sterling, </p> <p>   Robert   Purvis,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  Milton Sutliff, </p> <p>   J. Mc   Crummell,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  Levi Sutliff, </p> <p>   Thomas   Shipley,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  Thos. Whitson. </p> <p>   <em>     &nbsp;&nbsp;&nbsp;&nbsp; Signed in the Adelphia
-  Hall, in the city of     Philadelphia, on the sixth day of December, A.D.   </em>
-  \  1833. </p> <p>   Many notes/links here: December 1833 formation of American Anti-Slavery
-  \  Society covered in   <em>The Abolitionist</em>   &nbsp;1:12:177-178 </p> <p>among
-  officers</p> <p>Moses Brown RI VP</p> <p>Eli Ives CT VP</p> <p>Eleazer T. Fitch
-  CT VP</p> <p>Samuel J. May CT VP</p> <p>Gustavus F. Davis CT VP</p> <p>Josiah Cady
-  - Providence - Manager</p> <p>Henry Cushing - Providence - Manager</p> <p>George
-  W. Benson - Providence - Manager</p> <p>John Prentice - Providence - Manager</p>
-  <p>Thomas Williams - Providence - Manager</p> <p>George Benson - Brooklyn CT - Manager</p>
-  <p>Simeon S. Jocelyn - New Haven - Manager</p> <p>Alpheus Kingsley - Norwich - Manager</p>
-  <p>James T. Dickinson - Norwich - Manager</p> <p>S. P. Dole - Norwich - Manager</p>
-  <p>Joshua Leavitt - NYC - Manager</p> <p>William Goodell - NYC - Manager</p> <p>Lewis
-  Tappan - NYC - Manager</p> <p>George Bourne - NYC - Manager</p> <p>Charles W. Denison
-  - NYC - Manager</p> <p>Isaac M. Diamond - NYC - Manager</p> <p>Peter Williams -
-  NYC - Manager</p> <p>Arnold Buffum - Philadelphia - Manager</p> <p>Edwin P. Atlee
-  - Philadelphia - Manager</p> <p>Robert Purvis - Philadelphia - Manager</p> <p>Benjamin
-  Lundy - Philadelphia - Manager</p> <p>James McCrummell - Philadelphia - Manager</p>
-  <p>   <em>The Abolitionist</em>   1:12:178-180 (December 1833) </p> "
+transcription: |
+  <p>DECLARATION OF THE NATIONAL ANTI-SLAVERY CONVENTION.</p>
+  <p>
+    The Convention, assembled in the City of Philadelphia to organize a National
+    Anti-Slavery Society, promptly seize the opportunity to promulgate the
+    following DECLARATION OF SENTIMENTS, as cherished by them in relation to the
+    enslavement of one-sixth portion of the American people.
+  </p>
+  <p>
+    More than fifty-seven years have elapsed since a band of patriots convened in
+    this place, to devise measures for the deliverance of this country from a
+    foreign yoke. The corner-stone upon which they founded the TEMPLE OF FREEDOM
+    was broadly this—“that all men are created equal; that they are endowed by
+    their Creator with certain inalienable rights; that among these are life,
+    LIBERTY, and the pursuit of happiness.” At the sound of their trumpet-call,
+    three millions of people rose up as from the sleep of death, and rushed to the
+    strife of blood; deeming it more glorious to die instantly as freemen, than
+    desirable to live one hour as slaves.—They were few in number—poor in
+    resources; but the honest conviction that Truth and Justice, were on their
+    side, made them invincible.
+  </p>
+  <p>
+    We have met together for the achievement of an enterprise, without which, that
+    of our fathers is incomplete, and which, for its magnitude, solemnity, and
+    probable results upon the destiny of the world, as far transcends theirs, as
+    moral truth does physical force.
+  </p>
+  <p>
+    In purity of motive, in earnestness of zeal, in decision of purpose, in
+    intrepidity of action, in stead fastness of faith, in sincerity of spirit, we
+    would not be inferior to them.
+  </p>
+  <p>
+    <em>Their</em>
+    principles led them to wage war against their oppressors, and to spill human
+    blood like water, in order to be free.
+    <em>Ours</em>
+    forbid the doing of evil that good may come, and lead us to reject, the use of
+    all carnal weapons for deliverance from bondage—relying solely upon those
+    which are spiritual, and mighty through God to the pulling down of strong
+    holds.
+  </p>
+  <p>
+    <em>Their</em>
+    measures were physical resistance—the marshalling in arms—the hostile
+    array—the mortal encounter.
+    <em>Ours</em>
+    shall be such only as the opposition of moral purity to moral corruption—the
+    destruction of error by the potency of truth—the overthrow of prejudice by the
+    power of love—and the abolition of slavery by the spirit of repentance.
+  </p>
+  <p>
+    <em>Their</em>
+    grievances, great as they were, were trifling in comparison with the wrongs
+    and sufferings of those for whom we plead. Our fathers were never slaves—never
+    bought and sold like cattle—never shut out from the light of knowledge and
+    religion—never subjected to the lash of brutal taskmasters.
+  </p>
+  <p>
+    But those, for whose emancipation we are striving, —constituting at the
+    present time at least one-sixth part of our countrymen, are recognized by the
+    laws, and treated by their fellow beings, as marketable commodities—as goods
+    and chattels—as brute beasts—are plundered daily of the fruits of their toil
+    without redress;—really enjoy no constitutional nor legal protection from
+    licentious and murderous outrages upon their persons;—are ruthlessly torn
+    asunder—the tender babe from the arms of its frantic mother—the heart-broken
+    wife from her weeping husband—at the caprice or pleasure of irresponsible
+    tyrants;—and, for the crime of having a dark complexion, suffer the pangs of
+    hunger, the infliction of stripes, and the ignominy of brutal servitude. They
+    are kept in heathenish darkness by laws expressly enacted to make their
+    instruction a criminal offence.
+  </p>
+  <p>
+    These are the prominent circumstances in the condition of more than TWO
+    MILLIONS of our people, proof of which may be found in thousands of
+    indisputable facts, and in the laws of the slaveholding States.
+  </p>
+  <p>Hence we maintain—</p>
+  <p>
+    That in view of the civil and religious privileges of this nation, the guilt
+    of its oppression is unequalled by any other on the face of the earth;—and,
+    therefore,
+  </p>
+  <p>
+    That it is bound to repent instantly, to undo the heavy burden, to break every
+    yoke, and let the oppressed go free.
+  </p>
+  <p>We farther maintain—</p>
+  <p>
+    That no man has a right to enslave or imbrute his brother—to hold or
+    acknowledge him, for one moment, as a piece of merchandise—to keep back his
+    hire by fraud—or to brutalize his mind by denying him the means of
+    intellectual, social and moral improvement.
+  </p>
+  <p>
+    The right to enjoy liberty is inalienable. To invade it, is to usurp the
+    prerogative of Jehovah. Every man has a right to his own body—to the products
+    of his own labor—to the protection of law—and to the common advantages of
+    society. It is piracy to buy or steal a native African and subject him to
+    servitude. Surely the sin is as great to enslave an American as an African.
+  </p>
+  <p>Therefore we believe and affirm—</p>
+  <p>
+    That there is no difference,
+    <em>in principle,</em>
+    between the African slave trade and American slavery;
+  </p>
+  <p>
+    That every American citizen, who retains a human being in involuntary bondage,
+    is [according to Scripture] a MAN-STEALER;
+  </p>
+  <p>
+    That the slaves ought instantly to be set free, and brought under the
+    protection of law;
+  </p>
+  <p>
+    That if they had lived from the time of Pharaoh down to the present period,
+    and had been entailed through successive generations, their right to be free
+    could never have been alienated, but their claims would have constantly risen
+    in solemnity;
+  </p>
+  <p>
+    That all those laws which are not in force, admitting the right of slavery,
+    are therefore before God utterly null and void, being an audacious usurpation
+    of the Divine prerogative, a daring infringement on the law of nature, a base
+    overthrow of the very foundations of the social compact, a complete extinction
+    of all the relations, endearments and obligations of mankind, and a
+    presumptuous transgression of all the holy commandments—and that therefore
+    they ought to be instantly abrogated.
+  </p>
+  <p>We further believe and affirm—</p>
+  <p>
+    That all persons of color who possess the qualifications which are demanded of
+    others, ought to be admitted forthwith to the enjoyment of the same
+    privileges, and the exercise of the same prerogatives, as others; and that the
+    paths of preferment, of wealth. and of intelligence, shall be opened as widely
+    to them as to persons of a white complexion.
+  </p>
+  <p>
+    We maintain that no compensation should be given to the planters emancipating
+    their slaves—
+  </p>
+  <p>
+    Because it would be a surrender of the great fundamental principle that man
+    cannot hold property in man;
+  </p>
+  <p>
+    Because
+    <em>Slavery is a crime, and therefore is not an article to be sold;</em>
+  </p>
+  <p>
+    Because the holders of slaves are not the just proprietors of what they claim;
+    freeing the slaves is not depriving them of property, but restoring it to the
+    right owner; —it is not wronging the master, but righting the slave—restoring
+    him to himself;
+  </p>
+  <p>
+    Because immediate and general emancipation would only destroy nominal, not
+    real property it would not amputate a limb or break a bone of the slaves, but
+    by infusing motives into their breasts, would make them doubly valuable to the
+    masters as free laborers; and
+  </p>
+  <p>
+    Because if compensation is to be given at all, it should be given to the
+    outraged and guiltless slaves, and not to those who have plundered and abused
+    them.
+  </p>
+  <p>
+    We regard, as delusive, cruel and dangerous, any scheme of expatriation which
+    pretends to aid, either directly or indirectly, in the emancipation of the
+    slaves, or to be a substitute for the immediate and total abolition of
+    slavery.
+  </p>
+  <p>
+    We fully and unanimously recognize the sovereignty of each State, to legislate
+    exclusively on the subject of the slavery which is tolerated within its
+    limits. We concede that Congress, under the present national compact, has no
+    right to interfere with any of the slave states, in relation to this momentous
+    subject.
+  </p>
+  <p>
+    But we maintain that Congress has a right, and is solemnly bound, to suppress
+    the domestic slave trade between the several States, and to abolish slavery in
+    those portions of our territory which the Constitution has placed under its
+    exclusive jurisdiction.
+  </p>
+  <p>
+    We also maintain that there are, at the present time, the highest obligations
+    resting upon the people of the free States, to remove slavery by moral and
+    political action, as prescribed in the Constitution of United States. They are
+    now living under a pledge of their tremendous physical force to fasten the
+    galling fetters of tyranny upon the limbs of millions in the southern
+    States;—they are liable to be called at any moment to suppress a general
+    insurrection of the slaves;—they authorize the slave owner to vote for
+    three-fifths of his slaves as property, and thus enable him to perpetuate his
+    oppression;—they support a standing army at the south for its protection;—and
+    they seize the slave who has escaped into their territories, and send him back
+    to be tortured by an enraged master or a brutal driver.
+  </p>
+  <p>
+    This relation to slavery is criminal and full of danger:
+    <em>it must be broken up.</em>
+  </p>
+  <p>
+    These are our views and principles—these, our designs and measures. With
+    entire confidence in the overruling justice of God, we plant ourselves upon
+    the Declaration of our Independence, and upon the truth of Divine Revelation,
+    as upon the Everlasting Rock.
+  </p>
+  <p>
+    We shall organize Anti-Slavery Societies, if possible, in every city, town and
+    village of our land.
+  </p>
+  <p>
+    We shall send forth Agents to lift up the voice of remonstrance, of warning of
+    entreaty and rebuke.
+  </p>
+  <p>
+    We shall circulate, unsparingly and extensively, anti slavery tracts and
+    periodicals.
+  </p>
+  <p>
+    We shall enlist the Pulpit and the Press in the cause of the suffering and the
+    dumb.
+  </p>
+  <p>
+    We shall aim at a purification of the churches from all participation in the
+    guilt of slavery.
+  </p>
+  <p>
+    We shall encourage the labor of freemen over that of the slaves, by giving a
+    preference to their productions;—and
+  </p>
+  <p>
+    We shall spare no exertions nor means to bring the whole nation to speedy
+    repentance.
+  </p>
+  <p>
+    Our trust for victory is solely in GOD.
+    <em>We</em>
+    may be personally defeated, but our principles never. TRUTH, JUSTICE, and
+    HUMANITY, must and will gloriously triumph. Already a host is coming up to the
+    help of the Lord against the mighty, and the prospect before us is full of
+    encouragement.
+  </p>
+  <p>
+    Submitting this DECLARATION to the candid examination of the people of this
+    country, and of the friends of liberty all over the world, we hereby affix our
+    signatures to it; pledging ourselves that, under the guidance and by the help
+    of Almighty God, we will do all that in us lies, consistently with this
+    Declaration of our principles, to overthrow the most execrable system of
+    slavery that has ever been witnessed upon earth—to deliver our land from its
+    deadliest curse—to wipe out the foulest stain which rests upon our national
+    escutcheon—and to secure to the colored population of the United States all
+    the rights and privileges which belong to them as men and as Americans—come
+    what may to our persons, our interests, or our reputations—whether we live to
+    witness the triumph of Justice, Liberty and Humanity, or perish untimely as
+    martyrs in this great, benevolent, and holy cause.
+  </p>
+  <p>
+    David
+    Thurston,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    B. Russell,
+  </p>
+  <p>
+    Nathan
+    Winslow,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    David Jones,
+  </p>
+  <p>
+    Jos Southwick,
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Enoch Mack, 2d.
+  </p>
+  <p>
+    Jas. F.
+    Otis;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    James Loughhead.
+  </p>
+  <p>
+    Isaac
+    Winslow.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    J. McCullough.
+  </p>
+  <p>
+    David
+    Cambell,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    E.P. Atlee,
+  </p>
+  <p>
+    Orson S.
+    Murray,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    J.M.McKim,
+  </p>
+  <p>
+    D.S.Southmayd,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Wm. L. Garrison,
+  </p>
+  <p>
+    E.L.
+    Capron,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Ray Potter,
+  </p>
+  <p>
+    Joshua
+    Coffin,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    John Prentice,
+  </p>
+  <p>
+    Amos A.
+    Phelps,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    G.W. Benson,
+  </p>
+  <p>
+    J.G.
+    Whittier,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Samuel J. May,
+  </p>
+  <p>
+    H.P.
+    Wakefield,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    A. Kingsley, Jr,
+  </p>
+  <p>
+    J.G.
+    Barbadoes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Edwin A Stillman,
+  </p>
+  <p>
+    D.T. Kimball,
+    Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    S.S. Jocelyn,
+  </p>
+  <p>
+    D.E.
+    Jewett,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    R.B.Hall,
+  </p>
+  <p>
+    J.R.
+    Cambell,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Beriah Green,
+  </p>
+  <p>
+    N.
+    Southard,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Lewis Tappan,
+  </p>
+  <p>
+    Arnold
+    Bufum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    John Rankin,
+  </p>
+  <p>
+    Wm. Green,
+    Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Aaron Vickers,
+  </p>
+  <p>
+    A.L.
+    Cox,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    John R. Sleeper,
+  </p>
+  <p>
+    Wm.
+    Goodell,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    L. Gillingham,
+  </p>
+  <p>
+    Elizur Wright,
+    Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    John Sharpe, Jr.
+  </p>
+  <p>
+    C.W.
+    Denison,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    James Mott
+  </p>
+  <p>
+    John
+    Frost,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    James White,
+  </p>
+  <p>
+    Geo.
+    Bourne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Jona. Parkhurst,
+  </p>
+  <p>
+    Evan
+    Lewis,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    C. Gillingham,&nbsp;
+  </p>
+  <p>
+    E.A.
+    Atlee,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    J.M. Sterling,
+  </p>
+  <p>
+    Robert
+    Purvis,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Milton Sutliff,
+  </p>
+  <p>
+    J. Mc
+    Crummell,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Levi Sutliff,
+  </p>
+  <p>
+    Thomas
+    Shipley,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Thos. Whitson.
+  </p>
+  <p>
+    <em>
+      &nbsp;&nbsp;&nbsp;&nbsp; Signed in the Adelphia Hall, in the city of
+      Philadelphia, on the sixth day of December, A.D.
+    </em>
+    1833.
+  </p>
+  <p>
+    Many notes/links here: December 1833 formation of American Anti-Slavery
+    Society covered in
+    <em>The Abolitionist</em>
+    &nbsp;1:12:177-178
+  </p>
+  <p>among officers</p>
+  <p>Moses Brown RI VP</p>
+  <p>Eli Ives CT VP</p>
+  <p>Eleazer T. Fitch CT VP</p>
+  <p>Samuel J. May CT VP</p>
+  <p>Gustavus F. Davis CT VP</p>
+  <p>Josiah Cady - Providence - Manager</p>
+  <p>Henry Cushing - Providence - Manager</p>
+  <p>George W. Benson - Providence - Manager</p>
+  <p>John Prentice - Providence - Manager</p>
+  <p>Thomas Williams - Providence - Manager</p>
+  <p>George Benson - Brooklyn CT - Manager</p>
+  <p>Simeon S. Jocelyn - New Haven - Manager</p>
+  <p>Alpheus Kingsley - Norwich - Manager</p>
+  <p>James T. Dickinson - Norwich - Manager</p>
+  <p>S. P. Dole - Norwich - Manager</p>
+  <p>Joshua Leavitt - NYC - Manager</p>
+  <p>William Goodell - NYC - Manager</p>
+  <p>Lewis Tappan - NYC - Manager</p>
+  <p>George Bourne - NYC - Manager</p>
+  <p>Charles W. Denison - NYC - Manager</p>
+  <p>Isaac M. Diamond - NYC - Manager</p>
+  <p>Peter Williams - NYC - Manager</p>
+  <p>Arnold Buffum - Philadelphia - Manager</p>
+  <p>Edwin P. Atlee - Philadelphia - Manager</p>
+  <p>Robert Purvis - Philadelphia - Manager</p>
+  <p>Benjamin Lundy - Philadelphia - Manager</p>
+  <p>James McCrummell - Philadelphia - Manager</p>
+  <p>
+    <em>The Abolitionist</em>
+    1:12:178-180 (December 1833)
+  </p>
 scholarlyNotes: 
-commentary: 'There is much to add, relevant to The Unionist and the Canterbury Female
-  Academy, to this Declaration. <p>   In the same issue of <em>The Abolitionist</em>
+commentary: "There is much to add, relevant to <em>The Unionist</em> and the Canterbury
+  Female Academy, to this Declaration. <p>\n  In the same issue of <em>The Abolitionist</em>
   that printed the Declaration, African-American delegate Robert Purvis delivered
-  an encomium for William Lloyd Garrison:   <em>The Abolitionist</em>   1:12:183 (December
-  1833) </p><p>In a pair of motions intimately related to the Canterbury Female Academy,
-  the convention expressed its appreciation of education in general, and Canterbury
-  in particular.</p> <p>"On motion of Simeon S. Jocelyn, seconded by Amos A. Phelps,
-  it was</p> <p>   Resolved.&nbsp; That the fountains of knowledge, like those of
-  salvation,   should be open to every creature, and that we regard those laws and
-  prejudices   which prevent or restrict the education of the people of color, bond
-  or free,   as pre-eminently cruel and impious, and disgraceful to a christian state
-  or   nation; and that we will seek their abolishment, both in the free and slave   States,
-  if possible more earnestly than corporeal slavery itself, in as much   as ignorance
-  enslaves the mind, and tends to the ruin of the immortal soul. </p> <p>On motion
-  of John Prentice, seconded by William Goodell, it was</p> <p>   Resolved, That this
-  convention highly approve of the philanthropic effort of   Miss Prudence Crandall
-  of Canterbury, Conn. in her labors to instruct our   colored sisters; and while
-  we deeply sympathize with her in view of the   persecutions she has endured in the
-  prosecution of her pious purposes, we   pledge ourselves to afford her our continued
-  countenance and assistance"   <em>The Abolitionist</em>   1:12:184 (December 1833)
-  Goodell was the editor of <em>The Genius of Temperance</em>; Jocelyn and Phelps
-  were both endorsers of the Canterbury Female Academy. </p> <p>   <em>The Abolitionist</em>
-  in that same December issue also published a letter from Charles Stuart to William
-  Lloyd Garrison, that    made reference also to letters from Buffum and   Forten:
-  "Many hearts are beating here for the glorious Prudence   Crandall. Some of my young
-  friends are working little parcels of   presents for me to take to her dear pupils
-  in the Spring." (written from   Liverpool) </p> <p>   Samuel Joseph May and John
-  G. Whittier worked with the principal author, William Lloyd Garrison, on the 1833
-  Declaration of Sentiments of the American Anti-Slavery Society. The language of
-  the Declaration, and the sense of who was behind it, demonstrates how nonviolence
-  already held some prominence in the movement at the time of the Canterbruy Female
-  Academy. Furthermore, they were working at the home of African-American activist
-  and dentist James McCrummell (Benjamin Quarles, <em>Black Abolitionists</em> New
-  York: Da Capo Press, 1991; original edition 1969, p. vii-viii)  </p> '
+  an encomium for William Lloyd Garrison:\n  <em>The Abolitionist</em>\n  1:12:183
+  (December 1833)\n</p><p>In a pair of motions intimately related to the Canterbury
+  Female Academy, the convention expressed its appreciation of education in general,
+  and Canterbury in particular.</p>\n<p>\"On motion of Simeon S. Jocelyn, seconded
+  by Amos A. Phelps, it was</p>\n<p>\n  Resolved.&nbsp; That the fountains of knowledge,
+  like those of salvation,\n  should be open to every creature, and that we regard
+  those laws and prejudices\n  which prevent or restrict the education of the people
+  of color, bond or free,\n  as pre-eminently cruel and impious, and disgraceful to
+  a christian state or\n  nation; and that we will seek their abolishment, both in
+  the free and slave\n  States, if possible more earnestly than corporeal slavery
+  itself, in as much\n  as ignorance enslaves the mind, and tends to the ruin of the
+  immortal soul.\n</p>\n<p>On motion of John Prentice, seconded by William Goodell,
+  it was</p>\n<p>\n  Resolved, That this convention highly approve of the philanthropic
+  effort of\n  Miss Prudence Crandall of Canterbury, Conn. in her labors to instruct
+  our\n  colored sisters; and while we deeply sympathize with her in view of the\n
+  \ persecutions she has endured in the prosecution of her pious purposes, we\n  pledge
+  ourselves to afford her our continued countenance and assistance\"\n  <em>The Abolitionist</em>\n
+  \ 1:12:184 (December 1833) Goodell was the editor of <em>The Genius of Temperance</em>;
+  Jocelyn and Phelps were both endorsers of the Canterbury Female Academy.\n</p>\n<p>\n
+  \ <em>The Abolitionist</em> in that same December issue also published a letter
+  from Charles Stuart to William Lloyd Garrison, that \n  made reference also to letters
+  from Buffum and\n  Forten: \"Many hearts are beating here for the glorious Prudence\n
+  \ Crandall. Some of my young friends are working little parcels of\n  presents for
+  me to take to her dear pupils in the Spring.\" (written from\n  Liverpool)\n</p>\n<p>\n
+  \ Samuel Joseph May and John G. Whittier worked with the principal author, William
+  Lloyd Garrison, on the 1833 Declaration of Sentiments of the American Anti-Slavery
+  Society. The language of the Declaration, and the sense of who was behind it, demonstrates
+  how nonviolence already held some prominence in the movement at the time of the
+  Canterbury Female Academy. Furthermore, they were working at the home of African-American
+  activist and dentist James McCrummell (Benjamin Quarles, <em>Black Abolitionists</em>
+  New York: Da Capo Press, 1991; original edition 1969, p. vii-viii) \n</p>\n"
 relatedPeople: David Thurston; B. Russell; Nathan Winslow; David Jones; Joseph Southwick,
   Enoch Mack, 2d.; James. F. Otis; James Loughhead; Isaac Winslow; J. McCullough;
   David Cambell; E.P. Atlee; Orson S. Murray; J.M.McKim; D.S.Southmayd; William Lloyd
@@ -267,4 +539,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-14'
 ---

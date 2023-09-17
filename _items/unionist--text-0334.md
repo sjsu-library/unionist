@@ -18,10 +18,22 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<p>DIED,</p> <p>   In this town on Saturday last, Mrs. _____ Barrett,
-  wife of Mr. Wm. Barrett,   aged 81. </p> <p>   On Monday morning, 7   <sup>th</sup>
-  \  inst. Mr. Gordis (sic) Kies, a Printer, aged 22 </p> <p>   At Hingham, Mass.
-  on the 2   <sup>nd</sup>   inst. Miss Mary Ann N. Williams, aged 28. </p> "
+transcription: |
+  <p>DIED,</p>
+  <p>
+    In this town on Saturday last, Mrs. _____ Barrett, wife of Mr. Wm. Barrett,
+    aged 81.
+  </p>
+  <p>
+    On Monday morning, 7
+    <sup>th</sup>
+    inst. Mr. Gordis (sic) Kies, a Printer, aged 22
+  </p>
+  <p>
+    At Hingham, Mass. on the 2
+    <sup>nd</sup>
+    inst. Miss Mary Ann N. Williams, aged 28.
+  </p>
 scholarlyNotes: This is one of the saddest erasures of a woman I've found. Even in
   death she has no name
 commentary: 
@@ -39,4 +51,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: 
 ---

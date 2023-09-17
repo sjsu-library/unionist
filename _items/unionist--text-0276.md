@@ -18,14 +18,22 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: "<p><em>Free from Slave Labor</em></p> <p>No. 71 Fulton street, New
-  York</p> <p>   The subscriber informs those who feel alive to the great evils of
-  Slavery in   this favored country that he has opened a store for the disposal   <em>exclusively</em>
-  \  of the above articles—and has at present for sale, Domestic and East India   manufactures—Rice,
-  Coffee, Sugar, Molasses, and Lemon Syrups &amp;c. </p> <p>   Having procured many
-  of the foregoing with great care and much exertion he is   determined to dispose
-  of them at a very moderate profit, for ready money only. </p> <p>JOSEPH H. BEALE</p>
-  <p></p> "
+transcription: |
+  <p><em>Free from Slave Labor</em></p>
+  <p>No. 71 Fulton street, New York</p>
+  <p>
+    The subscriber informs those who feel alive to the great evils of Slavery in
+    this favored country that he has opened a store for the disposal
+    <em>exclusively</em>
+    of the above articles—and has at present for sale, Domestic and East India
+    manufactures—Rice, Coffee, Sugar, Molasses, and Lemon Syrups &amp;c.
+  </p>
+  <p>
+    Having procured many of the foregoing with great care and much exertion he is
+    determined to dispose of them at a very moderate profit, for ready money only.
+  </p>
+  <p>JOSEPH H. BEALE</p>
+  <p></p>
 scholarlyNotes: 
 commentary: The "great care and much exertion" required to obtain Free Produce goods
   demonstrates how intertwined slavery was with every dimension of American and international
@@ -44,4 +52,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-09'
 ---

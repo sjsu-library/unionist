@@ -1,6 +1,6 @@
 ---
 pid: unionist--text-0154
-title: "[Journalistic Debate]"
+title: 'The Norwich <em>Courier</em> Trades Further Insults with <em>The Unionist</em> '
 bibliographicCitation: "<em>Norwich Courier</em> 1833-12-18"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -18,16 +18,18 @@ category: Negative notice
 articleType: 
 volume: 
 issue: 
-transcription: 'The Unionist has devoted something over three columns to our humble
-  self. A labor which the Editor might have well spared as he has neither overturned
-  any positions of ours, or established those of his own. If he supposes that we desired
-  “to be excused” from further discussion by any fear of his doughty self, he may
-  enjoy the illusion if it will afford him any pleasure—it was the fatherest thing
-  from our thoughts at the time. He may rest assured that we have no greater claim
-  to the character of Goliah,[sic] than he has to that of David. He slings his stones
-  too wide of his mark. '
+transcription: |
+  The Unionist has devoted something over three columns to our humble self. A
+  labor which the Editor might have well spared as he has neither overturned any
+  positions of ours, or established those of his own. If he supposes that we
+  desired “to be excused” from further discussion by any fear of his doughty self,
+  he may enjoy the illusion if it will afford him any pleasure—it was the
+  fartherest thing from our thoughts at the time. He may rest assured that we have
+  no greater claim to the character of Goliah,[sic] than he has to that of David.
+  He slings his stones too wide of his mark.
 scholarlyNotes: 
-commentary: 
+commentary: Someone at the Norwich <em>Courier</em> decided to spend their time writing
+  these ripostes.
 relatedPeople: Charles C. Burleigh (inferred)
 featured: 
 repeated: 
@@ -42,4 +44,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-14'
 ---

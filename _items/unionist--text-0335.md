@@ -18,15 +18,17 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: 'PEACH TREES. The Subscriber has for sale from 3, to 500 <em>P</em>
-  each and Nectarine Trees (inoculated) comprising over 30 varieties. EDWIN NEWBURY.
-  April 10 '
+transcription: |
+  PEACH TREES. The Subscriber has for sale from 3, to 500
+  <em>P</em>
+  each and Nectarine Trees (inoculated) comprising over 30 varieties. EDWIN
+  NEWBURY. April 10
 scholarlyNotes: needs biblio for 1861 City Guide
-commentary: 'Edwin Newbury (1799-1882) lived many years in Brooklyn, Connecticut.
-  The 1861 City Guide lists him as a jeweler and florist. He also signed the petition
-  to repeal the Black Law. Petitions re: Repeal of Act Prohibiting Education of Colored
-  Persons RG002, Box 26 General Assembly Papers 1837-1838, folder #16, doc. 1-16,
-  Connecticut State History Library Archives, Document #10 - Brooklyn list '
+commentary: |
+  Edwin Newbury (1799-1882) lived many years in Brooklyn, Connecticut. The 1861 City Guide lists him as a jeweler and florist. He also signed the petition to repeal the Black Law.
+  Petitions re: Repeal of Act Prohibiting Education of Colored Persons RG002, Box
+  26 General Assembly Papers 1837-1838, folder #16, doc. 1-16, Connecticut State History Library
+  Archives, Document #10 - Brooklyn list
 relatedPeople: Edwin Newbury
 featured: 
 repeated: 
@@ -41,4 +43,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: 
 ---

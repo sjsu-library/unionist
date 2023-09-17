@@ -18,16 +18,26 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<p>   At a Court of Probate holden at Killingly on the 8   <sup>th</sup>
-  \  day of March A.D. 1834. </p> <p>Present THOMAS BACKUS Esq. Judge</p> <p>   On
-  motion of John Truesdell, executor of the last will and testament of   Harriet Perrin
-  late of Killingly within said district, deceased—This Court   doth decree that six
-  months from the first publication of this order be   allowed and limited for the
-  creditors of said estate to exhibit their claims   against the same to said executor—And
-  directs that public notice be given of   this order by advertising in a newspaper
-  published in Brooklyn, and be posting   a copy thereof on the public sign post,
-  in the East Society in said town of   Killingly. </p> <p>Certified from Record,</p>
-  <p>DAVID CHASE, Clerk.</p> <p></p> "
+transcription: |
+  <p>
+    At a Court of Probate holden at Killingly on the 8
+    <sup>th</sup>
+    day of March A.D. 1834.
+  </p>
+  <p>Present THOMAS BACKUS Esq. Judge</p>
+  <p>
+    On motion of John Truesdell, executor of the last will and testament of
+    Harriet Perrin late of Killingly within said district, deceased—This Court
+    doth decree that six months from the first publication of this order be
+    allowed and limited for the creditors of said estate to exhibit their claims
+    against the same to said executor—And directs that public notice be given of
+    this order by advertising in a newspaper published in Brooklyn, and be posting
+    a copy thereof on the public sign post, in the East Society in said town of
+    Killingly.
+  </p>
+  <p>Certified from Record,</p>
+  <p>DAVID CHASE, Clerk.</p>
+  <p></p>
 scholarlyNotes: 
 commentary: 
 relatedPeople: Thomas Backus (probate judge); David Chase (probate clerk); John Truesdell
@@ -45,4 +55,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: 
 ---

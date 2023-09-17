@@ -19,12 +19,23 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: "<p>   Col. Stone, of the N.Y. Commercial Advertiser sports the following
-  short   paragraph upon the   <em>Signs</em>   in his vicinity. </p> <p>   ☞   <em>Letter
-  G!</em>   —The letter G. placed within the five radii of a masonic star, is occasionally
-  \  seen adorning a <em>tavern sign</em>   of some worthy member of the brotherhood
-  in the country. This said G. means   <em>Geometry,</em>   and we never knew a lodge
-  to proceed farther than this first letter in the   science. </p> "
+transcription: |
+  <p>
+    Col. Stone, of the N.Y. Commercial Advertiser sports the following short
+    paragraph upon the
+    <em>Signs</em>
+    in his vicinity.
+  </p>
+  <p>
+    ☞
+    <em>Letter G!</em>
+    —The letter G. placed within the five radii of a masonic star, is occasionally
+    seen adorning a <em>tavern sign</em>
+    of some worthy member of the brotherhood in the country. This said G. means
+    <em>Geometry,</em>
+    and we never knew a lodge to proceed farther than this first letter in the
+    science.
+  </p>
 scholarlyNotes: 
 commentary: 'William Leete Stone, editor of the <em>New York Commercial Advertiser</em> '
 relatedPeople: 'William Leete Stone '
@@ -41,4 +52,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-05-14'
 ---

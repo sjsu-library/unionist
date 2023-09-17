@@ -34,12 +34,13 @@ relatedTextIssue:
 filename: 
 caption: American Anti-Slavery Society Broadside against Slavery in the District of
   Columbia. Calling for the end of slavery in the District of Columbia - which was
-  constitutionally in the hands of Congress - was a constant, ongoing campaign by
-  the Abolitionists.
+  constitutionally in the hands of Congress - was a constant ongoing campaign of the
+  Abolitionists.
 order: '614'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0203/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0203/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0203/full/1140,/0/default.jpg"
+proofed JR: '2023-09-13'
 ---

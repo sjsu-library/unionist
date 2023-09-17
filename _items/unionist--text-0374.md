@@ -18,14 +18,18 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<p>THE YOUNG MAN’S GUIDE.</p> <p>   A VOLUME of 320 pages, designed
-  as a cheap manual for Young Men, though it is   believed to embrace much useful
-  information to persons in every description;   especially parents. It is divided
-  into seven chapters; to which are prefixed a   very full table o contents and an
-  introduction. The great object of the author   of the work, who has had much experience
-  with youth, is to stimulate them to   aim at a high standard of character, and to
-  make the mental, social, and moral   improvement o themselves and those around them,
-  a governing purpose of their   lives. </p> "
+transcription: |
+  <p>THE YOUNG MAN’S GUIDE.</p>
+  <p>
+    A VOLUME of 320 pages, designed as a cheap manual for Young Men, though it is
+    believed to embrace much useful information to persons in every description;
+    especially parents. It is divided into seven chapters; to which are prefixed a
+    very full table o contents and an introduction. The great object of the author
+    of the work, who has had much experience with youth, is to stimulate them to
+    aim at a high standard of character, and to make the mental, social, and moral
+    improvement o themselves and those around them, a governing purpose of their
+    lives.
+  </p>
 scholarlyNotes: 
 commentary: 
 relatedPeople: 
@@ -42,4 +46,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: 
 ---

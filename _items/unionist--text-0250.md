@@ -6,9 +6,8 @@ bibliographicCitationRepublished:
 fullIssueSequenceNumber: 1834-03-13 p.03.14
 creator: Charles C. Burleigh
 dateCreated: '1834-03-13'
-description: Clarifying a misconception, that the <em>Unionist</em> was opposed to
-  Pearl's candidacy because of his stand on human rights, and not because he was a
-  farmer.
+description: 'Clarifying a misconception:  <em>The Unionist</em> was opposed to Pearl''s
+  candidacy because of his stand on human rights, not because he was a farmer.'
 language: English
 publisher: The Unionist
 IsPartOf: 
@@ -20,23 +19,26 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: "<em>Mr. Pearl.</em> —We again avert to this gentleman, that we may
-  correct an erroneous impression that has gone abroad, induced by an article in our
-  paper of week before last, in which we alluded to his nomination for Senator. A
-  meaning was attached to our remarks by some, which we never intended should be and
-  never thought would be attached to them—namely, that because Mr. Pearl is a farmer,
-  and not a professional man, he is therefore unqualified for the office to which
-  he is nominated. Nothing could be farther from our intention than to convey such
-  an idea. Till within a few years we were ourself a farmer, and from a more intimate
-  acquaintance with that class of working-men than with any other, we take the most
-  lively interest in every thing calculated to promote their political or moral welfare.
-  We are not opposed to Mr. Pearl because he is not a professional man, but because
-  we believe him opposed to some of those eternal principles of right which are to
-  us dear as the apple of our eye, and which we feel ourself solemnly pledged to defend
-  according to the best of our feeble abilities. For Mr. Pearl’s private character
-  we entertain the most unfeigned respect—but while we believe him pursuing a political
-  course which we consider detrimental to our dearest interests as a people, we must,
-  if we would be honest, most strenuously oppose his political elevation.” "
+transcription: |
+  <em>Mr. Pearl.</em>
+  —We again avert to this gentleman, that we may correct an erroneous impression
+  that has gone abroad, induced by an article in our paper of week before last, in
+  which we alluded to his nomination for Senator. A meaning was attached to our
+  remarks by some, which we never intended should be and never thought would be
+  attached to them—namely, that because Mr. Pearl is a farmer, and not a
+  professional man, he is therefore unqualified for the office to which he is
+  nominated. Nothing could be farther from our intention than to convey such an
+  idea. Till within a few years we were ourself a farmer, and from a more intimate
+  acquaintance with that class of working-men than with any other, we take the
+  most lively interest in every thing calculated to promote their political or
+  moral welfare. We are not opposed to Mr. Pearl because he is not a professional
+  man, but because we believe him opposed to some of those eternal principles of
+  right which are to us dear as the apple of our eye, and which we feel ourself
+  solemnly pledged to defend according to the best of our feeble abilities. For
+  Mr. Pearl’s private character we entertain the most unfeigned respect—but while
+  we believe him pursuing a political course which we consider detrimental to our
+  dearest interests as a people, we must, if we would be honest, most strenuously
+  oppose his political elevation.”
 scholarlyNotes: Feb 27 1834 Unionist had something opposed to Pearl's candidacy
 commentary: Because the author identifies himself as a farmer, I have defaulted to
   giving authorship here to Charles Burleigh
@@ -54,4 +56,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-16'
 ---

@@ -18,8 +18,12 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: "<strong>☞</strong> <strong>   THE VENERABLE WILBERFORCE, THE WARM
-  PHILANTHROPIST, THE ZEALOUS FRIEND OF THE   BLACKS IS DEAD </strong> "
+transcription: |
+  <strong>☞</strong>
+  <strong>
+    THE VENERABLE WILBERFORCE, THE WARM PHILANTHROPIST, THE ZEALOUS FRIEND OF THE
+    BLACKS IS DEAD
+  </strong>
 scholarlyNotes: 
 commentary: Wilberforce was an important exemplar among American Abolitionists. This
   brief notice, in all caps - which equaled shouting much as it does in email today
@@ -38,4 +42,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-05'
 ---

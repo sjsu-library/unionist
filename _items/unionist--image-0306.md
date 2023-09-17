@@ -28,12 +28,13 @@ relatedImage:
 relatedText: unionist--text-0242
 relatedTextIssue: 1834-03-13 p.01.06
 filename: 
-caption: I will continue the search for a 19th century illustration of farmers on
-  the move politically, but in the meantime...
+caption: The search for a 19th century illustration of farmers on the move politically
+  will continue, but in the meantime...
 order: '717'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0306/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0306/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0306/full/1140,/0/default.jpg"
+proofed JR: '2023-09-15'
 ---

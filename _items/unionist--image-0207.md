@@ -30,11 +30,12 @@ relatedImage:
 relatedText: unionist--text-0163
 relatedTextIssue: 1833-12-19 p.02.09
 filename: 
-caption: 'By Nathaniel Currier - '
+caption: By Nathaniel Currier - The Drunkard's Progress
 order: '618'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0207/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0207/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0207/full/1140,/0/default.jpg"
+proofed JR: '2023-09-14'
 ---

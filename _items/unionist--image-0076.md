@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0076
-title: New Alms House Godey's 1833-09
+title: New Alms House Godey's September, 1833.
 bibliographicCitation: "<em>The Lady's Book: A Magazine of Fashion and the Arts</em>.
   Volume 6. Philadelphia: L.A. Godey and Company, 1833."
 bibliographicCitationRepublished: https://archive.org/details/godeys-1833-v-7/mode/2up
@@ -38,4 +38,5 @@ collection: items
 thumbnail: '""'
 manifest: '""'
 full: '""'
+proofed JR: '2023-09-15'
 ---

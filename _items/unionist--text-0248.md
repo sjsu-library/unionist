@@ -1,6 +1,6 @@
 ---
 pid: unionist--text-0248
-title: "[Masthead and Title]"
+title: Editorial Masthead and Title
 bibliographicCitation: "<em>The Unionist</em> 1834-03-13"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1834-03-13 p.02.12
@@ -18,8 +18,10 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: '<p align="center">Masthead</p> <p align="center">THE UNIONIST.</p>
-  <p align="center">BROOKLYN, MARCH 13, 1834</p> <p></p> '
+transcription: |
+  <p align="center">THE UNIONIST.</p>
+  <p align="center">BROOKLYN, MARCH 13, 1834</p>
+  <p></p>
 scholarlyNotes: 
 commentary: 
 relatedPeople: 
@@ -36,4 +38,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-16'
 ---

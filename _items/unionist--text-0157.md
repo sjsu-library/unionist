@@ -18,17 +18,23 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>   STEAMER NEW-ENGLAND.—The board of examiners, at the head of
-  which was   Professor Siliman, appointed to investigate the causes of the destruction
-  of   that boat, have reported that the sole cause of the bursting of her boilers
-  \  was the immense pressure of steam to which they were subjected through the   <em>negligence</em>
-  \  of the engineer. </p> <p></p> "
+transcription: |
+  <p>
+    STEAMER NEW-ENGLAND.—The board of examiners, at the head of which was
+    Professor Silliman, appointed to investigate the causes of the destruction of
+    that boat, have reported that the sole cause of the bursting of her boilers
+    was the immense pressure of steam to which they were subjected through the
+    <em>negligence</em>
+    of the engineer.
+  </p>
+  <p></p>
 scholarlyNotes: Brief bio of Silliman - https://silliman.yalecollege.yale.edu/about-silliman/history
 commentary: The Steamboat New-England disaster occured on October 8, 1833. Thirteen
   people perished in the explosion off of Essex, Connecticut (about 50 miles south/southeast
-  of Brooklyn, Connecticut, east of New London). For more on the disaster, see https://connecticuthistory.org/the-steamboat-new-england-the-shock-was-dreadful-today-in-history/
-  and https://archive.org/details/steamboatdisaste01howl/page/154/mode/2up?view=theater
-  .
+  of Brooklyn, Connecticut, east of New London). For more on the disaster, see the
+  site in <a ref="https://connecticuthistory.org/the-steamboat-new-england-the-shock-was-dreadful-today-in-history/">Connecticut
+  History</a> and <a href=https://archive.org/details/steamboatdisaste01howl/page/154/mode/2up?view=theater">
+  Howland's <em>Steamboat disasters and railroad accidents in the United States.</em></a>
 relatedPeople: Benjamin Silliman
 featured: 
 repeated: 
@@ -43,4 +49,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-14'
 ---

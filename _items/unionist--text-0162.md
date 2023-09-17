@@ -18,20 +18,34 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>   A FEW QUESTIONS—We do not wish to be impertinent, nor meddle
-  with that which   is none of our business—but we wish to ask a few questions, and
-  we do it with   a sincere desire to do good, whether we shall, to any extent, effect
-  our   object we leave for time to determine. </p> <p>“Is the holding of our fellow
-  men in bondage a sin?”</p> <p>   &nbsp;“Is it our duty ever to repent of sin, and
-  if so, when? now or at some   indefinite future? </p> <p>   Do any clergymen who
-  preach to their hearers the duty of&nbsp; immediate   repentence oppose immediate
-  emancipation, the immediate restoration of right   to the slave who has long been
-  robbed of his earnings and treated as a brute?   and if so where is his consistency?
-  </p> <p>   Has God pronounced a judgment upon him who withholds from the laborer
-  his   hire? If so is the slaveholder obnoxious to this judgment? </p> <p>Can that
-  man who is a habitual robber be a christian?</p> <p>   Is not the slaveholder who
-  refuses to emancipate his slaves a robber of man   and of God? Reader, ponder these
-  questions well—and answer them to your   conscience and your God. </p> "
+transcription: |
+  <p>
+    A FEW QUESTIONS—We do not wish to be impertinent, nor meddle with that which
+    is none of our business—but we wish to ask a few questions, and we do it with
+    a sincere desire to do good, whether we shall, to any extent, effect our
+    object we leave for time to determine.
+  </p>
+  <p>“Is the holding of our fellow men in bondage a sin?”</p>
+  <p>
+    &nbsp;“Is it our duty ever to repent of sin, and if so, when? now or at some
+    indefinite future?
+  </p>
+  <p>
+    Do any clergymen who preach to their hearers the duty of&nbsp; immediate
+    repentence oppose immediate emancipation, the immediate restoration of right
+    to the slave who has long been robbed of his earnings and treated as a brute?
+    and if so where is his consistency?
+  </p>
+  <p>
+    Has God pronounced a judgment upon him who withholds from the laborer his
+    hire? If so is the slaveholder obnoxious to this judgment?
+  </p>
+  <p>Can that man who is a habitual robber be a christian?</p>
+  <p>
+    Is not the slaveholder who refuses to emancipate his slaves a robber of man
+    and of God? Reader, ponder these questions well—and answer them to your
+    conscience and your God.
+  </p>
 scholarlyNotes: 
 commentary: With William Burleigh on board as a co-editor, I am not yet in a position
   to be able to distinguish between the two brothers on the basis of style. However,
@@ -51,4 +65,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-08-10'
 ---

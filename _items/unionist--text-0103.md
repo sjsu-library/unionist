@@ -18,11 +18,17 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: "<p>   WANTED, a Horse of about 6 or 7 years old that can be warranted
-  sound and   kind, good in harness or saddle, and that will stand without tying.
-  Any one   having such a horse (none others need apply) can hear of a purchaser,
-  on   application to J.B. Whitcomb. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Brooklyn,   August 29, 1833. </p> "
+transcription: |
+  <p>
+    WANTED, a Horse of about 6 or 7 years old that can be warranted sound and
+    kind, good in harness or saddle, and that will stand without tying. Any one
+    having such a horse (none others need apply) can hear of a purchaser, on
+    application to J.B. Whitcomb.
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brooklyn,
+    August 29, 1833.
+  </p>
 scholarlyNotes: 
 commentary: 
 relatedPeople: J.B. Whitcomb
@@ -39,4 +45,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-05-14'
 ---

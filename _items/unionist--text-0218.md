@@ -18,20 +18,11 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>   AT a Court of Probate holden at Plainfield within and for the
-  district of   Plainfield on the 19   <sup>th</sup>   day of November, 1833.—the
-  subscribers were appointed Commissioners on the   estate of Mrs. Ruth Greene, late
-  of Sterling, deceased, give notice that they   will meet at the house of William
-  Fenner in said Sterling, on the first Monday   in June, 1834, at 2 o’clock P.M.
-  for the purpose of examining and allowing the   claims against said estate. Six
-  months from this date, being limited or   exhibiting claims. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  WILLIAM   FENNER,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  Commis- </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  THOMAS DOUGLASS.&nbsp; sioners. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Sterling   Nov, 19   <sup>th</sup>   , 1833. </p> "
-scholarlyNotes: William Fenner was connected to a family opposed to the Canterbury
-  Female Academy
-commentary: 
+transcription: It is interesting that the <em>Norwich Courier</em> published <em>The
+  Unionist</em> account of the fire at the academy in January 1834.
+scholarlyNotes: 
+commentary: William Fenner was connected to a family opposed to the Canterbury Female
+  Academy
 relatedPeople: Ruth Greene; William Fenner; Thomas Douglass
 featured: 
 repeated: 
@@ -46,4 +37,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-15'
 ---

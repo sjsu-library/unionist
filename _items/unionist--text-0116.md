@@ -18,10 +18,11 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: 'WORKS OF ART.—Dr. Herschel’s Grand Telescope. The tube of this instrument
-  is thirty-nine feet four inches long, and four feet and ten inches in diameter,
-  every part being made of iron. It was begun in 1785 and completed in 1789. It magnifies
-  <em>six thousand times.</em> '
+transcription: |
+  WORKS OF ART.—Dr. Herschel’s Grand Telescope. The tube of this instrument is
+  thirty-nine feet four inches long, and four feet and ten inches in diameter,
+  every part being made of iron. It was begun in 1785 and completed in 1789. It
+  magnifies <em>six thousand times.</em>
 scholarlyNotes: 
 commentary: 
 relatedPeople: William Herschel
@@ -38,4 +39,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-05-14'
 ---

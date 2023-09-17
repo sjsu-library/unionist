@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0067
-title: BenjaminSillimanPortrait
+title: Benjamin Silliman Portrait
 bibliographicCitation: https://npg.si.edu/object/npg_NPG.68.6
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -29,11 +29,13 @@ relatedText: unionist--text-0157
 relatedTextIssue: 1833-12-19 p.01.03
 filename: 
 caption: Portrait of Benjamin Silliman (1779-1864), prominent American scientist in
-  the first half of the nineteenth century
+  the first half of the nineteenth century. One of the residential colleges of Yale
+  University is named after him.
 order: '478'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0067/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0067/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0067/full/1140,/0/default.jpg"
+proofed JR: '2023-09-14'
 ---

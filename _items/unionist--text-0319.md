@@ -18,9 +18,11 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<em>Lake Navigation.</em> —The Steamboat General Brady arrived at
-  Cleaveland, from Detroit, on Tuesday last. We may soon expect to hear of arrivals
-  at Buffalo.— <em>Ohio Rev.</em> "
+transcription: |
+  <em>Lake Navigation.</em>
+  —The Steamboat General Brady arrived at Cleaveland, from Detroit, on Tuesday
+  last. We may soon expect to hear of arrivals at Buffalo.—
+  <em>Ohio Rev.</em>
 scholarlyNotes: 
 commentary: Note spelling of Cleaveland!
 relatedPeople: 
@@ -37,4 +39,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: 
 ---

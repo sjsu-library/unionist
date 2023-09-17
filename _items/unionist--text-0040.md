@@ -18,13 +18,20 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '2'
-transcription: "<p>   “From the Hartford Times!!”   <em>The Unionist</em>   August
-  8, 1833, 1:2:2, column 5 </p> <p>FROM THE HARTFORD TIMES!!</p> <p>   We have received
-  the letter of Messrs Rufus Adams and Andrew T. Judson   relating to the negro school
-  at Canterbury. It cannot be doubted that these   gentlemen have been much abused
-  and misrepresented; [☞] but we believe there   are no new facts set forth in this
-  letter requiring its publication. [☞] </p> <p>So Mr. Judson has wasted his paper
-  and ink.</p> "
+transcription: |
+  <p>
+    “From the Hartford Times!!”
+    <em>The Unionist</em>
+    August 8, 1833, 1:2:2, column 5
+  </p>
+  <p>FROM THE HARTFORD TIMES!!</p>
+  <p>
+    We have received the letter of Messrs Rufus Adams and Andrew T. Judson
+    relating to the negro school at Canterbury. It cannot be doubted that these
+    gentlemen have been much abused and misrepresented; [☞] but we believe there
+    are no new facts set forth in this letter requiring its publication. [☞]
+  </p>
+  <p>So Mr. Judson has wasted his paper and ink.</p>
 scholarlyNotes: 
 commentary: The Hartford Times chooses against publishing Andrew Judson's circular.
 relatedPeople: Andrew Judson; Rufus Adams
@@ -41,4 +48,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-08-22'
 ---

@@ -21,9 +21,9 @@ category: Unionist content
 articleType: original
 volume: '1'
 issue: '1'
-transcription: 'THE UNIONIST, published every Thursday morning, Brooklyn, Con. Charles
-  C. Burleigh, Editor and Proprietor.</p> <p align="center">PROSPECTUS</p> <p align="center">OF</p>
-  <p align="center"><strong>THE UNIONIST.</strong></p> <p>At no time more than at
+transcription: "THE UNIONIST, published every Thursday morning, Brooklyn, Con. Charles
+  C. Burleigh, Editor and Proprietor.</p>\n<p align=\"center\">PROSPECTUS</p> <p align=\"center\">OF</p>
+  <p align=\"center\"><strong>THE UNIONIST.</strong></p> <p>At no time more than at
   the present, has been felt the want, in this county, of a firm, independent press.
   The acts of our last legislature are a sufficient index of the character of that
   party which has obtained, for a brief space we hope, the ascendancy in this State.
@@ -47,9 +47,9 @@ transcription: 'THE UNIONIST, published every Thursday morning, Brooklyn, Con. C
   It will also contain items of general intelligence, literary selections and the
   usual variety of miscellaneous matter, and no effort will be spared on the part
   of the editor to make it worthy of the public favor. How far his efforts will succeed,
-  the future course of the paper will determine.</p>  <p>TERMS. - -Mail subscribers,
+  the future course of the paper will determine.</p> \n<p>TERMS. - -Mail subscribers,
   $2, in advance. Delivered by stage, or post, one dollar and seventy-five cents.
-  Those taken at the office, one dollar and fifty cents</p> '
+  Those taken at the office, one dollar and fifty cents</p>\n"
 scholarlyNotes: 
 commentary: 'The prospectus for <em>The Unionist</em> is used here within the confines
   of a friendly paper, as an advertisement for subscribers. This iteration is identical
@@ -69,4 +69,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: 
 ---

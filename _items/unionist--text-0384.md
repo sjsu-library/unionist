@@ -18,18 +18,33 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<p>LYDIA WHITE</p> <p>   <em>No.</em>   42,   <em>North Fourth Street,</em>
-  </p> <p>   CONTINUES to give her attention to the sale of goods exclusively, which
-  are   exempt from slave labor. She has a supply of domestic fabrics, recently   manufactured
-  from cotton, cultivated by remunerated labor, viz; Bleached,   unbleached and colored
-  Muslins; Cotton Flannels, Table Diaper; Knitting   Cotton, Cords; Plaid; Bed-ticking;
-  Wadding; Cords; Apron and Furniture Check;   Plaid; Bed-Ticking; Laps, &amp;c. which
-  she has the satisfaction to offer at   lower prices than has heretofore been practicable.
-  </p> <p>ALSO,</p> <p>   India Book, Mull and Nansook Muslins; Bengals; Seersuckers;
-  Flannels; Worsted;   Irish Linens &amp;c. with a variety of other articles. </p>
-  <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Philadelphia,
-  \  1833.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  1 </p> "
+transcription: |
+  <p>LYDIA WHITE</p>
+  <p>
+    <em>No.</em>
+    42,
+    <em>North Fourth Street,</em>
+  </p>
+  <p>
+    CONTINUES to give her attention to the sale of goods exclusively, which are
+    exempt from slave labor. She has a supply of domestic fabrics, recently
+    manufactured from cotton, cultivated by remunerated labor, viz; Bleached,
+    unbleached and colored Muslins; Cotton Flannels, Table Diaper; Knitting
+    Cotton, Cords; Plaid; Bed-ticking; Wadding; Cords; Apron and Furniture Check;
+    Plaid; Bed-Ticking; Laps, &amp;c. which she has the satisfaction to offer at
+    lower prices than has heretofore been practicable.
+  </p>
+  <p>ALSO,</p>
+  <p>
+    India Book, Mull and Nansook Muslins; Bengals; Seersuckers; Flannels; Worsted;
+    Irish Linens &amp;c. with a variety of other articles.
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Philadelphia,
+    1833.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    1
+  </p>
 scholarlyNotes: 
 commentary: 
 relatedPeople: Lydia White
@@ -46,4 +61,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-07-24'
 ---

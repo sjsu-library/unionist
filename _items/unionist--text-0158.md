@@ -1,6 +1,6 @@
 ---
 pid: unionist--text-0158
-title: "[Letter to the Editor regarding the <em>Norwich Courier</em>]"
+title: Letter to the Editor regarding the <em>Norwich Courier</em>
 bibliographicCitation: "<em>The Unionist</em> 1833-12-19"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-12-19 p.01.04
@@ -21,158 +21,229 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>   The following communication from a christian, a philanthropist,
-  and a   gentleman, we insert with pleasure. The language is energetic, occasionally
-  \  severe, but we hold not ourself answerable for its severity. The circumstances
-  \  of the case justify it. Cruel charges, unsubstantiated by the least shadow of
-  \  evidence, have been too frequently brought against Abolitionists, and we have
-  \  a right to demand the proof or a retraction, and if neither is given, he who
-  \  makes those charge is, to say the least, a traducer of character. </p> <p><em>For
-  the Unionist.</em></p> <p>To the Editor of the Norwich Courier</p> <p>   SIR—I presume
-  that you will agree with me in the sentiment that the editor of   a public journal
-  is under weighty responsibilities, and should suffer nothing   to appear in the
-  columns of his publication but with extreme caution. Opinions   disseminated through
-  the columns of a newspaper will, to a greater or less   degree, influence the opinions
-  of the reading community, and when the editor   of a paper advocates any particular
-  doctrine, he doubtless desires that his   readers may adhere to the same doctrine.
-  Great care therefore is necessary   that a person in your connexion with community
-  should disseminate thro’ that   community, precepts which shall bear the test of
-  truth—principles founded upon   the strictest rules of justice and sound morality.
-  You sir, I presume,   professing to be governed by high and honorable motives, will
-  readily assent   to this, and at all times be willing to turn your attention to
-  any thing which   may have escaped your pen, and if any one of your readers should
-  be so   unfortunate as to differ from you in sentiment, you will, I presume,   cheerfully
-  examine the ground of their complaints, to be convinced, or to show   some reason
-  for a different course. </p> <p>   I would request of you, sir, to re-peruse an
-  article which appeared under your   editorial head, Oct. 23d, in relation to Miss
-  Crandall’s school and the   sentiments of the abolitionists. I would ask you to
-  do it calmly and   dispassionately—   <em>searching for the truth</em>   —unbiased
-  by opinions previously expressed, farther than you find   <em>reason</em>   to be
-  your supporter. </p> <p>   You say, “Although we think that Miss Crandall has a
-  right to continue her   school we are by no means friendly to the doctrines which
-  are said to be   taught in it; yet these doctrines can never be put down by persecution—they
-  \  must be met by fair argument, and in such a contest they will prove wholly   untenable.”
-  I am glad to find that you have never denied the   <em>right</em>   of Miss Crandall
-  to teach such a school—it is rather a matter or surprise to   me, as it probably
-  is to you, that New-England should contain an enlightened   man who   <em>would</em>
-  \  deny that right. I know not what doctrines you have heard to be taught in that
-  \  school, neither have you seen fit to inform the public. But you have said that
-  \  <em>dangerous</em>   doctrines are taught there that ought to be “put down.”
-  If so, are not you,   sir, bound to tell us what these doctrines are, as you wish
-  to enlighten the   public all you can—to overthrow these dangerous doctrines, and
-  to free society   from their contamination, will you not condescend to meet them
-  by “fair   argument,” as “in such a contest” you are confident “they will prove
-  wholly   untenable?” I am anxious to see, what I have never yet seen and feat I
-  never   shal, the attempt made to “put them down” by “fair argument,” instead of
-  \  addled eggs, &amp;c. </p> <p>   You say again, “The least that can be said of
-  the Abolition scheme is that it   is an   <em>insane</em>   project—one which no
-  man in the full possession and exercise of his faculties   can contemplate as being
-  practicable, or at the present time desirable.” I   know, sir, it is very easy for
-  a person, especially when under a little   excitement, to go on and make severe
-  accusations against his opponents, but it   is quite another thing to show the reason
-  of these accusations. I might say   that the editor of the Norwich Courier was governed
-  by passion and prejudice,   with as much ease as you charge Abolitionists of insanity;
-  and I doubt not,   sir, that I should be able to substantiate my charge as soon
-  as you yours. I   have seen similar charges in your paper before, but I have never
-  known of your   being more particular. You are satisfied with making a general assertion,
-  why   not specify wherein this insanity consists? The leading doctrine of the   Abolitionists
-  is that no man has a right to hold his fellow man in bondage a   single moment.
-  Is this insane? Is it untrue? Is it a fact that man   <em>has a right</em>   to
-  rob his fellow man of liberty—of   <em>himself?</em>   If he   <em>has</em>   such
-  a right, tell me, sir, who gave him that right, and how long it is to   continue.
-  If he has a   <em>right</em>   to hold him in bondage   <em>one</em>   moment, how
-  many moments may he have that right? But who are these insane   Abolitionists? How
-  long since this spirit of insanity come upon them? They are   all around you—men
-  of distinguished worth—of brilliant talents—to whom you,   sire, in your highest
-  estimation of yourself, never considered yourself worthy   to be called an equal.
-  You accuse them of forwarding a project which is not   desirable. Do you pronounce
-  them all hypocrites? No, you dare not, but they   are   <em>insane,</em>   and therefore
-  may be, for aught you know, sincere. But they are men of   exemplary piety—men of
-  fervent prayer—of extensive influence in promoting the   cause of our Redeemer.
-  You have not been accustomed to pronounce them   insane—even now you are ready to
-  quote their opinions upon other subjects and   would place more confidence in their
-  judgment than in your own. How happens it   that their insanity is confined to this
-  subject alone? </p> <p>   You say, “The agitators appear to have bid adieu to common
-  sense and a regard   for the constitution and the laws,” &amp;c. I know not what
-  you call bidding   adieu to common sense, but one thing I know, that the leading
-  Abolitionists in   our country are the leading men in every other project to benefit
-  the human   race—men distinguished for their moral courage, seeking for the approval
-  of   God rather than for the favor of man. They have inquired for the path of duty
-  \  and having ascertained it they have not failed to run in that path. Some,   perhaps,
-  might say that common sense in this respect is a disposition to act   in a manner
-  most congenial with popular feeling, If this is your definition of   the term, I
-  admit that they have ‘bid adieu to common sense,’ but as I   understand the term
-  they have most strictly adhered to it. </p> <p>   As for the charge of their disregarding
-  the constitution and the laws, I think   it a very grave accusation to be brought
-  against many of the best men of our   country. But you, sir, are not the only one
-  who has seen fit to make   it—neither are you the only one who has made it without
-  specifying what part   of the constitution or what laws they disregard—and I must
-  tell you, sire,   that neither you nor all the wholesale accusers who you join   <em>can</em>
-  \  point out a single line of our constitution from which Abolitionists, as such,
-  \  have departed. “Bid adieu to a regard for the constitution!” It is not   true—and
-  I here call upon you, sir, to clear your character from the   imputation of falsehood.
-  I would not say, sir, that you   <em>intended</em>   to assert an untruth, but I
-  \  <em>do</em>   say that you   <em>have</em>   asserted one, and unless you retract
-  or substantiate it, the charge of   falsehood must rest upon you. Is it unconstitutional
-  to assert that it is   morally wrong to hold slaves? Does the constitution of a
-  free, republican   people forbid that we should   <em>speak against</em>   chaining
-  the mortal body and degrading the immortal mind? Is it against the   constitution
-  of a Christian people to declaim against the cruel system of   slavery? —to say
-  that it is contrary to the righteous laws of God—that it is   inconsistent with
-  the spirit of the gospel and the precepts of our Savior? Is   it a fact that the
-  \  <em>republicans</em>   of the United States hold one sixth of their number in
-  the chains of the   verist despotism—that   <em>two millions</em>   of our fellow
-  creatures are groaning under worse than Egyptian servitude—that   <em>two million</em>
-  \  of immortal souls are shut out from the light of science and closed to the   entrance
-  of one cheering ray from the Sun of Righteousness—and that when a few   fearless
-  men stand forth and say that these things are   <em>wrong,</em>   you, the editor
-  of a public journal, cry out that in so saying they have “bid   adieu to a regard
-  for the constitution?” Tell me, sir, if these things are   facts? O that you could
-  tell me that they were not facts! But, alas! they are.   We must not say that it
-  is   <em>wrong</em>   to degrade the image of God to a level with the brutes that
-  perish, for it is   unconstitutional. Thank God!&nbsp; we have no such constitution
-  as this! Shame   on my countrymen! Shame on any republican asserting such a doctrine!
-  I know   the constitution   <em>permits</em>   the several states to hold slaves
-  if they choose—but no where does it say that   we   <em>shall not</em>   raise our
-  voices against this abominable system. Wherein, then, have   Abolitionists “bid
-  adieu to a regard for the constitution?” Will you, sir,   point out this treason,
-  or cease longer to make an unfounded accusation? </p> <p>   You say, “That this
-  unprincipled opposition to the labors of the Colonization   Society will raise up
-  many warm friends to the latter there is abundant ground   to hope.” As “unprincipled,:
-  sir, as these ‘agitators’ may be, I deem it no   disparagement to you to say that
-  they are mi int eh splendor of whose moral   qualities you would be hardly visible,
-  and whose names will be breathed with   veneration by the virtuous and the good
-  when yours shall have long been   forgotten. But I am perfectly willing that you
-  should, if you can, console   yourself that by this opposition many warm friends
-  will be raised up to the   Colonization Society, but perhaps it may soften future
-  disappointment, to   inform you that many of those who have been :warm friends”
-  to that society are   flocking around the Abolition standard, and however many ‘warm
-  friends’ the   Colonization Society may have, the cause of Abolition must forever
-  stand. AS   long as justice reigns in heaven and sin is found on earth, so long
-  will those   be found who will exert themselves to hasten the triumph of the former
-  and   crush and extirpate the latter, and as sure as God is good so sure will he
-  \  cause them to prosper. </p> <p>   Again you say, “If the blacks are to be benefitted
-  at all, it can only be   accomplished by the aid of the Colonization Society, and
-  their removal to   Africa.” O that you had spared the penning of that sentence!
-  What principle do   you mean to advocate? Into what would you convert our happy
-  land? What, sir,   shall we think of the man, professing to be governed by that
-  religion which   commands us to love our neighbor as ourselves, who tells us that
-  here are two   and a half millions of immortal beings among us, degraded and wretched,
-  and if   they “are to be benefitted at all” it must be by “their removal to Africa?”
-  \  What, in the name of God, is the reason they cannot be benefitted here? What
-  \  but that you and some of your brother editors are so wickedly prejudiced   against
-  them that you are determined they   <em>shall not be?</em>   They   <em>can</em>
-  \  be benefitted here—they   <em>will</em>   be benefitted here. The number of blacks
-  in this country will never be less   than at the present moment—for in the first
-  place we have not the means to   make them less, increasing as they do 70,000 per
-  year, and in the second place   if we had the means of carrying them to Africa they
-  do not want to go. They   must always remain with us unless we serve them as we
-  have served the poor   Indians, and though you may continue to assert that they
-  must always remain   degraded, yet ever true Christian will rejoice that God in
-  his good providence   has ordered it otherwise. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  JUSTICE. </p> "
+transcription: |
+  <p>
+    The following communication from a christian, a philanthropist, and a
+    gentleman, we insert with pleasure. The language is energetic, occasionally
+    severe, but we hold not ourself answerable for its severity. The circumstances
+    of the case justify it. Cruel charges, unsubstantiated by the least shadow of
+    evidence, have been too frequently brought against Abolitionists, and we have
+    a right to demand the proof or a retraction, and if neither is given, he who
+    makes those charge is, to say the least, a traducer of character.
+  </p>
+  <p><em>For the Unionist.</em></p>
+  <p>To the Editor of the Norwich Courier</p>
+  <p>
+    SIR—I presume that you will agree with me in the sentiment that the editor of
+    a public journal is under weighty responsibilities, and should suffer nothing
+    to appear in the columns of his publication but with extreme caution. Opinions
+    disseminated through the columns of a newspaper will, to a greater or less
+    degree, influence the opinions of the reading community, and when the editor
+    of a paper advocates any particular doctrine, he doubtless desires that his
+    readers may adhere to the same doctrine. Great care therefore is necessary
+    that a person in your connexion with community should disseminate thro’ that
+    community, precepts which shall bear the test of truth—principles founded upon
+    the strictest rules of justice and sound morality. You sir, I presume,
+    professing to be governed by high and honorable motives, will readily assent
+    to this, and at all times be willing to turn your attention to any thing which
+    may have escaped your pen, and if any one of your readers should be so
+    unfortunate as to differ from you in sentiment, you will, I presume,
+    cheerfully examine the ground of their complaints, to be convinced, or to show
+    some reason for a different course.
+  </p>
+  <p>
+    I would request of you, sir, to re-peruse an article which appeared under your
+    editorial head, Oct. 23d, in relation to Miss Crandall’s school and the
+    sentiments of the abolitionists. I would ask you to do it calmly and
+    dispassionately—
+    <em>searching for the truth</em>
+    —unbiased by opinions previously expressed, farther than you find
+    <em>reason</em>
+    to be your supporter.
+  </p>
+  <p>
+    You say, “Although we think that Miss Crandall has a right to continue her
+    school we are by no means friendly to the doctrines which are said to be
+    taught in it; yet these doctrines can never be put down by persecution—they
+    must be met by fair argument, and in such a contest they will prove wholly
+    untenable.” I am glad to find that you have never denied the
+    <em>right</em>
+    of Miss Crandall to teach such a school—it is rather a matter or surprise to
+    me, as it probably is to you, that New-England should contain an enlightened
+    man who
+    <em>would</em>
+    deny that right. I know not what doctrines you have heard to be taught in that
+    school, neither have you seen fit to inform the public. But you have said that
+    <em>dangerous</em>
+    doctrines are taught there that ought to be “put down.” If so, are not you,
+    sir, bound to tell us what these doctrines are, as you wish to enlighten the
+    public all you can—to overthrow these dangerous doctrines, and to free society
+    from their contamination, will you not condescend to meet them by “fair
+    argument,” as “in such a contest” you are confident “they will prove wholly
+    untenable?” I am anxious to see, what I have never yet seen and feat I never
+    shal, the attempt made to “put them down” by “fair argument,” instead of
+    addled eggs, &amp;c.
+  </p>
+  <p>
+    You say again, “The least that can be said of the Abolition scheme is that it
+    is an
+    <em>insane</em>
+    project—one which no man in the full possession and exercise of his faculties
+    can contemplate as being practicable, or at the present time desirable.” I
+    know, sir, it is very easy for a person, especially when under a little
+    excitement, to go on and make severe accusations against his opponents, but it
+    is quite another thing to show the reason of these accusations. I might say
+    that the editor of the Norwich Courier was governed by passion and prejudice,
+    with as much ease as you charge Abolitionists of insanity; and I doubt not,
+    sir, that I should be able to substantiate my charge as soon as you yours. I
+    have seen similar charges in your paper before, but I have never known of your
+    being more particular. You are satisfied with making a general assertion, why
+    not specify wherein this insanity consists? The leading doctrine of the
+    Abolitionists is that no man has a right to hold his fellow man in bondage a
+    single moment. Is this insane? Is it untrue? Is it a fact that man
+    <em>has a right</em>
+    to rob his fellow man of liberty—of
+    <em>himself?</em>
+    If he
+    <em>has</em>
+    such a right, tell me, sir, who gave him that right, and how long it is to
+    continue. If he has a
+    <em>right</em>
+    to hold him in bondage
+    <em>one</em>
+    moment, how many moments may he have that right? But who are these insane
+    Abolitionists? How long since this spirit of insanity come upon them? They are
+    all around you—men of distinguished worth—of brilliant talents—to whom you,
+    sire, in your highest estimation of yourself, never considered yourself worthy
+    to be called an equal. You accuse them of forwarding a project which is not
+    desirable. Do you pronounce them all hypocrites? No, you dare not, but they
+    are
+    <em>insane,</em>
+    and therefore may be, for aught you know, sincere. But they are men of
+    exemplary piety—men of fervent prayer—of extensive influence in promoting the
+    cause of our Redeemer. You have not been accustomed to pronounce them
+    insane—even now you are ready to quote their opinions upon other subjects and
+    would place more confidence in their judgment than in your own. How happens it
+    that their insanity is confined to this subject alone?
+  </p>
+  <p>
+    You say, “The agitators appear to have bid adieu to common sense and a regard
+    for the constitution and the laws,” &amp;c. I know not what you call bidding
+    adieu to common sense, but one thing I know, that the leading Abolitionists in
+    our country are the leading men in every other project to benefit the human
+    race—men distinguished for their moral courage, seeking for the approval of
+    God rather than for the favor of man. They have inquired for the path of duty
+    and having ascertained it they have not failed to run in that path. Some,
+    perhaps, might say that common sense in this respect is a disposition to act
+    in a manner most congenial with popular feeling, If this is your definition of
+    the term, I admit that they have ‘bid adieu to common sense,’ but as I
+    understand the term they have most strictly adhered to it.
+  </p>
+  <p>
+    As for the charge of their disregarding the constitution and the laws, I think
+    it a very grave accusation to be brought against many of the best men of our
+    country. But you, sir, are not the only one who has seen fit to make
+    it—neither are you the only one who has made it without specifying what part
+    of the constitution or what laws they disregard—and I must tell you, sire,
+    that neither you nor all the wholesale accusers who you join
+    <em>can</em>
+    point out a single line of our constitution from which Abolitionists, as such,
+    have departed. “Bid adieu to a regard for the constitution!” It is not
+    true—and I here call upon you, sir, to clear your character from the
+    imputation of falsehood. I would not say, sir, that you
+    <em>intended</em>
+    to assert an untruth, but I
+    <em>do</em>
+    say that you
+    <em>have</em>
+    asserted one, and unless you retract or substantiate it, the charge of
+    falsehood must rest upon you. Is it unconstitutional to assert that it is
+    morally wrong to hold slaves? Does the constitution of a free, republican
+    people forbid that we should
+    <em>speak against</em>
+    chaining the mortal body and degrading the immortal mind? Is it against the
+    constitution of a Christian people to declaim against the cruel system of
+    slavery? —to say that it is contrary to the righteous laws of God—that it is
+    inconsistent with the spirit of the gospel and the precepts of our Savior? Is
+    it a fact that the
+    <em>republicans</em>
+    of the United States hold one sixth of their number in the chains of the
+    veriest despotism—that
+    <em>two millions</em>
+    of our fellow creatures are groaning under worse than Egyptian servitude—that
+    <em>two million</em>
+    of immortal souls are shut out from the light of science and closed to the
+    entrance of one cheering ray from the Sun of Righteousness—and that when a few
+    fearless men stand forth and say that these things are
+    <em>wrong,</em>
+    you, the editor of a public journal, cry out that in so saying they have “bid
+    adieu to a regard for the constitution?” Tell me, sir, if these things are
+    facts? O that you could tell me that they were not facts! But, alas! they are.
+    We must not say that it is
+    <em>wrong</em>
+    to degrade the image of God to a level with the brutes that perish, for it is
+    unconstitutional. Thank God!&nbsp; we have no such constitution as this! Shame
+    on my countrymen! Shame on any republican asserting such a doctrine! I know
+    the constitution
+    <em>permits</em>
+    the several states to hold slaves if they choose—but no where does it say that
+    we
+    <em>shall not</em>
+    raise our voices against this abominable system. Wherein, then, have
+    Abolitionists “bid adieu to a regard for the constitution?” Will you, sir,
+    point out this treason, or cease longer to make an unfounded accusation?
+  </p>
+  <p>
+    You say, “That this unprincipled opposition to the labors of the Colonization
+    Society will raise up many warm friends to the latter there is abundant ground
+    to hope.” As “unprincipled,: sir, as these ‘agitators’ may be, I deem it no
+    disparagement to you to say that they are men in the splendor of whose moral
+    qualities you would be hardly visible, and whose names will be breathed with
+    veneration by the virtuous and the good when yours shall have long been
+    forgotten. But I am perfectly willing that you should, if you can, console
+    yourself that by this opposition many warm friends will be raised up to the
+    Colonization Society, but perhaps it may soften future disappointment, to
+    inform you that many of those who have been :warm friends” to that society are
+    flocking around the Abolition standard, and however many ‘warm friends’ the
+    Colonization Society may have, the cause of Abolition must forever stand. AS
+    long as justice reigns in heaven and sin is found on earth, so long will those
+    be found who will exert themselves to hasten the triumph of the former and
+    crush and extirpate the latter, and as sure as God is good so sure will he
+    cause them to prosper.
+  </p>
+  <p>
+    Again you say, “If the blacks are to be benefitted at all, it can only be
+    accomplished by the aid of the Colonization Society, and their removal to
+    Africa.” O that you had spared the penning of that sentence! What principle do
+    you mean to advocate? Into what would you convert our happy land? What, sir,
+    shall we think of the man, professing to be governed by that religion which
+    commands us to love our neighbor as ourselves, who tells us that here are two
+    and a half millions of immortal beings among us, degraded and wretched, and if
+    they “are to be benefitted at all” it must be by “their removal to Africa?”
+    What, in the name of God, is the reason they cannot be benefitted here? What
+    but that you and some of your brother editors are so wickedly prejudiced
+    against them that you are determined they
+    <em>shall not be?</em>
+    They
+    <em>can</em>
+    be benefitted here—they
+    <em>will</em>
+    be benefitted here. The number of blacks in this country will never be less
+    than at the present moment—for in the first place we have not the means to
+    make them less, increasing as they do 70,000 per year, and in the second place
+    if we had the means of carrying them to Africa they do not want to go. They
+    must always remain with us unless we serve them as we have served the poor
+    Indians, and though you may continue to assert that they must always remain
+    degraded, yet ever true Christian will rejoice that God in his good providence
+    has ordered it otherwise.
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    JUSTICE.
+  </p>
 scholarlyNotes: 
-commentary: 
+commentary: This editorial is a substantial response to the misrepresentations of
+  the Crandall crisis in the local newspapers.
 relatedPeople: Prudence Crandall
 featured: 'yes'
 repeated: 
@@ -187,4 +258,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-14'
 ---

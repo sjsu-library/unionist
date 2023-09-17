@@ -18,11 +18,18 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: "<p>   AGENTS WANTED.—Individuals wishing to travel in different sections
-  of the   United States, will find steady employment during the year, circulating
-  \  valuable and interesting publications, by calling upon the subscribers,   HUTCHINSON
-  &amp; DWIER, or B.B. BARLER. </p> <p>   &nbsp; Hartford, February, 1834 –   m6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  22 </p> "
+transcription: |
+  <p>
+    AGENTS WANTED.—Individuals wishing to travel in different sections of the
+    United States, will find steady employment during the year, circulating
+    valuable and interesting publications, by calling upon the subscribers,
+    HUTCHINSON &amp; DWIER, or B.B. BARLER.
+  </p>
+  <p>
+    &nbsp; Hartford, February, 1834 –
+    m6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    22
+  </p>
 scholarlyNotes: 
 commentary: These agents generally peddled subscriptions to the most popular magazines.
   The leading periodical of the day was <em>Godey's Lady Book</em> which itself advertised
@@ -41,4 +48,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-07-26'
 ---

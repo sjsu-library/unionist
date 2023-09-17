@@ -30,11 +30,13 @@ relatedImage:
 relatedText: unionist--text-0255
 relatedTextIssue: 1834-03-13 p.03.19
 filename: 
-caption: '"Yours till Death" or until I find a picture of Jack Downing''s mouse'
+caption: '"Yours till Deth" will have to suffice until a picture of Jack Downing''s
+  mouse can be located!'
 order: '724'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0313/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0313/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0313/full/1140,/0/default.jpg"
+proofed JR: '2023-09-16'
 ---

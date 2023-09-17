@@ -18,11 +18,12 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: 'MAJOR JACK DOWNING.—This celebrated letter writer is about opening
-  a school in Downingville, for instruction in all branches of English education,
-  including speech-making and gymnastics. In a recent letter he expresses himself
-  more certain of being next President, than he is whether the letter <em>G</em> in
-  gymnastics, should be sounded soft as in “Gineral,” or hard, as in “grog.” '
+transcription: |
+  MAJOR JACK DOWNING.—This celebrated letter writer is about opening a school in
+  Downingville, for instruction in all branches of English education, including
+  speech-making and gymnastics. In a recent letter he expresses himself more
+  certain of being next President, than he is whether the letter
+  <em>G</em> in gymnastics, should be sounded soft as in “Gineral,” or hard, as in “grog.”
 scholarlyNotes: https://werehistory.org/the-immortal-major-jack-downing-and-the-rise-of-american-political-humor/
 commentary: Seba Smith (1792-1868) was a newspaper editor and humorist from Maine,
   where he created the character Major Jack Downing, a staple of newspapers in the
@@ -48,4 +49,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-05-14'
 ---

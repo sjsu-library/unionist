@@ -20,22 +20,39 @@ category: Negative notice
 articleType: 
 volume: 
 issue: 
-transcription: "<p>   “We copy the following from the Brooklyn Advertiser. We thank
-  our   <em>brother</em>   for   <em>showing up</em>   his neighbor so handsomely.”
-  </p> <p>   {continuous reading, new quoted paragraph} “”A GOOD ONE.—The editors
-  of the   Unionist, ask their readers to   <em>excuse</em>   their “ample notice
-  of the Norwich Courier,” and add, “we never hesitate to do   battle with any one
-  who is worthy of our notice.” It therefore seems that the   Unionist editors are
-  sensible of the   <em>fact</em>   that an object worthy of   <em>their</em>   notice
-  is   <em>unworthy</em>   the notice of their readers; else why do they ask their
-  readers to excuse   them? And what is still more amusing, the Unionist intimates
-  that the Courier   is worthy of   <em>its</em>   notice, when the Courier only week
-  before last, sent the Unionist a budging,   (and as we think, with a sore head,)
-  at the same time declaring that is, (the   Courier) had no spare room to devote
-  to any further notice of the Unionist!   The would-be independent editors, should,
-  in the first place, be sure than an   opponent will notice   <em>them,</em>   and
-  then they can talk about condescending to notice that opponent, with a   better
-  grace.”” </p> "
+transcription: |
+  <p>
+    “We copy the following from the Brooklyn Advertiser. We thank our
+    <em>brother</em>
+    for
+    <em>showing up</em>
+    his neighbor so handsomely.”
+  </p>
+  <p>
+    {continuous reading, new quoted paragraph} “”A GOOD ONE.—The editors of the
+    Unionist, ask their readers to
+    <em>excuse</em>
+    their “ample notice of the Norwich Courier,” and add, “we never hesitate to do
+    battle with any one who is worthy of our notice.” It therefore seems that the
+    Unionist editors are sensible of the
+    <em>fact</em>
+    that an object worthy of
+    <em>their</em>
+    notice is
+    <em>unworthy</em>
+    the notice of their readers; else why do they ask their readers to excuse
+    them? And what is still more amusing, the Unionist intimates that the Courier
+    is worthy of
+    <em>its</em>
+    notice, when the Courier only week before last, sent the Unionist a budging,
+    (and as we think, with a sore head,) at the same time declaring that is, (the
+    Courier) had no spare room to devote to any further notice of the Unionist!
+    The would-be independent editors, should, in the first place, be sure than an
+    opponent will notice
+    <em>them,</em>
+    and then they can talk about condescending to notice that opponent, with a
+    better grace.””
+  </p>
 scholarlyNotes: 
 commentary: 'The text of this small-minded riposte makes it clear that Charles and
   William were co-editors of <em>The Unionist</em> by December '
@@ -53,4 +70,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-11'
 ---

@@ -19,13 +19,15 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '6'
-transcription: 'There are those to whom a sense of religion has come in storm and
-  tempest: there are those whom it has summoned amid scenes of revelry and idle vanity:
-  there are those, too, who have heard its ‘still small voice’ amid rural leisure
-  and placid contentment; but perhaps the knowledge which causeth not to err, is most
-  frequently impressed upon the mind during seasons of affliction; and tears are the
-  softened showers which cause the seed of heaven to spring and take root in the human
-  breast.— <em>Walter Scott</em> '
+transcription: |
+  There are those to whom a sense of religion has come in storm and tempest: there
+  are those whom it has summoned amid scenes of revelry and idle vanity: there are
+  those, too, who have heard its ‘still small voice’ amid rural leisure and placid
+  contentment; but perhaps the knowledge which causeth not to err, is most
+  frequently impressed upon the mind during seasons of affliction; and tears are
+  the softened showers which cause the seed of heaven to spring and take root in
+  the human breast.—
+  <em>Walter Scott</em>
 scholarlyNotes: 
 commentary: 'This excerpt is still included in online quote data bases today. It encapsulates
   a Romantically-tinged understanding of spiritual individuality. It can be found
@@ -45,4 +47,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-04'
 ---

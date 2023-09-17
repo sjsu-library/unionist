@@ -18,12 +18,22 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '20'
-transcription: "<p>   THIS is to give notice that the Co-partnership heretofore subsisting
-  between   the subscriber and Augustus Howe, Jacob Lewes and Erasmus Buck under the
-  name   and firm of the Mechanics Manufacturing Company, has been dissolved so far
-  as   respects the subscriber, he having withdrawn therefrom </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  JOHN CHOLLER. </p> <p>   Killingly Sept. 1.   1833&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  \  10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p> "
+transcription: |
+  <p>
+    THIS is to give notice that the Co-partnership heretofore subsisting between
+    the subscriber and Augustus Howe, Jacob Lewes and Erasmus Buck under the name
+    and firm of the Mechanics Manufacturing Company, has been dissolved so far as
+    respects the subscriber, he having withdrawn therefrom
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    JOHN CHOLLER.
+  </p>
+  <p>
+    Killingly Sept. 1.
+    1833&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
 scholarlyNotes: Names were dificult to transcribe here
 commentary: 
 relatedPeople: John Choller; Augustus Howe; Jacob Lewes; Erasmus Buck
@@ -40,4 +50,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-10'
 ---

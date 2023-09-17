@@ -18,16 +18,32 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '32'
-transcription: '<p>   At a meeting of antimasonic delegates from the several towns
-  composing the   fourteenth Senatorial District, convened at the house of Mr. Samuel
-  Underwood,   in Pomfret, on the 24   <sup>th</sup>   Feb. 1834, </p> <p align="center"><strong>HON.
-  JONATHAN NICHOLS,</strong></p> <p>   of Thompson, was unanimously designated as
-  a suitable candidate for Senator,   to represent said District at the next session
-  of the Legislature. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Certified
-  by JOHN HOLBROOK, Ch’n. </p> <p>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  THO’S   BACHUS, Secretary </p> <p></p> '
+transcription: |
+  <p>
+    At a meeting of antimasonic delegates from the several towns composing the
+    fourteenth Senatorial District, convened at the house of Mr. Samuel Underwood,
+    in Pomfret, on the 24
+    <sup>th</sup>
+    Feb. 1834,
+  </p>
+  <p align="center"><strong>HON. JONATHAN NICHOLS,</strong></p>
+  <p>
+    of Thompson, was unanimously designated as a suitable candidate for Senator,
+    to represent said District at the next session of the Legislature.
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Certified by JOHN HOLBROOK, Ch’n.
+  </p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; THO’S
+    BACHUS, Secretary
+  </p>
+  <p></p>
 scholarlyNotes: 
-commentary: The Anti-Masonic party was not yet moribund, but it would be soon.
+commentary: The Anti-Masonic party was not yet moribund, but it would be soon. I am
+  not certain if the John Holbrook mentioned here is related to the editor of the
+  Windham <em>Advertiser</em>, James Holbrook.
 relatedPeople: Samuel Underwood; Jonathan Nichols; John Holbrook; Thomas Backus
 featured: 
 repeated: 
@@ -42,4 +58,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+proofed JR: '2023-09-16'
 ---

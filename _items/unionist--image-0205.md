@@ -30,11 +30,12 @@ relatedText: unionist--text-0160
 relatedTextIssue: 1833-12-19 p.02.06
 filename: 
 caption: Seal of the United States Department of War; this department is now defunct,
-  but the seal has been modified for use in the Army
+  but the seal has been modified for use in the Army.
 order: '616'
 layout: items_item
 collection: items
 thumbnail: '""'
 manifest: '""'
 full: '""'
+proofed JR: '2023-09-14'
 ---
