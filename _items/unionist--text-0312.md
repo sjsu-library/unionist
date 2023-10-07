@@ -47,11 +47,12 @@ transcription: 'We finish this week, the Report of Mr. Olney’s Trial, as furni
   many other features of dissimilarity calculated to weaken the strongly unfavorable
   impressions which an accurate report would have produced, towards those at whose
   instance Olney was arrested. '
-scholarlyNotes: I am suspicious that "Mr. Foster" is La Fayette S. Foster (1806-1880)
-commentary: In this further commentary on the acquittal of Frederick Olney, we learn
-  that the <em>Windham Advertiser</em> had been publishing misleading partial reports
-  on the trial, and had left out Mariah Robinson's key testimony - another erasure
-  of a Black woman.
+scholarlyNotes: 
+commentary: <p>In this further commentary on the acquittal of Frederick Olney, we
+  learn that the <em>Windham Advertiser</em> had been publishing misleading partial
+  reports on the trial, and had left out Mariah Robinson's key testimony - another
+  erasure of a Black woman.</p><p>It seems likely that "Mr. Foster" is La Fayette
+  S. Foster (1806-1880)
 relatedPeople: "(Mr.) Foster; Maria Robinson; Frederick Olney; Andrew Judson"
 featured: 
 repeated: 

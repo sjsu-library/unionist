@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0054
-title: IsaacMcKimRembrandtPeale
+title: Isaac McKim, by Rembrandt Peale
 bibliographicCitation: By Rembrandt Peale - Find a Grave, Public Domain, https://commons.wikimedia.org/w/index.php?curid=23184516
 bibliographicCitationRepublished: https://en.wikipedia.org/wiki/Isaac_McKim#/media/File:IsaacMcKim.jpg
 fullIssueSequenceNumber: 

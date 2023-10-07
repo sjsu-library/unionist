@@ -5,7 +5,7 @@ bibliographicCitation: By Louis Aston Knight - the-athenaeum.org, Public Domain,
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Louis Aston Knight (1873-1948)
-dateCreated: ca. 1910
+dateCreated: '1911'
 description: Painting of a rustic winding river
 language: English
 publisher: 

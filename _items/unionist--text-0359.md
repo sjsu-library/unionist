@@ -31,10 +31,10 @@ transcription: 'An Irish servant lad, going along the passage, and singing rathe
 scholarlyNotes: 
 commentary: Humor based on ethnic stereotypes and denigration is, as usual, prevelant
   in the human condition but not our best feature. However, the reference to things
-  which are cracked, this opens the window to consider the use of The Liberty Bell
-  as a symbol by the Abolitionists. This is both because of its use of the Biblical
-  phrase "Proclaim LIBERTY Throughout all the Land unto all the Inhabitants Thereof"
-  (Leviticus 25:10), but also the patent lack of extending freedom to all the inhabitants
+  which are cracked opens the window to the use of The Liberty Bell as a symbol by
+  the Abolitionists. They adopted it both because of its use of the Biblical phrase
+  "Proclaim LIBERTY Throughout all the Land unto all the Inhabitants Thereof" (Leviticus
+  25:10), and yet also the patent lack of extending freedom to all the inhabitants
   that the persistence of slavery represented. The Abolitionists rescued the Liberty
   Bell from post-revolutionary obscurity and made it a potent icon for freedom once
   again.

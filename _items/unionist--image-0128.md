@@ -10,7 +10,7 @@ description: The Powdrell and Alexander Mill
 language: English
 publisher: 
 IsPartOf: 
-rights: Will ask
+rights: unsure; can ask
 source: https://www.killinglyhistorical.org/home
 subject: 
 type: image

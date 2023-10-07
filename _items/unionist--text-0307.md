@@ -1,6 +1,6 @@
 ---
 pid: unionist--text-0307
-title: "[Masthead and Title]"
+title: Editorial Masthead and Title, April 10, 1834 issue
 bibliographicCitation: "<em>The Unionist</em> 1834-04-10"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1834-04-10 p.02.07
@@ -18,10 +18,10 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<p>Masthead “The Tyrants Foe. The Peoples Friend”</p> <p>The Unionist.</p>
+transcription: "<p>“The Tyrants Foe. The Peoples Friend”</p> <p>The Unionist.</p>
   <p>Brooklyn, April 10, 1834</p> "
 scholarlyNotes: 
-commentary: "\"The Tyrants Foe, The Peoples Friend"
+commentary: '"The Tyrants Foe, The Peoples Friend"'
 relatedPeople: 
 featured: 
 repeated: 

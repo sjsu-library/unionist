@@ -25,9 +25,10 @@ transcription: "<p> The editor of the Hartford Times heads a little electioneeri
   cry was addressed. </p> "
 scholarlyNotes: 
 commentary: The quote comes from the poem "Hohenlinden" by Thomas Campbell (1777-1844),
-  and can be found here - https://www.poetry-archive.com/c/hohenlinden.html . The
-  quotation is not perfect. The joke, though, comes close. This poem, which highlights
-  the futility of war, was often quoted by the Peace activists of the nineteenth-century.
+  and can be found <a href="https://www.poetry-archive.com/c/hohenlinden.html">online
+  here</a>. The quotation is not perfect. The joke, though, comes close. This poem,
+  which highlights the futility of war, was often quoted by the Peace activists of
+  the nineteenth-century.
 relatedPeople: Thomas Campbell
 featured: 
 repeated: 

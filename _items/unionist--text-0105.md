@@ -1,6 +1,6 @@
 ---
 pid: unionist--text-0105
-title: "[Missing cow notice]"
+title: Missing cow notice
 bibliographicCitation: "<em>The Unionist</em> 1833-09-05"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-09-05 p03.31
@@ -20,7 +20,7 @@ volume: '1'
 issue: '6'
 transcription: "<p> TAKEN up, on the 14 <sup>th</sup> of July last, a red one year
   old heifer, with no artificial mark. The owner is requested to call and prove property,
-  pay charges, and take her away.&nbsp;&nbsp; LORENZO LITCHFIELD. </p> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  pay charges, and take her away . &nbsp;&nbsp; LORENZO LITCHFIELD. </p> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   West Woodstock, Aug. 12 <sup>th</sup> . 1833,&nbsp; </p> "
 scholarlyNotes: 
 commentary: 

@@ -21,8 +21,8 @@ issue: '32'
 transcription: "<p> STRAY COW.—Broke into the inclosure of the subscriber on Thursday
   last, a pale red COW, about eight or nine years old, a small burst on her left side,
   horns stand straight up, about the ordinary size. The owner is requested to prove
-  property, pay charges and take her away.&nbsp;&nbsp;&nbsp; GEORGE BENNETT. </p>
-  <p> Brooklyn, Feb. 18, 1834.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  property, pay charges and take her away . &nbsp;&nbsp;&nbsp; GEORGE BENNETT. </p>
+  <p> Brooklyn, Feb. 18, 1834 . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   30 </p> <p></p> "
 scholarlyNotes: 
 commentary: No one has claimed this cow for a few months. I am concerned.

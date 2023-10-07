@@ -14,7 +14,7 @@
   <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>
-     Rankin_house_window | The Unionist Unified
+     Window of John Rankin's house overlooking the Ohio River, with Lantern | The Unionist Unified
   </title>
   <meta name='description' content="The view from Rankin's famous home in Ripley, Ohio, showing Kentucky across the Ohio river. "/>
 
@@ -32,7 +32,7 @@
 
 
   <body>
-    <time datetime='2023-09-17 22:52'></time>
+    <time datetime='2023-10-07 21:12'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
     <a class='navbar-brand' href="http://0.0.0.0:4000/unionist/" title='Home'>
@@ -112,7 +112,7 @@
       <div id='wax-content' class='wax-inline-container'>
         <div class="item-title">
   <div class="title-inner">
-    <h3 alt="" class='item-label'>Rankin_house_window</h3>
+    <h3 alt="" class='item-label'>Window of John Rankin's house overlooking the Ohio River, with Lantern</h3>
     <p class='item-creator'> Kevin Myers </p>
 
 
@@ -149,7 +149,7 @@
     /unionist/explore/categories/?category=image
   ">Image</a>
 <div class='caret'> > </div>
-Rankin_house_window
+Window of John Rankin's house overlooking the Ohio River, with Lantern
 </div>
 
 <div class='pagination-nav'>
@@ -212,11 +212,14 @@ Rankin_house_window
       if (width < 500 || height < 500) {
         console.log ('too small!')
         var source = data.sequences[0].canvases[0].images[0].resource['@id']
-        var altText = 'Rankin_house_window'
+        var div = $('<div>')
+          .addClass('small-image-inner');
+        var altText = 'Window of John Rankin&#39;s house overlooking the Ohio River, with Lantern'
         var img = $('<img>')
           .attr('src', source)
-          .attr('alt', altText)
-        $('#osd').append(img);
+          .attr('alt', altText);
+        $(div).append(img);
+        $('#osd').append(div);
         return;
 
       }
@@ -268,7 +271,7 @@ Rankin_house_window
     
       
         <dt>Title</dt>
-        <dd>Rankin_house_window</dd>
+        <dd>Window of John Rankin's house overlooking the Ohio River, with Lantern</dd>
     
   
     
@@ -461,7 +464,7 @@ Rankin_house_window
     
       
         <dt>Caption</dt>
-        <dd>The view from Rankin's famous home in Ripley, Ohio, showing Kentucky across the Ohio river. Rankin is most famous now for his role in the Underground Railroad.</dd>
+        <dd>The view from Rankin's famous home in Ripley, Ohio, showing Kentucky across the Ohio river. Rankin is now most famous for his role in the Underground Railroad.</dd>
     
   
     

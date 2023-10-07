@@ -54,7 +54,7 @@ transcription: 'THE QUESTION SETTLED.----The Windham County Advertiser, (the det
   reveal the source of his information, and let these informants be required to name
   <em>their</em> informants, and so on, and there is little doubt that those villains
   will be detected, and all honest men exculpated, at a cheaper rate than the adoption
-  of useless and abortive measures to thrown suspicion on the innocent.— <em>Emancipator</em> '
+  of useless and abortive measures to throw suspicion on the innocent.— <em>Emancipator</em> '
 scholarlyNotes: 
 commentary: 'The author identifies himself as some one who grew up in Windham County.
   The editor of <em>The Emancipator</em> Charles Denison, is a potential candidate,

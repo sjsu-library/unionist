@@ -14,8 +14,8 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/unionist--image-0098",
       "profile": "http://iiif.io/api/image/2/level0.json"
     },
-    "width": 348,
-    "height": 274
+    "width": 679,
+    "height": 525
   },
   "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/unionist--image-0098.json",
   "@context": "http://iiif.io/api/presentation/2/context.json"

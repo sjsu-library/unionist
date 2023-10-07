@@ -28,7 +28,7 @@ transcription: "<p> NOTICE.—WE the subscribers, having been by the Hon. Superi
   said insolvent debtor, to such of his creditors as shall seasonably present and
   prove the same, at the office of Armin Bolles in said Brooklyn, on the 16 <sup>th</sup>
   day of April, 4 <sup>th</sup> day of June and 13 <sup>th</sup> day of August next
-  at 3 o’clock, P.M/, on each of said days. </p> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  at 3 o’clock, P.M., on each of said days. </p> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   RALPH JAMES, </p> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ARMIN BOLLES, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commissioners.
   </p> <p> &nbsp; Brooklyn, Feb. 13, 1834.—w3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

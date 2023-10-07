@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0133
-title: 'PeoplesMag 1.6.64 1833-06-24-1833 '
+title: Peoples Magazine 1833-06-24
 bibliographicCitation: "<em>The People's Magazine</em> 1.8.64 1833-06-24"
 bibliographicCitationRepublished: https://catalog.hathitrust.org/api/volumes/oclc/6497679.html
 fullIssueSequenceNumber: 
@@ -28,8 +28,8 @@ relatedImage:
 relatedText: unionist--text-0369
 relatedTextIssue: 1834-04-10 p.04.69
 filename: 
-caption: "<em>The People's Magazine</em> had a wide distribution and publication network,
-  as evidenced from this insert."
+caption: "<em>The People's Magazine</em> participated in the ongoing history of making
+  Newark appear prosperous."
 order: '544'
 layout: items_item
 collection: items

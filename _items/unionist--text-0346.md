@@ -1,6 +1,6 @@
 ---
 pid: unionist--text-0346
-title: Notice.
+title: Notice (Windham County Temperance Society)
 bibliographicCitation: "<em>The Unionist</em> 1834-04-10"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1834-04-10 p.03.46
@@ -24,11 +24,12 @@ transcription: 'NOTICE. The Windham County Temperance Society is to be held in B
   at 2. La Fayette S. Foster Esq. of Hampton is to give the Address. It is very desirable
   that each auxiliary not only send delegates to the meeting; but forward to the Secretary
   their annual report as soon as possible, that a full and favorable account of this
-  County Society may be given to the meeting of the State Society in May.&nbsp;&nbsp;
+  County Society may be given to the meeting of the State Society in May . &nbsp;&nbsp;
   G. J. TILLOTSON, Sec. '
 scholarlyNotes: 
-commentary: La Fayette S, Foster (1806-1880) was an anti-slavery advocate and later
-  a prominent U.S. Senator from Connecticut.
+commentary: La Fayette S. Foster (1806-1880) was an anti-slavery advocate and later
+  a prominent U.S. Senator from Connecticut. It is likely that he was also the person
+  whose transcription of the trial of Frederick Olney is included in <em>The Unionist</em>.
 relatedPeople: La Fayette S. Foster; George Tillotson
 featured: 
 repeated: 

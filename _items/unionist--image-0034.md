@@ -11,7 +11,7 @@ description: Photographic portrait of Seba Smith, creator of the character Major
 language: English
 publisher: 
 IsPartOf: 
-rights: https://www.mainememory.net/artifact/1510
+rights: Public Domain
 source: https://www.mainememory.net/artifact/1510
 subject: 
 type: image

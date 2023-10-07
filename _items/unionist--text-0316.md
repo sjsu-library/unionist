@@ -40,13 +40,13 @@ transcription: "<p>Liberator.</p> <p>THE SPIRIT OF SEVENTY-SIX</p> <p> The follo
   ‘If it were possible for men, who exercise their reason, to believe that the Divine
   Author of our existence intended a part of the human race to hold an absolute property
   in, and unbounded power over others, marked out by infinite goodness and wisdom,
-  as the objects of a legal domination never rightfully resistible, however, however
-  severe and oppressive—the inhabitants of these Colonies might at least require from
-  the Parliament of Great Britain, some evidence that this dreadful authority over
-  them has been granted to that body.’ </p> <p> May not the poor slaves emphatically
-  adopt the same inquiry of their lordly oppressors? </p> <p> Again, in 1779, a pamphlet
+  as the objects of a legal domination never rightfully resistible, however severe
+  and oppressive—the inhabitants of these Colonies might at least require from the
+  Parliament of Great Britain, some evidence that this dreadful authority over them
+  has been granted to that body.’ </p> <p> May not the poor slaves emphatically adopt
+  the same inquiry of their lordly oppressors? </p> <p> Again, in 1779, a pamphlet
   appeared, published by order of Congress, which contains the following opinion:
-  </p> <p> ‘The great principle (of government) I, that men are by nature free, as
+  </p> <p> ‘The great principle (of government) is, that men are by nature free, as
   accountable to Him that made them, they must be so, and so long as we have any idea
   of Divine Justice, we must associate that of human freedom.’ </p> <p> Now, it appears
   evident to me, that the above recited sentiments authorize and sanction an avowed

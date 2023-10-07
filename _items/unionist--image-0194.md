@@ -31,9 +31,10 @@ relatedText: unionist--text-0132
 relatedTextIssue: 1833-09-05 p01.58
 filename: 
 caption: Panorama de Constantinople pris de la tour de Calata (Panorama of Constantinople
-  from the tower of Galata). This image comes from the incredible Getty Museum digitized
-  photographs from the late Ottoman Empire - Pierre de Gigord collection of photographs
-  of the Ottoman Empire and the Republic of Turkey. Series IV. Panoramas (http://hdl.handle.net/10020/cat359924)
+  from the tower of Galata). This image comes from the incredible cache of digitized
+  photographs from the late Ottoman Empire, the Pierre de Gigord collection of photographs
+  of the Ottoman Empire and the Republic of Turkey. <a href="http://hdl.handle.net/10020/cat359924">Series
+  IV. Panoramas</a>, held by the Getty Museum.
 order: '605'
 layout: items_item
 collection: items

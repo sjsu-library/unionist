@@ -11,7 +11,7 @@ description: Amos A. Phelps (1805-1847), Abolitionist, and an endorser of the Ca
 language: English
 publisher: 
 IsPartOf: 
-rights: https://www.masshist.org/database/viewer.php?item_id=1361&img_step=1&mode=large#page1
+rights: Fair Use
 source: https://www.masshist.org/database/viewer.php?item_id=1361&img_step=1&mode=large#page1
 subject: 
 type: image

@@ -41,8 +41,8 @@ transcription: 'MISS CRANDALL’S SCHOOL. The Brooklyn, Con., Unionist, as we ha
   attempted. Miss Crandall is gaining too many friends, and her persecutors incurring
   too much odium, even in that region, to admit the supposition. '
 scholarlyNotes: 
-commentary: 'The incidents of intimidation of those who even have business relations
-  with the Canterbury Female Academy is important '
+commentary: The documentation here of white Canterburian intimidation of those who
+  have business relations with the Canterbury Female Academy is important.
 relatedPeople: Prudence Crandall
 featured: 'yes'
 repeated: 

@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0105
-title: A Voice from Boston 1831-03-12 p.17
+title: A Voice from Boston
 bibliographicCitation: 'William Lloyd Garrison, <em>Thoughts on African Colonization</em>
   (Boston: Garrison and Knapp, 1832), part II, page 17'
 bibliographicCitationRepublished: https://repository.wellesley.edu/object/wellesley30861

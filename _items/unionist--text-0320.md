@@ -24,7 +24,7 @@ transcription: "<p> <em>West India Education.</em> —Governments are, it is und
   are funds which were formerly provided for the redemption of Christians from slavery
   in Algiers, Morocco, and the other states of Barbary, which in consequence of the
   extinction of Christian slavery in those countries have accumulated to a considerable
-  amount; and government now conceive that these funds may be applied to the education
+  amount; and governments now conceive that these funds may be applied to the education
   and mental liberation of the descendants of slaves. </p> <p> — <em>London Chr. Guar.</em>
   </p> "
 scholarlyNotes: I could find no London, England newspaper named Christian Guardian,

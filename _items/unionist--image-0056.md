@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0056
-title: Samuel_Johnson_by_Joshua_Reynolds_2
+title: Samuel Johnson, by Joshua Reynolds
 bibliographicCitation: https://en.wikipedia.org/wiki/File:Samuel_Johnson_by_Joshua_Reynolds_2.png#/media/File:Samuel_Johnson_by_Joshua_Reynolds_2.png
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

@@ -53,8 +53,8 @@ transcription: 'THE UNIONIST, published every Thursday morning, Brooklyn, Con. C
 scholarlyNotes: 
 commentary: 'The prospectus for <em>The Unionist</em> is used here within the confines
   of a friendly paper, as an advertisement for subscribers. This iteration is identical
-  to the one that the <em>Genius of Temperance</em> had published in August, 1833,
-  except that it lacks the final lines about discontinuance of subscriptions. '
+  to an earlier one that the <em>Genius of Temperance</em> had published in August,
+  1833, except that there it lacks the final lines about discontinuance of subscriptions. '
 relatedPeople: William Goodell; Charles C. Burleigh
 featured: 
 repeated: 

@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0071
-title: Barber's Engraving of Plainfield
+title: John Warner Barber's Engraving of Plainfield
 bibliographicCitation: http://connecticuthistory.org/plainfield-academy-grooming-connecticut-scholars-in-the-18th-and-19th-centuries/
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -10,7 +10,7 @@ description: Engraving of Plainfield, Connecticut ca. 1836
 language: English
 publisher: 
 IsPartOf: 
-rights: http://connecticuthistory.org/plainfield-academy-grooming-connecticut-scholars-in-the-18th-and-19th-centuries/
+rights: Public Domain
 source: http://connecticuthistory.org/plainfield-academy-grooming-connecticut-scholars-in-the-18th-and-19th-centuries/
 subject: 
 type: image

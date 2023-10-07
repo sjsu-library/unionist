@@ -1,6 +1,6 @@
 ---
 pid: unionist--text-0015
-title: Masthead and Title
+title: Masthead and Title, August 8, 1833 issue
 bibliographicCitation: "<em>The Unionist</em> 1833-08-08"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-08-08 p01.01

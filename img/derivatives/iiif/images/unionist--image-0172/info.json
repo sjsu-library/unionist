@@ -5,20 +5,20 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/unionist--image-0172",
   "protocol": "http://iiif.io/api/image",
-  "width": 369,
-  "height": 279,
+  "width": 1582,
+  "height": 1148,
   "sizes": [
     {
-      "width": 369,
-      "height": 279
+      "width": 1582,
+      "height": 1148
     },
     {
       "width": 250,
-      "height": 189
+      "height": 181
     },
     {
       "width": 1140,
-      "height": 862
+      "height": 827
     }
   ],
   "profile": [

@@ -10,8 +10,8 @@ description: Portrait and signature of Elizur Wright
 language: 
 publisher: 
 IsPartOf: 
-rights: NYPL
-source: 
+rights: Public Domain
+source: Collections of the New York Public Library
 subject: 
 type: Image
 category: Image

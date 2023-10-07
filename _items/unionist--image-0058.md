@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0058
-title: June 21 Liberator
+title: "<em>The Liberator</em>, June 21, 1834"
 bibliographicCitation: "<em>The Liberator</em> 4:25:100, June 21, 1834"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

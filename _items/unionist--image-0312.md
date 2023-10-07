@@ -13,7 +13,7 @@ description: Cover to <em>The Tree of Hate</em> by Philip Wayne Powell, one of t
 language: English
 publisher: 
 IsPartOf: 
-rights: 
+rights: unsure; can ask
 source: 
 subject: 
 type: image
@@ -32,7 +32,7 @@ relatedText: unionist--text-0330
 relatedTextIssue: 1834-04-10 p.03.30
 filename: 
 caption: Cover to <em>The Tree of Hate</em> by Philip Wayne Powell, one of the most
-  important books to cover the so-called "Black Legend" of Spanish cruelty.
+  important studies of the "Black Legend" of Spanish cruelty.
 order: '723'
 layout: items_item
 collection: items

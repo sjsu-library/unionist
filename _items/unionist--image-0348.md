@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0348
-title: August 8 1833 Unionist page 4 NYHS
+title: August 8 1833 Unionist page 4 (at New York Historical Society)
 bibliographicCitation: "<em>The Unionist</em> 1:2 (August 8 1833)"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

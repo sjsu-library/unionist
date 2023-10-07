@@ -12,7 +12,7 @@ description: Salutation and signature of Joseph Beale, from a letter to his frie
 language: English
 publisher: 
 IsPartOf: 
-rights: https://vermonthistory.org/client_media/files/Learn/YoursInTheCause20ed.pdf
+rights: Public Domain
 source: https://vermonthistory.org/client_media/files/Learn/YoursInTheCause20ed.pdf
 subject: 
 type: image

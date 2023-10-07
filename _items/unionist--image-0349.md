@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0349
-title: March 13 1834 Unionist page 1 NYHS
+title: March 13 1834 Unionist page 1 (at New York Historical Society)
 bibliographicCitation: "<em>The Unionist</em> 1:32 (March 13 1834)"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

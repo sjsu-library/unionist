@@ -10,7 +10,7 @@ description: Royal Belfast Academical Institution Profile Picture
 language: English
 publisher: 
 IsPartOf: 
-rights: 
+rights: unsure; can ask
 source: https://www.facebook.com/photo/?fbid=509146947885008&set=a.509146887885014
 subject: 
 type: image

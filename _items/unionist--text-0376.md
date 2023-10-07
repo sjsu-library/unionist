@@ -19,7 +19,7 @@ articleType:
 volume: '1'
 issue: '36'
 transcription: "<p>FOR SALE—3,000 pounds Windham County CLOVER SEED, by E.S. MOSELEY.</p>
-  <p> Hampton, March, 1834.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <p> Hampton, March, 1834 . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   33w3 </p> "
 scholarlyNotes: 
 commentary: Quite a lot of clover seed for sale

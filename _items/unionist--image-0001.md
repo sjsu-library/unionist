@@ -4,15 +4,15 @@ title: William Bainbridge
 bibliographicCitation: https://en.wikipedia.org/wiki/William_Bainbridge
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
-creator: 
+creator: John Wesley Jarvis
 dateCreated: 
 description: Portrait of Naval Captain
 language: 
 publisher: 
 IsPartOf: 
-rights: By John Wesley Jarvis - https://www.history.navy.mil/our-collections/photography/us-people/b/bainbridge-william/kn-1365.html,
+rights: Public Domain
+source: By John Wesley Jarvis - https://www.history.navy.mil/our-collections/photography/us-people/b/bainbridge-william/kn-1365.html,
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=19004
-source: 
 subject: 
 type: Image
 category: Image

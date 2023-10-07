@@ -15,9 +15,9 @@ rights: one or more third parties have made copyright claims against Wikimedia C
   thereof. This may be due to recognition of the &quot;sweat of the brow&quot; doctrine,
   allowing works to be eligible for protection through skill and labour, and not purely
   by originality as is the case in the United States (where this website is hosted).
-  These claims may or may not be valid in all jurisdictions.As such, use of this image
-  in the jurisdiction of the claimant or other countries may be regarded as copyright
-  infringement. Please see Commons:When to use the PD-Art tag for more information.,
+  These claims may or may not be valid in all jurisdictions. As such, use of this
+  image in the jurisdiction of the claimant or other countries may be regarded as
+  copyright infringement. Please see Commons:When to use the PD-Art tag for more information.,
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=3820763
 source: 
 subject: 

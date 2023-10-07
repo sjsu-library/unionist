@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0116
-title: Rankin_house_window
+title: Window of John Rankin's house overlooking the Ohio River, with Lantern
 bibliographicCitation: By The original uploader was Kevin Myers at English Wikipedia.
   - Transferred from en.wikipedia to Commons., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=50264389
 bibliographicCitationRepublished: 
@@ -32,7 +32,7 @@ relatedText: unionist--text-0353
 relatedTextIssue: 1834-04-10 p.03.53
 filename: 
 caption: The view from Rankin's famous home in Ripley, Ohio, showing Kentucky across
-  the Ohio river. Rankin is most famous now for his role in the Underground Railroad.
+  the Ohio river. Rankin is now most famous for his role in the Underground Railroad.
 order: '527'
 layout: items_item
 collection: items

@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0117
-title: rankin-john-portrait-flores2-3-19-13_1
+title: John Rankin sketch portrait
 bibliographicCitation: https://www.nationalabolitionhalloffameandmuseum.org/john-rankin.html
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

@@ -43,7 +43,7 @@ transcription: '<p><em>From the (Brooklyn) Unionist, August 29</em></p> <p> The 
   <p> It appears now, that you have departed from this voluntary declaration and put
   your colored scholars into pews ever occupied by the white females of the parish.
   We ask you to inform us soon, by whose license, you have thus taken possession of
-  that part of the meeting house.&nbsp; Canterbury July 26th 1833 </p> <p>SOLOMON
+  that part of the meeting house . &nbsp; Canterbury July 26th 1833 </p> <p>SOLOMON
   PAYNE,</p> <p> ANDREW HARRIS,</p> <p> ISAAC KNIGHT.</p> <p> Society Com''tee.</p>
   <p>(A true copy.)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;

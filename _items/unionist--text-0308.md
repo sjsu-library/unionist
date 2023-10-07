@@ -28,8 +28,8 @@ transcription: "<p>ELECTION RETURNS.</p> <p>BROOKLYN, Septimus Davison</p> <p>As
   <p>HARTFORD, Wm. Hungerford, Truman Hanks</p> <p>NORWICH, Charles W. Rockwell, Roger
   Huntington</p> <p>Griswold, Samuel C. Morgan</p> <p>Lisbon ______ Allen</p> <p>
   In the 13 <sup>th</sup> Senatorial District George Spafford has a majority of between
-  three and four hundred over Philip Pearl, Jr. the Jackson candidate. The 1 <sup>st</sup>
-  , 2d, 8 <sup>th</sup> , 14 <sup>th</sup> and 21 <sup>st</sup> districts have elected
+  three and four hundred over Philip Pearl, Jr. the Jackson candidate. The 1<sup>st</sup>,
+  2d, 8 <sup>th</sup> , 14 <sup>th</sup> and 21 <sup>st</sup> districts have elected
   anti-Jacksonian Senators. No returns have been received from the other districts.
   </p> <p> From a letter received by a gentleman in this town we gather the following
   returns: Hartford, Monday Evening. Hartford, 1 <sup>st</sup> Rep. W. Hungerford

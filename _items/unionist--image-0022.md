@@ -19,7 +19,8 @@ description: Engraving of William Alexander Alcott, by John Chester Buttre
 language: English
 publisher: 
 IsPartOf: 
-rights: 'By &lt;a href=&quot;https://en.wikipedia.org/wiki/en:John_Chester_Buttre&quot;
+rights: Public Domain
+source: 'By &lt;a href=&quot;https://en.wikipedia.org/wiki/en:John_Chester_Buttre&quot;
   class=&quot;extiw&quot; title=&quot;w:en:John Chester Buttre&quot;&gt;&lt;span title=&quot;American
   engraver&quot;&gt;John Chester Buttre&lt;/span&gt;&lt;/a&gt; - &lt;a rel=&quot;nofollow&quot;
   class=&quot;external free&quot; href=&quot;https://wellcomeimages.org/indexplus/obf_images/5c/39/b04c3f7d61cb177391a9a91698f6.jpg&quot;&gt;https://wellcomeimages.org/indexplus/obf_images/5c/39/b04c3f7d61cb177391a9a91698f6.jpg&lt;/a&gt;Gallery:
@@ -29,7 +30,6 @@ rights: 'By &lt;a href=&quot;https://en.wikipedia.org/wiki/en:John_Chester_Buttr
   &lt;a rel=&quot;nofollow&quot; class=&quot;external text&quot; href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;CC-BY-4.0&lt;/a&gt;,
   <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution
   4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=36374692">Link</a>'
-source: 
 subject: 
 type: Image
 category: Image

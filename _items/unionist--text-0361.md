@@ -28,7 +28,7 @@ commentary: Hester Thrale was a good friend of Samuel Johnson; they also had a f
 relatedPeople: Samuel Johnson; Hester Thrale
 featured: 
 repeated: 
-relatedImage: unionist--image-0069
+relatedImage: unionist--image-0069; unionist--image-0056
 relatedText: 
 relatedTextIssue: 
 filename: 

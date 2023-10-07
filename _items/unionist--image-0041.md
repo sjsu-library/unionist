@@ -11,8 +11,7 @@ description: The Old Bank of Louisville, by noted architect James H. Dakin (1806
 language: English
 publisher: 
 IsPartOf: 
-rights: By William G. Johnson, Photographer - http://memory.loc.gov/cgi-bin/displayPhoto.pl?path=/pnp/habshaer/ky/ky0000/ky0080/photos&amp;topImages=070765pr.jpg&amp;topLinks=070765pv.jpg,070765pu.tif&amp;title=3.%20%20NORTH%20VIEW%20OF%20FRONT%20ELEVATION%20%3cbr%3eHABS%20KY,56-LOUVI,1-3&amp;displayProfile=0,
-  Public Domain, https://commons.wikimedia.org/w/index.php?curid=4043878
+rights: Public Domain
 source: https://en.wikipedia.org/wiki/James_H._Dakin#/media/File:Bank_of_Louisville_Building,_322_West_Main_Street,_Louisville_(Jefferson_County,_Kentucky).jpg
 subject: 
 type: image

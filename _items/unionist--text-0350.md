@@ -18,8 +18,8 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<p> FOR SALE—300 white mulberry trees suitable for transplanting.&nbsp;&nbsp;&nbsp;&nbsp;
-  S.BARROWS. </p> <p> Brooklyn, March 20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+transcription: "<p> FOR SALE—300 white mulberry trees suitable for transplanting .
+  &nbsp;&nbsp;&nbsp;&nbsp; S.BARROWS. </p> <p> Brooklyn, March 20 . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   33tf </p> "
 scholarlyNotes: 
 commentary: 'Sylvester Barrows (1801-1876) was a minister as well as a horticulturist.
@@ -28,7 +28,8 @@ commentary: 'Sylvester Barrows (1801-1876) was a minister as well as a horticult
   Church Movement in New York City. New York History 34:3:284-297 (July 1953).]. The
   sale of mulberry trees here is part of "Connecticut''s Great Mulberry Mania of the
   1830s." This was an attempt to cultivate (literally) a home-grown silk industry
-  in New England. See this article for more information - https://newenglandhistoricalsociety.com/connecticuts-great-mulberry-mania-1830s/ '
+  in New England. See <a href="https://newenglandhistoricalsociety.com/connecticuts-great-mulberry-mania-1830s/">this
+  article</a> for more information. '
 relatedPeople: Sylvester Barrows
 featured: 
 repeated: 

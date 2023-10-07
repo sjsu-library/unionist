@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0118
-title: PastDueAccount
+title: Past Due Account
 bibliographicCitation: https://www.labelvalue.com/account-past-due-labels-p-989.html
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

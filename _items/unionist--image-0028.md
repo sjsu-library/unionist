@@ -12,7 +12,7 @@ description: The original edition of Rankin's <em>Letters</em>.
 language: English
 publisher: 
 IsPartOf: 
-rights: By Rdikeman at the English-language Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=13358329
+rights: CC BY-SA 3.0
 source: By Rdikeman at the English-language Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=13358329
 subject: 
 type: image

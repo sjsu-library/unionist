@@ -109,7 +109,7 @@ transcription: "<p>ANGELL’S SCHOOL BOOKS.</p> <p> Published by MARSHALL, BROWN
   servant.</p> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   TRISTAM BURGES. </p> <p> <em>From the Preceptors of the Public Schools in the City
   of Providence</em> </p> <p> We have used Mr. Angell’s series of school books, for
-  nearly one eyar; and from this long trial we can say with confidence that we believe
+  nearly one year; and from this long trial we can say with confidence that we believe
   them admirably suited to answer the purposes for which they were composed. From
   our examination of the inferior numbers, which are used in the primary Schools,
   we believe them also to be no less useful. As reading books, they all combine in
@@ -119,7 +119,7 @@ transcription: "<p>ANGELL’S SCHOOL BOOKS.</p> <p> Published by MARSHALL, BROWN
   book, and one which has not been heretofore sufficiently attended to. </p> <p> The
   books put into the hands of children at school have generally been altogether <em>above
   the understanding</em> of the young mind; and the consequence has been, that the
-  scholars have noy only made much less progress in a given time, but have acquired
+  scholars have not only made much less progress in a given time, but have acquired
   the lasting <em>disgust</em> for their studies which has operated as an effectual
   bar to future improvement. To this great and extensive evil, Mr. Angell’s books
   afford a <em>certain and easy remedy.</em> The facility with which his lessons are

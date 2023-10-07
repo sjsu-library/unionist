@@ -12,7 +12,7 @@ description: Political caricature showing Henry Clay sewing the mouth of Preside
 language: English
 publisher: 
 IsPartOf: 
-rights: https://www.loc.gov/resource/cph.3a05352/
+rights: Public Domain
 source: https://www.loc.gov/resource/cph.3a05352/
 subject: 
 type: image

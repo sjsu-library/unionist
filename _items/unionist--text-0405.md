@@ -21,7 +21,7 @@ category: Positive notice
 articleType: 
 volume: 
 issue: 
-transcription: "A new paper called “The Unionist” has commenced at Brooklyn. Con.
+transcription: 'A new paper called “The Unionist” has commenced at Brooklyn. Con.
   by Charles C. Burleigh, Esq., a gentleman of learning and talents. It is “pledged
   to no party” but promises to advocate “temperance, virtue, and sound morality.”
   We are pleased to add, for the credit of Windham County, (in which, by the bye,
@@ -30,13 +30,13 @@ transcription: "A new paper called “The Unionist” has commenced at Brooklyn.
   are treated according to their merits, in the columns of the Unionist. We wish it
   success. And may the Putnams of that region ever be shrewd in tracing public pests
   to their dark retreats, and bold in dragging them forth to the day light, regardless
-  of their fiery eyes, and their growling.\r A liberal support to the Unionist would
+  of their fiery eyes, and their growling. A liberal support to the Unionist would
   do much towards retrieving the character of Connecticut from the disgrace cast upon
-  it, by A.T. Judson, and his associates.\r "
+  it, by A.T. Judson, and his associates. '
 scholarlyNotes: 
 commentary: It is interesting that William Goodell - who had helped to launch Charles
   Burleigh to this editorship by publishing his letter to the editor back in May of
-  1833, should disclose his local connection to Windham county.
+  1833 - should here disclose his own local connection to Windham county.
 relatedPeople: William Goodell; Charles C. Burleigh
 featured: 
 repeated: 

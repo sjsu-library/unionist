@@ -6,7 +6,7 @@ bibliographicCitationRepublished:
 fullIssueSequenceNumber: 1834-04-10 p.04.60
 creator: 
 dateCreated: '1834-04-10'
-description: Humorous incident with a new justice
+description: Humorous incident with a new Justice
 language: English
 publisher: The Unionist
 IsPartOf: 

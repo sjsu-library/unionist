@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0068
-title: Lafayette S. Foster
+title: Lafayette S. Foster, by Matthew Brady
 bibliographicCitation: https://commons.wikimedia.org/w/index.php?curid=123854612
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

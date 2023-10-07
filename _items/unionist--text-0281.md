@@ -28,7 +28,7 @@ commentary:
 relatedPeople: Leffingwell; Levens
 featured: 
 repeated: 
-relatedImage: unionist--image-0127
+relatedImage: unionist--image-0127; unionist--image-0128
 relatedText: 
 relatedTextIssue: 
 filename: 

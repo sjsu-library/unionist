@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0124
-title: IntemperancePageSelectReaderUnionNo6
+title: Intemperance Selection from Angell's Select Reader, Union No. 6
 bibliographicCitation: 'Oliver Angell, <em>The select reader, or, Union no. 6 : designed
   for the higher classes in academies and schools : being the sixth of a series of
   common-school classics</em>, Revised Stereotype Edition (Philadelphia: W. Marshall

@@ -33,8 +33,8 @@ commentary: 'James Whitcomb (1804-1880) was a prominent figure in Windham county
   Whitcomb served as a surgeon in the Civil War, a war in which his son Edwin perished.
   After the war, as a member of the Unitarian Society in Brooklyn, he invited Celia
   Burleigh to preach - one of the first women to be an official preacher in Connecticut.
-  Celia Burleigh was the second wife, and widow, of Unionist co-editor William H.
-  Burleigh'
+  Celia Burleigh was the second wife, and later widow, of Unionist co-editor William
+  H. Burleigh'
 relatedPeople: James Whitcomb
 featured: 
 repeated: 

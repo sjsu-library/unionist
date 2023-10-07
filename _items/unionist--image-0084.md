@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0084
-title: Unionist 1.4 Sept 1833 issue p. 1 AmAntiquarianSociety
+title: Unionist 1.4 Sept 1833 issue p. 1 (at the American Antiquarian Society)
 bibliographicCitation: "<em>The Unionist</em> 1:5:1 (September 5 1833)"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

@@ -1,18 +1,18 @@
 ---
 pid: unionist--image-0317
-title: Masthead of the <em>WIndham County Advertiser</em>
-bibliographicCitation: "<em>WIndham County Advertiser</em> v. 7 n. 39, whole number
+title: Masthead of the <em>Windham County Advertiser</em>
+bibliographicCitation: "<em>Windham County Advertiser</em> v. 7 n. 39, whole number
   351, 1833-05-09"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: James Holbrook
 dateCreated: '1833'
-description: Masthead of the <em>WIndham County Advertiser</em>
+description: Masthead of the <em>Windham County Advertiser</em>
 language: English
 publisher: 
 IsPartOf: 
 rights: Public Domain
-source: "<em>WIndham County Advertiser</em> v. 7 n. 39, whole number 351, 1833-05-09"
+source: "<em>Windham County Advertiser</em> v. 7 n. 39, whole number 351, 1833-05-09"
 subject: 
 type: image
 category: Image
@@ -29,7 +29,7 @@ relatedImage:
 relatedText: unionist--text-0298; unionist--article-0004
 relatedTextIssue: 
 filename: 
-caption: Masthead of the <em>WIndham County Advertiser</em>. This issue came prior
+caption: Masthead of the <em>Windham County Advertiser</em>. This issue came prior
   to the launch of <em>The Unionist</em>, in the midst of the Canterbury crisis in
   May of 1833. The American Antiquarian Society holds this copy.
 order: '728'

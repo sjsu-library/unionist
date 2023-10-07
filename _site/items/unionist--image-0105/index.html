@@ -14,7 +14,7 @@
   <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>
-     A Voice from Boston 1831-03-12 p.17 | The Unionist Unified
+     A Voice from Boston | The Unionist Unified
   </title>
   <meta name='description' content="Opening paragraph of the Anti-Colonization meeting held by the Free Blacks of Boston March 12, 1831. James G. Barbadoes was the Secretary."/>
 
@@ -32,7 +32,7 @@
 
 
   <body>
-    <time datetime='2023-09-17 22:52'></time>
+    <time datetime='2023-10-07 21:12'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
     <a class='navbar-brand' href="http://0.0.0.0:4000/unionist/" title='Home'>
@@ -112,7 +112,7 @@
       <div id='wax-content' class='wax-inline-container'>
         <div class="item-title">
   <div class="title-inner">
-    <h3 alt="" class='item-label'>A Voice from Boston 1831-03-12 p.17</h3>
+    <h3 alt="" class='item-label'>A Voice from Boston</h3>
     <p class='item-creator'> James G. Barbadoes </p>
 
 
@@ -149,7 +149,7 @@
     /unionist/explore/categories/?category=image
   ">Image</a>
 <div class='caret'> > </div>
-A Voice from Boston 1831-03-12 p.17
+A Voice from Boston
 </div>
 
 <div class='pagination-nav'>
@@ -212,11 +212,14 @@ A Voice from Boston 1831-03-12 p.17
       if (width < 500 || height < 500) {
         console.log ('too small!')
         var source = data.sequences[0].canvases[0].images[0].resource['@id']
-        var altText = 'A Voice from Boston 1831-03-12 p.17'
+        var div = $('<div>')
+          .addClass('small-image-inner');
+        var altText = 'A Voice from Boston'
         var img = $('<img>')
           .attr('src', source)
-          .attr('alt', altText)
-        $('#osd').append(img);
+          .attr('alt', altText);
+        $(div).append(img);
+        $('#osd').append(div);
         return;
 
       }
@@ -268,7 +271,7 @@ A Voice from Boston 1831-03-12 p.17
     
       
         <dt>Title</dt>
-        <dd>A Voice from Boston 1831-03-12 p.17</dd>
+        <dd>A Voice from Boston</dd>
     
   
     

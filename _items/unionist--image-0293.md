@@ -30,7 +30,7 @@ relatedText: unionist--text-0390
 relatedTextIssue: 
 filename: 
 caption: Puncturing inflated claims of grandeur - in this case in the Anti-Masonic
-  cause - is a perpetually recurring strategy against the privileged.
+  cause - is a perpetually recurring strategy against the pretentious.
 order: '704'
 layout: items_item
 collection: items

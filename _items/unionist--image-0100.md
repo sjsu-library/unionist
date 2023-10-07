@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0100
-title: Sculpture London Leather Wool Exchange
+title: Sculpture at the London Leather, Hide and Wool Exchange
 bibliographicCitation: https://historicengland.org.uk/listing/the-list/list-entry/1386047
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -29,7 +29,7 @@ relatedText: unionist--text-0107
 relatedTextIssue: 1833-09-05 p03.33
 filename: 
 caption: Relief sculpture from the London Leather, Hide and Wool Exchange. Benson
-  and Chace in their advertisement anticipsted the name of this major center!
+  and Chace in their advertisement anticipated the name of this major center!
 order: '511'
 layout: items_item
 collection: items

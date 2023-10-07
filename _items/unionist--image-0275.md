@@ -29,7 +29,8 @@ relatedText: unionist--text-0307
 relatedTextIssue: 1834-04-10 p.02.07
 filename: 
 caption: Note in this April 1834 <em>Unionist</em> title page, the mistaken notification
-  to place this paper in the New York file.
+  by the Library of Congress, that meant this paper was misfiled with New York State
+  periodicals.
 order: '686'
 layout: items_item
 collection: items

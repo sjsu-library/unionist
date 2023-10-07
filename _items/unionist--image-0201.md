@@ -13,7 +13,7 @@ description: 'Enameled container and lid with anti-slavery slogan: "May the Enem
 language: English
 publisher: 
 IsPartOf: 
-rights: No known restrictions
+rights: unsure; can ask
 source: https://collections.si.edu/search/record/ark:/65665/fd5c9c8c487349c439da88eb4093c00eacd
 subject: 
 type: image

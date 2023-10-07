@@ -33,11 +33,14 @@
       if (width < 500 || height < 500) {
         console.log ('too small!')
         var source = data.sequences[0].canvases[0].images[0].resource['@id']
+        var div = $('<div>')
+          .addClass('small-image-inner');
         var altText = '{{ include.alt | escape }}'
         var img = $('<img>')
           .attr('src', source)
-          .attr('alt', altText)
-        $('#osd').append(img);
+          .attr('alt', altText);
+        $(div).append(img);
+        $('#osd').append(div);
         return;
 
       }

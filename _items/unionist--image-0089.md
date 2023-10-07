@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0089
-title: December 19 Unionist page 3 Lib of Cong
+title: December 19 Unionist page 3 (at the Library of Congress)
 bibliographicCitation: "<em>The Unionist</em> 1:20 (December 19 1833)"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

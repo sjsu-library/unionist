@@ -32,7 +32,7 @@
 
 
   <body>
-    <time datetime='2023-09-17 22:52'></time>
+    <time datetime='2023-10-07 21:12'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
     <a class='navbar-brand' href="http://0.0.0.0:4000/unionist/" title='Home'>
@@ -212,11 +212,14 @@ Amos A. Phelps
       if (width < 500 || height < 500) {
         console.log ('too small!')
         var source = data.sequences[0].canvases[0].images[0].resource['@id']
+        var div = $('<div>')
+          .addClass('small-image-inner');
         var altText = 'Amos A. Phelps'
         var img = $('<img>')
           .attr('src', source)
-          .attr('alt', altText)
-        $('#osd').append(img);
+          .attr('alt', altText);
+        $(div).append(img);
+        $('#osd').append(div);
         return;
 
       }
@@ -343,7 +346,7 @@ Amos A. Phelps
     
       
         <dt>Rights</dt>
-        <dd>https://www.masshist.org/database/viewer.php?item_id=1361&img_step=1&mode=large#page1</dd>
+        <dd>Fair Use</dd>
     
   
     

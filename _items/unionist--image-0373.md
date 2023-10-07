@@ -34,7 +34,7 @@ caption: This slice from the Burleigh family tree shows the seven siblings in th
 order: '784'
 layout: items_item
 collection: items
-thumbnail: 
-manifest: 
-full: 
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0373/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0373/manifest.json"
+full: "/img/derivatives/iiif/images/unionist--image-0373/full/1140,/0/default.jpg"
 ---

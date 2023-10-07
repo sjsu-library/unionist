@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0053
-title: Avery's Rotary Engine.Sc.Am.1894-03-17 p.175
+title: Avery's Rotary Engine
 bibliographicCitation: Scientific American, 1894-03-17 p.175
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

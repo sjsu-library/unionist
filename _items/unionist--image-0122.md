@@ -33,7 +33,8 @@ relatedImage:
 relatedText: unionist--text-0057
 relatedTextIssue: 1833-08-08 p03.43
 filename: 
-caption: An 18th century illustration of a New England court scene
+caption: An 18th century illustration of a New England court scene. Angell's books
+  for use in schools were advertised in <em>The Unionist</em>.
 order: '533'
 layout: items_item
 collection: items

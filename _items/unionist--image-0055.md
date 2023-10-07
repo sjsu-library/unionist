@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0055
-title: WhiteMulberryTreeiNat
+title: White Mulberry Tree
 bibliographicCitation: https://www.inaturalist.org/photos/206030733
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

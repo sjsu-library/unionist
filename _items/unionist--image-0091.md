@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0091
-title: April 10 1834 Unionist page 1 Lib of Cong
+title: April 10 1834 Unionist page 1 (at the Library of Congress)
 bibliographicCitation: "<em>The Unionist</em> 1:36 (April 10 1834)"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

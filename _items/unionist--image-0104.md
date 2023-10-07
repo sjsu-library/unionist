@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0104
-title: DressWoolandSilkca.1843
+title: Dress of Wool and Silk, ca. 1843
 bibliographicCitation: https://www.metmuseum.org/art/collection/search/158960
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

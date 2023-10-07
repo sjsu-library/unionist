@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0370
-title: Unionist Masthead
+title: Unionist Masthead, December 19, 1833
 bibliographicCitation: "<em>The Unionist</em> 1833-12-19"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

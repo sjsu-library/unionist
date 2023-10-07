@@ -19,7 +19,7 @@ articleType:
 volume: '1'
 issue: '20'
 transcription: '<p><strong>“RIGHTEOUSNESS EXALTETH A NATION.”</strong></p> <p> <strong>
-  VOL. 1. BROOKLYN, THURSDAY MORNING, DECEMBER 19, 1833.&nbsp;&nbsp; NO. 20 </strong>
+  VOL. 1. BROOKLYN, THURSDAY MORNING, DECEMBER 19, 1833 . &nbsp;&nbsp; NO. 20 </strong>
   </p> <p align="center">THE UNIONIST</p> <p align="center">PUBLISHED EVERY THURSDAY
   MORNING,</p> <p align="center">BROOKLYN, CONN.</p> <p align="center">W.H. &amp;
   C.C. BURLEIGH,</p> <p align="center">EDITORS</p> <p> TERMS.—Mail Subscribers Two

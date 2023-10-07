@@ -32,7 +32,7 @@
 
 
   <body>
-    <time datetime='2023-09-17 22:52'></time>
+    <time datetime='2023-10-07 21:12'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
     <a class='navbar-brand' href="http://0.0.0.0:4000/unionist/" title='Home'>
@@ -161,7 +161,7 @@ Burleigh Siblings
 
   <script type='text/javascript'>
     $('#prevlink').append(`<a href='http://0.0.0.0:4000/unionist/items/unionist--image-0372/' display='none'>&#8249; See Previous Item</a>`);
-    $('#nextlink').append(`<a href='http://0.0.0.0:4000/unionist/items/unionist--text-0001/' display='none'>See Next Item &#8250;</a>`);
+    $('#nextlink').append(`<a href='http://0.0.0.0:4000/unionist/items/unionist--image-0374/' display='none'>See Next Item &#8250;</a>`);
   </script>
 
 
@@ -194,7 +194,7 @@ Burleigh Siblings
 <script defer src="http://0.0.0.0:4000/unionist/assets/openseadragon/openseadragon.min.js"></script>
 <script>
   $(document).ready(function () {
-    var manifestUrl = "";
+    var manifestUrl = "http://0.0.0.0:4000/unionist/img/derivatives/iiif/unionist--image-0373/manifest.json";
     console.log (manifestUrl);
     if (manifestUrl == "http://0.0.0.0:4000"+"/unionist" || manifestUrl=="") {
 
@@ -212,11 +212,14 @@ Burleigh Siblings
       if (width < 500 || height < 500) {
         console.log ('too small!')
         var source = data.sequences[0].canvases[0].images[0].resource['@id']
+        var div = $('<div>')
+          .addClass('small-image-inner');
         var altText = 'Burleigh Siblings '
         var img = $('<img>')
           .attr('src', source)
-          .attr('alt', altText)
-        $('#osd').append(img);
+          .attr('alt', altText);
+        $(div).append(img);
+        $('#osd').append(div);
         return;
 
       }
@@ -383,6 +386,10 @@ Burleigh Siblings
     
 
     
+    
+      
+        <dt>IIIF Manifest</dt>
+        <dd><a href="http://0.0.0.0:4000/unionist/img/derivatives/iiif/unionist--image-0373/manifest.json" target="_blank" rel="noreferrer">http://0.0.0.0:4000/unionist/img/derivatives/iiif/unionist--image-0373/manifest.json</a></dd>
     
   
     

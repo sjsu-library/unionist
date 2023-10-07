@@ -30,8 +30,9 @@ relatedText: unionist--text-0358
 relatedTextIssue: 1834-04-10 p.04.58
 filename: 
 caption: T.K. Hervey and other members of the Amherst College Anti-Slavery Society
-  were involved in the struggle in Canterbury. This planl in the constitution of the
-  society shows the incipient anti-racism of this group.
+  were involved in the struggle in Canterbury. This plank in the constitution of the
+  society shows the incipient anti-racism of this group, albeit with the patronizing
+  language of uplift.
 order: '678'
 layout: items_item
 collection: items

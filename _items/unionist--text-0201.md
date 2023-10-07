@@ -1,6 +1,11 @@
 ---
 pid: unionist--text-0201
-title: Roberts and Woodberry
+title: William Jay (1789-1858) was a noted legal thinker, the son of the first Chief
+  Justice of the United States Supreme Court, John Jay. His letter to Samuel J. May
+  concerning the constitutional questions of Black citizenship presaged his important
+  1835 treatise, <em><a href="https://books.google.com/books?id=f2k3pzgpYxsC">An Inquiry
+  into the Character and Tendency of the American Colonization and American Anti-Slavery
+  Societies</a></em>.
 bibliographicCitation: "<em>The Unionist</em> 1833-12-19"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 1833-12-19 p.03.47

@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0324
-title: Title Page for <em>The Unionist</em> 1833-03-13, v.1, n.32, p.1
+title: Title Page for <em>The Unionist</em> 1833-03-13
 bibliographicCitation: "<em>The Unionist</em> 1833-03-13, v.1, n.32, p.1"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

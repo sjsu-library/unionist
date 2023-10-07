@@ -53,12 +53,13 @@ transcription: "<p>THE CONVICT SHIP.</p> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
   our childhood are vanished and o’er.</p> "
 scholarlyNotes: send the T.K. Hervey poem to Amherst
 commentary: 'T.K.Hervey (1812-1847) was a student at Amherst College who organized
-  the significant Anti-Slavery Society at the same time that the Canterbury Female
-  Academy was operating. In the records of the Amherst Auxiliary Anti-Slavery Society
-  of July 19, 1833. Hervey made a motion to endorse the Canterbury Female Academy,
-  which was passed unanimously. He attended the 1834 meeting of the New-England Anti-Slavery
-  Society. He moved to Pennsylvania where he started a school, married, and had three
-  daughters before his death from tuberculosis. Materials in the Amherst College Archives. '
+  the significant Ameherst College Anti-Slavery Society at the same time that the
+  Canterbury Female Academy was operating. In the records of the Amherst Auxiliary
+  Anti-Slavery Society of July 19, 1833. Hervey made a motion to endorse the Canterbury
+  Female Academy, which was passed unanimously. He attended the 1834 meeting of the
+  New-England Anti-Slavery Society. He moved to Pennsylvania where he started a school,
+  married, and had three daughters before his death from tuberculosis. Materials in
+  the Amherst College Archives. '
 relatedPeople: T. K. Hervey
 featured: 
 repeated: 

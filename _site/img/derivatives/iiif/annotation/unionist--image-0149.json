@@ -11,8 +11,8 @@
       "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0149",
       "profile": "http://iiif.io/api/image/2/level0.json"
     },
-    "width": 60,
-    "height": 50
+    "width": 756,
+    "height": 1097
   },
   "on": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/canvas/unionist--image-0149.json",
   "@context": "http://iiif.io/api/presentation/2/context.json"

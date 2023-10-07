@@ -21,10 +21,10 @@ issue: '6'
 transcription: '<p align="center"><strong>The Unionist.</strong></p> <p align="center">Published
   Every Thursday Morning,</p> <p align="center"><strong>Brooklyn, Conn. (sic)</strong></p>
   <p align="center">Charles C. Burleigh,</p> <p align="center">Editor and Publisher</p>
-  <p> TERMS.—Mail Subscribers Two Dollars, in advance.&nbsp; Delivered by Stage or
-  Post one dollar and seventy-five cents.&nbsp; Those taken at the office, one dollar
-  and fifty cents. </p> <p> Any person becoming responsible for eight copies shall
-  receive one copy gratis. </p> <p> No paper will be discontinued till arrearages
+  <p> TERMS.—Mail Subscribers Two Dollars, in advance . &nbsp; Delivered by Stage
+  or Post one dollar and seventy-five cents . &nbsp; Those taken at the office, one
+  dollar and fifty cents. </p> <p> Any person becoming responsible for eight copies
+  shall receive one copy gratis. </p> <p> No paper will be discontinued till arrearages
   are paid, except at the discretion of the publisher. </p> <p>Advertisements inserted
   at the usual prices.</p> <p>All communications must be addressed to the Editor,
   post paid.</p> '

@@ -29,8 +29,8 @@ relatedImage:
 relatedText: unionist--text-0309
 relatedTextIssue: 1834-04-10 p.02.09
 filename: 
-caption: Thomas Campbell's "Hohenlinden" can be heard, as read by Iain McGilchrist,
-  [here] (https://youtu.be/PvC3pCJV4Nk)
+caption: 'You can listen to Thomas Campbell''s "Hohenlinden" as read by <a href="https://youtu.be/PvC3pCJV4Nk">Iain
+  McGilchrist</a>. '
 order: '701'
 layout: items_item
 collection: items

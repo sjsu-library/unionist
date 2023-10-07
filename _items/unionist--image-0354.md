@@ -29,8 +29,9 @@ relatedText: unionist--article-0001
 relatedTextIssue: 
 filename: 
 caption: The title page from the 1835 collected works of Maria W. Stewart. The contents
-  came from 1831-1835. This edition helped into print by her erstwhile fellow congregants
-  at the Baptist church in Boston, though she had moved to New York City by 1835.
+  came from 1831-1835. This edition was helped into print by her erstwhile fellow
+  congregants at the Baptist church in Boston, though she had moved to New York City
+  by 1835.
 order: '765'
 layout: items_item
 collection: items

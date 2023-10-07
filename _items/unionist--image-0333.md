@@ -28,7 +28,8 @@ relatedImage:
 relatedText: unionist--text-0360
 relatedTextIssue: 1834-04-10 p.04.60
 filename: 
-caption: One is supposed to save that phrase for the most solemn and awful moment...
+caption: One is supposed to save that phrase for the <em>most</em> solemn and awful
+  moment...
 order: '744'
 layout: items_item
 collection: items

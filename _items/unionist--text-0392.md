@@ -24,12 +24,12 @@ transcription: "<p> <em>Canterbury decency exemplified.</em> —It may not be kn
   Such, however, is the fact. We did not pause to enquire whether the <em>benevolent</em>
   and <em>christian</em> people of Canterbury would be pleased or displeased with
   it—or what other people might say or think about it—the conviction that we could
-  be&nbsp; useful—that we could by our influence, limited though it be, and by our
-  example and by our labors&nbsp; assist in the moral and intellectual elevation of
-  a race long and grievously oppressed, was sufficient to induce us to take the step
-  we have taken. We knew the shameful persecutions which Miss Crandall had endured,
-  and were ready to expect that we also might receive a share of obloquy. We are willing
-  to receive the censure of a certain class. The hate of the bad is the highest commendation
+  be useful—that we could by our influence, limited though it be, and by our example
+  and by our labors assist in the moral and intellectual elevation of a race long
+  and grievously oppressed, was sufficient to induce us to take the step we have taken.
+  We knew the shameful persecutions which Miss Crandall had endured, and were ready
+  to expect that we also might receive a share of obloquy. We are willing to receive
+  the censure of a certain class. The hate of the bad is the highest commendation
   a good man can receive. </p> <p> On Tuesday evening last, as we were returning after
   the labors of the day, to our lodgings about a quarter of a mile south of the village,
   we were saluted, when opposite the house of an opposer of the school, by a volley
@@ -38,8 +38,8 @@ transcription: "<p> <em>Canterbury decency exemplified.</em> —It may not be kn
   behind the wall, and owing to this and the dimness of the night, we were unable
   to discern any one. We quickened our pace, and was soon beyond the reach of the&nbsp;
   missiles. As we passed the barn of the individual above referred to, however, we
-  perceived that the great door fronting&nbsp; the street was wide open, and we made
-  up our mind to receive another volley from the garrison which we had reason to suspect
+  perceived that the great door fronting the street was wide open, and we made up
+  our mind to receive another volley from the garrison which we had reason to suspect
   was within. Nor were we disappointed. Canterbury arguments, in the shape of addled
   eggs, again poured in upon us; but we passed rapidly on, and were soon beyond their
   reach. We know not how it happened, but for some reason we escaped untouched, though

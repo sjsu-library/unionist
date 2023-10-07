@@ -10,7 +10,7 @@ description: Judge's Gavel
 language: English
 publisher: 
 IsPartOf: 
-rights: 
+rights: unsure; can ask
 source: https://federalcriminallawcenter.com/2016/02/recent-inmates-death-raises-questions-police-restraint-techniques/gavel-law-concept/
 subject: 
 type: image

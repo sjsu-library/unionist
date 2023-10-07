@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0135
-title: BankOfTheU.S. PeoplesMag 1.6.41 1833-06-01
+title: 'Bank Of The United States '
 bibliographicCitation: "<em>The People's Magazine</em> 1.06:41 1833-06-01"
 bibliographicCitationRepublished: https://catalog.hathitrust.org/api/volumes/oclc/6497679.html
 fullIssueSequenceNumber: 

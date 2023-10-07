@@ -19,7 +19,7 @@ articleType:
 volume: '1'
 issue: '20'
 transcription: '<p align="center">DAUGHTER’S OWN BOOK. </p> <p> A SERIES of letters
-  from a Father to his daughter; by Rev. W. B. Sprague.&nbsp; </p> <p> The character
+  from a Father to his daughter; by Rev. W. B. Sprague . &nbsp; </p> <p> The character
   of this book is practical, and is one of the most valuable treatises on the culture
   and discipline of the female mind, which has been published. It is a work we can
   most sincerely recommend to every parent and every daughter in our country. The
@@ -32,17 +32,18 @@ transcription: '<p align="center">DAUGHTER’S OWN BOOK. </p> <p> A SERIES of le
   6. General reading. </p> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   7. Independence of Mind. </p> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   8. Forming the manners. </p> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  9. Conversation.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10. Amusements.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  11. Intercourse with the World.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  12. Marriage.&nbsp; 13. Forming Religious Sentiments.&nbsp;&nbsp;&nbsp;&nbsp; 14.
-  Proper mode of treating Religious Error.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15.
-  Practical Religion. 16. Self Knowledge.&nbsp;&nbsp;&nbsp; 17. Self Government.&nbsp;
-  18. Humility.&nbsp;&nbsp; 19. Improvement of Time.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  9. Conversation . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10. Amusements
+  . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11. Intercourse with the World . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  12. Marriage . &nbsp; 13. Forming Religious Sentiments . &nbsp;&nbsp;&nbsp;&nbsp;
+  14. Proper mode of treating Religious Error . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  15. Practical Religion. 16. Self Knowledge . &nbsp;&nbsp;&nbsp; 17. Self Government
+  . &nbsp; 18. Humility . &nbsp;&nbsp; 19. Improvement of Time . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   20. Preparation for Death. </p> <p> This book is embellished with a beautiful frontispiece
   and is put up in fancy paper binding, price 50 cents, strong cambric do. 62 cts.;
   beautifully embossed and gilt, 1,25. </p> '
 scholarlyNotes: "[sic on missing ‘s after apostrophe]"
-commentary: This book is available online at https://ia902705.us.archive.org/19/items/daughtersownboo01compgoog/daughtersownboo01compgoog.pdf
+commentary: <a href="https://ia902705.us.archive.org/19/items/daughtersownboo01compgoog/daughtersownboo01compgoog.pdf">This
+  book is available online.</a>
 relatedPeople: W. B. Sprague
 featured: 
 repeated: 'Yes'

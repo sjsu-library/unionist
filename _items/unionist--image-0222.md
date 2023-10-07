@@ -10,7 +10,7 @@ description: Partnership being cut
 language: English
 publisher: 
 IsPartOf: 
-rights: unclear
+rights: unsure; can ask
 source: https://www.legalzoom.com/articles/how-to-dissolve-a-business-partnership
 subject: 
 type: image

@@ -22,10 +22,9 @@ transcription: "<p>DIED,</p> <p> In this town on Saturday last, Mrs. _____ Barre
   wife of Mr. Wm. Barrett, aged 81. </p> <p> On Monday morning, 7 <sup>th</sup> inst.
   Mr. Gordis (sic) Kies, a Printer, aged 22 </p> <p> At Hingham, Mass. on the 2 <sup>nd</sup>
   inst. Miss Mary Ann N. Williams, aged 28. </p> "
-scholarlyNotes: This is one of the saddest erasures of a woman I've found. Even in
-  death she has no name
-commentary: 
-relatedPeople: Mrs. William Barrett; Gordis Kies; Mary Ann N. Williams
+scholarlyNotes: 
+commentary: Lucy is her first name!
+relatedPeople: Lucy Barrett; William Barrett; Gordis Kies; Mary Ann N. Williams
 featured: 
 repeated: 
 relatedImage: unionist--image-0309

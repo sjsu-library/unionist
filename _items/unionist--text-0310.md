@@ -22,7 +22,7 @@ transcription: 'The letter from Windham, giving an account of the “general mus
   and how “Uncle Davy’s Democrats” missed fire every time they tried their pieces,
   and “couldn’t dress no how” when they meant to march in line, was not received early
   enough for insertion this week. '
-scholarlyNotes: This letter would, therefore , be a part of 1:37 1834-04-17 Unionist
+scholarlyNotes: This letter would therefore be a part of 1:37 1834-04-17 Unionist.
 commentary: 
 relatedPeople: David Daggett (inferred)
 featured: 

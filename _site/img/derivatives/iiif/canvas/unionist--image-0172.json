@@ -2,8 +2,8 @@
   "@type": "sc:Canvas",
   "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/canvas/unionist--image-0172.json",
   "label": "front",
-  "width": 738,
-  "height": 558,
+  "width": 3164,
+  "height": 2296,
   "thumbnail": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0172/full/250,/0/default.jpg",
   "images": [
     {
@@ -19,8 +19,8 @@
           "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0172",
           "profile": "http://iiif.io/api/image/2/level0.json"
         },
-        "width": 369,
-        "height": 279
+        "width": 1582,
+        "height": 1148
       },
       "on": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/canvas/unionist--image-0172.json"
     }

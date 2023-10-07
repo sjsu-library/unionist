@@ -10,7 +10,7 @@ description: Portrait of Chief Justice Roger Taney by Mathew Brady
 language: English
 publisher: 
 IsPartOf: 
-rights: cwpbh 00789 https://hdl.loc.gov/loc.pnp/cwpbh.00789
+rights: Public Domain
 source: https://www.loc.gov/pictures/item/2017896009/
 subject: 
 type: Image

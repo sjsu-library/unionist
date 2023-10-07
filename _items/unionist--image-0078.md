@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0078
-title: Paganini and Mrs. Norton Godey's Lady Book 1833-09
+title: Paganini and Mrs. Norton, in Godey's Lady Book 1833-09
 bibliographicCitation: "<em>The Lady's Book: A Magazine of Fashion and the Arts</em>.
   Volume 6. Philadelphia: L.A. Godey and Company, 1833."
 bibliographicCitationRepublished: https://archive.org/details/godeys-1833-v-7/mode/2up

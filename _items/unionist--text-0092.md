@@ -532,7 +532,7 @@ transcription: '<p align="center">THE UNIONIST.</p> <p align="center">BROOKLYN, 
   not having agreed. The third time they stated to the court that there was no probability
   that they should ever agree. The court then discharged them. This operates as a
   continuance of the case to the next term of the County Court to be holden on the
-  second Tuesday of December next.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  second Tuesday of December next . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   F. </p> '
 scholarlyNotes: 
 commentary: 'These trial records are vital to understanding not only the fate of the

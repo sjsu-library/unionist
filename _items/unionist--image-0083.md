@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0083
-title: peterparley-768x953
+title: Peter Parley, a.k.a. Samuel Goodrich, by Matthew Brady
 bibliographicCitation: https://blogs.loc.gov/inside_adams/2019/08/peterparley/
 bibliographicCitationRepublished: Samuel G. Goodrich portrait by Matthew Brady Studio.
   Daguerreotype Collection, Prints and Photographs, Library of Congress //lccn.loc.gov/2004663964

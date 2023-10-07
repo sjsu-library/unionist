@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0062
-title: CanterburyCongregationalChurch
+title: Canterbury Congregational Church
 bibliographicCitation: By Cathy Cline - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=22577080
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

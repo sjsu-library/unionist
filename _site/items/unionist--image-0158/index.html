@@ -14,7 +14,7 @@
   <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>
-     "<em>Enterprise</em> on her fast trip to Louisville, 1815" | The Unionist Unified
+     <em>Enterprise</em> on her fast trip to Louisville, 1815 | The Unionist Unified
   </title>
   <meta name='description' content=""<em>Enterprise</em> on her fast trip to Louisville, 1815""/>
 
@@ -32,7 +32,7 @@
 
 
   <body>
-    <time datetime='2023-09-17 22:52'></time>
+    <time datetime='2023-10-07 21:12'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
     <a class='navbar-brand' href="http://0.0.0.0:4000/unionist/" title='Home'>
@@ -112,7 +112,7 @@
       <div id='wax-content' class='wax-inline-container'>
         <div class="item-title">
   <div class="title-inner">
-    <h3 alt="" class='item-label'>"<em>Enterprise</em> on her fast trip to Louisville, 1815"</h3>
+    <h3 alt="" class='item-label'><em>Enterprise</em> on her fast trip to Louisville, 1815</h3>
     <p class='item-creator'> James T. Lloyd </p>
 
 
@@ -149,7 +149,7 @@
     /unionist/explore/categories/?category=image
   ">Image</a>
 <div class='caret'> > </div>
-"<em>Enterprise</em> on her fast trip to Louisville, 1815"
+<em>Enterprise</em> on her fast trip to Louisville, 1815
 </div>
 
 <div class='pagination-nav'>
@@ -212,11 +212,14 @@
       if (width < 500 || height < 500) {
         console.log ('too small!')
         var source = data.sequences[0].canvases[0].images[0].resource['@id']
-        var altText = '&quot;&lt;em&gt;Enterprise&lt;/em&gt; on her fast trip to Louisville, 1815&quot;'
+        var div = $('<div>')
+          .addClass('small-image-inner');
+        var altText = '&lt;em&gt;Enterprise&lt;/em&gt; on her fast trip to Louisville, 1815'
         var img = $('<img>')
           .attr('src', source)
-          .attr('alt', altText)
-        $('#osd').append(img);
+          .attr('alt', altText);
+        $(div).append(img);
+        $('#osd').append(div);
         return;
 
       }
@@ -268,7 +271,7 @@
     
       
         <dt>Title</dt>
-        <dd>"<em>Enterprise</em> on her fast trip to Louisville, 1815"</dd>
+        <dd><em>Enterprise</em> on her fast trip to Louisville, 1815</dd>
     
   
     

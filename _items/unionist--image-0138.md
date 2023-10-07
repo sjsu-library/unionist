@@ -10,7 +10,7 @@ description: 1830 Map of Willimantic with Mills and Factories
 language: English
 publisher: 
 IsPartOf: 
-rights: unsure; will ask
+rights: unsure; can ask
 source: https://millmuseum.org/down-sodom/
 subject: 
 type: image

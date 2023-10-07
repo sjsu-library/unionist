@@ -14,7 +14,7 @@
   <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>
-     Barber's Engraving of Plainfield | The Unionist Unified
+     John Warner Barber's Engraving of Plainfield | The Unionist Unified
   </title>
   <meta name='description' content="Engraving of Plainfield, Connecticut ca. 1836"/>
 
@@ -32,7 +32,7 @@
 
 
   <body>
-    <time datetime='2023-09-17 22:52'></time>
+    <time datetime='2023-10-07 21:12'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
     <a class='navbar-brand' href="http://0.0.0.0:4000/unionist/" title='Home'>
@@ -112,7 +112,7 @@
       <div id='wax-content' class='wax-inline-container'>
         <div class="item-title">
   <div class="title-inner">
-    <h3 alt="" class='item-label'>Barber's Engraving of Plainfield</h3>
+    <h3 alt="" class='item-label'>John Warner Barber's Engraving of Plainfield</h3>
     <p class='item-creator'> John Warner Barber (1798-1885) </p>
 
 
@@ -149,7 +149,7 @@
     /unionist/explore/categories/?category=image
   ">Image</a>
 <div class='caret'> > </div>
-Barber's Engraving of Plainfield
+John Warner Barber's Engraving of Plainfield
 </div>
 
 <div class='pagination-nav'>
@@ -212,11 +212,14 @@ Barber's Engraving of Plainfield
       if (width < 500 || height < 500) {
         console.log ('too small!')
         var source = data.sequences[0].canvases[0].images[0].resource['@id']
-        var altText = 'Barber&#39;s Engraving of Plainfield'
+        var div = $('<div>')
+          .addClass('small-image-inner');
+        var altText = 'John Warner Barber&#39;s Engraving of Plainfield'
         var img = $('<img>')
           .attr('src', source)
-          .attr('alt', altText)
-        $('#osd').append(img);
+          .attr('alt', altText);
+        $(div).append(img);
+        $('#osd').append(div);
         return;
 
       }
@@ -268,7 +271,7 @@ Barber's Engraving of Plainfield
     
       
         <dt>Title</dt>
-        <dd>Barber's Engraving of Plainfield</dd>
+        <dd>John Warner Barber's Engraving of Plainfield</dd>
     
   
     
@@ -347,7 +350,7 @@ Barber's Engraving of Plainfield
     
       
         <dt>Rights</dt>
-        <dd>http://connecticuthistory.org/plainfield-academy-grooming-connecticut-scholars-in-the-18th-and-19th-centuries/</dd>
+        <dd>Public Domain</dd>
     
   
     

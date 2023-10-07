@@ -10,7 +10,7 @@ description: Grave of Rufus Adams (1774-1840)
 language: English
 publisher: 
 IsPartOf: 
-rights: No known restrictions
+rights: unsure; can ask
 source: https://www.findagrave.com/memorial/19017449/rufus-adams
 subject: 
 type: image

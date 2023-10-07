@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0240
-title: SIgnature of Charles Denison (1809-1881)
+title: Signature of Charles Denison (1809-1881)
 bibliographicCitation: SIgnature of Charles Denison (1809-1881) on a letter to William
   Lloyd Garrison,1834-03-07 from central Connecticut.
 bibliographicCitationRepublished: https://www.digitalcommonwealth.org/search/commonwealth:dv142x87k

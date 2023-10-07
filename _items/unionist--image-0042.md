@@ -11,7 +11,7 @@ description: William Jackson (1783-1855), Congressman from Massachusetts, and ea
 language: English
 publisher: 
 IsPartOf: 
-rights: https://www.newtonma.gov/home/showpublisheddocument/65268/637477796719100000
+rights: Public Domian
 source: https://www.newtonma.gov/home/showpublisheddocument/65268/637477796719100000
 subject: 
 type: image

@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0069
-title: Hester Thrale
+title: Hester Thrale, by Joshua Reynolds
 bibliographicCitation: https://commons.wikimedia.org/w/index.php?curid=4606080
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

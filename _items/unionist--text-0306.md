@@ -29,7 +29,7 @@ transcription: "<p>From Zerah Colburn’s Memoirs.</p> <p>A REMARKABLE INCIDENT.
   The parts were collected, and put together in their regular order, and exhibited
   for a number of days at the Morgue. The mystery which involved this dark transaction
   excited quite an interest, and numbers went to see the corpse. The general and only
-  conviction was the he must have been murdered; but for a number of weeks no clue
+  conviction was that he must have been murdered; but for a number of weeks no clue
   was obtained to elicit information on the subject. When it became at length improper
   to keep the body any longer above ground, a cast in plaster was taken, fully representing
   the murdered victim, and this remained a much longer time for the public to see.
@@ -37,7 +37,7 @@ transcription: "<p>From Zerah Colburn’s Memoirs.</p> <p>A REMARKABLE INCIDENT.
   high and lost, called for liquor to drink, and angry because the waiter was somewhat
   tardy, when he came with it Dauton emptied the glass and threw it at the waiter.
   It was shivered into a thousand pieces, and a fragment was carried into Dautun’s
-  wrist, // under the cuff of his coat. The spectators gathering around, and learning
+  wrist, under the cuff of his coat. The spectators gathering around, and learning
   the accident, wished to see the gash; he drew down his sleeve, and firmly pressed
   it round his wrist; they insisted on seeing it, he obstinately refused. By this
   course, the bystanders were at length led to suppose that something mysterious was
@@ -61,8 +61,9 @@ transcription: "<p>From Zerah Colburn’s Memoirs.</p> <p>A REMARKABLE INCIDENT.
   number of months, but as nothing appeared to criminate him, he had been discharged.
   The writer saw the unhappy fratricide on his way from the prison to the place of
   execution. </p> "
-scholarlyNotes: Check if you can add a picture from the link
-commentary: 'Original of this memoir available on line at https://catalog.hathitrust.org/api/volumes/oclc/3394328.html '
+scholarlyNotes: 
+commentary: '<a href="https://catalog.hathitrust.org/api/volumes/oclc/3394328.html>Original
+  of this memoir available on line</a>. '
 relatedPeople: Zerah Colburn
 featured: 
 repeated: 

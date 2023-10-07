@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0119
-title: apprentice-shoemaker
+title: Apprentice Shoemaker
 bibliographicCitation: https://divergentpathsstafford.wordpress.com/tag/shoemaking/
 bibliographicCitationRepublished: 'The Band of Hope Review November 1861. Found within
   The Band of Hope Review 1861-67 and Child’s Paper Vol. 2 1853. London: S.W. Patridge.

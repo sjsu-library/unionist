@@ -26,14 +26,14 @@ relatedPeople:
 featured: 
 repeated: 
 relatedImage: 
-relatedText: unionist--text-0402
+relatedText: unionist--text-0395
 relatedTextIssue: 
 filename: 
 caption: Photograph of Helen Eliza Benson Garrison (1811-1876). She had grown up in
-  Brooklyn, and was a personal friend of Prudence Crandall. Her sisters Anna and Mary
-  were also active in support of the Canterbury Female Academy. As a result of his
-  marriage to Helen Benson, Garrison was quite well-informed about activities and
-  personnel in Windham county.
+  Brooklyn, and was a personal friend of Prudence Crandall. Her sisters Anna, Sarah
+  and Mary were also active in support of the Canterbury Female Academy. As a result
+  of his marriage to Helen Benson, Garrison was quite well-informed about activities
+  and personnel in Windham county.
 order: '729'
 layout: items_item
 collection: items

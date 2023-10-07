@@ -20,12 +20,12 @@ articleType:
 volume: '1'
 issue: '20'
 transcription: "<p> LIST of letters remaining in the Post Office at Killingly, Ct.
-  Oct. 1<sup>st</sup>, 1833 </p> <p> <p>Adrien Levi</p>\r <p>Adams Elisha</p>\r <p>Adams
-  James</p>\r <p>Adams George</p>\r <p>Brown Anthony</p>\r <p>Brown Wm. </p>\r <p>Crowningshield
-  R</p>.\r <p>Cady Lydia</p>\r <p>Danielson W. & T. </p>\r <p>Day Lucius 2</p>\r <p>Day
-  Cyrus Capt</p>\r <p>Day Sam’l</p>\r <p>Eaton Polly</p>\r <p>Graves Whitney</p>\r
-  <p>Hutchins Sam’l</p>\r <p>Hutchins, Sam’l. II</p>\r <p>Haily Benj. </p>\r <p>Jillson
-  Buffin</p>\r <p>Sparks Julin 2</p>\r <p>Short Seth</p>\r <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Oct. 1<sup>st</sup>, 1833 </p> <p> <p>Adrien Levi</p> <p>Adams Elisha</p> <p>Adams
+  James</p> <p>Adams George</p> <p>Brown Anthony</p> <p>Brown Wm. </p> <p>Crowningshield
+  R</p>. <p>Cady Lydia</p> <p>Danielson W. & T. </p> <p>Day Lucius 2</p> <p>Day Cyrus
+  Capt</p> <p>Day Sam’l</p> <p>Eaton Polly</p> <p>Graves Whitney</p> <p>Hutchins Sam’l</p>
+  <p>Hutchins, Sam’l. II</p> <p>Haily Benj. </p> <p>Jillson Buffin</p> <p>Sparks Julin
+  2</p> <p>Short Seth</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   GEO. DANIELSON P.M. </p> "
 scholarlyNotes: This same sort of list for Brooklyn or Canterbury could have revealed
   names of students or school associates

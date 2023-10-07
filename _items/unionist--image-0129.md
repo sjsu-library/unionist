@@ -30,7 +30,7 @@ relatedImage:
 relatedText: unionist--text-0338
 relatedTextIssue: 1834-04-10 p.03.38
 filename: 
-caption: Title page of Amos Phelps, <em>Lectures on Slavery, and Its Remedy</em>
+caption: Title page of Amos Phelps' <em>Lectures on Slavery, and Its Remedy</em>.
 order: '540'
 layout: items_item
 collection: items

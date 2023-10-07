@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0063
-title: Sylvester_Graham_LCCN99406591
+title: Sylvester Graham
 bibliographicCitation: 'By Miscellaneous Items in High Demand, PPOC, Library of Congress
   - Library of CongressCatalog: https://lccn.loc.gov/99406591Image download: https://cdn.loc.gov/service/pnp/cph/3c20000/3c23000/3c23800/3c23830v.jpgOriginal
   url: https://www.loc.gov/pictures/item/99406591/, Public Domain, https://commons.wikimedia.org/w/index.php?curid=68235987'

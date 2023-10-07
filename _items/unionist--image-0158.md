@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0158
-title: '"<em>Enterprise</em> on her fast trip to Louisville, 1815"'
+title: "<em>Enterprise</em> on her fast trip to Louisville, 1815"
 bibliographicCitation: "<em>Lloyd&#039;s steamboat directory, and disasters on the
   western waters</em> (Philadelphia: Jasper Harding, 1856), p. 46."
 bibliographicCitationRepublished: https://commons.wikimedia.org/w/index.php?curid=1060577988

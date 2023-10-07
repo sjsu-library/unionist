@@ -13,9 +13,7 @@ description: Benjamin Watkins Leigh (1781-1849) was appointed to an empty Senato
 language: English
 publisher: 
 IsPartOf: 
-rights: By James B. Longacre - http://bioguide.congress.gov/scripts/biodisplay.pl?index=L000232;
-  http://museumcatalog.virginiahistory.org/final/ViewImage.aspx?template=Image&amp;field=DerivedIma&amp;hash=c069919e9e65c8c7d99bbb50e58f1630&amp;lang=en-US,
-  Public Domain, https://commons.wikimedia.org/w/index.php?curid=6315947
+rights: Public Domain
 source: https://en.wikipedia.org/wiki/Benjamin_W._Leigh
 subject: 
 type: 

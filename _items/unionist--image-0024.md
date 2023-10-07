@@ -10,7 +10,7 @@ description: Lydia Maria Child's carte-de-visite from 1865.
 language: English
 publisher: 
 IsPartOf: 
-rights: Public Domain https://nmaahc.si.edu/object/nmaahc_2017.30.21
+rights: Fair Use
 source: https://nmaahc.si.edu/object/nmaahc_2017.30.21
 subject: 
 type: Image

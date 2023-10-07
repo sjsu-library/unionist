@@ -480,6 +480,16 @@ item pages (iiif + metadata)
       max-height: 100%;
       height: $viewer-height;
     }
+    .small-image-inner {
+      height:100%;
+      overflow-y: auto;
+      img {
+        display: block;
+        margin: auto;
+      }
+
+    }
+
   }
 
 

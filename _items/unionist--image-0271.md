@@ -28,8 +28,9 @@ relatedImage:
 relatedText: unionist--text-0397
 relatedTextIssue: 
 filename: 
-caption: 'Portrait of Rev. Peter Williams Jr. (1786-1840). Williams, pastor of St.
-  Philip''s African Episcopalian Church in New York City. '
+caption: Portrait of Rev. Peter Williams Jr. (1786-1840). Williams, pastor of St.
+  Philip's African Episcopalian Church in New York City. He was also one of the endorsers
+  of the Canterbury Female Academy.
 order: '682'
 layout: items_item
 collection: items

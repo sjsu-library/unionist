@@ -1,6 +1,6 @@
 ---
 pid: unionist--text-0404
-title: Third trial Transcripts
+title: Third Trial
 bibliographicCitation: "<em>The Liberator</em> 1834-09-27; 1834-10-11"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -18,15 +18,21 @@ category: Unionist content
 articleType: 
 volume: 
 issue: 
-transcription: 
-scholarlyNotes: Need to transcribe
+transcription: The transcripts of the Third Trial of Crandall under Connecticut's
+  Black Law, held in the Connecticut Supreme Court of Errors in July of 1833, was
+  published in pamphlet form by <em>The Liberator</em>, after that newspaper had published
+  it in the issues of September 27 and October 11, 1834. As these transcripts are
+  widely available, and nowhere mention <em>The Unionist</em> or the Burleighs by
+  name, I have not transcribed them here. The full pamphlet is available <a href="https://www.loc.gov/resource/rbcmisc.lst0089/?sp=1&st=text">from
+  the Library of Congress</a>.
+scholarlyNotes: 
 commentary: It would make sense that the Unionist would have published this trial;
-  there certainly was time. Garrison may well not have cited it because of the embarrasment
-  of losing it.
+  there certainly was time in the span between the trial and the attack on the school.
+  But until full evidence is recovered, this is speculative.
 relatedPeople: 
 featured: 
 repeated: 
-relatedImage: 
+relatedImage: unionist--image-0374
 relatedText: 
 relatedTextIssue: 
 filename: 

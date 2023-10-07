@@ -30,13 +30,13 @@ transcription: "<p> “In the Brooklyn Unionist, Oct. 10 <sup>th</sup> , we find
   of guilty. A bill of exceptions was filed and the case put over to the Supreme Court
   of Errors, to be holden at Brooklyn next July. </p> <p> On this singular decision
   we remark that if the case be so that free colored people are not citizens of the
-  United States, their condition is far worse than we had supposed. But we canot believe
-  this, the arguments in the decision notwithstanding; and we cannot account for it
-  that such a decision comes from Judge Daggett, except on the supposition that strong
-  feeling, excited in his native place (New Haven), by an attempt to erect a similar
-  school there some time ago, has biased his judgment. </p> <p>Judge Daggett says</p>
-  <p> ‘Are the colored inhabitants of this country citizens? It is the opinion of
-  this court that they are not. Are slaves citizens of the U.S.? The constitution
+  United States, their condition is far worse than we had supposed. But we cannot
+  believe this, the arguments in the decision notwithstanding; and we cannot account
+  for it that such a decision comes from Judge Daggett, except on the supposition
+  that strong feeling, excited in his native place (New Haven), by an attempt to erect
+  a similar school there some time ago, has biased his judgment. </p> <p>Judge Daggett
+  says</p> <p> ‘Are the colored inhabitants of this country citizens? It is the opinion
+  of this court that they are not. Are slaves citizens of the U.S.? The constitution
   recognizes them only as the basis of representation and taxation. I refer to the
   definition of the word citizen as given by Mr. Webster, the ablest philologist of
   this or any country. (The judge here read the several definitions of the word as
@@ -69,57 +69,57 @@ transcription: "<p> “In the Brooklyn Unionist, Oct. 10 <sup>th</sup> , we find
   the omission therefore exclude free colored persons If so can any one tell why it
   does not exclude free white persons? </p> <p> Judge Daggett says, “another reason
   for believing that people of color were not considered citizens is found in the
-  fact&nbsp; that when the United States constitution was adopted, every state except
-  Massachusetts, tolerated slavery.” We are dull—we do not see how this related to
-  the point in question. </p> <p> It was argued in the Court, that free blacks own
-  vessels which participate in the peculiar privileges of American shipping, and that
-  blacks may sue in the United States courts. This was overruled on the ground that
-  those points had never been settled by judicial decisions. We suppose it is true
-  that free colored people have owned vessels, and participated in the peculiar privileges
-  of American shipping ever since the constitution was formed, that they have also
-  had suits in the U.S. Courts, and that they have received protections as American
-  Citizens from British impressment. And it seems incredible that this should have
-  gone of 57 years, unquestioned, if they were not in reality American citizens. </p>
-  <p> What aid the definition of Webster gives to the decision we do not see. “In
-  the United States (a citizen is) a person, native or naturalized, who has the privilege
-  of exercising the elective franchise, and of purchasing and holding real estate.”
-  Now in seven states the persons in question have the right of the elective franchise,
-  and in all the right of purchasing and holding realestate. Does not the definition
-  then make against the decision rather than for it? </p> <p> In this decision also
-  Judge Daggett has gone in the face of very high opinion. In the Convention of New
-  York for amending the constitution, on the motion to insert the word <em>white</em>
-  before the words “ <em>male citizens,”</em> in the article relating to the right
-  of suffrage, Peter A. Jay said, “Is not the right of suffrage a privilege? Can you
-  deny it to a <em>citizen</em> of Pennsylvania, who comes here and complies with
-  your laws, merely because he is not six feet high, or because he is of a dark complexion?’
-  Chancellor Kent said </p> <p> “Suppose a <em>negro</em> owning a freehold, and entitled
-  to vote in Vermont, removes to this state, can we constitutionally exclude him from
-  the privilege of voting? The constitution of the United States provides that <em>citizens</em>
-  of each State shall be entitled to all the privileges and immunities of citizens
-  of the several States.” </p> <p>Rufus King said</p> <p> ‘Take the fact that a <em>citizen
-  of color</em> entitled to all the privileges of a citizen, comes here—he purchases
-  a freehold—can you deny him the rights of an elector incident to his freehold? He
-  is entitled to vote because like <em>any other citizen</em> he is a freeholder,
-  and ever freeholder your laws entitle to vote.’ </p> <p>And again,</p> <p> “ <em>
-  As certainly as the children of any white men are citizen, so certainly the children
-  of black men are citizens.” </em> </p> <p>Abram Van Vechten said,</p> <p> ‘There
-  is another and to my mind an insuperable objection to the exclusion of free citizens
-  of color from the right of suffrage, arising from the provision of the Constitution
-  of the U.S. that the citizens of each State shall be entitled to all the privileges
-  and immunities of citizens in the several States.’ </p> <p> In 1826 De Witt Clinton
-  demanded of President Adams the release of ‘Gilbert Horton a free man of color and
-  a citizen of this state’ (New York) unlawfully imprisoned in the District of Columbia,
-  on the ground that he was ‘a free man and a citizen.’ </p> <p> We cannot believe
-  with Judge Daggett that the whole free colored population of our country is outlawed,
+  fact that when the United States constitution was adopted, every state except Massachusetts,
+  tolerated slavery.” We are dull—we do not see how this related to the point in question.
+  </p> <p> It was argued in the Court, that free blacks own vessels which participate
+  in the peculiar privileges of American shipping, and that blacks may sue in the
+  United States courts. This was overruled on the ground that those points had never
+  been settled by judicial decisions. We suppose it is true that free colored people
+  have owned vessels, and participated in the peculiar privileges of American shipping
+  ever since the constitution was formed, that they have also had suits in the U.S.
+  Courts, and that they have received protections as American Citizens from British
+  impressment. And it seems incredible that this should have gone of 57 years, unquestioned,
+  if they were not in reality American citizens. </p> <p> What aid the definition
+  of Webster gives to the decision we do not see. “In the United States (a citizen
+  is) a person, native or naturalized, who has the privilege of exercising the elective
+  franchise, and of purchasing and holding real estate.” Now in seven states the persons
+  in question have the right of the elective franchise, and in all the right of purchasing
+  and holding realestate. Does not the definition then make against the decision rather
+  than for it? </p> <p> In this decision also Judge Daggett has gone in the face of
+  very high opinion. In the Convention of New York for amending the constitution,
+  on the motion to insert the word <em>white</em> before the words “ <em>male citizens,”</em>
+  in the article relating to the right of suffrage, Peter A. Jay said, “Is not the
+  right of suffrage a privilege? Can you deny it to a <em>citizen</em> of Pennsylvania,
+  who comes here and complies with your laws, merely because he is not six feet high,
+  or because he is of a dark complexion?’ Chancellor Kent said. </p> <p> “Suppose
+  a <em>negro</em> owning a freehold, and entitled to vote in Vermont, removes to
+  this state, can we constitutionally exclude him from the privilege of voting? The
+  constitution of the United States provides that <em>citizens</em> of each State
+  shall be entitled to all the privileges and immunities of citizens of the several
+  States.” </p> <p>Rufus King said</p> <p> ‘Take the fact that a <em>citizen of color</em>
+  entitled to all the privileges of a citizen, comes here—he purchases a freehold—can
+  you deny him the rights of an elector incident to his freehold? He is entitled to
+  vote because like <em>any other citizen</em> he is a freeholder, and ever freeholder
+  your laws entitle to vote.’ </p> <p>And again,</p> <p> “ <em> As certainly as the
+  children of any white men are citizen, so certainly the children of black men are
+  citizens.” </em> </p> <p>Abram Van Vechten said,</p> <p> ‘There is another and to
+  my mind an insuperable objection to the exclusion of free citizens of color from
+  the right of suffrage, arising from the provision of the Constitution of the U.S.
+  that the citizens of each State shall be entitled to all the privileges and immunities
+  of citizens in the several States.’ </p> <p> In 1826 De Witt Clinton demanded of
+  President Adams the release of ‘Gilbert Horton a free man of color and a citizen
+  of this state’ (New York) unlawfully imprisoned in the District of Columbia, on
+  the ground that he was ‘a free man and a citizen.’ </p> <p> We cannot believe with
+  Judge Daggett that the whole free colored population of our country is outlawed,
   that emancipation confers as privilege but that of rambling about. And we hope there
   is a higher appeal yet than the Supreme Court of blinded Connecticut before which
   this case may be tried. We believe the people of Canterbury and their abettors are
   heaping up for themselves a load of odium, which they will find it difficult to
   bear.” </p> "
 scholarlyNotes: 
-commentary: This appears to have content from William Jay's letter to Samuel May (see
-  here) which arrived too late for the trial, but was likely included in 1:11 (October
-  17) issue of <em>The Unionist</em>.
+commentary: This appears to incorporate content from <a href="https://sjsu-library.github.io/unionist/items/unionist--text-0144/">William
+  Jay's letter to Samuel May</a> which arrived too late for the trial, but was likely
+  included in the 1:11 (October 17, 1833) issue of <em>The Unionist</em>.
 relatedPeople: Prudence Crandall; David Daggett; Noah Webster; Peter A. Jay; Rufus
   King; Abram Van Vechten; De Witt Clinton; Gilbert Horton; John Quincy Adams
 featured: 

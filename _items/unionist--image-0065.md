@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0065
-title: WilliamLeeteStone
+title: William Leete Stone
 bibliographicCitation: By Jacques Reich (undoubtedly based on an earlier work by another
   artist) - Appletons&#039; Cyclopædia of American Biography, v. 5, 1900, p. 705,
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=13266462

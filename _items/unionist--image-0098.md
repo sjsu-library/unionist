@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0098
-title: Horse lost maybe McGuffey 1863
+title: Lost Horse, from a McGuffy Reader
 bibliographicCitation: 'William H. McGuffey, <em>McGuffey''s New First Eclectic Reader,
   for Young Learners</em>, Eclectic Educational Series. (Cincinnati and New York:
   Van Antwerp, Bragg and Co,, 1863), p. 69'

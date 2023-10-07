@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0014
-title: Declaration of First AA-SS meeting. Detail - ENGRAVING
+title: Declaration of First AA-SS meeting. Detail - engraving
 bibliographicCitation: "<span> [Philadelphia:] Merrihew &amp; Gunn, Printers, No.
   7 Carter’s Alley, [1833]. </span> Illustrated broadside on silk, 18.25” x 12”, plus
   margins."

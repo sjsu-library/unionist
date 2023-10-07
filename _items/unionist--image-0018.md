@@ -12,9 +12,9 @@ description: E. K. Avery was the accused, later acquited, in a notorious murder 
 language: English
 publisher: 
 IsPartOf: 
-rights: Ephraim Kingsbury Avery, unknown illustrator - Find a grave, Public Domain,
+rights: Public Domain
+source: Ephraim Kingsbury Avery, unknown illustrator - Find a grave, Public Domain,
   https://commons.wikimedia.org/w/index.php?curid=4016238
-source: 
 subject: 
 type: Image
 category: Image

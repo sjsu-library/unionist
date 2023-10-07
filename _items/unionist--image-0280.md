@@ -32,7 +32,7 @@ filename:
 caption: This letter is quite the melange of implied threats, mockery, and insults.
   This cartoon is provided for some historical perspective. It dates from 1856, and
   shows African-Americans manipulating American politics in the direction of disunion.
-  This canard is raised in this editorial, too, from 23 years previous.
+  This canard had been raised in this editorial, 23 years previous.
 order: '691'
 layout: items_item
 collection: items

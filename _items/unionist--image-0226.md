@@ -10,7 +10,7 @@ description: Thought bubble with word "Litigious"
 language: English
 publisher: 
 IsPartOf: 
-rights: unsure
+rights: unsure; can ask
 source: https://www.farrellfritz.com/rss-post/suing-on-behalf-of-people-youre-suing-can-sink-a-derivative-lawsuit-especially-if-you-have-a-litigious-nature/
 subject: 
 type: image

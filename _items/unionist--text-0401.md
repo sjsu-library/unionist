@@ -42,7 +42,8 @@ transcription: "<em>The Windham County Advertiser,</em> at Brooklyn, by J. Holbr
   ass, refuse to perform their ordinary duty. "
 scholarlyNotes: 
 commentary: Scurrilous attacks (though they are right about the printing!), hatred
-  of difference, sexism, racism, religious bigotry - it's all here!
+  of difference, sexism, racism, religious bigotry - it's all here! The <em>Columbian
+  Register</em> was, from beginning to end, the opponent of Abolition and racial equality.
 relatedPeople: Prudence Crandall; Calvin Philleo; James Holbrook
 featured: 
 repeated: 

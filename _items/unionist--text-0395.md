@@ -73,13 +73,21 @@ transcription: "<p>FEMALE ANTI-SLAVERY SOCIETY.</p> <p> On Tuesday afternoon las
   Managers. </em> </p> <p> Mrs. Syrena Sharpe, Miss Martha Smith, Mrs. Louisa Williams,
   Miss Olive Gilbert, Miss Martha E. Williams, Miss Elizabeth Mather. </p> "
 scholarlyNotes: 
-commentary: A very important announcement, that featured many key allies - and created
-  effects that we still are feeling today.
+commentary: 'A very important announcement, that featured many key allies - and created
+  effects that we still are feeling today. This was quite the all-star meeting for
+  <em>any</em> predominantly white Female Anti-Slavery Society, with Garrison, May,
+  and Charles Stuart in attendance, a letter from Lucretia Mott, and the list of officers
+  including Mary Burleigh (sister of <em>The Unionist</em> editors Charles and William,
+  and a co-teacher with Prudence Crandall at the Canterbury Female Academy), Sarah
+  Benson, a soon-to-be sister-in-law to Garrison, and the young Olive Gilbert, who
+  would go on to midwife the first edition of <em>The Narrative of Sojourner Truth</em>.
+  There are further records of the Brooklyn Female Anti-Slavery Society held in the
+  Connecticut State Library. '
 relatedPeople: Samuel J. May, William Lloyd Garrison; Charles Stuart; Lucretia Mott;
   Mrs. Herbert Williams; Maria W. Lyon; Mary Burleigh; Sarah Benson; Lucretia Lee;
   Syrena Sharpe; Martha Smith; Louisa Williams; Olive Gilbert; Martha E. Williams;
   Elizabeth Mather; Charles Stuart
-featured: 
+featured: 'Yes'
 repeated: 'yes'
 relatedImage: unionist--image-0247
 relatedText: 

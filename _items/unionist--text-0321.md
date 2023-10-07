@@ -19,7 +19,7 @@ articleType:
 volume: '1'
 issue: '36'
 transcription: "<em>Important Discovery.</em> —We are informed by two gentleman who
-  lately passed through Syracuse, that, N.Y. that Mr. Avery, proprietor of an extensive
+  lately passed through Syracuse, N.Y. that Mr. Avery, proprietor of an extensive
   iron foundry in that place, has made a most important discovery in relation to the
   casting of iron. The best kind of earth used in foundries, is brought we believe,
   from Canada. Mr. Avery analyzed this earth and found it to contain proportion of
@@ -32,14 +32,14 @@ transcription: "<em>Important Discovery.</em> —We are informed by two gentlema
   of iron foundries.— <em>Inquirer, Brattleboro.</em> "
 scholarlyNotes: 'p. 255-257 of this book has more information on Avery: https://quod.lib.umich.edu/m/moa/aja2321.0001.001/278?page=root;rgn=full+text;size=100;view=image'
 commentary: William Avery (1793-1840) was an inventor and manufactorer in New York
-  State. His Syracuse iron foundry, E. Lynds & Co, helped revolutionize transport
-  on the Great Lakes and the Erie Canal (see https://www.maritimehistoryofthegreatlakes.ca/Documents/Engines/default.asp?ID=s005
-  ). In his final years, he worked on the Illinois and Michigan Canal, but died suddenly
-  before his part of the job was complete. Prudence Crandall would later live near
-  the start of this canal in Mendota, Illinois. Avery had many patents to his name,
-  but the most important was the Avery rotary engine, as described here - https://uh.edu/engines/epi1884.htm
-  . An article in <em>Scientific American</em> March 17, 1894, p. 175-176 has more
-  information on the rotary engine.
+  State. His Syracuse iron foundry, E. Lynds & Co, helped <a href="https://www.maritimehistoryofthegreatlakes.ca/Documents/Engines/default.asp?ID=s005">revolutionize
+  transport</a> on the Great Lakes and the Erie Canal. In his final years, he worked
+  on the Illinois and Michigan Canal, but died suddenly before his part of the job
+  was complete. Prudence Crandall would later live near the start of this canal in
+  Mendota, Illinois. Avery had many patents to his name, but the most important was
+  the <a href="https://uh.edu/engines/epi1884.htm">Avery rotary engine</a>. An article
+  in <em>Scientific American</em> March 17, 1894, p. 175-176 has more information
+  on the rotary engine.
 relatedPeople: William Avery
 featured: 
 repeated: 

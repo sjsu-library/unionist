@@ -32,7 +32,7 @@
 
 
   <body>
-    <time datetime='2023-09-17 22:52'></time>
+    <time datetime='2023-10-07 21:12'></time>
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
  <div class='wax-inline-container'>
     <a class='navbar-brand' href="http://0.0.0.0:4000/unionist/" title='Home'>
@@ -201,11 +201,14 @@ Benjamin Watkins Leigh
       if (width < 500 || height < 500) {
         console.log ('too small!')
         var source = data.sequences[0].canvases[0].images[0].resource['@id']
+        var div = $('<div>')
+          .addClass('small-image-inner');
         var altText = 'Benjamin Watkins Leigh'
         var img = $('<img>')
           .attr('src', source)
-          .attr('alt', altText)
-        $('#osd').append(img);
+          .attr('alt', altText);
+        $(div).append(img);
+        $('#osd').append(div);
         return;
 
       }
@@ -328,7 +331,7 @@ Benjamin Watkins Leigh
     
       
         <dt>Rights</dt>
-        <dd>By James B. Longacre - http://bioguide.congress.gov/scripts/biodisplay.pl?index=L000232; http://museumcatalog.virginiahistory.org/final/ViewImage.aspx?template=Image&amp;field=DerivedIma&amp;hash=c069919e9e65c8c7d99bbb50e58f1630&amp;lang=en-US, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6315947</dd>
+        <dd>Public Domain</dd>
     
   
     

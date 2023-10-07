@@ -29,8 +29,9 @@ relatedImage:
 relatedText: unionist--text-0318
 relatedTextIssue: 1834-04-10 p.03.18
 filename: 
-caption: This wonderful blog post has many illustrations of temperance-themed materials
-  intended for children in the United Kingdom during the nineteenth-century. http://dishynews.blogspot.com/2014/06/the-temperance-movement-on-transferware.html
+caption: 'This wonderful <a href="http://dishynews.blogspot.com/2014/06/the-temperance-movement-on-transferware.html">blog
+  post</a> has many illustrations of temperance-themed materials intended for children
+  in the United Kingdom during the nineteenth-century. '
 order: '741'
 layout: items_item
 collection: items

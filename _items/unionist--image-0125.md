@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0125
-title: https://youtu.be/0hQ2wZwUZXE
+title: Friesian Blood Horses
 bibliographicCitation: https://www.friesianbloodhorseregistry.com/friesians-n-motion
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -10,8 +10,8 @@ description: Two blood horses exercising
 language: English
 publisher: 
 IsPartOf: 
-rights: https://www.friesianbloodhorseregistry.com/friesians-n-motion
-source: 
+rights: unsure; can ask
+source: https://www.friesianbloodhorseregistry.com/friesians-n-motion
 subject: 
 type: movingimage
 category: Image

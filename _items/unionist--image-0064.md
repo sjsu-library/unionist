@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0064
-title: ThomasJeffersonStatue
+title: Thomas Jefferson Statue
 bibliographicCitation: https://news.artnet.com/art-world/thomas-jefferson-statue-headed-new-york-historical-society-2035662
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 

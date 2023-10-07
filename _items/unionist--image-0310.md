@@ -30,7 +30,8 @@ relatedImage:
 relatedText: unionist--text-0325
 relatedTextIssue: 1834-04-10 p.03.25
 filename: 
-caption: The Libby jail break of the Civil War; see [here for more information] (https://en.wikipedia.org/wiki/Libby_Prison_escape)
+caption: This is an engraving of the <a href="https://en.wikipedia.org/wiki/Libby_Prison_escape">Libby
+  jail break during the Civil War</a>.
 order: '721'
 layout: items_item
 collection: items
