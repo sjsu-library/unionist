@@ -45,11 +45,6 @@
       "label": "The Unionist picture and slogan"
     },
     {
-      "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/Unionist--image-0164/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "Unionist--image-0164"
-    },
-    {
       "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/Windham County Map/manifest.json",
       "@type": "sc:Manifest",
       "label": "Windham County Map"
@@ -863,6 +858,11 @@
       "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/unionist--image-0163/manifest.json",
       "@type": "sc:Manifest",
       "label": "unionist--image-0163"
+    },
+    {
+      "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/unionist--image-0164/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "unionist--image-0164"
     },
     {
       "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/unionist--image-0165/manifest.json",
