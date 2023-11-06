@@ -159,7 +159,7 @@ transcription: "<p>DECLARATION OF THE NATIONAL ANTI-SLAVERY CONVENTION.</p> <p> 
   B. Russell, </p> <p> Nathan Winslow,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   David Jones, </p> <p> Jos Southwick, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Enoch Mack, 2d. </p> <p> Jas. F. Otis;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  James Loughhead. </p> <p> Isaac Winslow . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  James Loughhead. </p> <p> Isaac Winslow.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   J. McCullough. </p> <p> David Cambell,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   E.P. Atlee, </p> <p> Orson S. Murray,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   J.M.McKim, </p> <p> D.S.Southmayd,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -169,15 +169,15 @@ transcription: "<p>DECLARATION OF THE NATIONAL ANTI-SLAVERY CONVENTION.</p> <p> 
   G.W. Benson, </p> <p> J.G. Whittier,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Samuel J. May, </p> <p> H.P. Wakefield,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   A. Kingsley, Jr, </p> <p> J.G. Barbadoes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Edwin A Stillman, </p> <p> D.T. Kimball, Jr . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Edwin A Stillman, </p> <p> D.T. Kimball, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   S.S. Jocelyn, </p> <p> D.E. Jewett,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   R.B.Hall, </p> <p> J.R. Cambell,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Beriah Green, </p> <p> N. Southard,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Lewis Tappan, </p> <p> Arnold Bufum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  John Rankin, </p> <p> Wm. Green, Jr . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  John Rankin, </p> <p> Wm. Green, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Aaron Vickers, </p> <p> A.L. Cox,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   John R. Sleeper, </p> <p> Wm. Goodell,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  L. Gillingham, </p> <p> Elizur Wright, Jr . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  L. Gillingham, </p> <p> Elizur Wright, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   John Sharpe, Jr. </p> <p> C.W. Denison,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   James Mott </p> <p> John Frost,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   James White, </p> <p> Geo. Bourne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -212,23 +212,23 @@ commentary: 'There is much to add, relevant to <em>The Unionist</em> and the Can
   1833) </p><p>In a pair of motions intimately related to the Canterbury Female Academy,
   the convention expressed its appreciation of education in general, and Canterbury
   in particular.</p> <p>"On motion of Simeon S. Jocelyn, seconded by Amos A. Phelps,
-  it was</p> <p> Resolved . &nbsp; That the fountains of knowledge, like those of
-  salvation, should be open to every creature, and that we regard those laws and prejudices
-  which prevent or restrict the education of the people of color, bond or free, as
-  pre-eminently cruel and impious, and disgraceful to a christian state or nation;
-  and that we will seek their abolishment, both in the free and slave States, if possible
-  more earnestly than corporeal slavery itself, in as much as ignorance enslaves the
-  mind, and tends to the ruin of the immortal soul. </p> <p>On motion of John Prentice,
-  seconded by William Goodell, it was</p> <p> Resolved, That this convention highly
-  approve of the philanthropic effort of Miss Prudence Crandall of Canterbury, Conn.
-  in her labors to instruct our colored sisters; and while we deeply sympathize with
-  her in view of the persecutions she has endured in the prosecution of her pious
-  purposes, we pledge ourselves to afford her our continued countenance and assistance"
-  <em>The Abolitionist</em> 1:12:184 (December 1833) Goodell was the editor of <em>The
-  Genius of Temperance</em>; Jocelyn and Phelps were both endorsers of the Canterbury
-  Female Academy. </p> <p> <em>The Abolitionist</em> in that same December issue also
-  published a letter from Charles Stuart to William Lloyd Garrison, that made reference
-  also to letters from Buffum and Forten: "Many hearts are beating here for the glorious
+  it was</p> <p> Resolved.&nbsp; That the fountains of knowledge, like those of salvation,
+  should be open to every creature, and that we regard those laws and prejudices which
+  prevent or restrict the education of the people of color, bond or free, as pre-eminently
+  cruel and impious, and disgraceful to a christian state or nation; and that we will
+  seek their abolishment, both in the free and slave States, if possible more earnestly
+  than corporeal slavery itself, in as much as ignorance enslaves the mind, and tends
+  to the ruin of the immortal soul. </p> <p>On motion of John Prentice, seconded by
+  William Goodell, it was</p> <p> Resolved, That this convention highly approve of
+  the philanthropic effort of Miss Prudence Crandall of Canterbury, Conn. in her labors
+  to instruct our colored sisters; and while we deeply sympathize with her in view
+  of the persecutions she has endured in the prosecution of her pious purposes, we
+  pledge ourselves to afford her our continued countenance and assistance" <em>The
+  Abolitionist</em> 1:12:184 (December 1833) Goodell was the editor of <em>The Genius
+  of Temperance</em>; Jocelyn and Phelps were both endorsers of the Canterbury Female
+  Academy. </p> <p> <em>The Abolitionist</em> in that same December issue also published
+  a letter from Charles Stuart to William Lloyd Garrison, that made reference also
+  to letters from Buffum and Forten: "Many hearts are beating here for the glorious
   Prudence Crandall. Some of my young friends are working little parcels of presents
   for me to take to her dear pupils in the Spring." (written from Liverpool) </p>
   <p> Samuel Joseph May and John G. Whittier worked with the principal author, William

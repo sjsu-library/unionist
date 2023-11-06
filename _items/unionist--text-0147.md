@@ -86,7 +86,7 @@ transcription: '<p align="center">ANOTHER SPECIMEN!!</p> <p><em>To the Editor of
   <em>‘Canterbury law’</em> has no effect in this case, for the subject is not a <em>‘foreigner.’</em>
   ” </p> <p> The foregoing facts may be relied on, for we have received them from
   those who are immediately acquainted with the circumstances. </p> <p> The Unionist
-  and Emancipator will confer a favor by copying this article . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  and Emancipator will confer a favor by copying this article.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   TRUTH </p> <p>MIDDLETOWN, Conn. Sept. 1833.</p> <p></p> '
 scholarlyNotes: Check the Emancipator for their republication date
 commentary: This article contains a request for The Unionist to republish this article.

@@ -20,7 +20,7 @@ articleType:
 volume: '1'
 issue: '36'
 transcription: 'A FEW copies of Mrs. Child’s “Appeal in behalf of that class of Americans
-  called Africans.” Just received and for sale at this office . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  called Africans.” Just received and for sale at this office.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   March 6 '
 scholarlyNotes: 
 commentary: 

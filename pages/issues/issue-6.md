@@ -41,6 +41,6 @@ Issue 6 Scanned
 From the collection of the American Antiquarian Society.
 
 Metadata records for individual pages:
-- [Page One](http://0.0.0.0:4000/unionist/items/unionist--image-0084/)
-- [Pages Two and Three](http://0.0.0.0:4000/unionist/items/unionist--image-0085/)
-- [Page Four](http://0.0.0.0:4000/unionist/items/unionist--image-0086/)
+- [Page One](/unionist/items/unionist--image-0084/)
+- [Pages Two and Three](/unionist/items/unionist--image-0085/)
+- [Page Four](/unionist/items/unionist--image-0086/)

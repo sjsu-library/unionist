@@ -105,7 +105,7 @@ transcription: '<p> It is almost mathematically certain that the Colonization So
   quite as well. He saw distinctly as did many others that his cause on the main was
   right; and many now perceive, (their number fast increasing) that the prominent
   features of the abolitionists are those of truth and justice, and will most assuredly
-  prevail . &nbsp;&nbsp; N.B. (author) </p> '
+  prevail.&nbsp;&nbsp; N.B. (author) </p> '
 scholarlyNotes: 
 commentary: 
 relatedPeople: William Wilberforce; William Lloyd Garrison

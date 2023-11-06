@@ -33,7 +33,7 @@ transcription: '<p align="right">FOR THE UNIONIST.</p> <p> MR EDITOR,—I was pl
   sound morals it is to be hoped you will not let this subject drop. You will be sustained
   by this community, and by exposing the unequal operations of the militia law, its
   uselessness, &amp; its pernicious consequences, you will merit and receive the thanks
-  of the people . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  of the people.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   W. </p> <p> P.S. I am obliged to you Mr Editor, for the definition of the term “spirit-stirring-drum.”
   There are some other terms in the soldiers vocabulary that require a satisfactory
   explanation. </p> <p></p> '

@@ -28,7 +28,7 @@ transcription: '<p> At a Court of Probate holden at Killingly within and for the
   the appointment of Commissioners on said estate, by posting said order of notice
   on a public sign post in said town of Killingly, and by advertising the same in
   a newspaper rpublished in Brooklyn in the County of Windham at least 20 days before
-  said first Monday of November . &nbsp;&nbsp; THOMAS BACKUS. </p> <p></p> '
+  said first Monday of November.&nbsp;&nbsp; THOMAS BACKUS. </p> <p></p> '
 scholarlyNotes: Running this notice long after the dates listed had passed - why?
 commentary: 
 relatedPeople: Thomas Backus (probate judge); Thomas Barrows (probate case)

@@ -24,7 +24,9 @@ transcription: "<p> WANTED, a Horse of about 6 or 7 years old that can be warran
   to J.B. Whitcomb. </p> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Brooklyn, August 29, 1833. </p> "
 scholarlyNotes: 
-commentary: 
+commentary: James Whitcomb was a prominent white medical doctor, and a stalwart Abolitionist
+  who played a part in the "calling" of Charles C. Burleigh to the editorship of <em>The
+  Unionist</em>. History does not record if he obtained the desired horse.
 relatedPeople: J.B. Whitcomb
 featured: 
 repeated: 

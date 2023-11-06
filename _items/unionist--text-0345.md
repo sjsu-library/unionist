@@ -25,7 +25,7 @@ transcription: "<p>PRENTICE &amp; TIBBITS,</p> <p><em>(Merchant Tailors,)</em></
   will be sold at fair prices to <em>good</em> customers. They also make clothes of
   every description, to order in a style of worksmanship not inferior to any in this
   country. The orders of their friends and customers will be punctually attend to.
-  </p> <p> Providence. December, 1833 . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </p> <p> Providence. December, 1833.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   22 </p> "
 scholarlyNotes: 
 commentary: 'John Prentice and Daniel Tibbits listed themselves as tailors on <a href="https://onerhodeislandfamily.files.wordpress.com/2021/06/10bf5-pages-from-1834-ri-petition-bank-of-the-us.pdf"

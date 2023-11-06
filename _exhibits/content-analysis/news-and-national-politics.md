@@ -58,9 +58,14 @@ permalink: /essays/news-and-national-politics/
 </div>
 </div>
 
-The Unionist</em> was published during the tumultuous second term of President Andrew Jackson, and it was a decidedly anti-Jacksonian paper. Every complete issue makes this evident, with support for Whig and Anti-Masonic candidates, and fulminating against the President’s position in the Banking crisis. Of course, most of the opponents of the Canterbury Female Academy – such as Andrew Judson, Philip Pearl, and James Holbrook, editor of the <em>Windham Advertiser</em> - were Jacksonian Democrats. However opposed the Abolitionists were to the anti-Abolitionist President Jackson and his uncouth ways and followers, it was precisely this Jacksonian populism that enriched the “media environment” with more newspapers and more robust discussion.
+<p><em>The Unionist</em> was published during the tumultuous second term of President Andrew Jackson, and it was a decidedly anti-Jacksonian paper. Every complete issue makes this evident, with support for Whig and Anti-Masonic candidates, and fulminating against the President’s position in the Banking crisis. Of course, most of the opponents of the Canterbury Female Academy – such as Andrew Judson, Philip Pearl, and James Holbrook, editor of the <em>Windham Advertiser</em> - were Jacksonian Democrats. However opposed the Abolitionists were to the anti-Abolitionist President Jackson and his uncouth ways and followers, it was precisely this Jacksonian populism that enriched the “media environment” with more newspapers and more robust discussion.</p>
+<p><em>The Unionist</em> covered some major news stories, and followed the journalistic procedure of reprinting short notices from other newspapers. Due to the connection with Arthur Tappan, <em>The Unionist</em> was also tied in to the evangelical press in New York, giving it access to stories from <em>The Genius of Temperance</em> and the <em>Chinese Repository</em>, the latter being an organ of Protestant missionaries in China.</p>
 
-<em>The Unionist</em> covered some major news stories, and followed the journalistic procedure of reprinting short notices from other newspapers. Due to the connection with Arthur Tappan, <em>The Unionist</em> was also tied in to the evangelical press in New York, giving it access to stories from <em>The Genius of Temperance</em> and the <em>Chinese Repository</em>, the latter being an organ of Protestant missionaries in China.
+<p><em>For Further Reference</em></p>
 
+- Huntzicker, William. *The Popular Press, 1833–1865*. Westport, CT: Greenwood Press, 1999.
+- Richards, Leonard L. *"Gentlemen of Property and Standing:" Anti-Abolition Mobs in Jacksonian America*. New York: Oxford University Press, 1970
+- Sinha, Manisha. *The Slave’s Cause: A History of Abolition*. New Haven: Yale University Press, 2016.
+- Werner, John M. *Reaping the Bloody Harvest: Race Riots in the United States during the Age of Jackson 1824-1849*. New York: Garland, 1986.
 
 {% include inline_image.html collection='items' pid='unionist--image-0153' %}

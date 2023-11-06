@@ -14,7 +14,7 @@ rights: Own Work
 source: 
 subject: 
 type: image
-category: image
+category: Image
 articleType: 
 volume: 
 issue: 
@@ -28,11 +28,11 @@ relatedImage:
 relatedText: unionist--article-0003
 relatedTextIssue: 
 filename: 
-caption: 
+caption: Grave of Mariah Davis Harris
 order: '786'
 layout: items_item
 collection: items
-thumbnail: 
-manifest: 
-full: 
+thumbnail: "/img/derivatives/iiif/images/unionist--image-0375/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/unionist--image-0375/manifest.json"
+full: "/img/derivatives/iiif/images/unionist--image-0375/full/1140,/0/default.jpg"
 ---

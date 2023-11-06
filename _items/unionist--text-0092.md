@@ -532,12 +532,14 @@ transcription: '<p align="center">THE UNIONIST.</p> <p align="center">BROOKLYN, 
   not having agreed. The third time they stated to the court that there was no probability
   that they should ever agree. The court then discharged them. This operates as a
   continuance of the case to the next term of the County Court to be holden on the
-  second Tuesday of December next . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  second Tuesday of December next.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   F. </p> '
 scholarlyNotes: 
-commentary: 'These trial records are vital to understanding not only the fate of the
+commentary: These trial records are vital to understanding not only the fate of the
   Canterbury Female Academy, but the entire legal history of Civil Rights in the United
-  States. '
+  States. Despite their obvious differences of opinion, Charles C. Burleigh studied
+  law with Judge Joseph Eaton, the presiding judge at this trial and the trial of
+  Frederick Olney in March 1834.
 relatedPeople: Eliza Glasko; Paul Cuffee; Prudence Crandall; Jonathan Welch; Ichabod
   Bulkley; Calvin Goddard; William W. Ellsworth; Henry Strong; Ann Eliza Hammond;
   Paul Cuffee; Noah Webster; Joseph K. Eaton; Andrew Judson

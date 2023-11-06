@@ -41,7 +41,7 @@ Issue 36 Scanned
 From the collection of the Library of Congress.
 
 Metadata records for individual pages:
-- [Page One](http://0.0.0.0:4000/unionist/items/unionist--image-0091/)
-- [Page Two](http://0.0.0.0:4000/unionist/items/unionist--image-0092/)
-- [Page Three](http://0.0.0.0:4000/unionist/items/unionist--image-0093/)
-- [Page Four](http://0.0.0.0:4000/unionist/items/unionist--image-0094/)
+- [Page One](/unionist/items/unionist--image-0091/)
+- [Page Two](/unionist/items/unionist--image-0092/)
+- [Page Three](/unionist/items/unionist--image-0093/)
+- [Page Four](/unionist/items/unionist--image-0094/)

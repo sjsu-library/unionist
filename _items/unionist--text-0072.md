@@ -22,7 +22,7 @@ transcription: '<p align="center"><strong>Prudence Crandall</strong></p> <p alig
   Principal of the Canterbury, (Con.) Female Boarding School. </p> <p> RETURNS her
   most sincere thanks for those who have patronized her School, and would give information
   that on the first Monday of April next, her School will be opened for the reception
-  of young Ladies and little Misses of color . &nbsp; The branches taught are as follows:—Reading,
+  of young Ladies and little Misses of color.&nbsp; The branches taught are as follows:—Reading,
   Writing, Arithmetic, English Grammar, Geography, History, Natural and Moral Philosophy,
   Chemistry, Astronomy, Drawing and Painting, Music on the Piano, together with the
   French language. </p> <p> ☞The terms, including <em>board, washing</em> , and tuition,

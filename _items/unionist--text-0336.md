@@ -23,18 +23,21 @@ transcription: "<p> MEDICAL. The Windham County Medical Society will hold their 
   at 11 o’clock A.M. </p> <p> JAMES B. WHITCOMB <em>Clerk.</em> </p> "
 scholarlyNotes: Link to Celia Burleigh in Burleigh project eventually
 commentary: 'James Whitcomb (1804-1880) was a prominent figure in Windham county for
-  many decades. In addition to his medical work - which was extensive - he was a founding
-  member and first corresponding secretary of the Brooklyn (CT) Anti-Slavery Society
-  in 1835. His first wife, Mary Louisa Whitcomb, was a charter member of the Brooklyn
-  Female Anti-Slavery Society. He was a friend to the Benson family, and was known
-  by the young William Lloyd Garrison. He was credited with using his house as a station
-  on the Underground Railroad; see Horatio T. Strother, <em>The Underground Railroad
-  in Connecticut</em> (Middletown CT: Wesleyan University Press, 1962), p. 134, 211.
-  Whitcomb served as a surgeon in the Civil War, a war in which his son Edwin perished.
-  After the war, as a member of the Unitarian Society in Brooklyn, he invited Celia
-  Burleigh to preach - one of the first women to be an official preacher in Connecticut.
-  Celia Burleigh was the second wife, and later widow, of Unionist co-editor William
-  H. Burleigh'
+  many decades. He was already deeply engaged in defense of the Canterbury Female
+  Academy when <emThe Unionist</em> was started, since he is noted as accompanying
+  Samuel J. May to the "calling" of Charles Burleigh to its editorship (see letter
+  of Gertrude Kimber Burleigh to Samuel May, Jr., November 14, 1857). In addition
+  to his medical work - which was extensive - he was a founding member and first corresponding
+  secretary of the Brooklyn (CT) Anti-Slavery Society in 1835. His first wife, Mary
+  Louisa Whitcomb, was a charter member of the Brooklyn Female Anti-Slavery Society.
+  He was a friend to the Benson family, and was known by the young William Lloyd Garrison.
+  He was credited with using his house as a station on the Underground Railroad; see
+  Horatio T. Strother, <em>The Underground Railroad in Connecticut</em> (Middletown
+  CT: Wesleyan University Press, 1962), p. 134, 211. Whitcomb served as a surgeon
+  in the Civil War, a war in which his son Edwin perished. After the war, as a member
+  of the Unitarian Society in Brooklyn, he invited Celia Burleigh to preach - one
+  of the first women to be an official preacher in Connecticut. Celia Burleigh was
+  the second wife, and later widow, of Unionist co-editor William H. Burleigh'
 relatedPeople: James Whitcomb
 featured: 
 repeated: 

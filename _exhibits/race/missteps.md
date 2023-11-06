@@ -32,6 +32,9 @@ permalink: /essays/missteps/
     <a class="nav-link" href="/unionist/essays/frederick-olney/">The Trial of Frederick Olney</a>
   </li>
   <li class="nav-item">
+    <a class="nav-link" href="/unionist/essays/black-womens-education-and-literary-societies/">Black Women's Education and Literary Societies</a>
+  </li>
+  <li class="nav-item">
     <a class="nav-link" href="/unionist/essays/african-american-presence-and-absence/">African-American Presence and Absence</a>
   </li>
   <li class="nav-item">
@@ -46,12 +49,14 @@ permalink: /essays/missteps/
 </div>
 
 
-While the three trials under the Black Law are well-known to Abolitionist scholars, the trial of Frederick Olney speaks most directly to the continuation of racism in the criminal justice system today. <em>The Unionist</em> is the principle source of information on this trial. Here is what happened. On January 28, 1834, Frederick Olney arrived at the Canterbury Female Academy with a care package for one of the students, G.C. Marshall. He stayed to visit with Maria Davis Harris and her husband Charles Harris, and to repair a clock for Prudence Crandall. During this relaxed social time, one of the students called out that there was a fire. Olney sprung into action, determined the source of the fire from outside, and, with some help put out this attempt at arson. The students and Crandall rightly hailed him as a hero. But the white opposition in Canterbury needed to deflect attention away from themselves, and so a few days later they had Olney arrested and accused him of having set the fire! The trial took place March 6-8, 1834, and at least five students testified. Many insurance adjustors did too. What the trial definitively proved was that the fire had been an intentional one. But it was equally clear that it had not been set by Olney from inside the house: he was acquitted in speedy fashion (and remember, the jury would have been all white men). What was it that made this attempt to frame a Black man such an abysmal failure? Given how rarely this sort of white legal assault against Black men doesn’t work, it is worth examining further – and the answer lies in the trial transcriptions of <em>The Unionist</em>. Elizabeth Marshall  - the mother of the student who received the care package – had received a note from Olney, posted prior to the fire, that confirmed his reason for being at the school. Though she was illiterate, her elder daughter read it to her, and together they travelled to Canterbury to defend their friend, a Black man being framed. This may be the single most important document in <em>The Unionist</em> for revealing the unity of Black and white, male and female, communities that constituted the environment in which the Canterbury Female Academy existed.
+<p>Anti-racist politics rarely run smoothly, because the reason the anti-racism is necessary stems from the lack of living, fruitful contact between the races. The white Abolitionists were the first major group of white people to take the task and magnitude of anti-racism seriously. The African-American Rev. Theodore Wright, one of the endorsers of the Canterbury Female Academy, stated that white “Abolitionists must annihilate in their own bosoms the cord of caste.” Samuel J. May indicated that Crandall had done that, but feared (correctly) that her white neighbors had not: “Some may here wish to ask why Miss Crandall did not first consult her patrons, the parents of those, who were already in her school? Her answer is, She foresaw that there would be the same kind of opposition in their bosoms, which she had quelled in her own. Their opinions and feelings could not help her to decide what was her duty.” Most of the serious missteps happen early in the print run of <em>The Unionist</em>, but given how much material we lack, any such extrapolation is hinged with uncertainty. The errors into which the paper falls include patronizing language, stereotyping the passive, gentle slave (what would later be called “Uncle Tom-ism”), and assuming that once enslaved people were free, they would adopt Western civilization wholesale.</p>
+
+<p><em>For Further Reference</em></p>
+
+- Kendi, Ibram X. *Stamped from the Beginning: The Definitive History of Racist Ideas in America*. New York: Nation Books, 2016.
+- Wright, Theodore S. “The Progress of the Antislavery Cause” (1837). In Carter G. Woodson, editor. *Negro Orators and Their Orations*. Washington DC: The Associated Publishers, Inc., 1925.
 
 {% include inline_text.html collection='items' pid='unionist--text-0076' %}
-
 {% include inline_text.html collection='items' pid='unionist--text-0083' %}
-
 {% include inline_text.html collection='items' pid='unionist--text-0020' %}
-
 {% include inline_image.html collection='items' pid='unionist--image-0368' %}

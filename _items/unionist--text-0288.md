@@ -25,7 +25,7 @@ transcription: "<p>PRENTICE &amp; TIBBITS,</p> <p><em>(Merchant Tailors,)</em></
   will be sold at fair prices to <em>good</em> customers. They also make clothes of
   every description, to order in a style of worksmanship not inferior to any in this
   country. The orders of their friends and customers will be punctually attended to.
-  </p> <p> Providence. December, 1833 . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </p> <p> Providence. December, 1833.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   22 </p> "
 scholarlyNotes: 
 commentary: 'John Prentice and Daniel Tibbets were men of strong anti-slavery sentiments.
@@ -34,8 +34,8 @@ commentary: 'John Prentice and Daniel Tibbets were men of strong anti-slavery se
   Canterbury Female Academy. Similarly, he was in the Providence Anti-Slavery Association,
   where, in 1833, he served as Treasurer. Others on the board include Henry E. Benson
   and Ray Potter. <p> Providence Anti-Slavery Society; <em>The Reports and Proceedings
-  of the First Annual Meeting of the Providence Anti-Slavery Society . &nbsp; With
-  a Brief Exposition of the Principles and Purposes of the Abolitionists . &nbsp;</em>
+  of the First Annual Meeting of the Providence Anti-Slavery Society.&nbsp; With a
+  Brief Exposition of the Principles and Purposes of the Abolitionists.&nbsp;</em>
   Providence: H.H.Brown, 1833 </p> In May 1834, both Prentice and Tibbets signed <a
   href="https://onerhodeislandfamily.files.wordpress.com/2021/06/10bf5-pages-from-1834-ri-petition-bank-of-the-us.pdf">a
   petition to President Jackson</a> protesting the Bank situation.'

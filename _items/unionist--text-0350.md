@@ -18,8 +18,8 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: "<p> FOR SALE—300 white mulberry trees suitable for transplanting .
-  &nbsp;&nbsp;&nbsp;&nbsp; S.BARROWS. </p> <p> Brooklyn, March 20 . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+transcription: "<p> FOR SALE—300 white mulberry trees suitable for transplanting.&nbsp;&nbsp;&nbsp;&nbsp;
+  S.BARROWS. </p> <p> Brooklyn, March 20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   33tf </p> "
 scholarlyNotes: 
 commentary: 'Sylvester Barrows (1801-1876) was a minister as well as a horticulturist.

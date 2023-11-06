@@ -24,7 +24,7 @@ transcription: "<p>FROM THE BROOKLYN UNIONIST, AUGUST 29.</p> <p>TRIAL OF MISS P
   CRANDALL.</p> <p>Windham County ss. County Court August term A.D. 1833.</p> <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; State of Connecticut
   </p> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <em> vs . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em> vs.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </em> information on the Statute, &amp;c. </p> <p>Prudence Crandall</p> <p> Miss
   Crandall was originally brought before Rufus Adams, Esq. a Justice of the Peace
   for Windham County, by a warrant issued by him on a complaint by the Grand Juror
@@ -38,7 +38,7 @@ transcription: "<p>FROM THE BROOKLYN UNIONIST, AUGUST 29.</p> <p>TRIAL OF MISS P
   to prison. The cause came on for trial before the County Court on Friday, August
   23d: C.F. Cleaveland, Esq. the Attorney for the State, being absent from indisposition,
   the Court appointed Jonathan A. Welch, Esq. special attorney to conduct the prosecution.
-  A.T. Judson and I. Bulkley, Esqrs. were associate counsel . &nbsp; Hon. Calvin Goddard,
+  A.T. Judson and I. Bulkley, Esqrs. were associate counsel.&nbsp; Hon. Calvin Goddard,
   Hon. W. W. Ellsworth and Henry Strong, Esq. appeared for the defence. The jury being
   empannelled and sworn, the counsel for the defence objected to one of the jurors
   from Canterbury on the ground that he had signed petitions, &amp;c. in respect to
@@ -104,10 +104,10 @@ transcription: "<p>FROM THE BROOKLYN UNIONIST, AUGUST 29.</p> <p>TRIAL OF MISS P
   in reply, said he apprehended the question to be whether the Legislature possessed
   the power to compel a witness to convict himself. He read from the opinion of Chief
   Justice Hosmer, in the 8 <sup>th</sup> Con. Rep. and also from the case of the people
-  vs. Mather, in 4 <sup>th</sup> Wendell’s Reps on the subject of examining witnesses
-  . &nbsp; By the principles decided these cases, which were the settled law of the
-  land, he claimed that the witness was not compelled to answer any questions in relation
-  to her knowledge of this school. The Court decided that the witness, under the circumstances,
+  vs. Mather, in 4 <sup>th</sup> Wendell’s Reps on the subject of examining witnesses.&nbsp;
+  By the principles decided these cases, which were the settled law of the land, he
+  claimed that the witness was not compelled to answer any questions in relation to
+  her knowledge of this school. The Court decided that the witness, under the circumstances,
   was not protected, but must be examined.—The examination was about to proceed, when
   Mr. Ellsworth rose and stated to the Court that the witness had been advised not
   to answer interrogatories in regard to her knowledge of this school. He felt it

@@ -22,8 +22,8 @@ issue: '36'
 transcription: "<p> STRAY COW.—Broke into the inclosure of the subscriber on Thursday
   last, a pale red COW, about eight or nine years old, a small burst on her left side,
   horns stand straight up, about the ordinary size. The owner is requested to prove
-  property, pay charges and take her away . &nbsp;&nbsp;&nbsp; GEORGE BENNETT. </p>
-  <p> Brooklyn, Feb. 18, 1834 . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  property, pay charges and take her away.&nbsp;&nbsp;&nbsp; GEORGE BENNETT. </p>
+  <p> Brooklyn, Feb. 18, 1834.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   30 </p> <p></p> "
 scholarlyNotes: 
 commentary: 'George W. Bennett (1777-1841) has a <a href="https://www.findagrave.com/memorial/50445968/george-w-bennett">Find-a-Grave</a>

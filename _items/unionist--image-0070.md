@@ -28,7 +28,11 @@ relatedImage:
 relatedText: unionist--text-0004
 relatedTextIssue: 
 filename: 
-caption: Photograph of William Goodell (1792-1878), editor of <em>The Genius of Temperance</em>
+caption: Photograph of William Goodell (1792-1878), editor of <em>The Genius of Temperance</em>.
+  Goodell's contributions to the reform movements are undervalued; he connected Abolition
+  to Black citizenship, women's rights, labor, and critique of market economics. He
+  was especially galvanized by Crandall's school. See Julie Holcumb, <em>Moral Commerce</em>,
+  143-144, and fn. 86 p. 232.
 order: '481'
 layout: items_item
 collection: items

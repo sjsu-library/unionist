@@ -21,7 +21,7 @@ issue: '36'
 transcription: 'AGENTS WANTED.—Individuals wishing to travel in different sections
   of the United States will find steady employment during the year, circulating valuable
   and interesting publications, by calling upon the subscribers, HUTCHINSON &amp;
-  DWIER, or B.B.BARBER&nbsp; – Hartford, February 1834 . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  DWIER, or B.B.BARBER&nbsp; – Hartford, February 1834.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   m6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   22 '
 scholarlyNotes: 

@@ -69,6 +69,9 @@ permalink: /essays/
     <a href="/unionist/essays/frederick-olney/">The Trial of Frederick Olney</a>
   </li>
   <li>
+    <a href="/unionist/essays/black-womens-education-and-literary-societies/">Black Women's Education and Literary Societies</a>
+  </li>
+  <li>
     <a href="/unionist/essays/african-american-presence-and-absence/">African-American Presence and Absence</a>
   </li>
   <li>

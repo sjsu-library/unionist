@@ -33,7 +33,7 @@ transcription: '<p align="center">Poetry</p> <p align="center">From the Unionist
   For peace and pleasure given: </p> <p>But one by one his hopes decay,</p> <p>Each
   flattering vision fades away,</p> <p>Each cheering scene charms to betray,</p> <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And nought remains
-  but Heaven. </p> <p> Windham, April 21 . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  but Heaven. </p> <p> Windham, April 21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   JULIA </p> '
 scholarlyNotes: Impossible to guess responsibly when this may have been published
 commentary: As was a common practice, poetry was one of the areas in which women's

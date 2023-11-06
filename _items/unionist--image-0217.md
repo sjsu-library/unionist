@@ -30,9 +30,12 @@ relatedText: unionist--text-0185; unionist--text-0275; unionist--text-0352; unio
 relatedTextIssue: 1833-12-19 p.03.31; 1834-03-13 p.04.39; 1834-04-10 p.03.52; 1834-04-10
   p.04.84
 filename: 
-caption: The full salutation reads "With desires for thy continual advancement in
+caption: 'The full salutation reads "With desires for thy continual advancement in
   the glorious principal of truth and righteousness, I remain as ever thy sincere
-  friend, L. White"
+  friend, L. White." Lydia White''s Free Produce store pre-dates <em>The Liberator</em>,
+  having started in 1830, and extended to 1846, making it among the longest-lived
+  of these ventures. See Julie L. Holcumb, <em>Moral Commerce: Quakers and the Transatlantic
+  Boycott o the Slave Labor Economy</em> for more on Lydia White.'
 order: '628'
 layout: items_item
 collection: items

@@ -5,7 +5,7 @@ show_title: false
 ---
 
 <div class="hero-banner full-width">
-  <img src="img/unionist-hero17.png">
+  <img src="img/unionist-hero17.jpg">
 </div>
 
 <h3>Connecticut's First Immediate Abolitionist Newspaper</h3>
@@ -24,7 +24,7 @@ show_title: false
     </li>
  <li><a href="explore/issues/?issue=6">September 5, 1833, Issue 6</a> – American Antiquarian Society
     </li>
-<li><a href="explore/issues/?issue=20">December 9, 1833, Issue 20</a> – Library of Congress
+<li><a href="explore/issues/?issue=20">December 19, 1833, Issue 20</a> – Library of Congress
     </li>
 <li><a href="explore/issues/?issue=32">March 13, 1834, Issue 32</a> – New-York Historical Society Library
     </li>

@@ -15,7 +15,7 @@ rights: Public Domain
 source: https://archive.org/details/reportarguments00bargoog/page/n4/mode/2up?q=crandall
 subject: 
 type: image
-category: image
+category: Image
 articleType: 
 volume: 
 issue: 
