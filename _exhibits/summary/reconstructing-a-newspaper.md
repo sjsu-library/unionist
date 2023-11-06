@@ -26,7 +26,7 @@ permalink: /essays/reconstructing-a-newspaper/
 </div>
 <div class='section-nav-wrapper'>
 <div class='section-nav'>
-<h4>Race - Essays in this Section</h4>
+<h4>Summary - Essays in this Section</h4>
 <ul class="nav nav-pills">
   <li class="nav-item">
     <a class="nav-link" href="/unionist/essays/the-burleigh-family/">The Burleigh Family</a>
