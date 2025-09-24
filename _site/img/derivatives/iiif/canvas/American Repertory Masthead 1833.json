@@ -1,28 +1,28 @@
 {
   "@type": "sc:Canvas",
-  "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/canvas/American Repertory Masthead 1833.json",
+  "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/canvas/American Repertory Masthead 1833.json",
   "label": "front",
   "width": 4668,
   "height": 696,
-  "thumbnail": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/American Repertory Masthead 1833/full/250,/0/default.jpg",
+  "thumbnail": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/American Repertory Masthead 1833/full/250,/0/default.jpg",
   "images": [
     {
       "@type": "oa:Annotation",
-      "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/annotation/American Repertory Masthead 1833.json",
+      "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/annotation/American Repertory Masthead 1833.json",
       "motivation": "sc:painting",
       "resource": {
-        "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/American Repertory Masthead 1833/full/full/0/default.jpg",
+        "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/American Repertory Masthead 1833/full/full/0/default.jpg",
         "@type": "dcterms:Image",
         "format": "image/jpeg",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/American Repertory Masthead 1833",
+          "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/American Repertory Masthead 1833",
           "profile": "http://iiif.io/api/image/2/level0.json"
         },
         "width": 2334,
         "height": 348
       },
-      "on": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/canvas/American Repertory Masthead 1833.json"
+      "on": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/canvas/American Repertory Masthead 1833.json"
     }
   ],
   "@context": "http://iiif.io/api/presentation/2/context.json"

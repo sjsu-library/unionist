@@ -3,7 +3,7 @@ pid: unionist--text-0159
 title: Declaration of the National Anti-Slavery Society
 bibliographicCitation: "<em>The Unionist</em> 1833-12-19"
 bibliographicCitationRepublished: "<em>The Abolitionist</em> 1:12:178-180 (December
-  1833) "
+  1833)"
 fullIssueSequenceNumber: 1833-12-19 p.01.05
 creator: 
 dateCreated: '1833-12-19'
@@ -263,4 +263,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

@@ -6,7 +6,7 @@ bibliographicCitationRepublished:
 fullIssueSequenceNumber: 1834-04-10 p.03.35
 creator: Edwin Newbury
 dateCreated: '1834-04-10'
-description: 'Edwin Newbury has some Peach Trees to sell. '
+description: Edwin Newbury has some Peach Trees to sell.
 language: English
 publisher: The Unionist
 IsPartOf: 
@@ -41,4 +41,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

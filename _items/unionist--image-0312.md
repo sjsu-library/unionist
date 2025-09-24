@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0312
-title: 'Cover to <em>The Tree of Hate</em> by Philip Wayne Powell '
+title: Cover to <em>The Tree of Hate</em> by Philip Wayne Powell
 bibliographicCitation: 'Philip Wayne Powell, <em>Tree of Hate: Propaganda and Prejudices
   Affecting United States Relations with the Hispanic World</em> (University of New
   Mexico Press, 2008)'
@@ -39,4 +39,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0312/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0312/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0312/full/1140,/0/default.jpg"
+! '': 
 ---

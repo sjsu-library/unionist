@@ -1,19 +1,19 @@
 ---
 pid: unionist--text-0147
 title: Another Specimen! (Amos Beman at Wesleyan)
-bibliographicCitation: "<em>The Liberator</em> "
+bibliographicCitation: "<em>The Liberator</em>"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
-creator: "<em>The Liberator</em> "
+creator: "<em>The Liberator</em>"
 dateCreated: '1833-11-02'
 description: Recounting of the abuse received by Amos Beman at Wesleyan when he was
   tutored by a student there. Article author asks the Unionist and the Emancipator
   to republish.
 language: English
-publisher: "<em>The Liberator</em> "
+publisher: "<em>The Liberator</em>"
 IsPartOf: 
 rights: https://creativecommons.org/publicdomain/mark/1.0/
-source: "<em>The Liberator</em> "
+source: "<em>The Liberator</em>"
 subject: African-American students; Education; Abolition
 type: Text
 category: Unionist content
@@ -107,4 +107,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

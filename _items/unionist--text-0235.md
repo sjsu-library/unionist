@@ -12,8 +12,8 @@ publisher: "<em>Schnectady Cabinet</em>"
 IsPartOf: 
 rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>Schnectady Cabinet</em>"
-subject: 'Allied Reform Movements - Women; Humor; Journalistic Debate; Miscellaneous
-  Filler; '
+subject: Allied Reform Movements - Women; Humor; Journalistic Debate; Miscellaneous
+  Filler;
 type: Text
 category: Positive notice
 articleType: 
@@ -48,4 +48,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

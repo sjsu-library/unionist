@@ -1,6 +1,6 @@
 ---
 pid: unionist--text-0154
-title: 'The Norwich <em>Courier</em> Trades Further Insults with <em>The Unionist</em> '
+title: The Norwich <em>Courier</em> Trades Further Insults with <em>The Unionist</em>
 bibliographicCitation: "<em>Norwich Courier</em> 1833-12-18"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -43,4 +43,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

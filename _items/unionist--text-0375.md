@@ -18,9 +18,9 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: 'FOR sale at this office—a few copies of the Rev. Mr. Phelps’ “Lectures
+transcription: FOR sale at this office—a few copies of the Rev. Mr. Phelps’ “Lectures
   on Slavery and its Remedy.” It is an excellent work and worthy a place in the Library
-  of every searcher for truth in the country. '
+  of every searcher for truth in the country.
 scholarlyNotes: 
 commentary: 
 relatedPeople: Amos Phelps
@@ -37,4 +37,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

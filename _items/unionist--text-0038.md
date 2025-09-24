@@ -85,4 +85,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

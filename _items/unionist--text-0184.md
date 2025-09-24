@@ -31,7 +31,7 @@ transcription: '<p align="center"><em>WOODSTOCK ACADEMY.</em></p> <p> The fall t
   Amos Paine, Esq. James McLellan, Esq., Moses Lyon, </em> Trustees&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14 </p> <p></p> '
 scholarlyNotes: 
-commentary: 'Woodstock Academy has been in continuous operation since 1801; https://www.woodstockacademy.org/about/history '
+commentary: Woodstock Academy has been in continuous operation since 1801; https://www.woodstockacademy.org/about/history
 relatedPeople: Otis Fisher; John McLellan; Daniel Lyman; William M. Cornell; Amos
   Paine; James McLellan; Moses Lyon
 featured: 
@@ -47,4 +47,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

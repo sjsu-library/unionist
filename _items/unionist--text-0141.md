@@ -5,7 +5,7 @@ bibliographicCitation: "<em>The Unionist</em> 1833-10-10"
 bibliographicCitationRepublished: "<em>Hartford Courant</em> 1833-10-14, p. 2-3; reprinted
   again in <em>New York Observer</em> 1833-10-26; partially reprinted in <em>Norwich
   Courier</em> 1833-10-16, p. 2"
-fullIssueSequenceNumber: " "
+fullIssueSequenceNumber: 
 creator: 
 dateCreated: '1833-10-10'
 description: Excerpts from the Second Trial
@@ -143,4 +143,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

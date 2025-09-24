@@ -20,7 +20,7 @@ volume: '1'
 issue: '36'
 transcription: "<p> MEDICAL. The Windham County Medical Society will hold their Annual
   meeting at S. Davison’s Hall on Monday 21 <sup>st</sup> inst. Meeting open precisely
-  at 11 o’clock A.M. </p> <p> JAMES B. WHITCOMB <em>Clerk.</em> </p> "
+  at 11 o’clock A.M. </p> <p> JAMES B. WHITCOMB <em>Clerk.</em> </p>"
 scholarlyNotes: Link to Celia Burleigh in Burleigh project eventually
 commentary: 'James Whitcomb (1804-1880) was a prominent figure in Windham county for
   many decades. He was already deeply engaged in defense of the Canterbury Female
@@ -52,4 +52,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/unionist--image-0381/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "unionist--image-0381",
+  "thumbnail": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/unionist--image-0381/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/sequence/unionist--image-0381.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/canvas/unionist--image-0381.json",
+          "label": "front",
+          "width": 1280,
+          "height": 916,
+          "thumbnail": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/unionist--image-0381/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/annotation/unionist--image-0381.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/unionist--image-0381/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/unionist--image-0381",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 640,
+                "height": 458
+              },
+              "on": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/canvas/unionist--image-0381.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/unionist--image-0381/full/full/0/default.jpg",
+  "fullwidth": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/unionist--image-0381/full/1140,/0/default.jpg"
+}

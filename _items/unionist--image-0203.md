@@ -13,7 +13,7 @@ description: American Anti-Slavery Society Broadside against Slavery in the Dist
 language: English
 publisher: 
 IsPartOf: 
-rights: 'Public Domain '
+rights: Public Domain
 source: https://tile.loc.gov/storage-services/master/pnp/ppmsca/19700/19705u.tif,
   Public Domain, https://commons.wikimedia.org/w/index.php?curid=105221631
 subject: 
@@ -42,4 +42,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0203/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0203/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0203/full/1140,/0/default.jpg"
+! '': 
 ---

@@ -5,15 +5,15 @@ bibliographicCitation: "<em>Windham Times</em> 1833-11-unknown day"
 bibliographicCitationRepublished: "<em>Norwich Republican</em> 1833-11-27; <em>Hampden
   Whig</em> 1833-12-04"
 fullIssueSequenceNumber: 
-creator: "<em>Windham Times</em> "
+creator: "<em>Windham Times</em>"
 dateCreated: '1833-11-24'
 description: Editorial opposed to ending slavery in the District of Columbia; references
   a petition published by The Unionist, presumably in mid-November of 1833.
 language: English
-publisher: "<em>Windham Times</em> "
+publisher: "<em>Windham Times</em>"
 IsPartOf: 
 rights: https://creativecommons.org/publicdomain/mark/1.0/
-source: "<em>Windham Times</em> "
+source: "<em>Windham Times</em>"
 subject: Journalistic Debate; The Unionist; Abolition
 type: Text
 category: Negative notice
@@ -58,4 +58,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

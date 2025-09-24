@@ -320,12 +320,12 @@ transcription: '<p align="center">[Reported for the Unionist.]</p> <p align="cen
 scholarlyNotes: 
 commentary: No other unique document in <em>The Unionist</em> surpasses the value
   of their reportage on the trial of Frederick Olney
-relatedPeople: 'Frederick Olney; Joseph Eaton; (Judge) Griffin; (Judge) Chase; Ebenezer
+relatedPeople: Frederick Olney; Joseph Eaton; (Judge) Griffin; (Judge) Chase; Ebenezer
   Sangar; Chauncey Bacon; Andrew Harris; Vine Robinson; Elkanah C. Eaton; Richard
   Fenner; Ralph Robinson; Daniel Morgan; Peter Spicer; James Cary; Horace Bacon; Maria
   Robinson; Charles Harris; Maria Davis Harris; Henrietta Bolt; Amy Fenner; Prudence
   Crandall; Almira Crandall; Delano Baker; Augustus Prior; Ralph Hutchinson; Edward
-  Jenks; John Bard; Solomon Paine; Nehemiah Ensworth; Daniel Morgan; Luther Sangar; '
+  Jenks; John Bard; Solomon Paine; Nehemiah Ensworth; Daniel Morgan; Luther Sangar;
 featured: 'Yes'
 repeated: 
 relatedImage: unionist--image-0254
@@ -339,4 +339,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

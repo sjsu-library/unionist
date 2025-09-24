@@ -4,7 +4,7 @@ title: Cato's Letter and Petition to the Pennsylvania Assembly
 bibliographicCitation: https://www.pbs.org/wgbh/aia/part2/2h73.html
 bibliographicCitationRepublished: The Historical Society of Pennsylvania
 fullIssueSequenceNumber: 
-creator: 'Cato '
+creator: Cato
 dateCreated: '1781'
 description: Cato's Letter and Petition to the Pennsylvania Assembly
 language: English
@@ -36,4 +36,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0166/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0166/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0166/full/1140,/0/default.jpg"
+! '': 
 ---

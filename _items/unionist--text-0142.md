@@ -10,7 +10,7 @@ dateCreated: '1833-10-10'
 description: Brief excerpts from the Second Trial, and additional commentary on Black
   citizenship
 language: English
-publisher: "<em>Vermont Chronicle</em> "
+publisher: "<em>Vermont Chronicle</em>"
 IsPartOf: 
 rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
@@ -135,4 +135,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

@@ -31,8 +31,8 @@ transcription: "<p>THE CANTERBURY AFFAIR. The Emancipator asserts on the authori
   to remark, as this may come under the eye of some who have not perused Miss C’s.
   letter, that the Emancipator has, we believe, given a statement substantially correct.</p>"
 scholarlyNotes: 
-commentary: 'John Greenleaf Whittier (1807-1892) was active in numerous Abolitionist
-  and literary editing projects at this time. '
+commentary: John Greenleaf Whittier (1807-1892) was active in numerous Abolitionist
+  and literary editing projects at this time.
 relatedPeople: John Greenleaf Whitter; Prudence Crandall; Sarah Harris (inferred)
 featured: 'Yes'
 repeated: 
@@ -47,4 +47,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

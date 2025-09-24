@@ -2,9 +2,9 @@
 pid: unionist--text-0133
 title: A New Theory
 bibliographicCitation: "<em>The Unionist</em> 1833-09-05"
-bibliographicCitationRepublished: "<em>New York Baptist Register</em> (not yet researched) "
+bibliographicCitationRepublished: "<em>New York Baptist Register</em> (not yet researched)"
 fullIssueSequenceNumber: 1833-09-05 p.04.59
-creator: "<em>New York Baptist Register</em> "
+creator: "<em>New York Baptist Register</em>"
 dateCreated: '1833-09-05'
 description: New Electromagnetic research
 language: English
@@ -43,4 +43,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

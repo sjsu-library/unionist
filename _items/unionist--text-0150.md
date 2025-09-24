@@ -7,7 +7,7 @@ bibliographicCitationRepublished:
 fullIssueSequenceNumber: 
 creator: "<em>Norwich Courier</em>"
 dateCreated: '1833-12-04'
-description: 'Response to commentary published in <em>The Unionist</em> '
+description: Response to commentary published in <em>The Unionist</em>
 language: English
 publisher: "<em>Norwich Courier</em>"
 IsPartOf: 
@@ -70,4 +70,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

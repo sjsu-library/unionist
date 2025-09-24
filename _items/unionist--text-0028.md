@@ -28,8 +28,8 @@ transcription: It is a matter rather of sorrow than surprise to us, that our eru
   we will transpose its members. Arthur Tappan have each paid us a visit; together
   with Messrs Jocelyn, Benson, &amp;c.
 scholarlyNotes: 
-commentary: 'Charles C. Burleigh pointing out grammar errors in Holbrook''s Windham
-  Advertiser. '
+commentary: Charles C. Burleigh pointing out grammar errors in Holbrook's Windham
+  Advertiser.
 relatedPeople: Arthur Tappan; Simeon Jocelyn; George Benson Jr.; James Holbrook
 featured: 
 repeated: 
@@ -44,4 +44,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

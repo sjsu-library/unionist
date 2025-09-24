@@ -4,7 +4,7 @@ title: The Norwich <em>Courier</em> Defends Colonizationism
 bibliographicCitation: "<em>Norwich Courier</em> 1833-11-06"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
-creator: "<em>Norwich Courier</em> "
+creator: "<em>Norwich Courier</em>"
 dateCreated: '1833-11-06'
 description: Response to commentary published in <em>The Unionist</em> either October
   24 or October 31 (more likely)
@@ -91,4 +91,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

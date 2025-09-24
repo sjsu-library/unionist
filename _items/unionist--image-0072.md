@@ -6,7 +6,7 @@ bibliographicCitationRepublished: https://en.wikipedia.org/wiki/Samuel_Price_Car
 fullIssueSequenceNumber: 
 creator: 
 dateCreated: 
-description: 'Sketch of Cong. Samuel Price Carson '
+description: Sketch of Cong. Samuel Price Carson
 language: English
 publisher: 
 IsPartOf: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0072/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0072/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0072/full/1140,/0/default.jpg"
+! '': 
 ---

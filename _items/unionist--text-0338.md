@@ -19,9 +19,9 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: 'For sale at this office—as few copies of the Rev. Mr. Phelps’ “Lectures
+transcription: For sale at this office—as few copies of the Rev. Mr. Phelps’ “Lectures
   of Slavery and its Remedy.” It is an excellent work and worthy a place in the Library
-  of every searcher for truth in the country. '
+  of every searcher for truth in the country.
 scholarlyNotes: 
 commentary: '<p>Amos Phelps (1805-1847) was an endorser of the school. His pamphlet
   being locally available suggests, once again, that the students at the Canterbury
@@ -57,4 +57,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

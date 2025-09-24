@@ -2,7 +2,7 @@
 pid: unionist--text-0393
 title: 'A Heathenish Doctor: Genuine Colonization Doctrines!!: Response to William
   Hutchins'' denial of racial equality'
-bibliographicCitation: "<em>The Liberator</em> 1835-05-09 "
+bibliographicCitation: "<em>The Liberator</em> 1835-05-09"
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: Charles C. Burleigh
@@ -111,7 +111,7 @@ commentary: 'This notice in <em>The Liberator</em> from 1835, indicates that Cha
   C. Burleigh had responded to this attack on racial equality at some point in July
   of 1834. Dr. William Hutchins was a physician, and active in support of education;
   he also participated in the Windham County Peace Society. '
-relatedPeople: 'William Hutchins; Charles C. Burleigh; '
+relatedPeople: William Hutchins; Charles C. Burleigh;
 featured: 
 repeated: 
 relatedImage: unionist--image-0272
@@ -125,4 +125,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

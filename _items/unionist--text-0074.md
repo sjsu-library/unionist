@@ -388,12 +388,12 @@ transcription: "<p>FROM THE BROOKLYN UNIONIST, AUGUST 29.</p> <p>TRIAL OF MISS P
 scholarlyNotes: 
 commentary: The arguments of William Ellsworth were also reprinted in the Hartford-based
   <em>Independent Press</em>, 16 September 1833.
-relatedPeople: 'Prudence Crandall; Rufus Adams; Jonathan Welch; Chauncey F. Cleveland;
+relatedPeople: Prudence Crandall; Rufus Adams; Jonathan Welch; Chauncey F. Cleveland;
   Ichabod Bulkley; Calvin Goddard; William W. Ellsworth; Henry Strong; Theodosia De
   Grasse; Ann Peterson; Amelia Elizabeth Wilder; Ann Eliza Hammond; Ashael Bacon;
   Ebenezer Sanger; George Cady; Catherine Ann Weldon; Jacob B. Gould; Levi Kneeland;
   Rowland Greene; Eliza Parkis; Eliza Glasko; Albert Hinckley; George Roberts; Hezekiah
-  Crandall; James Chandler; Mary Benson; Joseph K. Eaton '
+  Crandall; James Chandler; Mary Benson; Joseph K. Eaton
 featured: 'Yes'
 repeated: 
 relatedImage: unionist--image-0147
@@ -407,4 +407,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

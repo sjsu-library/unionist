@@ -33,7 +33,7 @@ scholarlyNotes: cross reference to unionist--text-0164
 commentary: '"Philisses" here is a cruel taunt against Black talent and intelligence,
   as it mocks the accomplishment of Phillis Wheatley, the Black woman poet of the
   Revolutionary Era'
-relatedPeople: 'Phillis Wheatly (inferred); '
+relatedPeople: Phillis Wheatly (inferred);
 featured: 
 repeated: 
 relatedImage: unionist--image-0294
@@ -47,4 +47,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

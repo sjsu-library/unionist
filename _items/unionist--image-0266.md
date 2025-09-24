@@ -30,11 +30,12 @@ relatedImage:
 relatedText: unionist--text-0366
 relatedTextIssue: 1834-04-10 p.04.66
 filename: 
-caption: 'Illustration of power loom weaving. '
+caption: Illustration of power loom weaving.
 order: '677'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0266/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0266/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0266/full/1140,/0/default.jpg"
+! '': 
 ---

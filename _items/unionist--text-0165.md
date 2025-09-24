@@ -33,8 +33,8 @@ transcription: "<p> We have heard complaints made relative to the National Anti-
   flow of the ocean-tide, fetter the leaping lightning, hold back the sun from his
   course of strength, but seek not to impede the march of Emancipation. </p> <p></p> "
 scholarlyNotes: 
-commentary: 'Poet and Abolitionist John Greenleaf Whittier (1807-1892) was an associate
-  of the Burleigh brothers in many ventures over the years. '
+commentary: Poet and Abolitionist John Greenleaf Whittier (1807-1892) was an associate
+  of the Burleigh brothers in many ventures over the years.
 relatedPeople: John Greenleaf Whittier
 featured: 
 repeated: 
@@ -49,4 +49,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

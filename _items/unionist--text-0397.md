@@ -12,7 +12,7 @@ publisher: The Unionist
 IsPartOf: 
 rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: "<em>The Liberator</em> 1834-07-26 (4:30:118)"
-subject: 'Abolition; Vigilante Violence; Canterbury Female Academy; Journalistic Debate '
+subject: Abolition; Vigilante Violence; Canterbury Female Academy; Journalistic Debate
 type: Text
 category: Unionist content
 articleType: 
@@ -79,4 +79,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

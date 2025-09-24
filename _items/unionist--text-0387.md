@@ -18,10 +18,10 @@ category: Unionist content
 articleType: 
 volume: '1'
 issue: '36'
-transcription: 'BLANK CARDS '
+transcription: BLANK CARDS
 scholarlyNotes: 
-commentary: 'And thus fittingly ends the last column of existing <em>Unionist</em>
-  issues! '
+commentary: And thus fittingly ends the last column of existing <em>Unionist</em>
+  issues!
 relatedPeople: 
 featured: 
 repeated: 
@@ -36,4 +36,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

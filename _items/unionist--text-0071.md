@@ -35,7 +35,7 @@ transcription: '<p align="center"> <strong><em>Plainfield Academy.</em></strong>
 scholarlyNotes: 
 commentary: The Plainfield Academy was the school most associated with Rinaldo Burleigh
   and his older sons, including Charles Burleigh.
-relatedPeople: 'Mr. Keep; Mr. Clark '
+relatedPeople: Mr. Keep; Mr. Clark
 featured: 
 repeated: 
 relatedImage: unionist--image-0071
@@ -49,4 +49,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

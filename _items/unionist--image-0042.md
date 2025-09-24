@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0042
-title: 'William Jackson '
+title: William Jackson
 bibliographicCitation: https://www.newtonma.gov/home/showpublisheddocument/65268/637477796719100000
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0042/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0042/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0042/full/1140,/0/default.jpg"
+! '': 
 ---

@@ -60,7 +60,7 @@ transcription: "<p> <em>The Fire at Canterbury—</em> Mr. Frederick Olney has h
   But Col. Judson and the State’s Attorney can doubtless elicit from him the information
   which has so long been called for in vain. </p> "
 scholarlyNotes: 
-commentary: 'The search for the real arsonist was never commenced. '
+commentary: The search for the real arsonist was never commenced.
 relatedPeople: Frederick Olney; Prudence Crandall; Andrew Judson; James Holbrook
 featured: 'yes'
 repeated: 
@@ -75,4 +75,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

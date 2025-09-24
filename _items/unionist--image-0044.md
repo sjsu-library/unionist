@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0044
-title: 'Daniel Lambert '
+title: Daniel Lambert
 bibliographicCitation: https://en.wikipedia.org/wiki/Daniel_Lambert
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0044/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0044/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0044/full/1140,/0/default.jpg"
+! '': 
 ---

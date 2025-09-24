@@ -31,12 +31,13 @@ relatedImage:
 relatedText: unionist--text-0173; unionist--text-0095
 relatedTextIssue: 1833-12-19 p.03.19; 1833-09-05 p01.23
 filename: 
-caption: 'Ephraim Kingsbury Avery (1799-1869) was the accused Methodist minister in
-  the notorious Fall River murder case. He was acquited in 1833. '
+caption: Ephraim Kingsbury Avery (1799-1869) was the accused Methodist minister in
+  the notorious Fall River murder case. He was acquited in 1833.
 order: '429'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0018/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0018/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0018/full/1140,/0/default.jpg"
+! '': 
 ---

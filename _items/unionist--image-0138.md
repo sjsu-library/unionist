@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0138
-title: 'Map of Willimantic with Mills and Factories1830 '
+title: Map of Willimantic with Mills and Factories1830
 bibliographicCitation: https://millmuseum.org/down-sodom/
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0138/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0138/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0138/full/1140,/0/default.jpg"
+! '': 
 ---

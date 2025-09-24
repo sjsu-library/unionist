@@ -1,19 +1,19 @@
 {
   "@type": "oa:Annotation",
-  "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/annotation/250_younger_CCburleigh3.MAHSpermissionneeded.json",
+  "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/annotation/250_younger_CCburleigh3.MAHSpermissionneeded.json",
   "motivation": "sc:painting",
   "resource": {
-    "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/250_younger_CCburleigh3.MAHSpermissionneeded/full/full/0/default.jpg",
+    "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/250_younger_CCburleigh3.MAHSpermissionneeded/full/full/0/default.jpg",
     "@type": "dcterms:Image",
     "format": "image/jpeg",
     "service": {
       "@context": "http://iiif.io/api/image/2/context.json",
-      "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/250_younger_CCburleigh3.MAHSpermissionneeded",
+      "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/250_younger_CCburleigh3.MAHSpermissionneeded",
       "profile": "http://iiif.io/api/image/2/level0.json"
     },
     "width": 250,
     "height": 347
   },
-  "on": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/canvas/250_younger_CCburleigh3.MAHSpermissionneeded.json",
+  "on": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/canvas/250_younger_CCburleigh3.MAHSpermissionneeded.json",
   "@context": "http://iiif.io/api/presentation/2/context.json"
 }

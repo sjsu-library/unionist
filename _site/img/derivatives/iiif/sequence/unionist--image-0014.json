@@ -1,32 +1,32 @@
 {
-  "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/sequence/unionist--image-0014.json",
+  "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/sequence/unionist--image-0014.json",
   "@type": "sc:Sequence",
   "canvases": [
     {
       "@type": "sc:Canvas",
-      "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/canvas/unionist--image-0014.json",
+      "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/canvas/unionist--image-0014.json",
       "label": "front",
       "width": 4000,
       "height": 2048,
-      "thumbnail": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0014/full/250,/0/default.jpg",
+      "thumbnail": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/unionist--image-0014/full/250,/0/default.jpg",
       "images": [
         {
           "@type": "oa:Annotation",
-          "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/annotation/unionist--image-0014.json",
+          "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/annotation/unionist--image-0014.json",
           "motivation": "sc:painting",
           "resource": {
-            "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0014/full/full/0/default.jpg",
+            "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/unionist--image-0014/full/full/0/default.jpg",
             "@type": "dcterms:Image",
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0014",
+              "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/unionist--image-0014",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
             "width": 2000,
             "height": 1024
           },
-          "on": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/canvas/unionist--image-0014.json"
+          "on": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/canvas/unionist--image-0014.json"
         }
       ]
     }

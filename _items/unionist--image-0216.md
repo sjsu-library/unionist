@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0216
-title: 'Expulsion from Jackson County '
+title: Expulsion from Jackson County
 bibliographicCitation: https://www.churchofjesuschrist.org/study/manual/church-history-in-the-fulness-of-times/chapter-eleven?lang=eng
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0216/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0216/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0216/full/1140,/0/default.jpg"
+! '': 
 ---

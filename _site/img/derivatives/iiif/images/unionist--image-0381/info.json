@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/unionist--image-0381",
+  "protocol": "http://iiif.io/api/image",
+  "width": 640,
+  "height": 458,
+  "sizes": [
+    {
+      "width": 640,
+      "height": 458
+    },
+    {
+      "width": 250,
+      "height": 179
+    },
+    {
+      "width": 1140,
+      "height": 816
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

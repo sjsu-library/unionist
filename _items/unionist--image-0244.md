@@ -28,13 +28,14 @@ relatedImage:
 relatedText: unionist--text-0332
 relatedTextIssue: 1834-04-10 p.03.32
 filename: 
-caption: 'Uriel (a.k.a. Ariel) Winchell had actually chosen to have a guardian to
-  protect him and his property from his father about eight years prior to the murder.
-  His father was convicted and served a ten-year sentence. '
+caption: Uriel (a.k.a. Ariel) Winchell had actually chosen to have a guardian to protect
+  him and his property from his father about eight years prior to the murder. His
+  father was convicted and served a ten-year sentence.
 order: '655'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0244/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0244/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0244/full/1140,/0/default.jpg"
+! '': 
 ---

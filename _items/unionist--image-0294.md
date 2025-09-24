@@ -28,14 +28,15 @@ relatedImage:
 relatedText: unionist--text-0227
 relatedTextIssue: 
 filename: 
-caption: 'Phillis Wheatley''s poetic talents were always up for debate between proponents
+caption: Phillis Wheatley's poetic talents were always up for debate between proponents
   of Black human rights and white supremacists in the Abolitionist era. Suffice to
   say that her poetry - both in its craft and in its specific situated insights -
-  has stood the test of time. '
+  has stood the test of time.
 order: '705'
 layout: items_item
 collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0294/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0294/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0294/full/1140,/0/default.jpg"
+! '': 
 ---

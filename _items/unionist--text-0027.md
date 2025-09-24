@@ -30,9 +30,9 @@ transcription: We are sorry to hear that some evil disposed, or heedlessly misch
   by force, we shall be sustained by the countenance and patronage of a candid (not
   “credulous”) community.
 scholarlyNotes: 
-commentary: 'The fact that Burleigh denies there was an attack on the office vouches
+commentary: The fact that Burleigh denies there was an attack on the office vouches
   for his honesty; he eschews any attempt to gain sympathy by pretending there was
-  an attack. '
+  an attack.
 relatedPeople: 
 featured: 
 repeated: 
@@ -47,4 +47,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

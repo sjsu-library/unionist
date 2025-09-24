@@ -36,8 +36,8 @@ transcription: "<p> “We copy the following from the Brooklyn Advertiser. We th
   and then they can talk about condescending to notice that opponent, with a better
   grace.”” </p> "
 scholarlyNotes: 
-commentary: 'The text of this small-minded riposte makes it clear that Charles and
-  William were co-editors of <em>The Unionist</em> by December '
+commentary: The text of this small-minded riposte makes it clear that Charles and
+  William were co-editors of <em>The Unionist</em> by December
 relatedPeople: 
 featured: 
 repeated: 
@@ -52,4 +52,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

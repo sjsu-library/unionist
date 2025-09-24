@@ -6,7 +6,7 @@ bibliographicCitationRepublished:
 fullIssueSequenceNumber: 1833-12-19 p.04.70
 creator: 
 dateCreated: '1833-12-19'
-description: 'Giles S. Bates needs his customers to pay the money they owe him. '
+description: Giles S. Bates needs his customers to pay the money they owe him.
 language: English
 publisher: The Unionist
 IsPartOf: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

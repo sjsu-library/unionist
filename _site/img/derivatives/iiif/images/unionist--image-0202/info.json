@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0202",
+  "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/unionist--image-0202",
   "protocol": "http://iiif.io/api/image",
   "width": 526,
   "height": 699,

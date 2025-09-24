@@ -4,7 +4,7 @@ title: "<em>Norwich Republican</em> vs. <em>Windham Advertiser</em>"
 bibliographicCitation: "<em>Norwich Republican</em> 1834-03-12"
 bibliographicCitationRepublished: "<em>Windham Advertiser</em>"
 fullIssueSequenceNumber: 
-creator: "<em>Norwich Republican</em> "
+creator: "<em>Norwich Republican</em>"
 dateCreated: '1834-03-12'
 description: The <em>Norwich Republican</em> takes issue with some claims from the
   <em>Windham Advertiser</em>.
@@ -66,4 +66,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

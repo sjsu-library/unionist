@@ -14,7 +14,7 @@ publisher: The Unionist
 IsPartOf: 
 rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
-subject: 'White Opposition '
+subject: White Opposition
 type: Text
 category: Unionist content
 articleType: 
@@ -178,4 +178,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

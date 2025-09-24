@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/1832 Canterbury Female Boarding School advertisement Norwich Courier",
+  "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/1832 Canterbury Female Boarding School advertisement Norwich Courier",
   "protocol": "http://iiif.io/api/image",
   "width": 482,
   "height": 642,

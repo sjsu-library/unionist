@@ -27,7 +27,7 @@ transcription: "<p> Col. Stone, of the N.Y. Commercial Advertiser sports the fol
   farther than this first letter in the science. </p> "
 scholarlyNotes: 
 commentary: 'William Leete Stone, editor of the <em>New York Commercial Advertiser</em> '
-relatedPeople: 'William Leete Stone '
+relatedPeople: William Leete Stone
 featured: 
 repeated: 
 relatedImage: unionist--image-0065
@@ -41,4 +41,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

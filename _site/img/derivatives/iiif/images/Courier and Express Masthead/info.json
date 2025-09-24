@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/Courier and Express Masthead",
+  "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/Courier and Express Masthead",
   "protocol": "http://iiif.io/api/image",
   "width": 872,
   "height": 206,

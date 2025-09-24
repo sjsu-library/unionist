@@ -13,7 +13,7 @@ language: English
 publisher: 'Henry Wheaton, <em>Some Account of the Life, Writings, and Speeches of
   William Pinkney</em> (New York: G. & J. Carvill, 1826)'
 IsPartOf: 
-rights: 'https://creativecommons.org/publicdomain/mark/1.0/ '
+rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: 
 subject: 
 type: Image
@@ -39,4 +39,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0009/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0009/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0009/full/1140,/0/default.jpg"
+! '': 
 ---

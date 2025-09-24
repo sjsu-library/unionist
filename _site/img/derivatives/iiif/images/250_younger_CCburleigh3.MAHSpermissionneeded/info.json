@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/250_younger_CCburleigh3.MAHSpermissionneeded",
+  "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/250_younger_CCburleigh3.MAHSpermissionneeded",
   "protocol": "http://iiif.io/api/image",
   "width": 250,
   "height": 347,

@@ -1,32 +1,32 @@
 {
-  "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/sequence/The Unionist picture and slogan.json",
+  "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/sequence/The Unionist picture and slogan.json",
   "@type": "sc:Sequence",
   "canvases": [
     {
       "@type": "sc:Canvas",
-      "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/canvas/The Unionist picture and slogan.json",
+      "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/canvas/The Unionist picture and slogan.json",
       "label": "front",
       "width": 1078,
       "height": 852,
-      "thumbnail": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/The Unionist picture and slogan/full/250,/0/default.jpg",
+      "thumbnail": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/The Unionist picture and slogan/full/250,/0/default.jpg",
       "images": [
         {
           "@type": "oa:Annotation",
-          "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/annotation/The Unionist picture and slogan.json",
+          "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/annotation/The Unionist picture and slogan.json",
           "motivation": "sc:painting",
           "resource": {
-            "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/The Unionist picture and slogan/full/full/0/default.jpg",
+            "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/The Unionist picture and slogan/full/full/0/default.jpg",
             "@type": "dcterms:Image",
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/The Unionist picture and slogan",
+              "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/The Unionist picture and slogan",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
             "width": 539,
             "height": 426
           },
-          "on": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/canvas/The Unionist picture and slogan.json"
+          "on": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/canvas/The Unionist picture and slogan.json"
         }
       ]
     }

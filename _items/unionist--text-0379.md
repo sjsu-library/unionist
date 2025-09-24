@@ -35,8 +35,8 @@ transcription: "<p> At a Court of Probate, held in and for the District of Woods
   23 </p> "
 scholarlyNotes: 
 commentary: 
-relatedPeople: 'Erastus May (probate case); William Lyon (probate case); Oliver Saunders
-  (probate case) '
+relatedPeople: Erastus May (probate case); William Lyon (probate case); Oliver Saunders
+  (probate case)
 featured: 
 repeated: 
 relatedImage: unionist--image-0245
@@ -50,4 +50,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

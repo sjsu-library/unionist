@@ -1,28 +1,28 @@
 {
   "@type": "sc:Canvas",
-  "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/canvas/unionist--image-0312.json",
+  "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/canvas/unionist--image-0312.json",
   "label": "front",
   "width": 666,
   "height": 998,
-  "thumbnail": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0312/full/250,/0/default.jpg",
+  "thumbnail": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/unionist--image-0312/full/250,/0/default.jpg",
   "images": [
     {
       "@type": "oa:Annotation",
-      "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/annotation/unionist--image-0312.json",
+      "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/annotation/unionist--image-0312.json",
       "motivation": "sc:painting",
       "resource": {
-        "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0312/full/full/0/default.jpg",
+        "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/unionist--image-0312/full/full/0/default.jpg",
         "@type": "dcterms:Image",
         "format": "image/jpeg",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/images/unionist--image-0312",
+          "@id": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/images/unionist--image-0312",
           "profile": "http://iiif.io/api/image/2/level0.json"
         },
         "width": 333,
         "height": 499
       },
-      "on": "http://0.0.0.0:4000/unionist/img/derivatives/iiif/canvas/unionist--image-0312.json"
+      "on": "https://sjsu-library.github.io/unionist/img/derivatives/iiif/canvas/unionist--image-0312.json"
     }
   ],
   "@context": "http://iiif.io/api/presentation/2/context.json"

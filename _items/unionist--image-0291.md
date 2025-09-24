@@ -15,7 +15,7 @@ description: Page from <em>Second Annual Convention, for the Improvement of the 
 language: English
 publisher: 
 IsPartOf: 
-rights: 'Public Domain '
+rights: Public Domain
 source: https://omeka.coloredconventions.org/files/original/8d604da70a1c2f01ad867bbd5dcefd88.pdf
 subject: 
 type: image
@@ -41,4 +41,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0291/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0291/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0291/full/1140,/0/default.jpg"
+! '': 
 ---

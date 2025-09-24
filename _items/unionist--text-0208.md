@@ -89,8 +89,8 @@ transcription: '<p align="center"> SIXTH REPORT OF THE AMERICAN <strong>TEMPERAN
   his glass, to the man who takes his quart a day. It is a palpable and gross violation
   of all correct principles of political economy; and from beginning to end, tends
   to diminish all the sources of national wealth. </p> '
-scholarlyNotes: 'Might we be sensing William''s influence here? The word “diminish”
-  is twice spelled “dimish” in this last paragraph. I corrected that in this transcription. '
+scholarlyNotes: Might we be sensing William's influence here? The word “diminish”
+  is twice spelled “dimish” in this last paragraph. I corrected that in this transcription.
 commentary: 'This is a continuation from previous editions of the paper. Because I
   cannot tell what <em>The Unionist</em> would have excerpted, I have not included
   any more of it at this time. This particular excerpt buttresses my published contention
@@ -115,4 +115,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

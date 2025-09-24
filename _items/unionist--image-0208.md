@@ -7,7 +7,7 @@ bibliographicCitationRepublished:
 fullIssueSequenceNumber: 
 creator: 
 dateCreated: ca. 1850
-description: 'Daguerretype of William H. Burleigh '
+description: Daguerretype of William H. Burleigh
 language: English
 publisher: 
 IsPartOf: 
@@ -38,4 +38,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0208/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0208/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0208/full/1140,/0/default.jpg"
+! '': 
 ---

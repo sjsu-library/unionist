@@ -174,8 +174,8 @@ transcription: '<p>TO RUFUS ADAMS, ESQ.,</p> <p>AND ANDREW T. JUDSON, ESQ.</p> <
   to Miss C. for instruction. But it seems that for some wide reason he has since
   concluded to omit the proposed clause. </p> '
 scholarlyNotes: 
-commentary: 'Samuel J. May''s response to Judson and Adams contains extensive primary
-  evidence about the genesis of the Canterbury Female Academy. '
+commentary: Samuel J. May's response to Judson and Adams contains extensive primary
+  evidence about the genesis of the Canterbury Female Academy.
 relatedPeople: Andrew Judson; Rufus Adams; Prudence Crandall; Samuel J. May; Arnold
   Buffum; Sarah Harris (infered)
 featured: 'yes'
@@ -191,4 +191,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

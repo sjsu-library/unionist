@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0132
-title: 'Animal Associations '
+title: Animal Associations
 bibliographicCitation: "<em>The People's Magazine</em> 1.9.71 1833-07-13"
 bibliographicCitationRepublished: https://catalog.hathitrust.org/api/volumes/oclc/6497679.html
 fullIssueSequenceNumber: 
@@ -37,4 +37,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0132/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0132/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0132/full/1140,/0/default.jpg"
+! '': 
 ---

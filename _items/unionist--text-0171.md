@@ -188,9 +188,9 @@ transcription: '<p> 23 <sup>rd</sup> CONGRESS </p> <p>FIRST SESSION</p> <p>IN SE
   of the Bank of the United State, in relation to the conduct of the Directors, and
   especially of the President of that institution. </p> '
 scholarlyNotes: 
-commentary: 'This includes Jackson’s rather petulant assertion of executive privilege
+commentary: This includes Jackson’s rather petulant assertion of executive privilege
   to not talk to the Senate! It is also worth noting that Clay was a former nominee
-  for the office of the President. These manouvers are classic politicking. '
+  for the office of the President. These manouvers are classic politicking.
 relatedPeople: William C. Preston; Stephen D. Miller; Samuel McKean; George M. Dallas;
   Theodore Frelinghuysen; Samuel L. Southard; Mahlon Dickeson, Asher Robbins; George
   Poindexter; Felix Grundy; Walter Lowrie; John Shackford; Stephen Haight; Henry Clay;
@@ -211,4 +211,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0140/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0140/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0140/full/1140,/0/default.jpg"
+! '': 
 ---

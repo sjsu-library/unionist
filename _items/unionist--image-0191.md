@@ -13,7 +13,7 @@ description: Li Shigong (far left) and Chen Laoyi translating the Bible as Rober
 language: English
 publisher: 
 IsPartOf: 
-rights: 'Public Domain '
+rights: Public Domain
 source: 'Eliza Morrison, <em>Memoirs of the Life and Labours Robert Morrison</em>,
   v. 1 (London: Longman, Orme, Brown, Green, and Longmans, 1839).'
 subject: 
@@ -42,4 +42,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0191/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0191/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0191/full/1140,/0/default.jpg"
+! '': 
 ---

@@ -2,7 +2,7 @@
 pid: unionist--text-0240
 title: '"We are in the midst of a revolution"'
 bibliographicCitation: "<em>The Unionist</em> 1834-03-13"
-bibliographicCitationRepublished: "<em>The New York American</em> (not yet researched) "
+bibliographicCitationRepublished: "<em>The New York American</em> (not yet researched)"
 fullIssueSequenceNumber: 1834-03-13 p.01.04
 creator: "<em>The New York American</em>"
 dateCreated: '1834-03-13'
@@ -89,4 +89,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

@@ -11,7 +11,7 @@ creator: William Jay; Samuel J. May
 dateCreated: '1833-10-17'
 description: Jay's arguments
 language: English
-publisher: "<em>The Liberator</em> "
+publisher: "<em>The Liberator</em>"
 IsPartOf: 
 rights: https://creativecommons.org/publicdomain/mark/1.0/
 source: The Unionist
@@ -136,4 +136,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---

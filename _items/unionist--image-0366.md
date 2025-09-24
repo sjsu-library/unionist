@@ -1,7 +1,7 @@
 ---
 pid: unionist--image-0366
 title: Presence/Absence
-bibliographicCitation: 'https://stock.adobe.com/images/presence-and-absence-directions-opposite-traffic-sign/66739282?prev_url=detail '
+bibliographicCitation: https://stock.adobe.com/images/presence-and-absence-directions-opposite-traffic-sign/66739282?prev_url=detail
 bibliographicCitationRepublished: 
 fullIssueSequenceNumber: 
 creator: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0366/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0366/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0366/full/1140,/0/default.jpg"
+! '': 
 ---

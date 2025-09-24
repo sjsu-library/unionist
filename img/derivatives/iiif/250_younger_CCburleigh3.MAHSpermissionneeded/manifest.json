@@ -45,5 +45,6 @@ layout: none
       ]
     }
   ],
-  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/250_younger_CCburleigh3.MAHSpermissionneeded/full/full/0/default.jpg"
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/250_younger_CCburleigh3.MAHSpermissionneeded/full/full/0/default.jpg",
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/250_younger_CCburleigh3.MAHSpermissionneeded/full/1140,/0/default.jpg"
 }

@@ -1,6 +1,6 @@
 ---
 pid: unionist--image-0135
-title: 'Bank Of The United States '
+title: Bank Of The United States
 bibliographicCitation: "<em>The People's Magazine</em> 1.06:41 1833-06-01"
 bibliographicCitationRepublished: https://catalog.hathitrust.org/api/volumes/oclc/6497679.html
 fullIssueSequenceNumber: 
@@ -35,4 +35,5 @@ collection: items
 thumbnail: "/img/derivatives/iiif/images/unionist--image-0135/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/unionist--image-0135/manifest.json"
 full: "/img/derivatives/iiif/images/unionist--image-0135/full/1140,/0/default.jpg"
+! '': 
 ---

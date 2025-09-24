@@ -2,7 +2,7 @@
 pid: unionist--text-0257
 title: Melancholy Disaster [Wreck of the William Penn]
 bibliographicCitation: "<em>The Unionist</em> 1834-03-13"
-bibliographicCitationRepublished: "<em>The U.S. Gazette</em> "
+bibliographicCitationRepublished: "<em>The U.S. Gazette</em>"
 fullIssueSequenceNumber: 1834-03-13 p.03.21
 creator: "<em>The U.S. Gazette</em>"
 dateCreated: '1834-03-13'
@@ -69,4 +69,5 @@ collection: items
 thumbnail: 
 manifest: 
 full: 
+! '': 
 ---
